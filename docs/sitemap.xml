@@ -2,6 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://martsmusings.uk/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://martsmusings.uk/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/post/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/post/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/post/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/post/math-typesetting/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/post/emoji-support/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
