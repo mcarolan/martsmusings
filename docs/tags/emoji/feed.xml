@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
     <title>Emoji on Mart&#39;s Musings</title>
-        <subtitle>What&#39;s goin&#39; on</subtitle>
+        <subtitle>What&#39;s cooking?</subtitle>
             <link href="https://martsmusings.uk/tags/emoji/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://martsmusings.uk/tags/emoji/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2022-11-10T16:41:07+00:00</updated>
+    <updated>2022-11-10T17:25:48+00:00</updated>
     <id>https://martsmusings.uk/tags/emoji/</id>
         <entry>
             <title>Emoji Support</title>

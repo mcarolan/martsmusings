@@ -12,7 +12,7 @@ pygmentsCodeFences = true
 disablePathToLower = true
 
 [params]
-subtitle = "What's goin' on"
+subtitle = "What's cooking?"
 logo = "logo.png"
 
 # Needed for mermaid shortcodes
