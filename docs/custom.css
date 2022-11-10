@@ -14,8 +14,8 @@
 
   --mark-color: #ffab00;
 
-  --button-background: #62cb97;
-  --button-border-color: #4ec58a;
+  --button-background: #9CB894;
+  --button-border-color: #FFFFFF;
 
   --link-color: #518169;
   --link-color-visited: #c54e8a;
@@ -49,6 +49,10 @@
 }
 
 .gblog-footer a, .gblog-footer a:visited, .gblog-footer a:hover, .gblog_rss_feed {
+	color: #212121;
+}
+
+.gblog-nav__control {
 	color: #212121;
 }
 
