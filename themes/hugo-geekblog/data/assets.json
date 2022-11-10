@@ -20,8 +20,8 @@
     "integrity": "sha512-VXekXboAsbsKypONOhrCcUIdFXh8sy3tP/odmKF1glkcbdjvedsM4N6laJfT/FgPp7mQmOZWR8b52xzJAmreUg=="
   },
   "main.scss": {
-    "src": "main-424999bd.min.css",
-    "integrity": "sha512-7kVG2yPq6pyZdwcuvxxYumiKRzohDMbOG5ZHIjrJd98uusY2HUOcpIq9gFlJrpVXZNBftjYjj4nq9iintVWxIg=="
+    "src": "main-0de48b84.min.css",
+    "integrity": "sha512-/2Tkhtp2bKevN2dgyDxb8yOFFjQfUsdd61ag/PtEocIT99CucHmQsm9l2wUo8X/WiIMOudTOnMFF1qEDTYtthg=="
   },
   "katex.css": {
     "src": "katex-e4de31b5.min.css",
