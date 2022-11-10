@@ -1,7 +1,7 @@
 baseURL = "https://martsmusings.uk"
 title = "Mart's Musings"
 theme = "hugo-geekblog"
-
+enableEmoji = true
 publishDir = "docs"
 
 pluralizeListTitles = false

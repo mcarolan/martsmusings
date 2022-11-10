@@ -5,7 +5,7 @@
         <subtitle>What&#39;s goin&#39; on</subtitle>
             <link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2022-11-10T16:12:22+00:00</updated>
+    <updated>2022-11-10T16:41:07+00:00</updated>
     <id>https://martsmusings.uk/</id>
         <entry>
             <title>Markdown Syntax Guide</title>
@@ -542,9 +542,10 @@ $$&lt;/p&gt;
   class=&#34;gblog-markdown__link&#34;
   href=&#34;https://gohugo.io/getting-started/configuration/&#34;
 &gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;:see_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;:hear_no_evil:&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;:speak_no_evil:&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙈&lt;/span&gt; &lt;code&gt;🙈&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙉&lt;/span&gt; &lt;code&gt;🙉&lt;/code&gt;&lt;/span&gt;  &lt;span class=&#34;nowrap&#34;&gt;&lt;span class=&#34;emojify&#34;&gt;🙊&lt;/span&gt; &lt;code&gt;🙊&lt;/code&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;The &lt;a
+&lt;p&gt;💪
+The &lt;a
   class=&#34;gblog-markdown__link&#34;
   href=&#34;http://www.emoji-cheat-sheet.com/&#34;
 &gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
