@@ -1,6 +1,6 @@
 ---
 title: "London to Barcelona"
-date: "2022-12-31"
+date: "2022-11-30"
 summary: "The start of the trip!"
 tags: ["route"]
 ---
@@ -16,3 +16,5 @@ tags: ["route"]
 
 
 Pretty short flight today, and pretty good deal. Nabbed business tickets for £1 :muscle: (plus lots of Avios points). Very cool way to start the trip, and ring  in the new year.
+
+<div id="webmentions"></div>

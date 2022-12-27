@@ -2,14 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://martsmusings.uk/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://martsmusings.uk/post/route/london-to-barcelona/</loc>
+    <lastmod>2022-11-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://martsmusings.uk/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://martsmusings.uk/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://martsmusings.uk/</loc>
   </url>
 </urlset>
