@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
+    <title>Route on Mart&#39;s Musings</title>
+        <subtitle>What&#39;s cooking?</subtitle>
+            <link href="https://martsmusings.uk/tags/route/" rel="alternate" type="text/html" title="HTML" />
+            <link href="https://martsmusings.uk/tags/route/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2022-12-27T18:01:38+00:00</updated>
+    <id>https://martsmusings.uk/tags/route/</id>
+</feed>
