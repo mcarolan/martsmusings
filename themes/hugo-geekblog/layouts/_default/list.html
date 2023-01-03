@@ -2,6 +2,7 @@
   {{ $pages := where .RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ if (eq .Kind "home") }}
     {{ $pages = where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $pages = (where $pages ".Params.unlisted" "!=" "true") }}
   {{ end }}
 
   {{ $paginator := .Paginate $pages }}
