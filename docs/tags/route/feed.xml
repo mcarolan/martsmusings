@@ -5,24 +5,16 @@
         <subtitle>What&#39;s cooking?</subtitle>
             <link href="https://martsmusings.uk/tags/route/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://martsmusings.uk/tags/route/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2022-12-27T19:14:34+00:00</updated>
+    <updated>2023-01-06T03:10:06+00:00</updated>
     <id>https://martsmusings.uk/tags/route/</id>
         <entry>
-            <title>London to Barcelona</title>
-            <link href="https://martsmusings.uk/post/route/london-to-barcelona/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://martsmusings.uk/post/route/london-to-barcelona/</id>
-            <published>2022-11-30T00:00:00+00:00</published>
-            <updated>2022-11-30T00:00:00+00:00</updated>
+            <title>Barcelona (BCN) ―🛩️⟶ Singapore (SIN)</title>
+            <link href="https://martsmusings.uk/post/route/2023-01-03/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2023-01-03/</id>
+            <published>2023-01-03T00:00:00+00:00</published>
+            <updated>2023-01-03T00:00:00+00:00</updated>
             <content type="html">
-                &lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
-    &lt;h1 id=&#34;london-to-barcelona&#34;&gt;
-        London to Barcelona
-        &lt;a data-clipboard-text=&#34;https://martsmusings.uk/post/route/london-to-barcelona/#london-to-barcelona&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor London to Barcelona&#34; href=&#34;#london-to-barcelona&#34;&gt;
-            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
-        &lt;/a&gt;
-    &lt;/h1&gt;
-&lt;/div&gt;
-&lt;table&gt;
+                &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
@@ -31,24 +23,109 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;🛩️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
-&lt;td&gt;London Heathrow&lt;/td&gt;
+&lt;td&gt;15:30&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;End&lt;/td&gt;
-&lt;td&gt;Barcelona&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;Plane&lt;/td&gt;
+&lt;td&gt;17:20 (+1)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Duration&lt;/td&gt;
-&lt;td&gt;1hr40&lt;/td&gt;
+&lt;td&gt;19:25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£669.70&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;Pretty short flight today, and pretty good deal. Nabbed business tickets for £1 💪 (plus lots of Avios points). Very cool way to start the trip, and ring  in the new year.&lt;/p&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
+        <entry>
+            <title>London Heathrow (LHR) ―🛩️⟶ Barcelona (BCN)</title>
+            <link href="https://martsmusings.uk/post/route/2022-12-31-2/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2022-12-31-2/</id>
+            <published>2022-12-31T00:00:00+00:00</published>
+            <updated>2022-12-31T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;🛩️&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;16:05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;19:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;02:25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£1.00 (+ 25,500 Avios)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
+        <entry>
+            <title>Poynton ―🚂⟶ London Euston</title>
+            <link href="https://martsmusings.uk/post/route/2022-12-31-1/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2022-12-31-1/</id>
+            <published>2022-12-31T00:00:00+00:00</published>
+            <updated>2022-12-31T00:00:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;🚂&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;09:07&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;11:27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;02:20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£61.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
             </content>   
                                 <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />

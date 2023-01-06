@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
-    <title>Mart&#39;s Musings</title>
+    <title>Destinations on Mart&#39;s Musings</title>
         <subtitle>What&#39;s cooking?</subtitle>
-            <link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="HTML" />
-            <link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+            <link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="HTML" />
+            <link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
     <updated>2023-01-06T03:10:06+00:00</updated>
-    <id>https://martsmusings.uk/</id>
+    <id>https://martsmusings.uk/tags/destinations/</id>
         <entry>
             <title>🇪🇸 Barcelona 🥘</title>
             <link href="https://martsmusings.uk/post/2023-01-03-Barcelona/" rel="alternate" type="text/html"  hreflang="en" />
@@ -111,166 +111,5 @@ Patatas bravas were the stars of the show. The favourite place we went to for ta
 
             </content>   
                                 <category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations" />
-        </entry>
-        <entry>
-            <title>Barcelona (BCN) ―🛩️⟶ Singapore (SIN)</title>
-            <link href="https://martsmusings.uk/post/route/2023-01-03/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://martsmusings.uk/post/route/2023-01-03/</id>
-            <published>2023-01-03T00:00:00+00:00</published>
-            <updated>2023-01-03T00:00:00+00:00</updated>
-            <content type="html">
-                &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🛩️&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Start&lt;/td&gt;
-&lt;td&gt;15:30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;End&lt;/td&gt;
-&lt;td&gt;17:20 (+1)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Duration&lt;/td&gt;
-&lt;td&gt;19:25&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cost&lt;/td&gt;
-&lt;td&gt;£669.70&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-            </content>   
-                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
-        </entry>
-        <entry>
-            <title>London Heathrow (LHR) ―🛩️⟶ Barcelona (BCN)</title>
-            <link href="https://martsmusings.uk/post/route/2022-12-31-2/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://martsmusings.uk/post/route/2022-12-31-2/</id>
-            <published>2022-12-31T00:00:00+00:00</published>
-            <updated>2022-12-31T00:00:00+00:00</updated>
-            <content type="html">
-                &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🛩️&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Start&lt;/td&gt;
-&lt;td&gt;16:05&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;End&lt;/td&gt;
-&lt;td&gt;19:30&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Duration&lt;/td&gt;
-&lt;td&gt;02:25&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cost&lt;/td&gt;
-&lt;td&gt;£1.00 (+ 25,500 Avios)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-            </content>   
-                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
-        </entry>
-        <entry>
-            <title>Poynton ―🚂⟶ London Euston</title>
-            <link href="https://martsmusings.uk/post/route/2022-12-31-1/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://martsmusings.uk/post/route/2022-12-31-1/</id>
-            <published>2022-12-31T00:00:00+00:00</published>
-            <updated>2022-12-31T00:00:00+00:00</updated>
-            <content type="html">
-                &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚂&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Start&lt;/td&gt;
-&lt;td&gt;09:07&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;End&lt;/td&gt;
-&lt;td&gt;11:27&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Duration&lt;/td&gt;
-&lt;td&gt;02:20&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cost&lt;/td&gt;
-&lt;td&gt;£61.00&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-            </content>   
-                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
-        </entry>
-        <entry>
-            <title>Hello, world! 👋🌐</title>
-            <link href="https://martsmusings.uk/post/hello-world/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://martsmusings.uk/post/hello-world/</id>
-            <published>2022-12-27T00:00:00+00:00</published>
-            <updated>2022-12-27T00:00:00+00:00</updated>
-            <content type="html">
-                &lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
-    &lt;h2 id=&#34;whats-going-on&#34;&gt;
-        What&amp;rsquo;s going on?
-        &lt;a data-clipboard-text=&#34;https://martsmusings.uk/post/hello-world/#whats-going-on&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor What&amp;rsquo;s going on?&#34; href=&#34;#whats-going-on&#34;&gt;
-            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
-        &lt;/a&gt;
-    &lt;/h2&gt;
-&lt;/div&gt;
-&lt;p&gt;Well, after a slight delay due to a pandemic,  we&amp;rsquo;re due to go travelling for a year. Starting this Saturday.&lt;/p&gt;
-&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
-    &lt;h2 id=&#34;where-are-you-going&#34;&gt;
-        Where are you going?
-        &lt;a data-clipboard-text=&#34;https://martsmusings.uk/post/hello-world/#where-are-you-going&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Where are you going?&#34; href=&#34;#where-are-you-going&#34;&gt;
-            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
-        &lt;/a&gt;
-    &lt;/h2&gt;
-&lt;/div&gt;
-&lt;p&gt;The high level plan is Southeast Asia, South America and then New Zealand.&lt;/p&gt;
-&lt;p&gt;Probably around 4 / 6 / 2 months respectively in each - and we&amp;rsquo;re aiming for shoulder seasons. (yeah, I didn&amp;rsquo;t know what that meant either - it&amp;rsquo;s the happy medium of good weather conditions with dwindling tourist numbers).&lt;/p&gt;
-&lt;div class=&#34;gblog-post__anchorwrap&#34;&gt;
-    &lt;h2 id=&#34;what-are-you-doing-here&#34;&gt;
-        What are you doing here?
-        &lt;a data-clipboard-text=&#34;https://martsmusings.uk/post/hello-world/#what-are-you-doing-here&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor What are you doing here?&#34; href=&#34;#what-are-you-doing-here&#34;&gt;
-            &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
-        &lt;/a&gt;
-    &lt;/h2&gt;
-&lt;/div&gt;
-&lt;p&gt;It&amp;rsquo;s an amazing opportunity and I&amp;rsquo;d quite like to write about it. If anybody is interested in where we&amp;rsquo;re up to, this will hopefully be a good place to check-in. Also I&amp;rsquo;ll try to share lots of cool stuff we see/do along the way to help with your own travels 💪&lt;/p&gt;
-
-            </content>  
         </entry>
 </feed>
