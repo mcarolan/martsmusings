@@ -21,7 +21,7 @@ Patatas bravas were the stars of the show. The favourite place we went to for ta
 
 A bit spur of the moment, and really good fun. When waltzing down La Rambla, gawking at the creepy living statues, we got the urge to have a caricature made.
 
-Very much recommend it! Surreal experience for sure. It feels like when you've got a spot on your face and you _think_ that everybody is looking at laughing at you. But you're in a nightmare, and everybody *is* looking and then laughing at you. Very vivid experience and a lot of fun.
+Very much recommend it! Surreal experience for sure. It feels like when you've got a spot on your face and you _think_ that everybody is looking and  then laughing at you. But you're in a nightmare, and everybody **is** :scream:. Very vivid experience and a lot of fun.
 
 ![Example image](/charicature.jpg)
 <figure>Lots of focus on Laura's top-bun and Martin's nose :joy:</figure>
