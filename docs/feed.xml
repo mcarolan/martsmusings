@@ -5,8 +5,90 @@
         <subtitle>What&#39;s cooking?</subtitle>
             <link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-01-10T13:25:30+00:00</updated>
+    <updated>2023-01-13T09:56:53+00:00</updated>
     <id>https://martsmusings.uk/</id>
+        <entry>
+            <title>Cameron Highlands (Malaysia) ⇢🚌⇢ Penang (Malaysia)</title>
+            <link href="https://martsmusings.uk/post/route/2023-01-13/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2023-01-13/</id>
+            <published>2023-01-13T09:00:00+00:00</published>
+            <updated>2023-01-13T09:00:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;🚌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;09:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;13:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;4:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£13.25&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
+        <entry>
+            <title>Kuala Lumpur (Malaysia) ⇢🚌⇢ Cameron Highlands (Malaysia)</title>
+            <link href="https://martsmusings.uk/post/route/2023-01-10/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2023-01-10/</id>
+            <published>2023-01-10T14:15:00+00:00</published>
+            <updated>2023-01-10T14:15:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;🚌&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;14:15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;18:45&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;4:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£14.64&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
         <entry>
             <title>Singapore ⇢🚌⇢ Kuala Lumpur (Malaysia)</title>
             <link href="https://martsmusings.uk/post/route/2023-01-08/" rel="alternate" type="text/html"  hreflang="en" />
