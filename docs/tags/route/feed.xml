@@ -5,8 +5,49 @@
         <subtitle>What&#39;s cooking?</subtitle>
             <link href="https://martsmusings.uk/tags/route/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://martsmusings.uk/tags/route/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-01-23T16:41:13+00:00</updated>
+    <updated>2023-01-27T08:34:41+00:00</updated>
     <id>https://martsmusings.uk/tags/route/</id>
+        <entry>
+            <title>Koh Lipe (Thailand) ⇢🚤⇢ Koh Lanta (Thailand)</title>
+            <link href="https://martsmusings.uk/post/route/2023-01-25/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2023-01-25/</id>
+            <published>2023-01-25T09:30:00+00:00</published>
+            <updated>2023-01-25T09:30:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;Ferryish Speedboat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;09:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;03:30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£84.30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
         <entry>
             <title>Langkawi (Malaysia) ⇢🚢⇢ Koh Lipe (Thailand)</title>
             <link href="https://martsmusings.uk/post/route/2023-01-20/" rel="alternate" type="text/html"  hreflang="en" />
@@ -24,7 +65,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚢&lt;/td&gt;
+&lt;td&gt;Ferryish Speedboat&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -65,7 +106,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚢&lt;/td&gt;
+&lt;td&gt;Ferry&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -106,7 +147,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚌&lt;/td&gt;
+&lt;td&gt;Coach&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -147,7 +188,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚌&lt;/td&gt;
+&lt;td&gt;Coach&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -188,7 +229,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚌&lt;/td&gt;
+&lt;td&gt;Coach&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -229,7 +270,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚌&lt;/td&gt;
+&lt;td&gt;Coach&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -270,7 +311,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🛩️&lt;/td&gt;
+&lt;td&gt;Plane&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -311,7 +352,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🛩️&lt;/td&gt;
+&lt;td&gt;Plane&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
@@ -352,7 +393,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;🚂&lt;/td&gt;
+&lt;td&gt;Train&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
