@@ -5,8 +5,90 @@
         <subtitle>What&#39;s cooking?</subtitle>
             <link href="https://martsmusings.uk/tags/route/" rel="alternate" type="text/html" title="HTML" />
             <link href="https://martsmusings.uk/tags/route/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-01-27T08:34:41+00:00</updated>
+    <updated>2023-01-29T07:49:43+00:00</updated>
     <id>https://martsmusings.uk/tags/route/</id>
+        <entry>
+            <title>Krabi (Thailand) ⇢🚌⇢ Bangkok (Thailand)</title>
+            <link href="https://martsmusings.uk/post/route/2023-01-27-2/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2023-01-27-2/</id>
+            <published>2023-01-27T17:00:00+00:00</published>
+            <updated>2023-01-27T17:00:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;Coach (overnight)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;17:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;04:00 (+1)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£61.43&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
+        <entry>
+            <title>Koh Lanta (Thailand) ⇢🚐⇢ Krabi (Thailand)</title>
+            <link href="https://martsmusings.uk/post/route/2023-01-27/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://martsmusings.uk/post/route/2023-01-27/</id>
+            <published>2023-01-27T11:00:00+00:00</published>
+            <updated>2023-01-27T11:00:00+00:00</updated>
+            <content type="html">
+                &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mode&lt;/td&gt;
+&lt;td&gt;Minibus (with a drive-on ferry)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Start&lt;/td&gt;
+&lt;td&gt;11:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;End&lt;/td&gt;
+&lt;td&gt;13:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Duration&lt;/td&gt;
+&lt;td&gt;02:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cost&lt;/td&gt;
+&lt;td&gt;£21.69&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+            </content>   
+                                <category scheme="https://martsmusings.uk/tags/route" term="route" label="route" />
+        </entry>
         <entry>
             <title>Koh Lipe (Thailand) ⇢🚤⇢ Koh Lanta (Thailand)</title>
             <link href="https://martsmusings.uk/post/route/2023-01-25/" rel="alternate" type="text/html"  hreflang="en" />
@@ -65,7 +147,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Mode&lt;/td&gt;
-&lt;td&gt;Ferryish Speedboat&lt;/td&gt;
+&lt;td&gt;Ferry&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Start&lt;/td&gt;
