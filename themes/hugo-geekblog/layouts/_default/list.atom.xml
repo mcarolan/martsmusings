@@ -32,6 +32,7 @@
     {{- if (eq .Kind "home") -}}
         {{- $pages = where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
     {{- end -}}
+    {{- $pages = (where $pages ".Params.unlisted" "!=" "true") -}}
     {{- range $page := $pages }}
         <entry>
             <title>{{ partial "utils/title" . }}</title>
