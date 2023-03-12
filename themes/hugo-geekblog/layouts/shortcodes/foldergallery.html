@@ -1,7 +1,6 @@
 <style>
     
     </style>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.css" />
     <div class="gallery">
           {{ $base := .Get "src" }}
       {{ $path := print "static/" (.Get "src") }}
@@ -12,7 +11,7 @@
           {{- if and $isimg (not $isthumb) }}
           {{- $thumb := .Name | replaceRE "(\\.)" ($thumbext | printf "%s.") }}
           {{- $thumb := $thumb | replaceRE "(\\.mp4)" ".jpg" }}
-              <a data-fancybox="gallery" href="/{{ $base }}/{{ .Name }}"><img src="/{{ $base  }}/{{ $thumb }}" width="200" height="150"></a>
+              <a data-fancybox="gallery" href="/{{ $base }}/{{ .Name }}"><img src="/{{ $base  }}/{{ $thumb }}" ></a>
           {{- end }}
       {{ end }}
       </div>
