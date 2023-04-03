@@ -63,3 +63,18 @@
 .gblog-header a:hover {
 	text-decoration: underline;
 }
+
+.video-thumbnail {
+  position: relative;
+  display: inline-block;
+}
+
+.play-button {
+  position: absolute;
+  width: 96px;
+  height: 96px;
+  left: 50%;
+  top: 50%;
+  margin-left: -48px; /*half of the width */
+  margin-top: -48px; /*half of the height */
+}

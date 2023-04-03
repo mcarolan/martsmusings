@@ -8,10 +8,20 @@
           {{- $thumbext := "-thumb" }}
           {{- $isthumb := .Name | findRE ($thumbext | printf "%s\\.") }}<!-- is the current file a thumbnail image? -->
           {{- $isimg := lower .Name | findRE "\\.(gif|jpg|jpeg|tiff|png|bmp|webp|mp4)" }}<!-- is the current file an image? -->
-          {{- if and $isimg (not $isthumb) }}
+          {{- $isvid := lower .Name | findRE "\\.(webp|mp4)" }}<!-- is the current file an image? -->
+          {{- if or $isvid (and $isimg (not $isthumb)) }}
           {{- $thumb := .Name | replaceRE "(\\.)" ($thumbext | printf "%s.") }}
           {{- $thumb := $thumb | replaceRE "(\\.mp4)" ".jpg" }}
-              <a data-fancybox="gallery" href="/{{ $base }}/{{ .Name }}"><img src="/{{ $base  }}/{{ $thumb }}" ></a>
+            <a data-fancybox="gallery" href="/{{ $base }}/{{ .Name }}">
+            {{- if $isvid }}
+            <div class="video-thumbnail">
+            {{- end }}
+                <img src="/{{ $base  }}/{{ $thumb }}" >
+            {{- if $isvid }}
+                <img src="/play.png" class="play-button" />
+            </div>
+            {{- end }}
+            </a>
           {{- end }}
       {{ end }}
       </div>
