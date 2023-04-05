@@ -111,7 +111,7 @@ Singapore had its fair share of quirks:
 
 There was an art/science museum where you could colour-in your own fish, have it scanned, and it would come to life in a digital ocean of hand-drawn sea creatures
 
-{{< foldergallery src="galleries/fish/" >}}
+{{< cloudinary tag="fish" >}}
 
 There was a waiter-bot that brought food to you after you placed an order using a QR code on your table and took back dirty dishes
 

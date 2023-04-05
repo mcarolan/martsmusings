@@ -78,3 +78,7 @@
   margin-left: -48px; /*half of the width */
   margin-top: -48px; /*half of the height */
 }
+
+.cloudinary-gallery {
+  max-height: 200px;
+}
