@@ -71,12 +71,12 @@
 
 .play-button {
   position: absolute;
-  width: 96px;
-  height: 96px;
+  width: 48px;
+  height: 48px;
   left: 50%;
   top: 50%;
-  margin-left: -48px; /*half of the width */
-  margin-top: -48px; /*half of the height */
+  margin-left: -24px; /*half of the width */
+  margin-top: -24px; /*half of the height */
 }
 
 .cloudinary-gallery {
@@ -94,5 +94,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.gallery-item-thumb {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
