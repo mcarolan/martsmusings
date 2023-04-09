@@ -1,0 +1,25 @@
+{{- $mediaBase := print .Site.Params.assetsBase "/galleries" -}}
+{{- $thumbBase := print .Site.Params.assetsBase "/thumbs" -}}
+{{- $album := .Get "album" -}}
+{{- $indexPath := print "resources/indexes/" $album "/index.csv" -}}
+<div class="gallery-wrapper">
+    {{- $sep := "," }}
+    {{ range  $i, $row := getCSV $sep $indexPath }}
+        {{- $mediaPath := index $row 0 -}}
+        {{- $thumbPath := index $row 1 -}}
+        {{- $mediaType := index $row 2 -}}
+        {{- $isVideo := eq $mediaType "video" -}}
+        <div class="gallery-item">
+            <a data-fancybox="gallery-{{ $album | md5 }}" href="{{ $mediaBase }}/{{ $mediaPath }}">
+                {{- if $isVideo -}}
+                <div class="video-thumbnail">
+                {{- end -}}
+                    <img src="{{ $thumbBase  }}/{{ $thumbPath }}" class="gallery-item-thumb" />
+                {{- if $isVideo -}}
+                    <img src="/play.png" class="play-button" />
+                </div>
+                {{- end -}}
+            </a>
+        </div>
+    {{ end }}
+</div>

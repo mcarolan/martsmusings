@@ -2,7 +2,7 @@ baseURL = "https://martsmusings.uk"
 title = "Mart's Musings"
 theme = "hugo-geekblog"
 enableEmoji = true
-publishDir = "docs"
+publishDir = "public"
 
 pluralizeListTitles = false
 
@@ -14,6 +14,7 @@ disablePathToLower = true
 [params]
 subtitle = "What's cooking?"
 logo = "logo.png"
+assetsBase = "https://assets.martsmusings.uk"
 
 # Needed for mermaid shortcodes
 [markup]
