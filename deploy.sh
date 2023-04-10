@@ -2,14 +2,15 @@
 set -e
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
-cowsay fetching
-git fetch
 hugo --gc --minify
 
-if ! git diff-files --quiet; then
+if [ -n "$(git status --porcelain=v1 2>/dev/null)" ]; then
   cowsay "you have untracked files bro"
   exit 1
 fi
+
+cowsay fetching
+git fetch
 
 BEHIND=$(git rev-list @..@{u} --count)
 if ! echo -n $BEHIND | grep '^0$' > /dev/null; then
