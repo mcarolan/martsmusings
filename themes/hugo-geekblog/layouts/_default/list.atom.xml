@@ -16,7 +16,6 @@
             {{ printf `<link href=%q rel=%q type=%q title=%q />` .Permalink $rel .MediaType.Type .Name | safeHTML }}
         {{- end }}
     {{- end }}
-    <updated>{{ now.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
     {{- with .Site.Params.GeekblogAuthor -}}
         {{- with index $.Site.Data.authors . }}
         <author>
@@ -33,6 +32,13 @@
         {{- $pages = where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
     {{- end -}}
     {{- $pages = (where $pages ".Params.unlisted" "!=" "true") -}}
+    {{- $lastUpdated := time "1970-01-01T00:00:00.000Z" -}}
+    {{- range $page := $pages }}
+        {{- if (gt (.Lastmod.Unix) ($lastUpdated.Unix)) -}}
+            {{- $lastUpdated := .Lastmod  -}}
+        {{- end -}}
+    {{- end -}}
+    <updated>{{ .Lastmod | safeHTML }}</updated>
     {{- range $page := $pages }}
         <entry>
             <title>{{ partial "utils/title" . }}</title>
