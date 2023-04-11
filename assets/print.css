@@ -16,11 +16,6 @@
      white-space:pre-wrap;
      overflow-wrap:break-word
     }
-    .chroma code {
-     border:1px solid #dee2e6;
-     padding:.5rem !important;
-     font-weight:normal !important
-    }
     .gblog-markdown code {
      font-weight:bold
     }
