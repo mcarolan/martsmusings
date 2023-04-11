@@ -261,7 +261,7 @@ template {
   filter: none;
 }
 @font-face {
-  font-family: 'OpenSans Regular';
+  font-family: 'OpenSans Regular', 'Arial', 'Helvetica', 'sans-serif';
   src: url('OpenSans-Regular.eot'); /* IE9 Compat Modes */
   src: url('OpenSans-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('OpenSans-Regular.woff') format('woff'), /* Modern Browsers */
