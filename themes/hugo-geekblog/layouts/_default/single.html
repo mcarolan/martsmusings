@@ -1,4 +1,5 @@
 {{ define "main" }}
+  {{ partial "mailchimp" . }}
   <article class="gblog-post">
     <header class="gblog-post__header">
       {{ $source := ($.Resources.ByType "image").GetMatch "{*feature*,*cover*,*thumbnail*}" }}
