@@ -1,69 +1,47 @@
-<script src="{{ index (index .Site.Data.assets "main.js") "src" | relURL }}"></script>
 
+{{- $mainCss := resources.Get "main.css" | minify -}}
+{{- $mobileCss := resources.Get "mobile.css" | minify -}}
+{{- $printCss := resources.Get "print.css" | minify -}}
+{{- $customCss := resources.Get "custom.css" | minify -}}
 <link
   rel="preload"
-  as="font"
-  href="{{ "fonts/Metropolis.woff2" | relURL }}"
-  type="font/woff2"
-  crossorigin="anonymous"
-/>
-<link
-  rel="preload"
-  as="font"
-  href="{{ "fonts/LiberationSans.woff2" | relURL }}"
-  type="font/woff2"
-  crossorigin="anonymous"
-/>
-<link
-  rel="preload"
-  as="font"
-  href="{{ "fonts/GeekblogIcons.woff2" | relURL }}"
-  type="font/woff2"
-  crossorigin="anonymous"
-/>
-
-<link
-  rel="preload"
-  href="{{ index (index .Site.Data.assets "main.scss") "src" | relURL }}"
+  href="{{ $mainCss.RelPermalink }}"
   as="style"
 />
 <link
   rel="stylesheet"
-  href="{{ index (index .Site.Data.assets "main.scss") "src" | relURL }}"
+  href="{{ $mainCss.RelPermalink }}"
   media="all"
 />
-
 <link
   rel="preload"
-  href="{{ index (index .Site.Data.assets "mobile.scss") "src" | relURL }}"
+  href="{{ $customCss.RelPermalink }}"
   as="style"
 />
 <link
   rel="stylesheet"
-  href="{{ index (index .Site.Data.assets "mobile.scss") "src" | relURL }}"
+  href="{{ $customCss.RelPermalink }}"
+  media="all"
+/>
+<link
+  rel="preload"
+  href="{{ $mobileCss.RelPermalink }}"
+  as="style"
+/>
+<link
+  rel="stylesheet"
+  href="{{ $mobileCss.RelPermalink }}"
   media="screen and (max-width: 45rem)"
 />
-
 <link
   rel="preload"
-  href="{{ index (index .Site.Data.assets "print.scss") "src" | relURL }}"
+  href="{{ $printCss.RelPermalink }}"
   as="style"
 />
 <link
   rel="stylesheet"
-  href="{{ index (index .Site.Data.assets "print.scss") "src" | relURL }}"
+  href="{{ $printCss.RelPermalink }}"
   media="print"
-/>
-
-<link
-  rel="preload"
-  href="{{ index (index .Site.Data.assets "custom.css") "src" | relURL }}"
-  as="style"
-/>
-<link
-  rel="stylesheet"
-  href="{{ index (index .Site.Data.assets "custom.css") "src" | relURL }}"
-  media="all"
 />
 {{- with .OutputFormats.Get "html" }}
   {{ printf `<link href=%q rel=%q type=%q />` .Permalink .Rel .MediaType.Type | safeHTML }}
@@ -78,5 +56,3 @@
 {{- if (default false $.Site.Params.GeekblogOverwriteHTMLBase) }}
   <base href="{{ .Site.BaseURL }}" />
 {{- end }}
-
-{{ printf "<!-- %s -->" "Made with Geekblog theme https://github.com/thegeeklab/hugo-geekblog" | safeHTML }}
