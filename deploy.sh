@@ -1,6 +1,13 @@
 #!/bin/bash
 set -e
 SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+IMAGESPATH="/home/martin/Pictures"
+
+cowsay generating thumbnails
+
+$IMAGESPATH/galleries/generate_thumbnails.sh
+
+cowsay building hugo
 
 hugo --gc --minify
 
@@ -28,6 +35,12 @@ if ! git status --porcelain; then
   cowsay "uncommited  changes!"
   exit 1
 fi
+
+cowsay syncing thumbnails
+rclone sync --verbose --exclude="*.sh" ~/Pictures/thumbs vps:/var/www/assets/thumbs
+
+cowsay syncing images
+rclone sync --verbose --exclude="*.sh" ~/Pictures/galleries vps:/var/www/assets/galleries
 
 cowsay syncing site
 rclone sync --verbose "$SCRIPTPATH"/public vps:/var/www/root
