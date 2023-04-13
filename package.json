@@ -1,0 +1,8 @@
+{
+    "name": "mappy-travels",
+    "dependencies": {
+      "@turf/area": "^6.5.0",
+      "@turf/turf": "^6.5.0",
+      "maplibre-gl": "^2.4.0"
+    }
+  }

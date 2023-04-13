@@ -9,6 +9,7 @@ $IMAGESPATH/galleries/generate_thumbnails.sh
 
 cowsay building hugo
 
+npm ci
 hugo --gc --minify
 
 if [ -n "$(git status --porcelain=v1 2>/dev/null)" ]; then

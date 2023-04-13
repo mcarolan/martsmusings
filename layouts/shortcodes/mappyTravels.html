@@ -1,0 +1,61 @@
+{{- $plane := resources.Get "mappy-travels/icons/Plane.png" -}}
+{{- $bus := resources.Get "mappy-travels/icons/Bus.png" -}}
+{{- $ferry := resources.Get "mappy-travels/icons/Ferry.png" -}}
+{{- $train := resources.Get "mappy-travels/icons/Train.png" -}}
+{{- $mainStyle := resources.Get "mappy-travels/styles/main.css" -}}
+{{- $mapLibreGlStyle := resources.Get "mappy-travels/styles/maplibre-gl.css" -}}
+{{- $route := resources.Get "mappy-travels/route.json" | minify -}}
+{{- $params := (dict "route" $route.RelPermalink "icons" (dict "Air" $plane.RelPermalink "Road" $bus.RelPermalink "Sea" $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
+{{- $mappyTravels := resources.Get "mappy-travels/ts/mappy-travels.ts" | js.Build (dict "params" $params) -}}
+
+<script src="{{ $mappyTravels.RelPermalink }}"></script>
+
+<link
+  rel="stylesheet"
+  href="{{ $mainStyle.RelPermalink }}"
+  media="all"
+/>
+
+<link
+  rel="stylesheet"
+  href="{{ $mapLibreGlStyle.RelPermalink }}"
+  media="all"
+/>
+
+<div class="mappyTravelsContainer">
+    <div class="mappyTravelsMain">
+        <div id="map"></div>
+    </div>
+    <div class="mappyTravelsFooter">
+        <div class="mappyTravelsFooterCols">
+            <div class="modecontainer" id="container-Air">
+                <div class="mode"><img src="{{ $plane.RelPermalink }}" width="32" height="32" /></div>
+                <div class="count flex-middle" id="count-Air">0</div>
+                <div class="time flex-middle" id="time-Air">0 days 0 hours</div>
+                <div class="cost flex-middle" id="cost-Air">£0.00</div>
+                <div class="distance flex-middle" id="distance-Air">0km</div>
+            </div>
+            <div class="modecontainer" id="container-Road">
+                <div class="mode"><img src="{{ $bus.RelPermalink }}" width="32" height="32" /></div>
+                <div class="count flex-middle" id="count-Road">0</div>
+                <div class="time flex-middle" id="time-Road">0 days 0 hours</div>
+                <div class="cost flex-middle" id="cost-Road">£0.00</div>
+                <div class="distance flex-middle" id="distance-Road">0km</div>
+            </div>
+            <div class="modecontainer" id="container-Sea">
+                <div class="mode"><img src="{{ $ferry.RelPermalink }}" width="32" height="32" /></div>
+                <div class="count flex-middle" id="count-Sea">0</div>
+                <div class="time flex-middle" id="time-Sea">0 days 0 hours</div>
+                <div class="cost flex-middle" id="cost-Sea">£0.00</div>
+                <div class="distance flex-middle" id="distance-Sea">0km</div>
+            </div>
+            <div class="modecontainer" id="container-Rail">
+                <div class="mode"><img src="{{ $train.RelPermalink }}" width="32" height="32" /></div>
+                <div class="count flex-middle" id="count-Rail">0</div>
+                <div class="time flex-middle" id="time-Rail">0 days 0 hours</div>
+                <div class="cost flex-middle" id="cost-Rail">£0.00</div>
+                <div class="distance flex-middle" id="distance-Rail">0km</div>
+            </div>
+        </div>
+    </div>
+</div>
