@@ -93,3 +93,7 @@
 .maplibregl-popup {
     opacity: 0.6;
 }
+
+.row-highlighted {
+    font-weight: bold;
+}

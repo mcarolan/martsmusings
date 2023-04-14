@@ -53,6 +53,7 @@ function modeToCategory(mode: Mode): TransportCategory {
 }
 
 interface Step {
+    id: string,
     fromPlace: string,
     fromCountry: string,
     toPlace: string,
@@ -82,6 +83,7 @@ var map: maplibreGl.Map;
 
 var steps: Step[] | undefined;
 const lineColour = '#8856a7';
+const lineColourHighlighted = '#e31c3d';
 
 var features: Feature<LineString>[] = [];
 var featuresBBox: maplibreGl.LngLatBoundsLike;
@@ -105,15 +107,17 @@ var currentFeature = 0;
 
 const modeIcon = document.createElement("img");
 modeIcon.width = 32;
-modeIcon.height= 32;
+modeIcon.height = 32;
 modeIcon.classList.add("icon");
 
 const marker = new maplibreGl.Marker({ element: modeIcon });
 marker.setLngLat(startLngLat);
 var currentModeIcon: string | undefined;
 
-const startMarkers = new Map<number, maplibreGl.Marker>();
-const endMarkers = new Map<number, maplibreGl.Marker>();
+var highlighetedStepId: string | undefined;
+
+const startMarkers = new Map<string, maplibreGl.Marker>();
+const endMarkers = new Map<string, maplibreGl.Marker>();
 
 const counts = transportCategoryZeroMap();
 const costs = transportCategoryZeroMap();
@@ -151,7 +155,7 @@ zooms.set(TransportCategory.Road, 6);
 zooms.set(TransportCategory.Rail, 6);
 zooms.set(TransportCategory.Sea, 6);
 
-function iconFor(transportCategory:  TransportCategory): string {
+function iconFor(transportCategory: TransportCategory): string {
     return params.icons[transportCategory.toString()];
 }
 
@@ -159,17 +163,25 @@ function lngLatLike(coords: number[]): maplibreGl.LngLatLike {
     return [coords[0], coords[1]];
 }
 
-function toggleMarker(i: number, markers: Map<number, maplibreGl.Marker>) {
-    const prevMarker = markers.get(i - 1);
+function toggleMarker(i: number, markers: Map<string, maplibreGl.Marker>) {
+    const prevStep = steps[i - 1];
+    if (prevStep) {
+        const prevId = prevStep.id;
+        const prevMarker = markers.get(prevId);
 
-    if (prevMarker) {
-        prevMarker.togglePopup();
+        if (prevMarker) {
+            prevMarker.togglePopup();
+        }
     }
 
-    const marker = markers.get(i);
-    
-    if (marker) {
-        marker.togglePopup();
+    const step = steps[i];
+    if (step) {
+        const id = step.id;
+        const marker = markers.get(id);
+
+        if (marker) {
+            marker.togglePopup();
+        }
     }
 }
 
@@ -246,7 +258,7 @@ function animateStep(timestamp: number, i: number) {
                 times.set(lastCategory, lastTime + durationStringToMinutes(lastStep.duration));
             }
             const lastFeature = features[i - 1];
-            if (lastFeature && lastDistance !=  undefined)  {
+            if (lastFeature && lastDistance != undefined) {
                 distances.set(lastCategory, lastDistance + turf.lineDistance(lastFeature, { units: "kilometers" }));
             }
 
@@ -314,9 +326,10 @@ function animationsFinished() {
     toggleMarker(steps.length, startMarkers);
     toggleMarker(steps.length, endMarkers);
     marker.remove();
-    map.fitBounds(featuresBBox, { animate: false,
-        padding: {top: 60, bottom: 60, left: 60, right: 60}
-      });
+    map.fitBounds(featuresBBox, {
+        animate: false,
+        padding: { top: 60, bottom: 60, left: 60, right: 60 }
+    });
 }
 
 function timeFor(category: TransportCategory, distance: number): number {
@@ -359,7 +372,7 @@ function animateLine(timestamp: number) {
     }
 
     const feature = features[currentFeature];
-    const sourceKey = sourceKeyFor(currentFeature);
+    const sourceKey = sourceKeyFor(step.id);
     const maxKm = turf.length(feature, { units: 'kilometers' });
 
     const progress = elapsed / timeFor(category, maxKm);
@@ -404,8 +417,8 @@ function animateLine(timestamp: number) {
     }
 }
 
-function sourceKeyFor(i: number) {
-    return `source${i}`;
+function sourceKeyFor(id: string) {
+    return `source${id}`;
 }
 
 function addMarker(coords: maplibreGl.LngLatLike, popupText: string): maplibreGl.Marker {
@@ -428,8 +441,6 @@ function renderSteps(route: Step[]) {
 
         var rangeStarted = false;
 
-        var stepNumber = 0;
-
         for (let step of route) {
             if (isForSubset && !rangeStarted && step.id != from) {
                 continue;
@@ -444,8 +455,8 @@ function renderSteps(route: Step[]) {
             const feature = featureCollection.features[0];
             features.push(feature);
 
-            const sourceKey = sourceKeyFor(stepNumber);
-            map.addSource(sourceKeyFor(stepNumber), initialSource);
+            const sourceKey = sourceKeyFor(step.id);
+            map.addSource(sourceKeyFor(step.id), initialSource);
             map.addLayer({
                 id: sourceKey,
                 type: "line",
@@ -462,30 +473,88 @@ function renderSteps(route: Step[]) {
 
             const start = lngLatLike(feature.geometry.coordinates[0]);
             const end = lngLatLike(feature.geometry.coordinates[feature.geometry.coordinates.length - 1]);
-            startMarkers.set(stepNumber, addMarker(start, `${step.fromPlace} (${step.fromCountry})`));
-            endMarkers.set(stepNumber, addMarker(end, `${step.toPlace} (${step.toCountry})`));
+            startMarkers.set(step.id, addMarker(start, `${step.fromPlace} (${step.fromCountry})`));
+            endMarkers.set(step.id, addMarker(end, `${step.toPlace} (${step.toCountry})`));
 
             if (isForSubset && step.id == to) {
                 break;
             }
-            stepNumber += 1;
         }
 
         featuresBBox = calculateFeaturesBoundingBox();
+        registerRowElementEvents();
 
         marker.addTo(map);
 
-        map.fitBounds(featuresBBox, { animate: false,
-            padding: {top: 60, bottom: 60, left: 60, right: 60}
-          });
+        map.fitBounds(featuresBBox, {
+            animate: false,
+            padding: { top: 60, bottom: 60, left: 60, right: 60 }
+        });
         animateStep(performance.now(), 0);
         requestAnimationFrame(animateLine);
     });
 }
 
+function rowElementMouseDown(id: string): ((MouseEvent) => void) {
+    return (ev: MouseEvent) => {
+        if (highlighetedStepId) {
+            setLayerColour(highlighetedStepId, lineColour);
+            const element = document.getElementById(rowElementId(highlighetedStepId));
+            if (element) {
+                element.classList.remove("row-highlighted");
+            }
+
+            const startMarker: maplibreGl.Marker = startMarkers.get(highlighetedStepId);
+            if (startMarker) {
+                startMarker.togglePopup();
+            }
+
+            const endMarker: maplibreGl.Marker = endMarkers.get(highlighetedStepId);
+            if (endMarker) {
+                endMarker.togglePopup();
+            }
+        }   
+        highlighetedStepId = id;
+        setLayerColour(highlighetedStepId, lineColourHighlighted);
+        const element = document.getElementById(rowElementId(highlighetedStepId));
+        if (element) {
+            element.classList.add("row-highlighted");
+        }
+
+        const startMarker: maplibreGl.Marker = startMarkers.get(highlighetedStepId);
+        if (startMarker) {
+            startMarker.togglePopup();
+        }
+
+        const endMarker: maplibreGl.Marker = endMarkers.get(highlighetedStepId);
+        if (endMarker) {
+            endMarker.togglePopup();
+        }
+    };
+}
+
+function setLayerColour(id: string, colour: string) {
+    map.setPaintProperty(sourceKeyFor(id), 'line-color', colour);
+}
+
+function rowElementId(id: string) {
+    return `row-${id}`;
+}
+
+function registerRowElementEvents() {
+    for (const step of steps) {
+        const element = document.getElementById(rowElementId(step.id));
+
+        if (element) {
+            element.addEventListener('mousedown', rowElementMouseDown(step.id));
+        }
+    }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     map = new maplibreGl.Map(mapOptions);
     map.addControl(new maplibreGl.NavigationControl({ showCompass: true, showZoom: true, visualizePitch: true }));
+
 
     for (const category of allTransportCategories()) {
         const countElement = document.getElementById(`count-${category}`);
@@ -510,15 +579,15 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
     fetch(routeRequest)
-    .then((response) => {
-        if (response.ok) {
-            response
-                .json()
-                .catch((e) => console.log(`successful route request, but was not json ${e}`))
-                .then((data) => renderSteps(data as Step[]));
-        }
-        else {
-            console.log(`route request gave response code ${response.status}`);
-        }
-    });
+        .then((response) => {
+            if (response.ok) {
+                response
+                    .json()
+                    .catch((e) => console.log(`successful route request, but was not json ${e}`))
+                    .then((data) => renderSteps(data as Step[]));
+            }
+            else {
+                console.log(`route request gave response code ${response.status}`);
+            }
+        });
 });

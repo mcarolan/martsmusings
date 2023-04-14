@@ -84,7 +84,7 @@
             {{- $endIncl := eq $to $r.id -}}
 
             {{- if or $endIncl (and $rangeStarted (not $rangeEnded)) (and (not $from) (not $to)) -}}
-            <tr>
+            <tr id="row-{{ $r.id }}">
                 <td>{{ partial "countryEmoji" $r.fromCountry }} {{ $r.fromPlace }}</td>
                 <td>{{ partial "countryEmoji" $r.toCountry }} {{ $r.toPlace }} </td>
                 <td>{{ $r.mode }}</td>
