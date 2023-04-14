@@ -10,6 +10,8 @@ All signs were in English, it's super safe (a friend we met up with said we coul
 
 {{< toc >}}
 
+{{< mappyTravels from="772cdf3b-06f8-46e8-9479-655824bd122a" to="772cdf3b-06f8-46e8-9479-655824bd122a" >}}
+
 ## Accommodation
 
 Accommodation is notoriously expensive, so to avoid emptying our bank account in the first week we opted for a mixed dorm... with a twist 🚀🚀🚀

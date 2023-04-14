@@ -1,0 +1,12 @@
+{{- if eq . "United Kingdom" -}}🇬🇧
+{{- else if eq  . "Spain" -}}🇪🇸
+{{- else if eq  . "Singapore" -}}🇸🇬
+{{- else if eq  . "Malaysia" -}}🇲🇾
+{{- else if eq  . "Thailand" -}}🇹🇭
+{{- else if eq  . "Laos" -}}🇱🇦
+{{- else if eq  . "Vietnam" -}}🇻🇳
+{{- else if eq  . "Hong Kong" -}}🇭🇰
+{{- else if eq  . "Philippines" -}}🇵🇭
+{{- else -}}
+{{ errorf "Please add emoji for " . }}
+{{- end -}}

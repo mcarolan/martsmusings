@@ -1,4 +1,5 @@
 #map {
+    width: 100%;
     height: 100%;
 }
 
@@ -18,10 +19,10 @@
 }
 
 .mappyTravelsContainer {
-    height: 100%;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 5fr 1fr;
+    height:50%;
     gap: 0px 0px;
     grid-auto-flow: row;
     grid-template-areas:

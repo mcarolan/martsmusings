@@ -84,6 +84,7 @@ var steps: Step[] | undefined;
 const lineColour = '#8856a7';
 
 var features: Feature<LineString>[] = [];
+var featuresBBox: maplibreGl.LngLatBoundsLike;
 
 const initialSource: maplibreGl.GeoJSONSourceSpecification = {
     type: "geojson",
@@ -224,7 +225,7 @@ function animateStep(timestamp: number, i: number) {
 
     const feature = features[i];
     const start = feature.geometry.coordinates[0];
-    map.panTo(lngLatLike(start));
+    // map.panTo(lngLatLike(start), { animate: false });
 
     if (steps) {
         if (i > 0) {
@@ -283,6 +284,26 @@ function animateStep(timestamp: number, i: number) {
     displayCostsAndCounts();
 }
 
+function calculateFeaturesBoundingBox(): maplibreGl.LngLatBoundsLike {
+    var minLng = Number.MAX_VALUE;
+    var maxLng = Number.MIN_VALUE;
+
+    var minLat = Number.MAX_VALUE;
+    var maxLat = Number.MIN_VALUE;
+
+    for (const feature of features) {
+        for (const p of feature.geometry.coordinates) {
+            minLng = Math.min(p[0], minLng);
+            maxLng = Math.max(p[0], maxLng);
+
+            minLat = Math.min(p[1], minLat);
+            maxLat = Math.max(p[1], maxLat);
+        }
+    }
+
+    return [[minLng, minLat], [maxLng, maxLat]];
+}
+
 function animationsFinished() {
     for (const category of allTransportCategories()) {
         const containerElement = containerElements.get(category);
@@ -290,10 +311,12 @@ function animationsFinished() {
             containerElement.classList.remove("activeContainer");
         }
     }
-    map.zoomTo(0, { animate: true, duration: 1000 });
     toggleMarker(steps.length, startMarkers);
     toggleMarker(steps.length, endMarkers);
     marker.remove();
+    map.fitBounds(featuresBBox, { animate: false,
+        padding: {top: 60, bottom: 60, left: 60, right: 60}
+      });
 }
 
 function timeFor(category: TransportCategory, distance: number): number {
@@ -392,17 +415,37 @@ function addMarker(coords: maplibreGl.LngLatLike, popupText: string): maplibreGl
 }
 
 function renderSteps(route: Step[]) {
-    steps = route;
+    steps = [];
 
     map.on('load', function () {
 
-        for (let [i, step] of route.entries()) {
+        const from: string = window.mappyTravelsFrom;
+        const to: string = window.mappyTravelsTo;
+
+        console.log(`starting for ${from} to ${to}`);
+
+        const isForSubset: boolean = from != "" || to != "";
+
+        var rangeStarted = false;
+
+        var stepNumber = 0;
+
+        for (let step of route) {
+            if (isForSubset && !rangeStarted && step.id != from) {
+                continue;
+            }
+            else {
+                rangeStarted = true;
+            }
+
+            steps.push(step);
+
             const featureCollection: FeatureCollection<LineString> = JSON.parse(step.geojson);
             const feature = featureCollection.features[0];
             features.push(feature);
 
-            const sourceKey = sourceKeyFor(i);
-            map.addSource(sourceKeyFor(i), initialSource);
+            const sourceKey = sourceKeyFor(stepNumber);
+            map.addSource(sourceKeyFor(stepNumber), initialSource);
             map.addLayer({
                 id: sourceKey,
                 type: "line",
@@ -419,12 +462,22 @@ function renderSteps(route: Step[]) {
 
             const start = lngLatLike(feature.geometry.coordinates[0]);
             const end = lngLatLike(feature.geometry.coordinates[feature.geometry.coordinates.length - 1]);
-            startMarkers.set(i, addMarker(start, `${step.fromPlace} (${step.fromCountry})`));
-            endMarkers.set(i, addMarker(end, `${step.toPlace} (${step.toCountry})`));
+            startMarkers.set(stepNumber, addMarker(start, `${step.fromPlace} (${step.fromCountry})`));
+            endMarkers.set(stepNumber, addMarker(end, `${step.toPlace} (${step.toCountry})`));
+
+            if (isForSubset && step.id == to) {
+                break;
+            }
+            stepNumber += 1;
         }
+
+        featuresBBox = calculateFeaturesBoundingBox();
 
         marker.addTo(map);
 
+        map.fitBounds(featuresBBox, { animate: false,
+            padding: {top: 60, bottom: 60, left: 60, right: 60}
+          });
         animateStep(performance.now(), 0);
         requestAnimationFrame(animateLine);
     });

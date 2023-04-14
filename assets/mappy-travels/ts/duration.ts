@@ -12,5 +12,5 @@ function plural(n: number) {
 export function minutesToHuman(minutes: number): string {
     const days = Math.floor(minutes / 1440);
     const hours = Math.floor((minutes % 1440) / 60);
-    return `${days} day${plural(days)} ${hours} hour${plural(hours)}`;
+    return `${days}d ${hours}hr${plural(hours)}`;
 }

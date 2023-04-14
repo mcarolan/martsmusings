@@ -8,6 +8,8 @@ Phwoar, turns out we _did_ still have a lot to organise before leaving. And give
 
 Aside from that, faff-free transit to Barcelona on NYE. We bagged business class flights (for £1 + Avios 💥), which was a decadent and unrepresentative way of kicking things off!
 
+{{< mappyTravels from="52135306-c9d0-4e5e-94a7-c6c3be36f238" to="53c50bba-b8cb-4faf-a203-0344b86af6d6" >}}
+
 ## 🚀 Spanish wins
 
 ### Tapas and Sangria
