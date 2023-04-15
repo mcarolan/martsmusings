@@ -8,7 +8,8 @@
 {{- $route := resources.Get $routeFilename | minify -}}
 {{- $from := .Get "from" -}}
 {{- $to := .Get "to" -}}
-{{- $params := (dict "route" $route.RelPermalink "icons" (dict "Air" $plane.RelPermalink "Road" $bus.RelPermalink "Sea" $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
+{{- $params := (dict "route" $route.RelPermalink "icons" (dict "Air" $plane.RelPermalink "Road" $bus.RelPermalink "Sea"
+$ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 {{- $mappyTravels := resources.Get "mappy-travels/ts/mappy-travels.ts" | js.Build (dict "params" $params) -}}
 <script>
     window.mappyTravelsFrom = "{{ $from }}";
@@ -16,82 +17,70 @@
 </script>
 <script src="{{ $mappyTravels.RelPermalink }}"></script>
 
-<link
-  rel="stylesheet"
-  href="{{ $mainStyle.RelPermalink }}"
-  media="all"
-/>
+<link rel="stylesheet" href="{{ $mainStyle.RelPermalink }}" media="all" />
 
-<link
-  rel="stylesheet"
-  href="{{ $mapLibreGlStyle.RelPermalink }}"
-  media="all"
-/>
+<link rel="stylesheet" href="{{ $mapLibreGlStyle.RelPermalink }}" media="all" />
 
-<div class="mappyTravelsContainer">
-    <div id="map"></div>
-    <div class="mappyTravelsFooter">
-        <div class="mappyTravelsFooterCols">
-            <div class="modecontainer" id="container-Air">
-                <div class="mode"><img src="{{ $plane.RelPermalink }}" width="16" height="16" /></div>
-                <div class="count flex-middle" id="count-Air">0</div>
-                <div class="time flex-middle" id="time-Air">0d 0 hrs</div>
-                <div class="cost flex-middle" id="cost-Air">£0.00</div>
-                <div class="distance flex-middle" id="distance-Air">0km</div>
-            </div>
-            <div class="modecontainer" id="container-Road">
-                <div class="mode"><img src="{{ $bus.RelPermalink }}" width="16" height="16" /></div>
-                <div class="count flex-middle" id="count-Road">0</div>
-                <div class="time flex-middle" id="time-Road">0d 0 hrs</div>
-                <div class="cost flex-middle" id="cost-Road">£0.00</div>
-                <div class="distance flex-middle" id="distance-Road">0km</div>
-            </div>
-            <div class="modecontainer" id="container-Sea">
-                <div class="mode"><img src="{{ $ferry.RelPermalink }}" width="16" height="16" /></div>
-                <div class="count flex-middle" id="count-Sea">0</div>
-                <div class="time flex-middle" id="time-Sea">0d 0hrs</div>
-                <div class="cost flex-middle" id="cost-Sea">£0.00</div>
-                <div class="distance flex-middle" id="distance-Sea">0km</div>
-            </div>
-            <div class="modecontainer" id="container-Rail">
-                <div class="mode"><img src="{{ $train.RelPermalink }}" width="16" height="16" /></div>
-                <div class="count flex-middle" id="count-Rail">0</div>
-                <div class="time flex-middle" id="time-Rail">0d 0hrs</div>
-                <div class="cost flex-middle" id="cost-Rail">£0.00</div>
-                <div class="distance flex-middle" id="distance-Rail">0km</div>
-            </div>
+<div id="map"></div>
+<div class="mappyTravelsFooter">
+    <div class="summaryContainer">
+        <div class="mode1 justify-center flex-middle"><img src="{{ $plane.RelPermalink }}" width="16" height="16" />
         </div>
+        <div class="count1 flex-middle" id="count-Air">0</div>
+        <div class="time1 flex-middle" id="time-Air">0d 0 hrs</div>
+        <div class="cost1 flex-middle" id="cost-Air">£0.00</div>
+        <div class="distance1 flex-middle" id="distance-Air">0km</div>
+
+        <div class="mode2 justify-center flex-middle"><img src="{{ $bus.RelPermalink }}" width="16" height="16" /></div>
+        <div class="count2 flex-middle" id="count-Road">0</div>
+        <div class="time2 flex-middle" id="time-Road">0d 0 hrs</div>
+        <div class="cost2 flex-middle" id="cost-Road">£0.00</div>
+        <div class="distance2 flex-middle" id="distance-Road">0km</div>
+
+        <div class="mode3 justify-center flex-middle"><img src="{{ $ferry.RelPermalink }}" width="16" height="16" />
+        </div>
+        <div class="count3 flex-middle" id="count-Sea">0</div>
+        <div class="time3 flex-middle" id="time-Sea">0d 0hrs</div>
+        <div class="cost3 flex-middle" id="cost-Sea">£0.00</div>
+        <div class="distance3 flex-middle" id="distance-Sea">0km</div>
+
+        <div class="mode4 justify-center flex-middle"><img src="{{ $train.RelPermalink }}" width="16" height="16" />
+        </div>
+        <div class="count4 flex-middle" id="count-Rail">0</div>
+        <div class="time4 flex-middle" id="time-Rail">0d 0hrs</div>
+        <div class="cost4 flex-middle" id="cost-Rail">£0.00</div>
+        <div class="distance4 flex-middle" id="distance-Rail">0km</div>
     </div>
 </div>
 
 <table>
     <thead>
-      <tr>
-        <th>From</th>
-        <th>To</th>
-        <th>Mode</th>
-        <th>Duration</th>
-        <th>Cost</th>
-      </tr>
+        <tr>
+            <th>From</th>
+            <th>To</th>
+            <th>Mode</th>
+            <th>Duration</th>
+            <th>Cost</th>
+        </tr>
     </thead>
     <tbody>
         {{- $routeJson := getJSON "assets/" $routeFilename -}}
         {{- $rangeStarted := false -}}
         {{- $rangeEnded := false -}}
         {{- range $i, $r := (sort $routeJson "end" "asc") -}}
-            {{- $rangeStarted = or $rangeStarted (eq $from $r.id) -}}
-            {{- $rangeEnded = or $rangeEnded (eq $to $r.id) -}}
-            {{- $endIncl := eq $to $r.id -}}
+        {{- $rangeStarted = or $rangeStarted (eq $from $r.id) -}}
+        {{- $rangeEnded = or $rangeEnded (eq $to $r.id) -}}
+        {{- $endIncl := eq $to $r.id -}}
 
-            {{- if or $endIncl (and $rangeStarted (not $rangeEnded)) (and (not $from) (not $to)) -}}
-            <tr id="row-{{ $r.id }}">
-                <td>{{ partial "countryEmoji" $r.fromCountry }} {{ $r.fromPlace }}</td>
-                <td>{{ partial "countryEmoji" $r.toCountry }} {{ $r.toPlace }} </td>
-                <td>{{ $r.mode }}</td>
-                <td>{{ $r.duration }}</td>
-                <td>£{{ $r.cost | lang.NumFmt 2 }}</td>
-            </tr>
-            {{- end -}}
+        {{- if or $endIncl (and $rangeStarted (not $rangeEnded)) (and (not $from) (not $to)) -}}
+        <tr id="row-{{ $r.id }}">
+            <td>{{ partial "countryEmoji" $r.fromCountry }} {{ $r.fromPlace }}</td>
+            <td>{{ partial "countryEmoji" $r.toCountry }} {{ $r.toPlace }} </td>
+            <td>{{ $r.mode }}</td>
+            <td>{{ $r.duration }}</td>
+            <td>£{{ $r.cost | lang.NumFmt 2 }}</td>
+        </tr>
+        {{- end -}}
         {{- end -}}
     </tbody>
 </table>

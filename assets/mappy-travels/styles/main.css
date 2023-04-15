@@ -1,6 +1,6 @@
 #map {
-    width: 100%;
-    height: 100%;
+    width:100%;
+    height: 450px;
 }
 
 .icon {
@@ -18,50 +18,26 @@
     margin: auto;
 }
 
-.mappyTravelsContainer {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 5fr 1fr;
-    height:50%;
-    gap: 0px 0px;
-    grid-auto-flow: row;
-    grid-template-areas:
-        "."
-        ".";
-}
-
-.mappyTravelsFooterCols {
+.summaryContainer {
     height: 100%;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 3fr 1fr 3fr; 
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     gap: 0px 0px;
     grid-auto-flow: row;
-    grid-template-areas:
-        ". . . .";
-}
-
-
-.modecontainer {
-    height: 100%;
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
-    gap: 0px 0px;
-    grid-auto-flow: row;
-    grid-template-areas:
-        "mode count"
-        "mode time"
-        "mode cost"
-        "mode distance";
+    grid-template-areas: 
+    "mode1 count1 mode2 count2"
+    "mode1 time1 mode2 time2"
+    "mode1 cost1 mode2 cost2"
+    "mode1 distance1 mode2 distance2"
+    "mode3 count3 mode4 count4"
+    "mode3 time3 mode4 time4"
+    "mode3 cost3 mode4 cost4"
+    "mode3 distance3 mode4 distance4"; 
 }
 
 .activeContainer {
     background-color: rgba(255, 255, 255, 0.5);
-}
-
-.mode {
-    grid-area: mode;
 }
 
 .mode img {
@@ -74,21 +50,66 @@
     align-items: center;
 }
 
-.count {
-    grid-area: count;
+.justify-center {
+    justify-content: center;
 }
 
-.time {
-    grid-area: time;
+.mode1 { 
+    grid-area: mode1;
+    border-bottom: white 2px  solid;
 }
-
-.cost {
-    grid-area: cost;
-}
-
-.distance {
-    grid-area: distance;
-}
+.mode2 { 
+    grid-area: mode2;
+    border-bottom: white 2px  solid;
+ }
+.mode3 { grid-area: mode3; }
+.mode4 { grid-area: mode4; }
+.count1 { 
+    grid-area: count1;
+    border-right: white 2px  solid;
+ }
+.count2 { grid-area: count2; }
+.count3 { 
+    grid-area: count3;
+    border-right: white 2px  solid;
+ }
+.count4 { grid-area: count4; }
+.time1 { 
+    grid-area: time1;
+    border-right: white 2px  solid;
+ }
+.time2 { grid-area: time2; }
+.time3 { 
+    grid-area: time3;
+    border-right: white 2px  solid;
+ }
+.time4 { grid-area: time4; }
+.cost1 { 
+    grid-area: cost1;
+    border-right: white 2px  solid;
+ }
+.cost2 { grid-area: cost2; }
+.cost3 { 
+    grid-area: cost3;
+    border-right: white 2px  solid;
+ }
+.cost4 { grid-area: cost4; }
+.distance1 { 
+    grid-area: distance1;
+    border-bottom: white 2px  solid;
+    border-right: white 2px  solid;
+ }
+.distance2 { 
+    grid-area: distance2;
+    border-bottom: white 2px  solid;
+ }
+.distance3 { 
+    grid-area: distance3;
+    border-right: white 2px  solid;
+ }
+.distance4 { 
+    grid-area: distance4;
+ }
 
 .maplibregl-popup {
     opacity: 0.6;
