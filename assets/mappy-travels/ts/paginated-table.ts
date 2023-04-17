@@ -1,4 +1,5 @@
 const PAGE_SIZE = 5;
+const PAGES_AROUND = 4;
 
 var rows: NodeListOf<HTMLElement> | undefined;
 var pagerElement: HTMLElement | undefined;
@@ -32,6 +33,12 @@ function pageElement(i: number): HTMLElement {
     return el;
 }
 
+function continuesElement(): HTMLElement {
+    const result = document.createElement("span");
+    result.innerText = '...';
+    return result;
+}
+
 function showPage(pageNumber: number) {
     //hide previous page rows
     const previousPageStart = (currentPage - 1) * PAGE_SIZE;
@@ -55,10 +62,28 @@ window.showPage = showPage;
 
 function showPager() {
     const newChildren: Node[] = []
-    for (var i = 0; i < numberOfPages; ++i) {
+
+    if (currentPage - 1 >= PAGES_AROUND) {
+        const firstPage = pageElement(1);
+        newChildren.push(firstPage);
+        if (currentPage - 1 > PAGES_AROUND) {
+            newChildren.push(continuesElement());
+        }
+    }
+
+    for (var i = Math.max(0, currentPage - PAGES_AROUND); i < Math.min(numberOfPages, currentPage + PAGES_AROUND); ++i) {
         const page = pageElement(i + 1);
         newChildren.push(page);
     }
+
+    if (numberOfPages - currentPage >= PAGES_AROUND + 1) {
+        const lastPage = pageElement(numberOfPages);
+        if (numberOfPages - currentPage > PAGES_AROUND + 1) {
+            newChildren.push(continuesElement());
+        }
+        newChildren.push(lastPage);
+    }
+
     pagerElement.replaceChildren(...newChildren);
 
     if (numberOfPages == 1) {
