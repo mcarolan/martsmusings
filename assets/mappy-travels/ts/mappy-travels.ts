@@ -119,6 +119,8 @@ var highlighetedStepId: string | undefined;
 const startMarkers = new Map<string, maplibreGl.Marker>();
 const endMarkers = new Map<string, maplibreGl.Marker>();
 
+const stepIdFeature = new Map<string, Feature<LineString>>();
+
 const counts = transportCategoryZeroMap();
 const costs = transportCategoryZeroMap();
 const times = transportCategoryZeroMap();
@@ -296,14 +298,14 @@ function animateStep(timestamp: number, i: number) {
     displayCostsAndCounts();
 }
 
-function calculateFeaturesBoundingBox(): maplibreGl.LngLatBoundsLike {
+function calculateBoundingBox(ofFeatures: Feature<LineString>[]): maplibreGl.LngLatBoundsLike {
     var minLng = Number.MAX_VALUE;
     var maxLng = Number.MIN_VALUE;
 
     var minLat = Number.MAX_VALUE;
     var maxLat = Number.MIN_VALUE;
 
-    for (const feature of features) {
+    for (const feature of ofFeatures) {
         for (const p of feature.geometry.coordinates) {
             minLng = Math.min(p[0], minLng);
             maxLng = Math.max(p[0], maxLng);
@@ -454,6 +456,7 @@ function renderSteps(route: Step[]) {
             const featureCollection: FeatureCollection<LineString> = JSON.parse(step.geojson);
             const feature = featureCollection.features[0];
             features.push(feature);
+            stepIdFeature.set(step.id, feature);
 
             const sourceKey = sourceKeyFor(step.id);
             map.addSource(sourceKeyFor(step.id), initialSource);
@@ -481,7 +484,7 @@ function renderSteps(route: Step[]) {
             }
         }
 
-        featuresBBox = calculateFeaturesBoundingBox();
+        featuresBBox = calculateBoundingBox(features);
         registerRowElementEvents();
 
         marker.addTo(map);
@@ -529,6 +532,15 @@ function rowElementMouseDown(id: string): ((MouseEvent) => void) {
         const endMarker: maplibreGl.Marker = endMarkers.get(highlighetedStepId);
         if (endMarker) {
             endMarker.togglePopup();
+        }
+
+        const feature = stepIdFeature.get(id);
+        if (feature) {
+            const bbox  = calculateBoundingBox([feature]);
+            map.fitBounds(bbox, {
+                animate: false,
+                padding: { top: 60, bottom: 60, left: 60, right: 60 }
+            });
         }
     };
 }
