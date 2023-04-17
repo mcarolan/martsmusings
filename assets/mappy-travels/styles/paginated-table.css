@@ -1,0 +1,12 @@
+#paginated-table-pager {
+    text-align: center;
+}
+
+#paginated-table-pager div {
+    display: inline-block;
+    padding: 5px;
+}
+
+.current-page {
+    font-weight: bold;
+}

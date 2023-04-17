@@ -118,3 +118,7 @@
 .row-highlighted {
     font-weight: bold;
 }
+
+.row-hidden {
+    display: none;
+}
