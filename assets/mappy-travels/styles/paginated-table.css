@@ -10,3 +10,7 @@
 .current-page {
     font-weight: bold;
 }
+
+.display-none {
+    display: none;
+}

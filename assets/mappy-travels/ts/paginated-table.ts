@@ -60,6 +60,10 @@ function showPager() {
         newChildren.push(page);
     }
     pagerElement.replaceChildren(...newChildren);
+
+    if (numberOfPages == 1) {
+        pagerElement.classList.add("display-none");
+    }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
