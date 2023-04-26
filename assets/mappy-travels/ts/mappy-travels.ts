@@ -54,19 +54,16 @@ function modeToCategory(mode: Mode): TransportCategory {
 
 interface Step {
     id: string,
-    fromPlace: string,
-    fromCountry: string,
-    toPlace: string,
-    toCountry: string,
-    fromLatlng: string,
-    toLatlng: string
-    mode: Mode,
-    geojson: string,
-    zoomLevel: number,
-    animationSpeed: number,
-    contribution: number,
-    cost: number,
-    duration: string
+    fp: string,
+    fc: string,
+    tp: string,
+    tc: string,
+    m: Mode,
+    p: number[][],
+    z: number,
+    c: number,
+    x: number,
+    d: string
 }
 
 const startLngLat: maplibreGl.LngLatLike = [-2.136594, 53.3504035];
@@ -239,25 +236,25 @@ function animateStep(timestamp: number, i: number) {
 
     const feature = features[i];
     const start = feature.geometry.coordinates[0];
-    // map.panTo(lngLatLike(start), { animate: false });
+    map.panTo(lngLatLike(start), { animate: false });
 
     if (steps) {
         if (i > 0) {
             const lastStep = steps[i - 1];
-            const lastCategory = modeToCategory(lastStep.mode);
+            const lastCategory = modeToCategory(lastStep.m);
             const lastCount = counts.get(lastCategory);
             const lastCost = costs.get(lastCategory);
             const lastTime = times.get(lastCategory);
             const lastDistance = distances.get(lastCategory);
 
             if (lastCount != undefined) {
-                counts.set(lastCategory, lastCount + lastStep.contribution);
+                counts.set(lastCategory, lastCount + lastStep.c);
             }
             if (lastCost != undefined) {
-                costs.set(lastCategory, lastCost + lastStep.cost);
+                costs.set(lastCategory, lastCost + lastStep.x);
             }
             if (lastTime != undefined) {
-                times.set(lastCategory, lastTime + durationStringToMinutes(lastStep.duration));
+                times.set(lastCategory, lastTime + durationStringToMinutes(lastStep.d));
             }
             const lastFeature = features[i - 1];
             if (lastFeature && lastDistance != undefined) {
@@ -271,10 +268,10 @@ function animateStep(timestamp: number, i: number) {
         }
 
         const step = steps[i];
-        const stepCategory = modeToCategory(step.mode);
+        const stepCategory = modeToCategory(step.m);
 
         if (step) {
-            map.zoomTo(step.zoomLevel, { animate: false });
+            map.zoomTo(step.z, { animate: false });
         }
 
         for (const category of allTransportCategories()) {
@@ -367,9 +364,9 @@ function animateLine(timestamp: number) {
     const elapsed = timestamp - startTime;
 
     const step = steps[currentFeature];
-    const category = modeToCategory(step.mode);
-    if (currentModeIcon != step.mode?.toString()) {
-        currentModeIcon = step.mode?.toString();
+    const category = modeToCategory(step.m);
+    if (currentModeIcon != step.m?.toString()) {
+        currentModeIcon = step.m?.toString();
         modeIcon.setAttribute("src", iconFor(category));
     }
 
@@ -378,12 +375,12 @@ function animateLine(timestamp: number) {
     const maxKm = turf.length(feature, { units: 'kilometers' });
 
     const progress = elapsed / timeFor(category, maxKm);
-    const currentKm = Math.max(0.0001, Math.min(progress * maxKm, maxKm));
+    const currentKm = Math.max(0.00001, Math.min(progress * maxKm, maxKm));
 
     if (currentKm < maxKm) {
-        inProgressCounts.set(category, step.contribution * progress);
-        inProgressCosts.set(category, step.cost * progress);
-        inProgressTimes.set(category, durationStringToMinutes(step.duration) * progress);
+        inProgressCounts.set(category, step.c * progress);
+        inProgressCosts.set(category, step.x * progress);
+        inProgressTimes.set(category, durationStringToMinutes(step.d) * progress);
         inProgressDistances.set(category, currentKm);
 
         const currentPoint = turf.along(feature, currentKm, { 'units': 'kilometers' });
@@ -425,7 +422,7 @@ function sourceKeyFor(id: string) {
 
 function addMarker(coords: maplibreGl.LngLatLike, popupText: string): maplibreGl.Marker {
     const marker = new maplibreGl.Marker();
-    marker.setLngLat(coords).setPopup(new maplibreGl.Popup().setText(popupText)).addTo(map);
+    marker.setLngLat(coords).setPopup(new maplibreGl.Popup({ focusAfterOpen: false }).setText(popupText)).addTo(map);
     return marker;
 }
 
@@ -453,8 +450,14 @@ function renderSteps(route: Step[]) {
 
             steps.push(step);
 
-            const featureCollection: FeatureCollection<LineString> = JSON.parse(step.geojson);
-            const feature = featureCollection.features[0];
+            const feature: Feature<LineString> = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "LineString",
+                    "coordinates": step.p
+                },
+                properties: {}
+            }
             features.push(feature);
             stepIdFeature.set(step.id, feature);
 
@@ -476,8 +479,8 @@ function renderSteps(route: Step[]) {
 
             const start = lngLatLike(feature.geometry.coordinates[0]);
             const end = lngLatLike(feature.geometry.coordinates[feature.geometry.coordinates.length - 1]);
-            startMarkers.set(step.id, addMarker(start, `${step.fromPlace} (${step.fromCountry})`));
-            endMarkers.set(step.id, addMarker(end, `${step.toPlace} (${step.toCountry})`));
+            startMarkers.set(step.id, addMarker(start, `${step.fp} (${step.fc})`));
+            endMarkers.set(step.id, addMarker(end, `${step.tp} (${step.tc})`));
 
             if (isForSubset && step.id == to) {
                 break;

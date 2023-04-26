@@ -5,7 +5,7 @@
 {{- $mainStyle := resources.Get "mappy-travels/styles/main.css" -}}
 {{- $paginatedTableStyle := resources.Get "mappy-travels/styles/paginated-table.css" -}}
 {{- $mapLibreGlStyle := resources.Get "mappy-travels/styles/maplibre-gl.css" -}}
-{{- $routeFilename := "mappy-travels/route.json" -}}
+{{- $routeFilename := "mappy-travels/route.compressed.json" -}}
 {{- $route := resources.Get $routeFilename | minify -}}
 {{- $from := .Get "from" -}}
 {{- $to := .Get "to" -}}
@@ -25,6 +25,7 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 <link rel="stylesheet" href="{{ $mapLibreGlStyle.RelPermalink }}" media="all" />
 
 <div id="map"></div>
+<span class="map-note">Note: prices are for 2 adults with baggage</span>
 <div class="mappyTravelsFooter">
     <div class="summaryContainer">
         <div class="mode1 justify-center flex-middle"><img src="{{ $plane.RelPermalink }}" width="16" height="16" />
@@ -77,11 +78,11 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 
             {{- if or $endIncl (and $rangeStarted (not $rangeEnded)) (and (not $from) (not $to)) -}}
             <tr id="row-{{ $r.id }}" class="row-hidden">
-                <td>{{ partial "countryEmoji" $r.fromCountry }} {{ $r.fromPlace }}</td>
-                <td>{{ partial "countryEmoji" $r.toCountry }} {{ $r.toPlace }} </td>
-                <td>{{ $r.mode }}</td>
-                <td>{{ $r.duration }}</td>
-                <td>£{{ $r.cost | lang.NumFmt 2 }}</td>
+                <td>{{ partial "countryEmoji" $r.fc }} {{ $r.fp }}</td>
+                <td>{{ partial "countryEmoji" $r.tc }} {{ $r.tp }} </td>
+                <td>{{ $r.m }}</td>
+                <td>{{ $r.d }}</td>
+                <td>£{{ $r.x | lang.NumFmt 2 }}</td>
             </tr>
             {{- end -}}
         {{- end -}}

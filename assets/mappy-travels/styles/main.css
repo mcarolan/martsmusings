@@ -122,3 +122,7 @@
 .row-hidden {
     display: none;
 }
+
+.map-note {
+    font-size: smaller;
+}
