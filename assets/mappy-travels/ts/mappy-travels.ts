@@ -113,6 +113,8 @@ var currentModeIcon: string | undefined;
 
 var highlighetedStepId: string | undefined;
 
+var alreadyStarted: boolean = false;
+
 const startMarkers = new Map<string, maplibreGl.Marker>();
 const endMarkers = new Map<string, maplibreGl.Marker>();
 
@@ -566,11 +568,15 @@ function registerRowElementEvents() {
     }
 }
 
-document.addEventListener("DOMContentLoaded", () => {
+function mappyStart() {
+    if (alreadyStarted) {
+        return;
+    }
+
+    alreadyStarted = true;
     map = new maplibreGl.Map(mapOptions);
     map.addControl(new maplibreGl.NavigationControl({ showCompass: true, showZoom: true, visualizePitch: true }));
     map.addControl(new maplibreGl.FullscreenControl({}));
-
 
     for (const category of allTransportCategories()) {
         const countElement = document.getElementById(`count-${category}`);
@@ -606,4 +612,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 console.log(`route request gave response code ${response.status}`);
             }
         });
+}
+window.mappyStart = mappyStart;
+
+document.addEventListener("DOMContentLoaded", () => {
+    if (window.mappyAutoStart == "yes") {
+        mappyStart();
+    }
 });

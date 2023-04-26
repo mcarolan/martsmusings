@@ -9,6 +9,7 @@
 {{- $route := resources.Get $routeFilename | minify -}}
 {{- $from := .Get "from" -}}
 {{- $to := .Get "to" -}}
+{{- $autoStart := .Get "autostart" -}}
 {{- $params := (dict "route" $route.RelPermalink "icons" (dict "Air" $plane.RelPermalink "Road" $bus.RelPermalink "Sea"
 $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 {{- $mappyTravels := resources.Get "mappy-travels/ts/mappy-travels.ts" | js.Build (dict "params" $params) -}}
@@ -16,6 +17,7 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 <script>
     window.mappyTravelsFrom = "{{ $from }}";
     window.mappyTravelsTo = "{{ $to }}";
+    window.mappyAutoStart = "{{ $autoStart }}";
 </script>
 <script src="{{ $mappyTravels.RelPermalink }}"></script>
 <script src="{{ $paginatedTable.RelPermalink }}"></script>

@@ -1,6 +1,6 @@
 ---
-title: "A map of our 2023 travels"
-date: "2023-03-12 18:50:00+07:00"
+title: "🌎 A map of our 2023 travels 🌎"
+date: "2023-04-26 21:50:00+07:00"
 summary: "Visualising a year on the road"
 tags: [projects]
 weight: 1
@@ -16,7 +16,7 @@ I've been stuffing stats into a spreadsheet since the start of the year, and hav
 
 This post will be updated as our voyage continues:
 
-{{< mappyTravels >}}
+{{< mappyTravels  autostart="yes" >}}
 
 And "destination" posts will have a logistical section 🤓
 

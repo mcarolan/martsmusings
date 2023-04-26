@@ -10,7 +10,9 @@ All signs were in English, it's super safe (a friend we met up with said we coul
 
 {{< toc >}}
 
+{{< expando title="Map, Journey and Costs" onchange="javascript:window.mappyStart()" >}}
 {{< mappyTravels from="772cdf3b-06f8-46e8-9479-655824bd122a" to="772cdf3b-06f8-46e8-9479-655824bd122a" >}}
+{{< /expando >}}
 
 ## Accommodation
 
