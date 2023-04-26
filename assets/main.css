@@ -331,7 +331,7 @@ a:hover {
   text-decoration: none;
 }
 a:visited {
-  color: var(--link-color-visited);
+  color: var(--link-color);
 }
 a:visited:hover {
   background: var(--link-color-visited);
