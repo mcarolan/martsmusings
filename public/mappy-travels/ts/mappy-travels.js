@@ -39387,6 +39387,7 @@ uniform ${i3} ${o3} u_${a3};
   marker.setLngLat(startLngLat);
   var currentModeIcon;
   var highlighetedStepId;
+  var alreadyStarted = false;
   var startMarkers = /* @__PURE__ */ new Map();
   var endMarkers = /* @__PURE__ */ new Map();
   var stepIdFeature = /* @__PURE__ */ new Map();
@@ -39747,7 +39748,11 @@ uniform ${i3} ${o3} u_${a3};
       }
     }
   }
-  document.addEventListener("DOMContentLoaded", () => {
+  function mappyStart() {
+    if (alreadyStarted) {
+      return;
+    }
+    alreadyStarted = true;
     map2 = new maplibreGl.Map(mapOptions);
     map2.addControl(new maplibreGl.NavigationControl({ showCompass: true, showZoom: true, visualizePitch: true }));
     map2.addControl(new maplibreGl.FullscreenControl({}));
@@ -39780,6 +39785,12 @@ uniform ${i3} ${o3} u_${a3};
         console.log(`route request gave response code ${response.status}`);
       }
     });
+  }
+  window.mappyStart = mappyStart;
+  document.addEventListener("DOMContentLoaded", () => {
+    if (window.mappyAutoStart == "yes") {
+      mappyStart();
+    }
   });
 })();
 /*! Bundled license information:

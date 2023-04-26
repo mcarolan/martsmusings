@@ -1,530 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="HTML"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-04-12 10:10:00 +0800 +0800</updated><entry><title>A map of our 2023 travels</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-03-12T18:50:00+07:00</published><updated>2023-03-12T18:50:00+07:00</updated><content type="html">
-&lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
-&lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
-&lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
-&lt;p>I&amp;rsquo;ve been stuffing stats into a spreadsheet since the start of the year, and have been hacking away on a method of visualising it.&lt;/p>
-&lt;p>This post will be updated as our voyage continues:&lt;/p>
-&lt;script>
-window.mappyTravelsFrom = "";
-window.mappyTravelsTo = "";
-&lt;/script>
-&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
-&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
-&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
-&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
-&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
-&lt;div id="map">&lt;/div>
-&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
-&lt;div class="mappyTravelsFooter">
-&lt;div class="summaryContainer">
-&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
-&lt;/div>
-&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
-&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
-&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
-&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
-&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
-&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
-&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
-&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
-&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
-&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
-&lt;/div>
-&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
-&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
-&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
-&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
-&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
-&lt;/div>
-&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
-&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
-&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
-&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;table id="paginated-table">
-&lt;thead>
-&lt;tr>
-&lt;th>From&lt;/th>
-&lt;th>To&lt;/th>
-&lt;th>Mode&lt;/th>
-&lt;th>Duration&lt;/th>
-&lt;th>Cost&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody id="paginated-table-body">&lt;tr id="row-52135306-c9d0-4e5e-94a7-c6c3be36f238" class="row-hidden">
-&lt;td>🇬🇧 Poynton&lt;/td>
-&lt;td>🇬🇧 London Euston &lt;/td>
-&lt;td>Train&lt;/td>
-&lt;td>02:20&lt;/td>
-&lt;td>£61.00&lt;/td>
-&lt;/tr>&lt;tr id="row-c1e48485-84fa-4e76-859b-e777fde31b1b" class="row-hidden">
-&lt;td>🇬🇧 London Euston&lt;/td>
-&lt;td>🇬🇧 London Heathrow &lt;/td>
-&lt;td>Tube&lt;/td>
-&lt;td>01:01&lt;/td>
-&lt;td>£11.00&lt;/td>
-&lt;/tr>&lt;tr id="row-53c50bba-b8cb-4faf-a203-0344b86af6d6" class="row-hidden">
-&lt;td>🇬🇧 London Heathrow (LHR)&lt;/td>
-&lt;td>🇪🇸 Barcelona (BCN) &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>02:25&lt;/td>
-&lt;td>£1.00&lt;/td>
-&lt;/tr>&lt;tr id="row-772cdf3b-06f8-46e8-9479-655824bd122a" class="row-hidden">
-&lt;td>🇬🇧 Barcelona (BCN)&lt;/td>
-&lt;td>🇸🇬 Singapore (SIN) &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>18:50&lt;/td>
-&lt;td>£669.70&lt;/td>
-&lt;/tr>&lt;tr id="row-eeaa4ce6-c140-4619-9b53-5c7ff3328297" class="row-hidden">
-&lt;td>🇸🇬 Singapore&lt;/td>
-&lt;td>🇲🇾 Kuala Lumpur &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>05:30&lt;/td>
-&lt;td>£40.29&lt;/td>
-&lt;/tr>&lt;tr id="row-f9b6e11e-2f35-4698-943f-3b540c056676" class="row-hidden">
-&lt;td>🇲🇾 Kuala Lumpur&lt;/td>
-&lt;td>🇲🇾 Cameron Highlands &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>04:30&lt;/td>
-&lt;td>£14.64&lt;/td>
-&lt;/tr>&lt;tr id="row-1ec9a0ff-c5a5-48ee-8b99-0239c161d0d3" class="row-hidden">
-&lt;td>🇲🇾 Cameron Highlands&lt;/td>
-&lt;td>🇲🇾 Penang &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>04:45&lt;/td>
-&lt;td>£13.25&lt;/td>
-&lt;/tr>&lt;tr id="row-4f02c37d-778c-4cef-b6e9-3662fa4aaa24" class="row-hidden">
-&lt;td>🇲🇾 Penang&lt;/td>
-&lt;td>🇲🇾 Alor Setar &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>02:00&lt;/td>
-&lt;td>£3.05&lt;/td>
-&lt;/tr>&lt;tr id="row-841b0df7-0fd1-4962-874f-d08dcdb199ba" class="row-hidden">
-&lt;td>🇲🇾 Alor Setar&lt;/td>
-&lt;td>🇲🇾 Langkawi &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>01:30&lt;/td>
-&lt;td>£13.16&lt;/td>
-&lt;/tr>&lt;tr id="row-fce7bef1-a065-4ff2-942d-a80c2d39ba3e" class="row-hidden">
-&lt;td>🇲🇾 Langkawi&lt;/td>
-&lt;td>🇹🇭 Koh Lipe &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>01:30&lt;/td>
-&lt;td>£62.35&lt;/td>
-&lt;/tr>&lt;tr id="row-e3ce594d-66be-4c38-88b4-35754bce6873" class="row-hidden">
-&lt;td>🇹🇭 Koh Lipe&lt;/td>
-&lt;td>🇹🇭 Koh Lanta &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>03:30&lt;/td>
-&lt;td>£84.30&lt;/td>
-&lt;/tr>&lt;tr id="row-151dd1db-9abb-4f05-b8c5-7c9544c73898" class="row-hidden">
-&lt;td>🇹🇭 Koh Lanta&lt;/td>
-&lt;td>🇹🇭 Krabi &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>02:00&lt;/td>
-&lt;td>£21.69&lt;/td>
-&lt;/tr>&lt;tr id="row-0b550bfc-5202-481a-8f8d-fc25737a753e" class="row-hidden">
-&lt;td>🇹🇭 Krabi&lt;/td>
-&lt;td>🇹🇭 Bangkok &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>11:00&lt;/td>
-&lt;td>£61.43&lt;/td>
-&lt;/tr>&lt;tr id="row-bc38d9d3-c0b4-4a3d-9d3e-064666760214" class="row-hidden">
-&lt;td>🇹🇭 Bangkok&lt;/td>
-&lt;td>🇹🇭 Chiang Mai &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>10:00&lt;/td>
-&lt;td>£49.81&lt;/td>
-&lt;/tr>&lt;tr id="row-53b106db-1a85-4bec-a457-c7c8a79b06fd" class="row-hidden">
-&lt;td>🇹🇭 Chiang Mai&lt;/td>
-&lt;td>🇹🇭 Pai &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>04:00&lt;/td>
-&lt;td>£12.27&lt;/td>
-&lt;/tr>&lt;tr id="row-3acd3a83-c22f-4019-bdbe-8b791c6ca4ab" class="row-hidden">
-&lt;td>🇹🇭 Pai&lt;/td>
-&lt;td>🇹🇭 Chiang Mai &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>04:00&lt;/td>
-&lt;td>£12.28&lt;/td>
-&lt;/tr>&lt;tr id="row-ab68c8b1-c01d-456b-b360-4b97b859214c" class="row-hidden">
-&lt;td>🇹🇭 Chiang Mai&lt;/td>
-&lt;td>🇹🇭 Chiang Rai &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>04:00&lt;/td>
-&lt;td>£13.78&lt;/td>
-&lt;/tr>&lt;tr id="row-2b45fcd0-a66e-448b-992a-26da1e1ae343" class="row-hidden">
-&lt;td>🇹🇭 Chiang Rai&lt;/td>
-&lt;td>🇹🇭 Chiang Khong &lt;/td>
-&lt;td>Bus&lt;/td>
-&lt;td>02:00&lt;/td>
-&lt;td>£3.46&lt;/td>
-&lt;/tr>&lt;tr id="row-3ac86b96-6ea0-43c1-be83-dfcf99642bc8" class="row-hidden">
-&lt;td>🇹🇭 Chiang Khong&lt;/td>
-&lt;td>🇱🇦 Luang Prabang &lt;/td>
-&lt;td>LongBoat&lt;/td>
-&lt;td>30:00&lt;/td>
-&lt;td>£19.63&lt;/td>
-&lt;/tr>&lt;tr id="row-a1f37bf7-d26c-4812-a917-a6d79b1505e7" class="row-hidden">
-&lt;td>🇱🇦 Luang Prabang&lt;/td>
-&lt;td>🇱🇦 Vang Vieng &lt;/td>
-&lt;td>Train&lt;/td>
-&lt;td>01:10&lt;/td>
-&lt;td>£22.96&lt;/td>
-&lt;/tr>&lt;tr id="row-11cfe570-036f-46da-95b6-4eb12b0f3d4b" class="row-hidden">
-&lt;td>🇱🇦 Vang Vieng&lt;/td>
-&lt;td>🇱🇦 Luang Prabang &lt;/td>
-&lt;td>Train&lt;/td>
-&lt;td>01:10&lt;/td>
-&lt;td>£26.21&lt;/td>
-&lt;/tr>&lt;tr id="row-229c2e52-34ce-49fc-877e-d766696e21d5" class="row-hidden">
-&lt;td>🇱🇦 Luang Prabang&lt;/td>
-&lt;td>🇱🇦 Nong Khiaw &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>03:00&lt;/td>
-&lt;td>£39.29&lt;/td>
-&lt;/tr>&lt;tr id="row-2fc10221-5c41-4446-ad8e-f0cad73497af" class="row-hidden">
-&lt;td>🇱🇦 Nong Khiaw&lt;/td>
-&lt;td>🇱🇦 Muang Khau &lt;/td>
-&lt;td>LongBoat&lt;/td>
-&lt;td>08:00&lt;/td>
-&lt;td>£29.47&lt;/td>
-&lt;/tr>&lt;tr id="row-ba6bcd42-3775-40b6-a2c8-851609d6d6cf" class="row-hidden">
-&lt;td>🇱🇦 Muang Khau&lt;/td>
-&lt;td>🇻🇳 Dien Bien Phu &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>04:40&lt;/td>
-&lt;td>£24.74&lt;/td>
-&lt;/tr>&lt;tr id="row-1ed7ec6f-1779-467d-b91c-77d934f86ede" class="row-hidden">
-&lt;td>🇻🇳 Dien Bien Phu&lt;/td>
-&lt;td>🇻🇳 Sapa &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>10:00&lt;/td>
-&lt;td>£18.97&lt;/td>
-&lt;/tr>&lt;tr id="row-78aad220-7b73-4932-8d98-d0cf9c3cd75f" class="row-hidden">
-&lt;td>🇻🇳 Sapa&lt;/td>
-&lt;td>🇻🇳 Ha Giang &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>08:00&lt;/td>
-&lt;td>£29.90&lt;/td>
-&lt;/tr>&lt;tr id="row-a20c50c3-413e-4eaf-98c2-f43a7507f87e" class="row-hidden">
-&lt;td>🇻🇳 Ha Giang&lt;/td>
-&lt;td>🇻🇳 Hanoi &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>06:00&lt;/td>
-&lt;td>£31.51&lt;/td>
-&lt;/tr>&lt;tr id="row-6dc3dbe9-9a94-4ace-8f34-2467550c0263" class="row-hidden">
-&lt;td>🇻🇳 Hanoi&lt;/td>
-&lt;td>🇻🇳 Cát Bà &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>03:30&lt;/td>
-&lt;td>£20.13&lt;/td>
-&lt;/tr>&lt;tr id="row-0cbec6fc-fe92-4699-9eaf-960748a0f30e" class="row-hidden">
-&lt;td>🇻🇳 Cát Bà&lt;/td>
-&lt;td>🇻🇳 Ninh Binh &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>04:30&lt;/td>
-&lt;td>£17.83&lt;/td>
-&lt;/tr>&lt;tr id="row-8f186c14-58d6-4f6d-b9fe-b851d747a7c5" class="row-hidden">
-&lt;td>🇻🇳 Ninh Binh&lt;/td>
-&lt;td>🇻🇳 Ninh Binh Train Station &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
-&lt;td>£3.37&lt;/td>
-&lt;/tr>&lt;tr id="row-4b9af6eb-583f-4008-88a9-c66d0b762c0d" class="row-hidden">
-&lt;td>🇻🇳 Ninh Binh Train Station&lt;/td>
-&lt;td>🇻🇳 Đồng Hới &lt;/td>
-&lt;td>Train&lt;/td>
-&lt;td>08:00&lt;/td>
-&lt;td>£30.46&lt;/td>
-&lt;/tr>&lt;tr id="row-131e5c25-54e1-4c59-a0d7-0ed73c7cfd82" class="row-hidden">
-&lt;td>🇻🇳 Đồng Hới&lt;/td>
-&lt;td>🇻🇳 Phong Nha &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>00:03&lt;/td>
-&lt;td>£4.22&lt;/td>
-&lt;/tr>&lt;tr id="row-516229f4-dd1b-4e59-8d74-d45379d45746" class="row-hidden">
-&lt;td>🇻🇳 Phong Na&lt;/td>
-&lt;td>🇻🇳 Đà Nẵng &lt;/td>
-&lt;td>Coach&lt;/td>
-&lt;td>07:00&lt;/td>
-&lt;td>£30.78&lt;/td>
-&lt;/tr>&lt;tr id="row-6f4790a5-3792-4485-9cc5-801eb98c6716" class="row-hidden">
-&lt;td>🇻🇳 Đà Nẵng&lt;/td>
-&lt;td>🇻🇳 Hội An &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:50&lt;/td>
-&lt;td>£14.56&lt;/td>
-&lt;/tr>&lt;tr id="row-92acc639-48f1-437c-a464-4791323aa5a4" class="row-hidden">
-&lt;td>🇻🇳 Hội An&lt;/td>
-&lt;td>🇻🇳 Đà Nẵng Airport (DAD) &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:45&lt;/td>
-&lt;td>£14.21&lt;/td>
-&lt;/tr>&lt;tr id="row-a3b9786e-a7c3-42d5-83fb-ac7877af336a" class="row-hidden">
-&lt;td>🇻🇳 Đà Nẵng Airport (DAD)&lt;/td>
-&lt;td>🇻🇳 Tân Sơn Nhất International Airport (SGN) &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>01:20&lt;/td>
-&lt;td>£104.32&lt;/td>
-&lt;/tr>&lt;tr id="row-6d02ab8e-2f96-4784-b45f-bf280140c5af" class="row-hidden">
-&lt;td>🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/td>
-&lt;td>🇻🇳 Saigon Amigo Hostel &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:43&lt;/td>
-&lt;td>£5.83&lt;/td>
-&lt;/tr>&lt;tr id="row-9ea88f7c-c3c0-4c19-ab80-b0a9dad11a35" class="row-hidden">
-&lt;td>🇻🇳 Saigon Amigo Hostel&lt;/td>
-&lt;td>🇻🇳 Tân Sơn Nhất International Airport (SGN) &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:36&lt;/td>
-&lt;td>£5.03&lt;/td>
-&lt;/tr>&lt;tr id="row-eca23a15-6842-4a2c-a05e-32e768e00163" class="row-hidden">
-&lt;td>🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/td>
-&lt;td>🇭🇰 Hong Kong International Airport (HKG) &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>02:40&lt;/td>
-&lt;td>£109.70&lt;/td>
-&lt;/tr>&lt;tr id="row-6a275e4b-52c6-4032-8bc1-8ecff4ef275f" class="row-hidden">
-&lt;td>🇭🇰 Hong Kong International Airport (HKG)&lt;/td>
-&lt;td>🇭🇰 First Inn &lt;/td>
-&lt;td>Tube&lt;/td>
-&lt;td>00:55&lt;/td>
-&lt;td>£26.47&lt;/td>
-&lt;/tr>&lt;tr id="row-7cc6f82a-7ca1-4255-82fe-3c03bf76672b" class="row-hidden">
-&lt;td>🇭🇰 First Inn&lt;/td>
-&lt;td>🇭🇰 Hong Kong International Airport (HKG) &lt;/td>
-&lt;td>Tube&lt;/td>
-&lt;td>00:55&lt;/td>
-&lt;td>£26.47&lt;/td>
-&lt;/tr>&lt;tr id="row-5ddf76ae-9f7f-42a7-b38e-de236d3d7ce8" class="row-hidden">
-&lt;td>🇭🇰 Hong Kong International Airport (HKG)&lt;/td>
-&lt;td>🇵🇭 Mactan-Cebu International Airport &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>02:55&lt;/td>
-&lt;td>£405.44&lt;/td>
-&lt;/tr>&lt;tr id="row-58b5948c-8633-484f-ac83-9adeffb3f74b" class="row-hidden">
-&lt;td>🇵🇭 Mactan-Cebu International Airport&lt;/td>
-&lt;td>🇵🇭 South Bus Terminal &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
-&lt;td>£5.98&lt;/td>
-&lt;/tr>&lt;tr id="row-28f139cf-bd0b-4b5d-a70e-af257ce87fb6" class="row-hidden">
-&lt;td>🇵🇭 South Bus Terminal, Cebu&lt;/td>
-&lt;td>🇵🇭 Moalboal &lt;/td>
-&lt;td>Bus&lt;/td>
-&lt;td>03:00&lt;/td>
-&lt;td>£6.25&lt;/td>
-&lt;/tr>&lt;tr id="row-f65728ae-7f0c-466f-bc4a-4e9708030bb0" class="row-hidden">
-&lt;td>🇵🇭 Moalboal&lt;/td>
-&lt;td>🇵🇭 South Bus Terminal, Cebu &lt;/td>
-&lt;td>Bus&lt;/td>
-&lt;td>02:55&lt;/td>
-&lt;td>£6.25&lt;/td>
-&lt;/tr>&lt;tr id="row-dc17f66c-546e-48e1-b532-77b9372497a2" class="row-hidden">
-&lt;td>🇵🇭 South Bus Terminal, Cebu&lt;/td>
-&lt;td>🇵🇭 Pier 1, Cebu &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
-&lt;td>£1.93&lt;/td>
-&lt;/tr>&lt;tr id="row-46ae0bcc-5aaa-4a34-adf6-b9911c6312ae" class="row-hidden">
-&lt;td>🇵🇭 Pier 1, Cebu&lt;/td>
-&lt;td>🇵🇭 Tagbilaran Ferry Terminal, Bohol &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>02:45&lt;/td>
-&lt;td>£23.92&lt;/td>
-&lt;/tr>&lt;tr id="row-9edca7c8-cc84-42d2-b9e7-f7edd53fcdae" class="row-hidden">
-&lt;td>🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/td>
-&lt;td>🇵🇭 Panglao, Bohol &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:27&lt;/td>
-&lt;td>£8.97&lt;/td>
-&lt;/tr>&lt;tr id="row-3277114c-cc95-470f-b658-13265388584f" class="row-hidden">
-&lt;td>🇵🇭 Panglao, Bohol&lt;/td>
-&lt;td>🇵🇭 Tagbilaran Ferry Terminal, Bohol &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:25&lt;/td>
-&lt;td>£7.47&lt;/td>
-&lt;/tr>&lt;tr id="row-05781432-de7e-47e0-a876-93f7f18aae5a" class="row-hidden">
-&lt;td>🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/td>
-&lt;td>🇵🇭 Larena Pier, Siquijor &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>02:30&lt;/td>
-&lt;td>£22.95&lt;/td>
-&lt;/tr>&lt;tr id="row-9ee81cd4-b231-419c-9642-d4e6ad1d5bb5" class="row-hidden">
-&lt;td>🇵🇭 Larena Pier, Siquijor&lt;/td>
-&lt;td>🇵🇭 San Juan, Siquijor &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:30&lt;/td>
-&lt;td>£8.22&lt;/td>
-&lt;/tr>&lt;tr id="row-9c2b0900-db4b-11ed-afa1-0242ac120002" class="row-hidden">
-&lt;td>🇵🇭 San Juan, Siquijor&lt;/td>
-&lt;td>🇵🇭 Siquijor Port, Siquijor &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:16&lt;/td>
-&lt;td>£5.23&lt;/td>
-&lt;/tr>&lt;tr id="row-eaaeb8f7-55a6-4bd9-a3a8-0c148901383d" class="row-hidden">
-&lt;td>🇵🇭 Siquijor Port, Siquijor&lt;/td>
-&lt;td>🇵🇭 Tagbilaran Ferry Terminal, Bohol &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>02:00&lt;/td>
-&lt;td>£28.10&lt;/td>
-&lt;/tr>&lt;tr id="row-468c085c-e910-433d-9f76-0649f15b957c" class="row-hidden">
-&lt;td>🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/td>
-&lt;td>🇵🇭 Pier 1, Cebu &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>02:00&lt;/td>
-&lt;td>£28.10&lt;/td>
-&lt;/tr>&lt;tr id="row-d2c5d2e7-d900-42ea-86fa-7efef13d116f" class="row-hidden">
-&lt;td>🇵🇭 Pier 1, Cebu&lt;/td>
-&lt;td>🇵🇭 Ania Rooms, Cebu &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
-&lt;td>£5.42&lt;/td>
-&lt;/tr>&lt;tr id="row-913fb5d6-41d3-4e74-aa0b-5c487dbc927f" class="row-hidden">
-&lt;td>🇵🇭 Ania Rooms, Cebu&lt;/td>
-&lt;td>🇵🇭 Mactan-Cebu International Airport &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:08&lt;/td>
-&lt;td>£1.51&lt;/td>
-&lt;/tr>&lt;tr id="row-564b448d-5805-4aac-8fee-04c43bd9e9b4" class="row-hidden">
-&lt;td>🇵🇭 Mactan-Cebu International Airport&lt;/td>
-&lt;td>🇵🇭 Francisco B. Reyes Airport &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>01:00&lt;/td>
-&lt;td>£143.61&lt;/td>
-&lt;/tr>&lt;tr id="row-de2c390d-d5c8-49f0-b2fb-efa420ff6b16" class="row-hidden">
-&lt;td>🇵🇭 Francisco B. Reyes Airport&lt;/td>
-&lt;td>🇵🇭 Ken&amp;#39;s Inn &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
-&lt;td>£7.28&lt;/td>
-&lt;/tr>&lt;tr id="row-ed59a631-b81b-48a3-b7f8-0728195aa9f5" class="row-hidden">
-&lt;td>🇵🇭 Ken&amp;#39;s Inn&lt;/td>
-&lt;td>🇵🇭 Coron Port &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:06&lt;/td>
-&lt;td>£2.87&lt;/td>
-&lt;/tr>&lt;tr id="row-06baa82f-77c0-4d32-b1c6-c712f3372de9" class="row-hidden">
-&lt;td>🇵🇭 Coron Port&lt;/td>
-&lt;td>🇵🇭 El Nido &lt;/td>
-&lt;td>Ferry&lt;/td>
-&lt;td>05:00&lt;/td>
-&lt;td>£91.50&lt;/td>
-&lt;/tr>&lt;tr id="row-3c2873d2-e350-11ed-b5ea-0242ac120002" class="row-hidden">
-&lt;td>🇵🇭 El Nido&lt;/td>
-&lt;td>🇵🇭 El Nido Transport Terminal &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
-&lt;td>£1.35&lt;/td>
-&lt;/tr>&lt;tr id="row-b62c1d57-58c1-4c2b-af64-d37c9c2bc7b2" class="row-hidden">
-&lt;td>🇵🇭 El Nido Transport Terminal&lt;/td>
-&lt;td>🇵🇭 Puerto Princesa International Airport &lt;/td>
-&lt;td>Minibus&lt;/td>
-&lt;td>05:15&lt;/td>
-&lt;td>£20.03&lt;/td>
-&lt;/tr>&lt;tr id="row-98a07e85-1888-48b4-902e-86440807ada1" class="row-hidden">
-&lt;td>🇵🇭 Puerto Princesa International Airport&lt;/td>
-&lt;td>🇵🇭 Manila International Airport &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>01:04&lt;/td>
-&lt;td>£146.88&lt;/td>
-&lt;/tr>&lt;tr id="row-c4ad85f8-50e0-486f-a9e2-8bd78df01da6" class="row-hidden">
-&lt;td>🇵🇭 Manila International Airport&lt;/td>
-&lt;td>🇲🇾 Kuala Lumpur International Airport &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>03:30&lt;/td>
-&lt;td>£103.99&lt;/td>
-&lt;/tr>&lt;tr id="row-c9ad4687-190d-4887-a825-8a3bd1c37e70" class="row-hidden">
-&lt;td>🇲🇾 Kuala Lumpur International Airport&lt;/td>
-&lt;td>🇲🇾 OYO Night Queen &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:24&lt;/td>
-&lt;td>£5.44&lt;/td>
-&lt;/tr>&lt;tr id="row-335fd81f-835b-48c5-8e22-42fe2b7c86b8" class="row-hidden">
-&lt;td>🇲🇾 OYO Night Queen&lt;/td>
-&lt;td>🇲🇾 Kuala Lumpur International Airport &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>00:18&lt;/td>
-&lt;td>£5.44&lt;/td>
-&lt;/tr>&lt;tr id="row-8164c431-eb21-4669-87ae-acf4884b3e4b" class="row-hidden">
-&lt;td>🇲🇾 Kuala Lumpur International Airport&lt;/td>
-&lt;td>🇮🇩 Yogyakarta International Airport &lt;/td>
-&lt;td>Plane&lt;/td>
-&lt;td>02:05&lt;/td>
-&lt;td>£149.12&lt;/td>
-&lt;/tr>&lt;tr id="row-d3674176-51db-4519-a62a-f98a22c815c8" class="row-hidden">
-&lt;td>🇮🇩 Yogyakarta International Airport&lt;/td>
-&lt;td>🇮🇩 Good Karma Hostel, Yogyakarta &lt;/td>
-&lt;td>Taxi&lt;/td>
-&lt;td>01:30&lt;/td>
-&lt;td>£9.10&lt;/td>
-&lt;/tr>&lt;/tbody>
-&lt;/table>
-&lt;div id="paginated-table-pager">
-&lt;/div>
-&lt;p>And &amp;ldquo;destination&amp;rdquo; posts will have a logistical section 🤓&lt;/p>
-&lt;a data-clipboard-text="https://martsmusings.uk/post/projects/mappy-travels/#the-nerd-zone" class="header-link" aria-label="Anchor The nerd zone" href="#the-nerd-zone">
-&lt;h1 id="the-nerd-zone">
-The nerd zone
-&lt;/h1>
-&lt;/a>&lt;p>A slight word on how this fits together, I know you geeks are out there.&lt;/p>
-&lt;a data-clipboard-text="https://martsmusings.uk/post/projects/mappy-travels/#data-sources" class="header-link" aria-label="Anchor Data sources" href="#data-sources">
-&lt;h2 id="data-sources">
-Data sources
-&lt;/h2>
-&lt;/a>&lt;p>Road and rail routes are mostly sourced using a script I wrote, which calls the Google directions API.&lt;/p>
-&lt;p>Maritime routes are mostly also obtained from the Google directions API, but less official crossings have been drawn by my fair hand with &lt;a
-class="gblog-markdown__link"
-href="https://geojson.io"
->geojson.io&lt;/a>.&lt;/p>
-&lt;p>Flight routes are actual, exported from &lt;a
-class="gblog-markdown__link"
-href="https://flightradar24.com"
->flightradar24.com&lt;/a>.&lt;/p>
-&lt;p>Laura would also like me to point out that asking her &amp;ldquo;what time did that bus we got (three weeks ago) arrive?&amp;rdquo; is not a very accurate way of measuring journey times. (Despite her having an excellent memory 💪).&lt;/p>
-&lt;a data-clipboard-text="https://martsmusings.uk/post/projects/mappy-travels/#mashing-it-together" class="header-link" aria-label="Anchor Mashing it together" href="#mashing-it-together">
-&lt;h2 id="mashing-it-together">
-Mashing it together
-&lt;/h2>
-&lt;/a>&lt;p>All the data is mixed into the aforementioned spreadsheet, which looks something like this:&lt;/p>
-&lt;div class="gallery-wrapper">
-&lt;div class="gallery-item">
-&lt;a data-fancybox="gallery-8b50699e6366e9ba0ae46d06857e778b" href="https://assets.martsmusings.uk/galleries/mappy-travels-spreadsheet/mappy-travels-sheet.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/mappy-travels-spreadsheet/mappy-travels-sheet.jpg" class="gallery-item-thumb" />&lt;/a>
-&lt;/div>
-&lt;/div>
-&lt;p>I then export it to JSON using &lt;a
-class="gblog-markdown__link"
-href="http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html?m=1"
->this excellent Google Apps Script&lt;/a>.&lt;/p>
-&lt;p>Yet another script is then run on this JSON. It&amp;rsquo;s based on &lt;a
-class="gblog-markdown__link"
-href="https://mourner.github.io/simplify-js/"
->simplify-js&lt;/a> and uses the &lt;a
-class="gblog-markdown__link"
-href="https://en.m.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm"
->Douglas-Peucker algorithm&lt;/a> to remove points in a curve that don&amp;rsquo;t pull their weight enough. For example, it reduces our flight from Barcelona to Singapore from being 1455 points to 279 points - and only causes a 930m loss in total distance.&lt;/p>
-&lt;a data-clipboard-text="https://martsmusings.uk/post/projects/mappy-travels/#displaying-it" class="header-link" aria-label="Anchor Displaying it" href="#displaying-it">
-&lt;h2 id="displaying-it">
-Displaying it
-&lt;/h2>
-&lt;/a>&lt;p>The mashed JSON is fed into my blog as a resource. The blog itself uses the excellent &lt;a
-class="gblog-markdown__link"
-href="https://gohugo.io"
->Hugo&lt;/a> static site generator. HTML tables are spat out based on the JSON, and I wrote some typescript glue that uses the magnificent &lt;a
-class="gblog-markdown__link"
-href="https://maplibre.org/"
->maplibre&lt;/a> to draw/animate it all on a map.&lt;/p>
-&lt;a data-clipboard-text="https://martsmusings.uk/post/projects/mappy-travels/#scaling" class="header-link" aria-label="Anchor Scaling" href="#scaling">
-&lt;h2 id="scaling">
-Scaling
-&lt;/h2>
-&lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇭🇰 Hong Kong 🇭🇰</title><link href="https://martsmusings.uk/post/2023-04-11-Hong-Kong/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-11-Hong-Kong/</id><published>2023-04-12T10:10:00+08:00</published><updated>2023-04-12T10:10:00+08:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="HTML"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-04-12 10:10:00 +0800 +0800</updated><entry><title>🇭🇰 Hong Kong 🇭🇰</title><link href="https://martsmusings.uk/post/2023-04-11-Hong-Kong/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-11-Hong-Kong/</id><published>2023-04-12T10:10:00+08:00</published><updated>2023-04-12T10:10:00+08:00</updated><content type="html">
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "9ea88f7c-c3c0-4c19-ab80-b0a9dad11a35";
 window.mappyTravelsTo = "6a275e4b-52c6-4032-8bc1-8ecff4ef275f";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -591,6 +74,9 @@ window.mappyTravelsTo = "6a275e4b-52c6-4032-8bc1-8ecff4ef275f";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;p>Phwoar, we got there eventually! In February/March 2020 we went for a holiday in Thailand, and were planning to travel back home via. a 1 week stopover in Hong Kong.&lt;/p>
 &lt;p>We made it to Thailand, but had to abandon the Hong Kong portion of the trip at the last minute:&lt;/p>
@@ -965,9 +451,15 @@ Summing up
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "a20c50c3-413e-4eaf-98c2-f43a7507f87e";
 window.mappyTravelsTo = "6d02ab8e-2f96-4784-b45f-bf280140c5af";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -1082,6 +574,9 @@ window.mappyTravelsTo = "6d02ab8e-2f96-4784-b45f-bf280140c5af";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;p>Apologies for the delayed blogging! Our latest accommodation only had a strong enough WiFi signal if you literally sat on the loo. Some would argue it&amp;rsquo;s where I do my best work, but it caused a delay.&lt;/p>
 &lt;p>Our snaking down Vietnam continued, Hanoi was the first stop. It all got a bit whistle-stop until we arrived in Hội An - so buckle up!&lt;/p>
@@ -1628,9 +1123,15 @@ Vietnam reflections
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "ba6bcd42-3775-40b6-a2c8-851609d6d6cf";
 window.mappyTravelsTo = "78aad220-7b73-4932-8d98-d0cf9c3cd75f";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -1697,6 +1198,9 @@ window.mappyTravelsTo = "78aad220-7b73-4932-8d98-d0cf9c3cd75f";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;p>What a treat. 30 days in Vietnam - the max possible without re-entrance. Here&amp;rsquo;s what we got up to.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-07-Vietnam/#the-road-to-vietnam" class="header-link" aria-label="Anchor The road to Vietnam" href="#the-road-to-vietnam">
@@ -2186,9 +1690,15 @@ What&amp;rsquo;s next?
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "a1f37bf7-d26c-4812-a917-a6d79b1505e7";
 window.mappyTravelsTo = "2fc10221-5c41-4446-ad8e-f0cad73497af";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -2261,6 +1771,9 @@ window.mappyTravelsTo = "2fc10221-5c41-4446-ad8e-f0cad73497af";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;p>The next stop in our Laos adventure was Vang Vieng, the drunken tubing capital of the world (we didn&amp;rsquo;t partake).&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-24-Laos-2/#vang-vieng" class="header-link" aria-label="Anchor Vang Vieng" href="#vang-vieng">
@@ -2668,9 +2181,15 @@ What&amp;rsquo;s next?
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "3ac86b96-6ea0-43c1-be83-dfcf99642bc8";
 window.mappyTravelsTo = "3ac86b96-6ea0-43c1-be83-dfcf99642bc8";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -2725,6 +2244,9 @@ window.mappyTravelsTo = "3ac86b96-6ea0-43c1-be83-dfcf99642bc8";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-12-Laos/#the-journey-to-luang-prabang" class="header-link" aria-label="Anchor The journey to Luang Prabang" href="#the-journey-to-luang-prabang">
 &lt;h1 id="the-journey-to-luang-prabang">
@@ -3009,9 +2531,15 @@ What&amp;rsquo;s next?
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "bc38d9d3-c0b4-4a3d-9d3e-064666760214";
 window.mappyTravelsTo = "2b45fcd0-a66e-448b-992a-26da1e1ae343";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -3090,6 +2618,9 @@ window.mappyTravelsTo = "2b45fcd0-a66e-448b-992a-26da1e1ae343";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-08-Thailand-2/#chiang-mai-take-1" class="header-link" aria-label="Anchor Chiang Mai, take 1" href="#chiang-mai-take-1">
 &lt;h1 id="chiang-mai-take-1">
@@ -3535,9 +3066,15 @@ Chiang Rai
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "e3ce594d-66be-4c38-88b4-35754bce6873";
 window.mappyTravelsTo = "0b550bfc-5202-481a-8f8d-fc25737a753e";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -3604,6 +3141,9 @@ window.mappyTravelsTo = "0b550bfc-5202-481a-8f8d-fc25737a753e";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-31-Thailand-1/#koh-lipe" class="header-link" aria-label="Anchor Koh Lipe" href="#koh-lipe">
 &lt;h1 id="koh-lipe">
@@ -3837,9 +3377,15 @@ href="https://en.wikipedia.org/wiki/Wat_Arun"
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "f9b6e11e-2f35-4698-943f-3b540c056676";
 window.mappyTravelsTo = "fce7bef1-a065-4ff2-942d-a80c2d39ba3e";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -3918,6 +3464,9 @@ window.mappyTravelsTo = "fce7bef1-a065-4ff2-942d-a80c2d39ba3e";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-21-Malaysia/#kuala-lumpur" class="header-link" aria-label="Anchor Kuala Lumpur" href="#kuala-lumpur">
 &lt;h1 id="kuala-lumpur">
@@ -4269,9 +3818,15 @@ All signs were in English, it&amp;rsquo;s super safe (a friend we met up with sa
 &lt;/nav>
 &lt;hr />
 &lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "772cdf3b-06f8-46e8-9479-655824bd122a";
 window.mappyTravelsTo = "772cdf3b-06f8-46e8-9479-655824bd122a";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -4326,6 +3881,9 @@ window.mappyTravelsTo = "772cdf3b-06f8-46e8-9479-655824bd122a";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-08-Singapore/#accommodation" class="header-link" aria-label="Anchor Accommodation" href="#accommodation">
 &lt;h2 id="accommodation">
@@ -4525,9 +4083,15 @@ What next?
 &lt;/a>&lt;p>We&amp;rsquo;re now on towards Malaysia - catch you soon!&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇪🇸 Barcelona 🥘</title><link href="https://martsmusings.uk/post/2023-01-03-Barcelona/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-01-03-Barcelona/</id><published>2023-01-03T12:00:00+00:00</published><updated>2023-01-03T12:00:00+00:00</updated><content type="html">
 &lt;p>Phwoar, turns out we &lt;em>did&lt;/em> still have a lot to organise before leaving. And given I&amp;rsquo;ve been funemployed since the start of December, any excuse for not being fully packed until 3 am the morning of leaving is tenuous at best. Ho hum.&lt;/p>
 &lt;p>Aside from that, faff-free transit to Barcelona on NYE. We bagged business class flights (for £1 + Avios 💥), which was a decadent and unrepresentative way of kicking things off!&lt;/p>
+&lt;div class="wrap-collabsible">
+&lt;input id="collapsible" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="collapsible" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "52135306-c9d0-4e5e-94a7-c6c3be36f238";
 window.mappyTravelsTo = "53c50bba-b8cb-4faf-a203-0344b86af6d6";
+window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
 &lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
@@ -4594,6 +4158,9 @@ window.mappyTravelsTo = "53c50bba-b8cb-4faf-a203-0344b86af6d6";
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
 &lt;/div>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-03-Barcelona/#-spanish-wins" class="header-link" aria-label="Anchor 🚀 Spanish wins" href="#-spanish-wins">
 &lt;h2 id="-spanish-wins">
