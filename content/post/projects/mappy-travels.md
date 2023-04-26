@@ -38,6 +38,8 @@ Laura would also like me to point out that asking her  "what time did that bus w
 
 All the data is mixed into the aforementioned spreadsheet, which looks something like this:
 
+{{< gallery album="mappy-travels-spreadsheet" >}}
+
 I then export it to JSON using [this excellent Google Apps Script](http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html?m=1).
 
 Yet another script is then run on this JSON. It's based on [simplify-js](https://mourner.github.io/simplify-js/) and uses the [Douglas-Peucker algorithm](https://en.m.wikipedia.org/wiki/Ramer%E2%80%93Douglas%E2%80%93Peucker_algorithm) to remove points in a curve that don't pull their weight enough. For example, it reduces our flight from Barcelona to Singapore from being 1455 points to 279 points - and only causes a 930m loss in total distance.
