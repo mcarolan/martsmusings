@@ -569,6 +569,7 @@ function registerRowElementEvents() {
 document.addEventListener("DOMContentLoaded", () => {
     map = new maplibreGl.Map(mapOptions);
     map.addControl(new maplibreGl.NavigationControl({ showCompass: true, showZoom: true, visualizePitch: true }));
+    map.addControl(new maplibreGl.FullscreenControl({}));
 
 
     for (const category of allTransportCategories()) {
