@@ -1,6 +1,6 @@
 ---
 title: "🌎 A map of our 2023 travels 🌎"
-date: "2023-04-26 21:50:00+07:00"
+date: "2023-04-27 17:52:00+07:00"
 summary: "Visualising a year on the road"
 tags: [projects]
 weight: 1
