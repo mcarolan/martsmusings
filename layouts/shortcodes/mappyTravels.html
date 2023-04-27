@@ -59,21 +59,22 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
     </div>
 </div>
 
-<table id="paginated-table">
-    <thead>
-        <tr>
-            <th>From</th>
-            <th>To</th>
-            <th>Mode</th>
-            <th>Duration</th>
-            <th>Cost</th>
-        </tr>
-    </thead>
-    <tbody id="paginated-table-body">
-        {{- $routeJson := getJSON "assets/" $routeFilename -}}
-        {{- $rangeStarted := false -}}
-        {{- $rangeEnded := false -}}
-        {{- range $i, $r := (sort $routeJson "end" "asc") -}}
+<div style="overflow-x: auto">
+    <table id="paginated-table">
+        <thead>
+            <tr>
+                <th>From</th>
+                <th>To</th>
+                <th>Mode</th>
+                <th>Duration</th>
+                <th>Cost</th>
+            </tr>
+        </thead>
+        <tbody id="paginated-table-body">
+            {{- $routeJson := getJSON "assets/" $routeFilename -}}
+            {{- $rangeStarted := false -}}
+            {{- $rangeEnded := false -}}
+            {{- range $i, $r := (sort $routeJson "end" "asc") -}}
             {{- $rangeStarted = or $rangeStarted (eq $from $r.id) -}}
             {{- $rangeEnded = or $rangeEnded (eq $to $r.id) -}}
             {{- $endIncl := eq $to $r.id -}}
@@ -87,9 +88,10 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
                 <td>£{{ $r.x | lang.NumFmt 2 }}</td>
             </tr>
             {{- end -}}
-        {{- end -}}
-    </tbody>
-</table>
+            {{- end -}}
+        </tbody>
+    </table>
+</div>
 
 <div id="paginated-table-pager">
 

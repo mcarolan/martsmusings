@@ -964,7 +964,7 @@ svg.gblog-icon {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 100vh;
+  max-height: max-content;
 }
 
 .toggle:checked + .lbl-toggle::before {
