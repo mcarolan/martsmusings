@@ -59,7 +59,7 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
     </div>
 </div>
 
-<div style="overflow-x: auto">
+<div style="overflow-x: scroll">
     <table id="paginated-table">
         <thead>
             <tr>
@@ -81,8 +81,8 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 
             {{- if or $endIncl (and $rangeStarted (not $rangeEnded)) (and (not $from) (not $to)) -}}
             <tr id="row-{{ $r.id }}" class="row-hidden">
-                <td>{{ partial "countryEmoji" $r.fc }} {{ $r.fp }}</td>
-                <td>{{ partial "countryEmoji" $r.tc }} {{ $r.tp }} </td>
+                <td><div class="truncate">{{ partial "countryEmoji" $r.fc }} {{ $r.fp }}</div></td>
+                <td><div class="truncate">{{ partial "countryEmoji" $r.tc }} {{ $r.tp }}</div></td>
                 <td>{{ $r.m }}</td>
                 <td>{{ $r.d }}</td>
                 <td>£{{ $r.x | lang.NumFmt 2 }}</td>
