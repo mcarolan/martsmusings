@@ -81,8 +81,8 @@ $ferry.RelPermalink "Rail" $train.RelPermalink)) -}}
 
             {{- if or $endIncl (and $rangeStarted (not $rangeEnded)) (and (not $from) (not $to)) -}}
             <tr id="row-{{ $r.id }}" class="row-hidden">
-                <td><div class="truncate">{{ partial "countryEmoji" $r.fc }} {{ $r.fp }}</div></td>
-                <td><div class="truncate">{{ partial "countryEmoji" $r.tc }} {{ $r.tp }}</div></td>
+                <td title="{{ $r.fp }}"><div class="truncate">{{ partial "countryEmoji" $r.fc }} {{ $r.fp }}</div></td>
+                <td title="{{ $r.tp }}"><div class="truncate">{{ partial "countryEmoji" $r.tc }} {{ $r.tp }}</div></td>
                 <td>{{ $r.m }}</td>
                 <td>{{ $r.d }}</td>
                 <td>£{{ $r.x | lang.NumFmt 2 }}</td>

@@ -1,13 +1,19 @@
+{{- $expandoId := md5 (print (.Get "title") .Inner)  -}}
+{{- $expandoId = print "expando-" $expandoId -}}
 <div class="wrap-collabsible">
     {{ $onchange := "" }}
     {{ if isset .Params "onchange" }}
         {{ $onchange = print "onchange=\"" (.Get "onchange") "\"" }}
     {{ end }}
-    <input id="collapsible" class="toggle" type="checkbox" autocomplete="off" {{ $onchange | safeHTMLAttr }}>
-    <label for="collapsible" class="lbl-toggle">{{ .Get "title" }}</label>
+    <input id="{{ $expandoId }}" class="toggle" type="checkbox" autocomplete="off" {{ $onchange | safeHTMLAttr }}>
+    <label for="{{ $expandoId }}" class="lbl-toggle">{{ .Get "title" }}</label>
     <div class="collapsible-content">
         <div class="content-inner">
+            {{ if eq (.Get "markdown") true  }}
+            {{ .Inner | markdownify }}
+            {{ else }}
             {{ .Inner }}
+            {{ end }}
         </div>
     </div>
 </div>

@@ -271,7 +271,7 @@ template {
 
 html {
   font-family: "OpenSans Regular";
-  font-size: 16px;
+  font-size: 20px;
   letter-spacing: 0.33px;
   scroll-behavior: smooth;
 }
@@ -365,7 +365,7 @@ img {
 }
 .container {
   width: 100%;
-  max-width: 60rem;
+  max-width: 90rem;
   margin: 0 auto;
   padding: 1rem;
 }
@@ -790,6 +790,8 @@ svg.gblog-icon {
 }
 .gblog-markdown blockquote {
   margin: 1rem 0;
+  font-style: italic;
+  font-weight: bold;
   padding: 0.5rem 1rem 0.5rem 0.75rem;
   border-left: 3px solid var(--accent-color);
   border-radius: 0.15rem;
