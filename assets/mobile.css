@@ -1,4 +1,7 @@
 @media screen and (max-width: 39rem) {
+    html {
+        font-size: 17px !important;
+    }
     .gblog-header__col-2.justify-center,
     .gblog-header__col-2 .justify-center {
         justify-content: flex-start;
