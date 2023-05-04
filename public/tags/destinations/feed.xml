@@ -31,8 +31,8 @@
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-9d654be223e7b14e861b7b88cf3535d1" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-9d654be223e7b14e861b7b88cf3535d1" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-0aca99d879197996abf7d346dc98e2ef" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-0aca99d879197996abf7d346dc98e2ef" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -89,43 +89,43 @@ window.mappyAutoStart = "";
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£405.44&lt;/td>
 &lt;/tr>&lt;tr id="row-58b5948c-8633-484f-ac83-9adeffb3f74b" class="row-hidden">
 &lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
 &lt;td title="South Bus Terminal">&lt;div class="truncate">🇵🇭 South Bus Terminal&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.98&lt;/td>
 &lt;/tr>&lt;tr id="row-28f139cf-bd0b-4b5d-a70e-af257ce87fb6" class="row-hidden">
 &lt;td title="South Bus Terminal, Cebu">&lt;div class="truncate">🇵🇭 South Bus Terminal, Cebu&lt;/div>&lt;/td>
 &lt;td title="Moalboal">&lt;div class="truncate">🇵🇭 Moalboal&lt;/div>&lt;/td>
 &lt;td>Bus&lt;/td>
-&lt;td>03:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£6.25&lt;/td>
 &lt;/tr>&lt;tr id="row-f65728ae-7f0c-466f-bc4a-4e9708030bb0" class="row-hidden">
 &lt;td title="Moalboal">&lt;div class="truncate">🇵🇭 Moalboal&lt;/div>&lt;/td>
 &lt;td title="South Bus Terminal, Cebu">&lt;div class="truncate">🇵🇭 South Bus Terminal, Cebu&lt;/div>&lt;/td>
 &lt;td>Bus&lt;/td>
-&lt;td>02:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£6.25&lt;/td>
 &lt;/tr>&lt;tr id="row-dc17f66c-546e-48e1-b532-77b9372497a2" class="row-hidden">
 &lt;td title="South Bus Terminal, Cebu">&lt;div class="truncate">🇵🇭 South Bus Terminal, Cebu&lt;/div>&lt;/td>
 &lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£1.93&lt;/td>
 &lt;/tr>&lt;tr id="row-46ae0bcc-5aaa-4a34-adf6-b9911c6312ae" class="row-hidden">
 &lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>02:45&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£23.92&lt;/td>
 &lt;/tr>&lt;tr id="row-9edca7c8-cc84-42d2-b9e7-f7edd53fcdae" class="row-hidden">
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td title="Panglao, Bohol">&lt;div class="truncate">🇵🇭 Panglao, Bohol&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:27&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£8.97&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -346,8 +346,8 @@ Wrapping up
 &lt;/a>&lt;p>Our time in the Philippines was incredible. Snorkeling with turtles was one of the best things we&amp;rsquo;ve ever done, and we made loads of memories that we&amp;rsquo;ll cherish.&lt;/p>
 &lt;p>This covers the first 11 days of our Filipino funtimes, join in the next post for more tropical island adventures 😃&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇭🇰 Hong Kong 🇭🇰</title><link href="https://martsmusings.uk/post/2023-04-11-Hong-Kong/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-11-Hong-Kong/</id><published>2023-04-12T10:10:00+08:00</published><updated>2023-04-12T10:10:00+08:00</updated><content type="html">
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-15c5e336b700d9ab94dca0f3bc5e2ce8" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-15c5e336b700d9ab94dca0f3bc5e2ce8" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-1cb8e02fe170bb4613dfcaaff6d7537e" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-1cb8e02fe170bb4613dfcaaff6d7537e" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -404,19 +404,19 @@ window.mappyAutoStart = "";
 &lt;td title="Saigon Amigo Hostel">&lt;div class="truncate">🇻🇳 Saigon Amigo Hostel&lt;/div>&lt;/td>
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:36&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.03&lt;/td>
 &lt;/tr>&lt;tr id="row-eca23a15-6842-4a2c-a05e-32e768e00163" class="row-hidden">
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£109.70&lt;/td>
 &lt;/tr>&lt;tr id="row-6a275e4b-52c6-4032-8bc1-8ecff4ef275f" class="row-hidden">
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td title="First Inn">&lt;div class="truncate">🇭🇰 First Inn&lt;/div>&lt;/td>
 &lt;td>Tube&lt;/td>
-&lt;td>00:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£26.47&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -800,8 +800,8 @@ Summing up
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-5105bfff02625e34da51d693b500cfda" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-5105bfff02625e34da51d693b500cfda" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-4d742a869ac8c6f1967e0bfb523113d1" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-4d742a869ac8c6f1967e0bfb523113d1" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -858,67 +858,67 @@ window.mappyAutoStart = "";
 &lt;td title="Ha Giang">&lt;div class="truncate">🇻🇳 Ha Giang&lt;/div>&lt;/td>
 &lt;td title="Hanoi">&lt;div class="truncate">🇻🇳 Hanoi&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>06:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£31.51&lt;/td>
 &lt;/tr>&lt;tr id="row-6dc3dbe9-9a94-4ace-8f34-2467550c0263" class="row-hidden">
 &lt;td title="Hanoi">&lt;div class="truncate">🇻🇳 Hanoi&lt;/div>&lt;/td>
 &lt;td title="Cát Bà">&lt;div class="truncate">🇻🇳 Cát Bà&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>03:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£20.13&lt;/td>
 &lt;/tr>&lt;tr id="row-0cbec6fc-fe92-4699-9eaf-960748a0f30e" class="row-hidden">
 &lt;td title="Cát Bà">&lt;div class="truncate">🇻🇳 Cát Bà&lt;/div>&lt;/td>
 &lt;td title="Ninh Binh">&lt;div class="truncate">🇻🇳 Ninh Binh&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£17.83&lt;/td>
 &lt;/tr>&lt;tr id="row-8f186c14-58d6-4f6d-b9fe-b851d747a7c5" class="row-hidden">
 &lt;td title="Ninh Binh">&lt;div class="truncate">🇻🇳 Ninh Binh&lt;/div>&lt;/td>
 &lt;td title="Ninh Binh Train Station">&lt;div class="truncate">🇻🇳 Ninh Binh Train Station&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£3.37&lt;/td>
 &lt;/tr>&lt;tr id="row-4b9af6eb-583f-4008-88a9-c66d0b762c0d" class="row-hidden">
 &lt;td title="Ninh Binh Train Station">&lt;div class="truncate">🇻🇳 Ninh Binh Train Station&lt;/div>&lt;/td>
 &lt;td title="Đồng Hới">&lt;div class="truncate">🇻🇳 Đồng Hới&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>08:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£30.46&lt;/td>
 &lt;/tr>&lt;tr id="row-131e5c25-54e1-4c59-a0d7-0ed73c7cfd82" class="row-hidden">
 &lt;td title="Đồng Hới">&lt;div class="truncate">🇻🇳 Đồng Hới&lt;/div>&lt;/td>
 &lt;td title="Phong Nha">&lt;div class="truncate">🇻🇳 Phong Nha&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>00:03&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£4.22&lt;/td>
 &lt;/tr>&lt;tr id="row-516229f4-dd1b-4e59-8d74-d45379d45746" class="row-hidden">
 &lt;td title="Phong Na">&lt;div class="truncate">🇻🇳 Phong Na&lt;/div>&lt;/td>
 &lt;td title="Đà Nẵng">&lt;div class="truncate">🇻🇳 Đà Nẵng&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>07:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£30.78&lt;/td>
 &lt;/tr>&lt;tr id="row-6f4790a5-3792-4485-9cc5-801eb98c6716" class="row-hidden">
 &lt;td title="Đà Nẵng">&lt;div class="truncate">🇻🇳 Đà Nẵng&lt;/div>&lt;/td>
 &lt;td title="Hội An">&lt;div class="truncate">🇻🇳 Hội An&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:50&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£14.56&lt;/td>
 &lt;/tr>&lt;tr id="row-92acc639-48f1-437c-a464-4791323aa5a4" class="row-hidden">
 &lt;td title="Hội An">&lt;div class="truncate">🇻🇳 Hội An&lt;/div>&lt;/td>
 &lt;td title="Đà Nẵng Airport (DAD)">&lt;div class="truncate">🇻🇳 Đà Nẵng Airport (DAD)&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:45&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£14.21&lt;/td>
 &lt;/tr>&lt;tr id="row-a3b9786e-a7c3-42d5-83fb-ac7877af336a" class="row-hidden">
 &lt;td title="Đà Nẵng Airport (DAD)">&lt;div class="truncate">🇻🇳 Đà Nẵng Airport (DAD)&lt;/div>&lt;/td>
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>01:20&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£104.32&lt;/td>
 &lt;/tr>&lt;tr id="row-6d02ab8e-2f96-4784-b45f-bf280140c5af" class="row-hidden">
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td title="Saigon Amigo Hostel">&lt;div class="truncate">🇻🇳 Saigon Amigo Hostel&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:43&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.83&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -1474,8 +1474,8 @@ Vietnam reflections
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-b2576e7475725e638cb107720bc2c6d3" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-b2576e7475725e638cb107720bc2c6d3" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-8da608128dbd6f4a0789df061239c176" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-8da608128dbd6f4a0789df061239c176" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -1532,19 +1532,19 @@ window.mappyAutoStart = "";
 &lt;td title="Muang Khau">&lt;div class="truncate">🇱🇦 Muang Khau&lt;/div>&lt;/td>
 &lt;td title="Dien Bien Phu">&lt;div class="truncate">🇻🇳 Dien Bien Phu&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£24.74&lt;/td>
 &lt;/tr>&lt;tr id="row-1ed7ec6f-1779-467d-b91c-77d934f86ede" class="row-hidden">
 &lt;td title="Dien Bien Phu">&lt;div class="truncate">🇻🇳 Dien Bien Phu&lt;/div>&lt;/td>
 &lt;td title="Sapa">&lt;div class="truncate">🇻🇳 Sapa&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>10:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£18.97&lt;/td>
 &lt;/tr>&lt;tr id="row-78aad220-7b73-4932-8d98-d0cf9c3cd75f" class="row-hidden">
 &lt;td title="Sapa">&lt;div class="truncate">🇻🇳 Sapa&lt;/div>&lt;/td>
 &lt;td title="Ha Giang">&lt;div class="truncate">🇻🇳 Ha Giang&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>08:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£29.90&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -2043,8 +2043,8 @@ What&amp;rsquo;s next?
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-c9162a732b7630dad358c33550ad2c70" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-c9162a732b7630dad358c33550ad2c70" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-63d4fa031abaec0761a962d790ce0210" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-63d4fa031abaec0761a962d790ce0210" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -2101,25 +2101,25 @@ window.mappyAutoStart = "";
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td title="Vang Vieng">&lt;div class="truncate">🇱🇦 Vang Vieng&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>01:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£22.96&lt;/td>
 &lt;/tr>&lt;tr id="row-11cfe570-036f-46da-95b6-4eb12b0f3d4b" class="row-hidden">
 &lt;td title="Vang Vieng">&lt;div class="truncate">🇱🇦 Vang Vieng&lt;/div>&lt;/td>
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>01:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£26.21&lt;/td>
 &lt;/tr>&lt;tr id="row-229c2e52-34ce-49fc-877e-d766696e21d5" class="row-hidden">
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td title="Nong Khiaw">&lt;div class="truncate">🇱🇦 Nong Khiaw&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>03:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£39.29&lt;/td>
 &lt;/tr>&lt;tr id="row-2fc10221-5c41-4446-ad8e-f0cad73497af" class="row-hidden">
 &lt;td title="Nong Khiaw">&lt;div class="truncate">🇱🇦 Nong Khiaw&lt;/div>&lt;/td>
 &lt;td title="Muang Khau">&lt;div class="truncate">🇱🇦 Muang Khau&lt;/div>&lt;/td>
 &lt;td>LongBoat&lt;/td>
-&lt;td>08:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£29.47&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -2536,8 +2536,8 @@ What&amp;rsquo;s next?
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-b39c780bf414c4a36e881c39c70f7841" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-b39c780bf414c4a36e881c39c70f7841" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-0fb3be4c06cbf1f6f62c91fe7eb97da8" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-0fb3be4c06cbf1f6f62c91fe7eb97da8" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -2594,7 +2594,7 @@ window.mappyAutoStart = "";
 &lt;td title="Chiang Khong">&lt;div class="truncate">🇹🇭 Chiang Khong&lt;/div>&lt;/td>
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td>LongBoat&lt;/td>
-&lt;td>30:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£19.63&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -2888,8 +2888,8 @@ What&amp;rsquo;s next?
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-c96a866bfb9330f235550c1410bcf8ce" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-c96a866bfb9330f235550c1410bcf8ce" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-26e5bfdbf04876f7ea25a7b427008e1d" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-26e5bfdbf04876f7ea25a7b427008e1d" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -2946,31 +2946,31 @@ window.mappyAutoStart = "";
 &lt;td title="Bangkok">&lt;div class="truncate">🇹🇭 Bangkok&lt;/div>&lt;/td>
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>10:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£49.81&lt;/td>
 &lt;/tr>&lt;tr id="row-53b106db-1a85-4bec-a457-c7c8a79b06fd" class="row-hidden">
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td title="Pai">&lt;div class="truncate">🇹🇭 Pai&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>04:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£12.27&lt;/td>
 &lt;/tr>&lt;tr id="row-3acd3a83-c22f-4019-bdbe-8b791c6ca4ab" class="row-hidden">
 &lt;td title="Pai">&lt;div class="truncate">🇹🇭 Pai&lt;/div>&lt;/td>
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>04:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£12.28&lt;/td>
 &lt;/tr>&lt;tr id="row-ab68c8b1-c01d-456b-b360-4b97b859214c" class="row-hidden">
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td title="Chiang Rai">&lt;div class="truncate">🇹🇭 Chiang Rai&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£13.78&lt;/td>
 &lt;/tr>&lt;tr id="row-2b45fcd0-a66e-448b-992a-26da1e1ae343" class="row-hidden">
 &lt;td title="Chiang Rai">&lt;div class="truncate">🇹🇭 Chiang Rai&lt;/div>&lt;/td>
 &lt;td title="Chiang Khong">&lt;div class="truncate">🇹🇭 Chiang Khong&lt;/div>&lt;/td>
 &lt;td>Bus&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£3.46&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -3425,8 +3425,8 @@ Chiang Rai
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-89b70dfb45870c6d95b14dd97de9bc8b" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-89b70dfb45870c6d95b14dd97de9bc8b" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-c80a75856f378a472e51d1670a1d62e1" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-c80a75856f378a472e51d1670a1d62e1" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -3483,19 +3483,19 @@ window.mappyAutoStart = "";
 &lt;td title="Koh Lipe">&lt;div class="truncate">🇹🇭 Koh Lipe&lt;/div>&lt;/td>
 &lt;td title="Koh Lanta">&lt;div class="truncate">🇹🇭 Koh Lanta&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>03:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£84.30&lt;/td>
 &lt;/tr>&lt;tr id="row-151dd1db-9abb-4f05-b8c5-7c9544c73898" class="row-hidden">
 &lt;td title="Koh Lanta">&lt;div class="truncate">🇹🇭 Koh Lanta&lt;/div>&lt;/td>
 &lt;td title="Krabi">&lt;div class="truncate">🇹🇭 Krabi&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£21.69&lt;/td>
 &lt;/tr>&lt;tr id="row-0b550bfc-5202-481a-8f8d-fc25737a753e" class="row-hidden">
 &lt;td title="Krabi">&lt;div class="truncate">🇹🇭 Krabi&lt;/div>&lt;/td>
 &lt;td title="Bangkok">&lt;div class="truncate">🇹🇭 Bangkok&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>11:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£61.43&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -3738,8 +3738,8 @@ href="https://en.wikipedia.org/wiki/Wat_Arun"
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-47880c67ffa9c9d941d493edad86ad85" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-47880c67ffa9c9d941d493edad86ad85" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-2c6e90228473edb290ff8102ba6902c0" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-2c6e90228473edb290ff8102ba6902c0" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -3796,31 +3796,31 @@ window.mappyAutoStart = "";
 &lt;td title="Kuala Lumpur">&lt;div class="truncate">🇲🇾 Kuala Lumpur&lt;/div>&lt;/td>
 &lt;td title="Cameron Highlands">&lt;div class="truncate">🇲🇾 Cameron Highlands&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£14.64&lt;/td>
 &lt;/tr>&lt;tr id="row-1ec9a0ff-c5a5-48ee-8b99-0239c161d0d3" class="row-hidden">
 &lt;td title="Cameron Highlands">&lt;div class="truncate">🇲🇾 Cameron Highlands&lt;/div>&lt;/td>
 &lt;td title="Penang">&lt;div class="truncate">🇲🇾 Penang&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:45&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£13.25&lt;/td>
 &lt;/tr>&lt;tr id="row-4f02c37d-778c-4cef-b6e9-3662fa4aaa24" class="row-hidden">
 &lt;td title="Penang">&lt;div class="truncate">🇲🇾 Penang&lt;/div>&lt;/td>
 &lt;td title="Alor Setar">&lt;div class="truncate">🇲🇾 Alor Setar&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£3.05&lt;/td>
 &lt;/tr>&lt;tr id="row-841b0df7-0fd1-4962-874f-d08dcdb199ba" class="row-hidden">
 &lt;td title="Alor Setar">&lt;div class="truncate">🇲🇾 Alor Setar&lt;/div>&lt;/td>
 &lt;td title="Langkawi">&lt;div class="truncate">🇲🇾 Langkawi&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>01:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£13.16&lt;/td>
 &lt;/tr>&lt;tr id="row-fce7bef1-a065-4ff2-942d-a80c2d39ba3e" class="row-hidden">
 &lt;td title="Langkawi">&lt;div class="truncate">🇲🇾 Langkawi&lt;/div>&lt;/td>
 &lt;td title="Koh Lipe">&lt;div class="truncate">🇹🇭 Koh Lipe&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>01:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£62.35&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -4181,8 +4181,8 @@ All signs were in English, it&amp;rsquo;s super safe (a friend we met up with sa
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-5bc7041d801825fd0ba7fbe3dc0a3add" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-5bc7041d801825fd0ba7fbe3dc0a3add" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-d32a7c53b65848c4c4ffa8b98b3bd391" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-d32a7c53b65848c4c4ffa8b98b3bd391" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -4239,7 +4239,7 @@ window.mappyAutoStart = "";
 &lt;td title="Barcelona (BCN)">&lt;div class="truncate">🇬🇧 Barcelona (BCN)&lt;/div>&lt;/td>
 &lt;td title="Singapore (SIN)">&lt;div class="truncate">🇸🇬 Singapore (SIN)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>18:50&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£669.70&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
@@ -4448,8 +4448,8 @@ What next?
 &lt;p>Phwoar, turns out we &lt;em>did&lt;/em> still have a lot to organise before leaving. And given I&amp;rsquo;ve been funemployed since the start of December, any excuse for not being fully packed until 3 am the morning of leaving is tenuous at best. Ho hum.&lt;/p>
 &lt;p>Aside from that, faff-free transit to Barcelona on NYE. We bagged business class flights (for £1 + Avios 💥), which was a decadent and unrepresentative way of kicking things off!&lt;/p>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-3712374d2c81ca39253c4abfd736eb27" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-3712374d2c81ca39253c4abfd736eb27" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-e497b9c7f04d2a249df3d4d28e060195" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-e497b9c7f04d2a249df3d4d28e060195" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
@@ -4506,19 +4506,19 @@ window.mappyAutoStart = "";
 &lt;td title="Poynton">&lt;div class="truncate">🇬🇧 Poynton&lt;/div>&lt;/td>
 &lt;td title="London Euston">&lt;div class="truncate">🇬🇧 London Euston&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>02:20&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£61.00&lt;/td>
 &lt;/tr>&lt;tr id="row-c1e48485-84fa-4e76-859b-e777fde31b1b" class="row-hidden">
 &lt;td title="London Euston">&lt;div class="truncate">🇬🇧 London Euston&lt;/div>&lt;/td>
 &lt;td title="London Heathrow">&lt;div class="truncate">🇬🇧 London Heathrow&lt;/div>&lt;/td>
 &lt;td>Tube&lt;/td>
-&lt;td>01:01&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£11.00&lt;/td>
 &lt;/tr>&lt;tr id="row-53c50bba-b8cb-4faf-a203-0344b86af6d6" class="row-hidden">
 &lt;td title="London Heathrow (LHR)">&lt;div class="truncate">🇬🇧 London Heathrow (LHR)&lt;/div>&lt;/td>
 &lt;td title="Barcelona (BCN)">&lt;div class="truncate">🇪🇸 Barcelona (BCN)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:25&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£1.00&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>

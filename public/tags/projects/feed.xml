@@ -58,410 +58,482 @@ window.mappyAutoStart = "yes";
 &lt;td title="Poynton">&lt;div class="truncate">🇬🇧 Poynton&lt;/div>&lt;/td>
 &lt;td title="London Euston">&lt;div class="truncate">🇬🇧 London Euston&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>02:20&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£61.00&lt;/td>
 &lt;/tr>&lt;tr id="row-c1e48485-84fa-4e76-859b-e777fde31b1b" class="row-hidden">
 &lt;td title="London Euston">&lt;div class="truncate">🇬🇧 London Euston&lt;/div>&lt;/td>
 &lt;td title="London Heathrow">&lt;div class="truncate">🇬🇧 London Heathrow&lt;/div>&lt;/td>
 &lt;td>Tube&lt;/td>
-&lt;td>01:01&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£11.00&lt;/td>
 &lt;/tr>&lt;tr id="row-53c50bba-b8cb-4faf-a203-0344b86af6d6" class="row-hidden">
 &lt;td title="London Heathrow (LHR)">&lt;div class="truncate">🇬🇧 London Heathrow (LHR)&lt;/div>&lt;/td>
 &lt;td title="Barcelona (BCN)">&lt;div class="truncate">🇪🇸 Barcelona (BCN)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:25&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£1.00&lt;/td>
 &lt;/tr>&lt;tr id="row-772cdf3b-06f8-46e8-9479-655824bd122a" class="row-hidden">
 &lt;td title="Barcelona (BCN)">&lt;div class="truncate">🇬🇧 Barcelona (BCN)&lt;/div>&lt;/td>
 &lt;td title="Singapore (SIN)">&lt;div class="truncate">🇸🇬 Singapore (SIN)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>18:50&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£669.70&lt;/td>
 &lt;/tr>&lt;tr id="row-eeaa4ce6-c140-4619-9b53-5c7ff3328297" class="row-hidden">
 &lt;td title="Singapore">&lt;div class="truncate">🇸🇬 Singapore&lt;/div>&lt;/td>
 &lt;td title="Kuala Lumpur">&lt;div class="truncate">🇲🇾 Kuala Lumpur&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>05:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£40.29&lt;/td>
 &lt;/tr>&lt;tr id="row-f9b6e11e-2f35-4698-943f-3b540c056676" class="row-hidden">
 &lt;td title="Kuala Lumpur">&lt;div class="truncate">🇲🇾 Kuala Lumpur&lt;/div>&lt;/td>
 &lt;td title="Cameron Highlands">&lt;div class="truncate">🇲🇾 Cameron Highlands&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£14.64&lt;/td>
 &lt;/tr>&lt;tr id="row-1ec9a0ff-c5a5-48ee-8b99-0239c161d0d3" class="row-hidden">
 &lt;td title="Cameron Highlands">&lt;div class="truncate">🇲🇾 Cameron Highlands&lt;/div>&lt;/td>
 &lt;td title="Penang">&lt;div class="truncate">🇲🇾 Penang&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:45&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£13.25&lt;/td>
 &lt;/tr>&lt;tr id="row-4f02c37d-778c-4cef-b6e9-3662fa4aaa24" class="row-hidden">
 &lt;td title="Penang">&lt;div class="truncate">🇲🇾 Penang&lt;/div>&lt;/td>
 &lt;td title="Alor Setar">&lt;div class="truncate">🇲🇾 Alor Setar&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£3.05&lt;/td>
 &lt;/tr>&lt;tr id="row-841b0df7-0fd1-4962-874f-d08dcdb199ba" class="row-hidden">
 &lt;td title="Alor Setar">&lt;div class="truncate">🇲🇾 Alor Setar&lt;/div>&lt;/td>
 &lt;td title="Langkawi">&lt;div class="truncate">🇲🇾 Langkawi&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>01:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£13.16&lt;/td>
 &lt;/tr>&lt;tr id="row-fce7bef1-a065-4ff2-942d-a80c2d39ba3e" class="row-hidden">
 &lt;td title="Langkawi">&lt;div class="truncate">🇲🇾 Langkawi&lt;/div>&lt;/td>
 &lt;td title="Koh Lipe">&lt;div class="truncate">🇹🇭 Koh Lipe&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>01:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£62.35&lt;/td>
 &lt;/tr>&lt;tr id="row-e3ce594d-66be-4c38-88b4-35754bce6873" class="row-hidden">
 &lt;td title="Koh Lipe">&lt;div class="truncate">🇹🇭 Koh Lipe&lt;/div>&lt;/td>
 &lt;td title="Koh Lanta">&lt;div class="truncate">🇹🇭 Koh Lanta&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>03:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£84.30&lt;/td>
 &lt;/tr>&lt;tr id="row-151dd1db-9abb-4f05-b8c5-7c9544c73898" class="row-hidden">
 &lt;td title="Koh Lanta">&lt;div class="truncate">🇹🇭 Koh Lanta&lt;/div>&lt;/td>
 &lt;td title="Krabi">&lt;div class="truncate">🇹🇭 Krabi&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£21.69&lt;/td>
 &lt;/tr>&lt;tr id="row-0b550bfc-5202-481a-8f8d-fc25737a753e" class="row-hidden">
 &lt;td title="Krabi">&lt;div class="truncate">🇹🇭 Krabi&lt;/div>&lt;/td>
 &lt;td title="Bangkok">&lt;div class="truncate">🇹🇭 Bangkok&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>11:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£61.43&lt;/td>
 &lt;/tr>&lt;tr id="row-bc38d9d3-c0b4-4a3d-9d3e-064666760214" class="row-hidden">
 &lt;td title="Bangkok">&lt;div class="truncate">🇹🇭 Bangkok&lt;/div>&lt;/td>
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>10:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£49.81&lt;/td>
 &lt;/tr>&lt;tr id="row-53b106db-1a85-4bec-a457-c7c8a79b06fd" class="row-hidden">
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td title="Pai">&lt;div class="truncate">🇹🇭 Pai&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>04:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£12.27&lt;/td>
 &lt;/tr>&lt;tr id="row-3acd3a83-c22f-4019-bdbe-8b791c6ca4ab" class="row-hidden">
 &lt;td title="Pai">&lt;div class="truncate">🇹🇭 Pai&lt;/div>&lt;/td>
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>04:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£12.28&lt;/td>
 &lt;/tr>&lt;tr id="row-ab68c8b1-c01d-456b-b360-4b97b859214c" class="row-hidden">
 &lt;td title="Chiang Mai">&lt;div class="truncate">🇹🇭 Chiang Mai&lt;/div>&lt;/td>
 &lt;td title="Chiang Rai">&lt;div class="truncate">🇹🇭 Chiang Rai&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£13.78&lt;/td>
 &lt;/tr>&lt;tr id="row-2b45fcd0-a66e-448b-992a-26da1e1ae343" class="row-hidden">
 &lt;td title="Chiang Rai">&lt;div class="truncate">🇹🇭 Chiang Rai&lt;/div>&lt;/td>
 &lt;td title="Chiang Khong">&lt;div class="truncate">🇹🇭 Chiang Khong&lt;/div>&lt;/td>
 &lt;td>Bus&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£3.46&lt;/td>
 &lt;/tr>&lt;tr id="row-3ac86b96-6ea0-43c1-be83-dfcf99642bc8" class="row-hidden">
 &lt;td title="Chiang Khong">&lt;div class="truncate">🇹🇭 Chiang Khong&lt;/div>&lt;/td>
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td>LongBoat&lt;/td>
-&lt;td>30:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£19.63&lt;/td>
 &lt;/tr>&lt;tr id="row-a1f37bf7-d26c-4812-a917-a6d79b1505e7" class="row-hidden">
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td title="Vang Vieng">&lt;div class="truncate">🇱🇦 Vang Vieng&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>01:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£22.96&lt;/td>
 &lt;/tr>&lt;tr id="row-11cfe570-036f-46da-95b6-4eb12b0f3d4b" class="row-hidden">
 &lt;td title="Vang Vieng">&lt;div class="truncate">🇱🇦 Vang Vieng&lt;/div>&lt;/td>
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>01:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£26.21&lt;/td>
 &lt;/tr>&lt;tr id="row-229c2e52-34ce-49fc-877e-d766696e21d5" class="row-hidden">
 &lt;td title="Luang Prabang">&lt;div class="truncate">🇱🇦 Luang Prabang&lt;/div>&lt;/td>
 &lt;td title="Nong Khiaw">&lt;div class="truncate">🇱🇦 Nong Khiaw&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>03:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£39.29&lt;/td>
 &lt;/tr>&lt;tr id="row-2fc10221-5c41-4446-ad8e-f0cad73497af" class="row-hidden">
 &lt;td title="Nong Khiaw">&lt;div class="truncate">🇱🇦 Nong Khiaw&lt;/div>&lt;/td>
 &lt;td title="Muang Khau">&lt;div class="truncate">🇱🇦 Muang Khau&lt;/div>&lt;/td>
 &lt;td>LongBoat&lt;/td>
-&lt;td>08:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£29.47&lt;/td>
 &lt;/tr>&lt;tr id="row-ba6bcd42-3775-40b6-a2c8-851609d6d6cf" class="row-hidden">
 &lt;td title="Muang Khau">&lt;div class="truncate">🇱🇦 Muang Khau&lt;/div>&lt;/td>
 &lt;td title="Dien Bien Phu">&lt;div class="truncate">🇻🇳 Dien Bien Phu&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£24.74&lt;/td>
 &lt;/tr>&lt;tr id="row-1ed7ec6f-1779-467d-b91c-77d934f86ede" class="row-hidden">
 &lt;td title="Dien Bien Phu">&lt;div class="truncate">🇻🇳 Dien Bien Phu&lt;/div>&lt;/td>
 &lt;td title="Sapa">&lt;div class="truncate">🇻🇳 Sapa&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>10:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£18.97&lt;/td>
 &lt;/tr>&lt;tr id="row-78aad220-7b73-4932-8d98-d0cf9c3cd75f" class="row-hidden">
 &lt;td title="Sapa">&lt;div class="truncate">🇻🇳 Sapa&lt;/div>&lt;/td>
 &lt;td title="Ha Giang">&lt;div class="truncate">🇻🇳 Ha Giang&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>08:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£29.90&lt;/td>
 &lt;/tr>&lt;tr id="row-a20c50c3-413e-4eaf-98c2-f43a7507f87e" class="row-hidden">
 &lt;td title="Ha Giang">&lt;div class="truncate">🇻🇳 Ha Giang&lt;/div>&lt;/td>
 &lt;td title="Hanoi">&lt;div class="truncate">🇻🇳 Hanoi&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>06:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£31.51&lt;/td>
 &lt;/tr>&lt;tr id="row-6dc3dbe9-9a94-4ace-8f34-2467550c0263" class="row-hidden">
 &lt;td title="Hanoi">&lt;div class="truncate">🇻🇳 Hanoi&lt;/div>&lt;/td>
 &lt;td title="Cát Bà">&lt;div class="truncate">🇻🇳 Cát Bà&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>03:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£20.13&lt;/td>
 &lt;/tr>&lt;tr id="row-0cbec6fc-fe92-4699-9eaf-960748a0f30e" class="row-hidden">
 &lt;td title="Cát Bà">&lt;div class="truncate">🇻🇳 Cát Bà&lt;/div>&lt;/td>
 &lt;td title="Ninh Binh">&lt;div class="truncate">🇻🇳 Ninh Binh&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>04:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£17.83&lt;/td>
 &lt;/tr>&lt;tr id="row-8f186c14-58d6-4f6d-b9fe-b851d747a7c5" class="row-hidden">
 &lt;td title="Ninh Binh">&lt;div class="truncate">🇻🇳 Ninh Binh&lt;/div>&lt;/td>
 &lt;td title="Ninh Binh Train Station">&lt;div class="truncate">🇻🇳 Ninh Binh Train Station&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£3.37&lt;/td>
 &lt;/tr>&lt;tr id="row-4b9af6eb-583f-4008-88a9-c66d0b762c0d" class="row-hidden">
 &lt;td title="Ninh Binh Train Station">&lt;div class="truncate">🇻🇳 Ninh Binh Train Station&lt;/div>&lt;/td>
 &lt;td title="Đồng Hới">&lt;div class="truncate">🇻🇳 Đồng Hới&lt;/div>&lt;/td>
 &lt;td>Train&lt;/td>
-&lt;td>08:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£30.46&lt;/td>
 &lt;/tr>&lt;tr id="row-131e5c25-54e1-4c59-a0d7-0ed73c7cfd82" class="row-hidden">
 &lt;td title="Đồng Hới">&lt;div class="truncate">🇻🇳 Đồng Hới&lt;/div>&lt;/td>
 &lt;td title="Phong Nha">&lt;div class="truncate">🇻🇳 Phong Nha&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>00:03&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£4.22&lt;/td>
 &lt;/tr>&lt;tr id="row-516229f4-dd1b-4e59-8d74-d45379d45746" class="row-hidden">
 &lt;td title="Phong Na">&lt;div class="truncate">🇻🇳 Phong Na&lt;/div>&lt;/td>
 &lt;td title="Đà Nẵng">&lt;div class="truncate">🇻🇳 Đà Nẵng&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
-&lt;td>07:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£30.78&lt;/td>
 &lt;/tr>&lt;tr id="row-6f4790a5-3792-4485-9cc5-801eb98c6716" class="row-hidden">
 &lt;td title="Đà Nẵng">&lt;div class="truncate">🇻🇳 Đà Nẵng&lt;/div>&lt;/td>
 &lt;td title="Hội An">&lt;div class="truncate">🇻🇳 Hội An&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:50&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£14.56&lt;/td>
 &lt;/tr>&lt;tr id="row-92acc639-48f1-437c-a464-4791323aa5a4" class="row-hidden">
 &lt;td title="Hội An">&lt;div class="truncate">🇻🇳 Hội An&lt;/div>&lt;/td>
 &lt;td title="Đà Nẵng Airport (DAD)">&lt;div class="truncate">🇻🇳 Đà Nẵng Airport (DAD)&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:45&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£14.21&lt;/td>
 &lt;/tr>&lt;tr id="row-a3b9786e-a7c3-42d5-83fb-ac7877af336a" class="row-hidden">
 &lt;td title="Đà Nẵng Airport (DAD)">&lt;div class="truncate">🇻🇳 Đà Nẵng Airport (DAD)&lt;/div>&lt;/td>
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>01:20&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£104.32&lt;/td>
 &lt;/tr>&lt;tr id="row-6d02ab8e-2f96-4784-b45f-bf280140c5af" class="row-hidden">
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td title="Saigon Amigo Hostel">&lt;div class="truncate">🇻🇳 Saigon Amigo Hostel&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:43&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.83&lt;/td>
 &lt;/tr>&lt;tr id="row-9ea88f7c-c3c0-4c19-ab80-b0a9dad11a35" class="row-hidden">
 &lt;td title="Saigon Amigo Hostel">&lt;div class="truncate">🇻🇳 Saigon Amigo Hostel&lt;/div>&lt;/td>
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:36&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.03&lt;/td>
 &lt;/tr>&lt;tr id="row-eca23a15-6842-4a2c-a05e-32e768e00163" class="row-hidden">
 &lt;td title="Tân Sơn Nhất International Airport (SGN)">&lt;div class="truncate">🇻🇳 Tân Sơn Nhất International Airport (SGN)&lt;/div>&lt;/td>
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£109.70&lt;/td>
 &lt;/tr>&lt;tr id="row-6a275e4b-52c6-4032-8bc1-8ecff4ef275f" class="row-hidden">
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td title="First Inn">&lt;div class="truncate">🇭🇰 First Inn&lt;/div>&lt;/td>
 &lt;td>Tube&lt;/td>
-&lt;td>00:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£26.47&lt;/td>
 &lt;/tr>&lt;tr id="row-7cc6f82a-7ca1-4255-82fe-3c03bf76672b" class="row-hidden">
 &lt;td title="First Inn">&lt;div class="truncate">🇭🇰 First Inn&lt;/div>&lt;/td>
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td>Tube&lt;/td>
-&lt;td>00:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£26.47&lt;/td>
 &lt;/tr>&lt;tr id="row-5ddf76ae-9f7f-42a7-b38e-de236d3d7ce8" class="row-hidden">
 &lt;td title="Hong Kong International Airport (HKG)">&lt;div class="truncate">🇭🇰 Hong Kong International Airport (HKG)&lt;/div>&lt;/td>
 &lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£405.44&lt;/td>
 &lt;/tr>&lt;tr id="row-58b5948c-8633-484f-ac83-9adeffb3f74b" class="row-hidden">
 &lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
 &lt;td title="South Bus Terminal">&lt;div class="truncate">🇵🇭 South Bus Terminal&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.98&lt;/td>
 &lt;/tr>&lt;tr id="row-28f139cf-bd0b-4b5d-a70e-af257ce87fb6" class="row-hidden">
 &lt;td title="South Bus Terminal, Cebu">&lt;div class="truncate">🇵🇭 South Bus Terminal, Cebu&lt;/div>&lt;/td>
 &lt;td title="Moalboal">&lt;div class="truncate">🇵🇭 Moalboal&lt;/div>&lt;/td>
 &lt;td>Bus&lt;/td>
-&lt;td>03:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£6.25&lt;/td>
 &lt;/tr>&lt;tr id="row-f65728ae-7f0c-466f-bc4a-4e9708030bb0" class="row-hidden">
 &lt;td title="Moalboal">&lt;div class="truncate">🇵🇭 Moalboal&lt;/div>&lt;/td>
 &lt;td title="South Bus Terminal, Cebu">&lt;div class="truncate">🇵🇭 South Bus Terminal, Cebu&lt;/div>&lt;/td>
 &lt;td>Bus&lt;/td>
-&lt;td>02:55&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£6.25&lt;/td>
 &lt;/tr>&lt;tr id="row-dc17f66c-546e-48e1-b532-77b9372497a2" class="row-hidden">
 &lt;td title="South Bus Terminal, Cebu">&lt;div class="truncate">🇵🇭 South Bus Terminal, Cebu&lt;/div>&lt;/td>
 &lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£1.93&lt;/td>
 &lt;/tr>&lt;tr id="row-46ae0bcc-5aaa-4a34-adf6-b9911c6312ae" class="row-hidden">
 &lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>02:45&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£23.92&lt;/td>
 &lt;/tr>&lt;tr id="row-9edca7c8-cc84-42d2-b9e7-f7edd53fcdae" class="row-hidden">
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td title="Panglao, Bohol">&lt;div class="truncate">🇵🇭 Panglao, Bohol&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:27&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£8.97&lt;/td>
 &lt;/tr>&lt;tr id="row-3277114c-cc95-470f-b658-13265388584f" class="row-hidden">
 &lt;td title="Panglao, Bohol">&lt;div class="truncate">🇵🇭 Panglao, Bohol&lt;/div>&lt;/td>
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:25&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£7.47&lt;/td>
 &lt;/tr>&lt;tr id="row-05781432-de7e-47e0-a876-93f7f18aae5a" class="row-hidden">
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td title="Larena Pier, Siquijor">&lt;div class="truncate">🇵🇭 Larena Pier, Siquijor&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>02:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£22.95&lt;/td>
 &lt;/tr>&lt;tr id="row-9ee81cd4-b231-419c-9642-d4e6ad1d5bb5" class="row-hidden">
 &lt;td title="Larena Pier, Siquijor">&lt;div class="truncate">🇵🇭 Larena Pier, Siquijor&lt;/div>&lt;/td>
 &lt;td title="San Juan, Siquijor">&lt;div class="truncate">🇵🇭 San Juan, Siquijor&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£8.22&lt;/td>
 &lt;/tr>&lt;tr id="row-9c2b0900-db4b-11ed-afa1-0242ac120002" class="row-hidden">
 &lt;td title="San Juan, Siquijor">&lt;div class="truncate">🇵🇭 San Juan, Siquijor&lt;/div>&lt;/td>
 &lt;td title="Siquijor Port, Siquijor">&lt;div class="truncate">🇵🇭 Siquijor Port, Siquijor&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:16&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.23&lt;/td>
 &lt;/tr>&lt;tr id="row-eaaeb8f7-55a6-4bd9-a3a8-0c148901383d" class="row-hidden">
 &lt;td title="Siquijor Port, Siquijor">&lt;div class="truncate">🇵🇭 Siquijor Port, Siquijor&lt;/div>&lt;/td>
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£28.10&lt;/td>
 &lt;/tr>&lt;tr id="row-468c085c-e910-433d-9f76-0649f15b957c" class="row-hidden">
 &lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
 &lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>02:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£28.10&lt;/td>
 &lt;/tr>&lt;tr id="row-d2c5d2e7-d900-42ea-86fa-7efef13d116f" class="row-hidden">
 &lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
 &lt;td title="Ania Rooms, Cebu">&lt;div class="truncate">🇵🇭 Ania Rooms, Cebu&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.42&lt;/td>
 &lt;/tr>&lt;tr id="row-913fb5d6-41d3-4e74-aa0b-5c487dbc927f" class="row-hidden">
 &lt;td title="Ania Rooms, Cebu">&lt;div class="truncate">🇵🇭 Ania Rooms, Cebu&lt;/div>&lt;/td>
 &lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:08&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£1.51&lt;/td>
 &lt;/tr>&lt;tr id="row-564b448d-5805-4aac-8fee-04c43bd9e9b4" class="row-hidden">
 &lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
 &lt;td title="Francisco B. Reyes Airport">&lt;div class="truncate">🇵🇭 Francisco B. Reyes Airport&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>01:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£143.61&lt;/td>
 &lt;/tr>&lt;tr id="row-de2c390d-d5c8-49f0-b2fb-efa420ff6b16" class="row-hidden">
 &lt;td title="Francisco B. Reyes Airport">&lt;div class="truncate">🇵🇭 Francisco B. Reyes Airport&lt;/div>&lt;/td>
 &lt;td title="Ken&amp;#39;s Inn">&lt;div class="truncate">🇵🇭 Ken&amp;#39;s Inn&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:40&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£7.28&lt;/td>
 &lt;/tr>&lt;tr id="row-ed59a631-b81b-48a3-b7f8-0728195aa9f5" class="row-hidden">
 &lt;td title="Ken&amp;#39;s Inn">&lt;div class="truncate">🇵🇭 Ken&amp;#39;s Inn&lt;/div>&lt;/td>
 &lt;td title="Coron Port">&lt;div class="truncate">🇵🇭 Coron Port&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:06&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£2.87&lt;/td>
 &lt;/tr>&lt;tr id="row-06baa82f-77c0-4d32-b1c6-c712f3372de9" class="row-hidden">
 &lt;td title="Coron Port">&lt;div class="truncate">🇵🇭 Coron Port&lt;/div>&lt;/td>
 &lt;td title="El Nido">&lt;div class="truncate">🇵🇭 El Nido&lt;/div>&lt;/td>
 &lt;td>Ferry&lt;/td>
-&lt;td>05:00&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£91.50&lt;/td>
 &lt;/tr>&lt;tr id="row-3c2873d2-e350-11ed-b5ea-0242ac120002" class="row-hidden">
 &lt;td title="El Nido">&lt;div class="truncate">🇵🇭 El Nido&lt;/div>&lt;/td>
 &lt;td title="El Nido Transport Terminal">&lt;div class="truncate">🇵🇭 El Nido Transport Terminal&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:10&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£1.35&lt;/td>
 &lt;/tr>&lt;tr id="row-b62c1d57-58c1-4c2b-af64-d37c9c2bc7b2" class="row-hidden">
 &lt;td title="El Nido Transport Terminal">&lt;div class="truncate">🇵🇭 El Nido Transport Terminal&lt;/div>&lt;/td>
 &lt;td title="Puerto Princesa International Airport">&lt;div class="truncate">🇵🇭 Puerto Princesa International Airport&lt;/div>&lt;/td>
 &lt;td>Minibus&lt;/td>
-&lt;td>05:15&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£20.03&lt;/td>
 &lt;/tr>&lt;tr id="row-98a07e85-1888-48b4-902e-86440807ada1" class="row-hidden">
 &lt;td title="Puerto Princesa International Airport">&lt;div class="truncate">🇵🇭 Puerto Princesa International Airport&lt;/div>&lt;/td>
 &lt;td title="Manila International Airport">&lt;div class="truncate">🇵🇭 Manila International Airport&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>01:04&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£146.88&lt;/td>
 &lt;/tr>&lt;tr id="row-c4ad85f8-50e0-486f-a9e2-8bd78df01da6" class="row-hidden">
 &lt;td title="Manila International Airport">&lt;div class="truncate">🇵🇭 Manila International Airport&lt;/div>&lt;/td>
 &lt;td title="Kuala Lumpur International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpur International Airport&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>03:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£103.99&lt;/td>
 &lt;/tr>&lt;tr id="row-c9ad4687-190d-4887-a825-8a3bd1c37e70" class="row-hidden">
 &lt;td title="Kuala Lumpur International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpur International Airport&lt;/div>&lt;/td>
 &lt;td title="OYO Night Queen">&lt;div class="truncate">🇲🇾 OYO Night Queen&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:24&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.44&lt;/td>
 &lt;/tr>&lt;tr id="row-335fd81f-835b-48c5-8e22-42fe2b7c86b8" class="row-hidden">
 &lt;td title="OYO Night Queen">&lt;div class="truncate">🇲🇾 OYO Night Queen&lt;/div>&lt;/td>
 &lt;td title="Kuala Lumpur International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpur International Airport&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>00:18&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£5.44&lt;/td>
 &lt;/tr>&lt;tr id="row-8164c431-eb21-4669-87ae-acf4884b3e4b" class="row-hidden">
 &lt;td title="Kuala Lumpur International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpur International Airport&lt;/div>&lt;/td>
 &lt;td title="Yogyakarta International Airport">&lt;div class="truncate">🇮🇩 Yogyakarta International Airport&lt;/div>&lt;/td>
 &lt;td>Plane&lt;/td>
-&lt;td>02:05&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£149.12&lt;/td>
 &lt;/tr>&lt;tr id="row-d3674176-51db-4519-a62a-f98a22c815c8" class="row-hidden">
 &lt;td title="Yogyakarta International Airport">&lt;div class="truncate">🇮🇩 Yogyakarta International Airport&lt;/div>&lt;/td>
 &lt;td title="Good Karma Hostel, Yogyakarta">&lt;div class="truncate">🇮🇩 Good Karma Hostel, Yogyakarta&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>01:30&lt;/td>
+&lt;td>#ERROR!&lt;/td>
 &lt;td>£9.10&lt;/td>
+&lt;/tr>&lt;tr id="row-9f16dc96-7814-4b4a-96e0-d3ccb122b2d3" class="row-hidden">
+&lt;td title="Good Karma Hostel, Yogyakarta">&lt;div class="truncate">🇮🇩 Good Karma Hostel, Yogyakarta&lt;/div>&lt;/td>
+&lt;td title="Yogyakarta Train Station">&lt;div class="truncate">🇮🇩 Yogyakarta Train Station&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>#ERROR!&lt;/td>
+&lt;td>£2.11&lt;/td>
+&lt;/tr>&lt;tr id="row-6f39fbc1-bd35-460f-b10e-46cfe934bda6" class="row-hidden">
+&lt;td title="Yogyakarta Train Station">&lt;div class="truncate">🇮🇩 Yogyakarta Train Station&lt;/div>&lt;/td>
+&lt;td title="Surabaya Gubeng Train Station">&lt;div class="truncate">🇮🇩 Surabaya Gubeng Train Station&lt;/div>&lt;/td>
+&lt;td>Train&lt;/td>
+&lt;td>#ERROR!&lt;/td>
+&lt;td>£24.27&lt;/td>
+&lt;/tr>&lt;tr id="row-c5a1e2e6-f999-42ac-94bb-71e14a0a6b53" class="row-hidden">
+&lt;td title="Surabaya Gubeng Train Station">&lt;div class="truncate">🇮🇩 Surabaya Gubeng Train Station&lt;/div>&lt;/td>
+&lt;td title="Pintu Masuk Stasiun Surabaya Kota">&lt;div class="truncate">🇮🇩 Pintu Masuk Stasiun Surabaya Kota&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>#ERROR!&lt;/td>
+&lt;td>£1.57&lt;/td>
+&lt;/tr>&lt;tr id="row-24fad1ba-a838-4071-9875-3ee01e42cac1" class="row-hidden">
+&lt;td title="Kantor Gubernur Java Timur">&lt;div class="truncate">🇮🇩 Kantor Gubernur Java Timur&lt;/div>&lt;/td>
+&lt;td title="Bus Terminal Purabaya">&lt;div class="truncate">🇮🇩 Bus Terminal Purabaya&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>#ERROR!&lt;/td>
+&lt;td>£7.00&lt;/td>
+&lt;/tr>&lt;tr id="row-cb5633aa-ea80-11ed-a05b-0242ac120003" class="row-hidden">
+&lt;td title="Bus Terminal Purabaya">&lt;div class="truncate">🇮🇩 Bus Terminal Purabaya&lt;/div>&lt;/td>
+&lt;td title="Terminal Bayuangga">&lt;div class="truncate">🇮🇩 Terminal Bayuangga&lt;/div>&lt;/td>
+&lt;td>Minibus&lt;/td>
+&lt;td>#ERROR!&lt;/td>
+&lt;td>£6.54&lt;/td>
+&lt;/tr>&lt;tr id="row-62e37cdb-a669-4126-9bcc-9bb07ab7db53" class="row-hidden">
+&lt;td title="Terminal Bayuangga">&lt;div class="truncate">🇮🇩 Terminal Bayuangga&lt;/div>&lt;/td>
+&lt;td title="Tengger Indah Bromo">&lt;div class="truncate">🇮🇩 Tengger Indah Bromo&lt;/div>&lt;/td>
+&lt;td>Minibus&lt;/td>
+&lt;td>#ERROR!&lt;/td>
+&lt;td>£10.85&lt;/td>
+&lt;/tr>&lt;tr id="row-af1aa6dc-fbaf-4823-a852-28084b8132a2" class="row-hidden">
+&lt;td title="Tengger Indah Bromo">&lt;div class="truncate">🇮🇩 Tengger Indah Bromo&lt;/div>&lt;/td>
+&lt;td title="Hotel Permata Indah Permai">&lt;div class="truncate">🇮🇩 Hotel Permata Indah Permai&lt;/div>&lt;/td>
+&lt;td>Minibus&lt;/td>
+&lt;td>09:00&lt;/td>
+&lt;td>£38.21&lt;/td>
+&lt;/tr>&lt;tr id="row-05ac73b4-dafa-4e12-90f3-73bb77f4ebbe" class="row-hidden">
+&lt;td title="Hotel Permata Indah Permai">&lt;div class="truncate">🇮🇩 Hotel Permata Indah Permai&lt;/div>&lt;/td>
+&lt;td title="Ketapang Harbour">&lt;div class="truncate">🇮🇩 Ketapang Harbour&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:09&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;tr id="row-1b99a7c5-ae1a-4b47-96c7-48d30e521ff0" class="row-hidden">
+&lt;td title="Ketapang Habour">&lt;div class="truncate">🇮🇩 Ketapang Habour&lt;/div>&lt;/td>
+&lt;td title="Gillmanuk Harbour">&lt;div class="truncate">🇮🇩 Gillmanuk Harbour&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:37&lt;/td>
+&lt;td>£1.74&lt;/td>
+&lt;/tr>&lt;tr id="row-0eee3189-d0fd-48d8-b91b-44c24a1392de" class="row-hidden">
+&lt;td title="Gillmanuk Harbour">&lt;div class="truncate">🇮🇩 Gillmanuk Harbour&lt;/div>&lt;/td>
+&lt;td title="Gsaskara Homestay ">&lt;div class="truncate">🇮🇩 Gsaskara Homestay &lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>04:38&lt;/td>
+&lt;td>£37.96&lt;/td>
+&lt;/tr>&lt;tr id="row-05af2d0f-391e-4fb6-866a-561711df7a40" class="row-hidden">
+&lt;td title="Gsaskara Homestay ">&lt;div class="truncate">🇮🇩 Gsaskara Homestay &lt;/div>&lt;/td>
+&lt;td title="Sanur Dream Beach">&lt;div class="truncate">🇮🇩 Sanur Dream Beach&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:18&lt;/td>
+&lt;td>£2.06&lt;/td>
+&lt;/tr>&lt;tr id="row-023f339a-81bd-469c-b1f7-ae51ca396047" class="row-hidden">
+&lt;td title="Sanur Dream Beach">&lt;div class="truncate">🇮🇩 Sanur Dream Beach&lt;/div>&lt;/td>
+&lt;td title="Mushroom Bay Harbour">&lt;div class="truncate">🇮🇩 Mushroom Bay Harbour&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:33&lt;/td>
+&lt;td>£16.27&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
