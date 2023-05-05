@@ -979,3 +979,7 @@ svg.gblog-icon {
 }
 
 /* end expando */
+
+video {
+  height: 50vh;
+}

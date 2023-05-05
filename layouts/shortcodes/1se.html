@@ -1,0 +1,9 @@
+{{- $mediaBase := print .Site.Params.assetsBase "/galleries" -}}
+{{- $month :=  .Get "month" -}}
+<video controls disablePictureInPicture>
+    <source src="{{ $mediaBase }}/1se/{{ $month }}.mp4" type="video/mp4">
+
+    Download the
+    <a href="{{ $mediaBase }}/1se/{{ $month }}.mp4">MP4</a>
+    video.
+</video>
