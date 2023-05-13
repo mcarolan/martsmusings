@@ -1,4 +1,336 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="HTML"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-04-28 18:00:00 +0800 WITA</updated><entry><title>🇵🇭 Philippines, Part #1 🇵🇭</title><link href="https://martsmusings.uk/post/2023-04-28-Philippines-1/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-28-Philippines-1/</id><published>2023-04-28T18:00:00+08:00</published><updated>2023-04-28T18:00:00+08:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.111.3">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="HTML"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-05-14 00:00:00 +0800 WITA</updated><entry><title>🇵🇭 Philippines, Part #2 🇵🇭</title><link href="https://martsmusings.uk/post/2023-05-10-Philippines-2/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-05-10-Philippines-2/</id><published>2023-05-14T00:00:00+08:00</published><updated>2023-05-14T00:00:00+08:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#a-philippine-peculiarity">A Philippine Peculiarity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#siquijor">Siquijor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#coron">Coron&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#el-nido">El Nido&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#food">Food&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#onwards">Onwards!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#attributions">Attributions&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-cd572a4b6946da0288756ae84f8196d6" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-cd572a4b6946da0288756ae84f8196d6" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "3277114c-cc95-470f-b658-13265388584f";
+window.mappyTravelsTo = "06baa82f-77c0-4d32-b1c6-c712f3372de9";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-3277114c-cc95-470f-b658-13265388584f" class="row-hidden">
+&lt;td title="Panglao, Bohol">&lt;div class="truncate">🇵🇭 Panglao, Bohol&lt;/div>&lt;/td>
+&lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:25&lt;/td>
+&lt;td>£7.47&lt;/td>
+&lt;/tr>&lt;tr id="row-05781432-de7e-47e0-a876-93f7f18aae5a" class="row-hidden">
+&lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
+&lt;td title="Larena Pier, Siquijor">&lt;div class="truncate">🇵🇭 Larena Pier, Siquijor&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:30&lt;/td>
+&lt;td>£22.95&lt;/td>
+&lt;/tr>&lt;tr id="row-9ee81cd4-b231-419c-9642-d4e6ad1d5bb5" class="row-hidden">
+&lt;td title="Larena Pier, Siquijor">&lt;div class="truncate">🇵🇭 Larena Pier, Siquijor&lt;/div>&lt;/td>
+&lt;td title="San Juan, Siquijor">&lt;div class="truncate">🇵🇭 San Juan, Siquijor&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:30&lt;/td>
+&lt;td>£8.22&lt;/td>
+&lt;/tr>&lt;tr id="row-9c2b0900-db4b-11ed-afa1-0242ac120002" class="row-hidden">
+&lt;td title="San Juan, Siquijor">&lt;div class="truncate">🇵🇭 San Juan, Siquijor&lt;/div>&lt;/td>
+&lt;td title="Siquijor Port, Siquijor">&lt;div class="truncate">🇵🇭 Siquijor Port, Siquijor&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:16&lt;/td>
+&lt;td>£5.23&lt;/td>
+&lt;/tr>&lt;tr id="row-eaaeb8f7-55a6-4bd9-a3a8-0c148901383d" class="row-hidden">
+&lt;td title="Siquijor Port, Siquijor">&lt;div class="truncate">🇵🇭 Siquijor Port, Siquijor&lt;/div>&lt;/td>
+&lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£28.10&lt;/td>
+&lt;/tr>&lt;tr id="row-468c085c-e910-433d-9f76-0649f15b957c" class="row-hidden">
+&lt;td title="Tagbilaran Ferry Terminal, Bohol">&lt;div class="truncate">🇵🇭 Tagbilaran Ferry Terminal, Bohol&lt;/div>&lt;/td>
+&lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£28.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d2c5d2e7-d900-42ea-86fa-7efef13d116f" class="row-hidden">
+&lt;td title="Pier 1, Cebu">&lt;div class="truncate">🇵🇭 Pier 1, Cebu&lt;/div>&lt;/td>
+&lt;td title="Ania Rooms, Cebu">&lt;div class="truncate">🇵🇭 Ania Rooms, Cebu&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:40&lt;/td>
+&lt;td>£5.42&lt;/td>
+&lt;/tr>&lt;tr id="row-913fb5d6-41d3-4e74-aa0b-5c487dbc927f" class="row-hidden">
+&lt;td title="Ania Rooms, Cebu">&lt;div class="truncate">🇵🇭 Ania Rooms, Cebu&lt;/div>&lt;/td>
+&lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:08&lt;/td>
+&lt;td>£1.51&lt;/td>
+&lt;/tr>&lt;tr id="row-564b448d-5805-4aac-8fee-04c43bd9e9b4" class="row-hidden">
+&lt;td title="Mactan-Cebu International Airport">&lt;div class="truncate">🇵🇭 Mactan-Cebu International Airport&lt;/div>&lt;/td>
+&lt;td title="Francisco B. Reyes Airport">&lt;div class="truncate">🇵🇭 Francisco B. Reyes Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:00&lt;/td>
+&lt;td>£143.61&lt;/td>
+&lt;/tr>&lt;tr id="row-de2c390d-d5c8-49f0-b2fb-efa420ff6b16" class="row-hidden">
+&lt;td title="Francisco B. Reyes Airport">&lt;div class="truncate">🇵🇭 Francisco B. Reyes Airport&lt;/div>&lt;/td>
+&lt;td title="Ken&amp;#39;s Inn">&lt;div class="truncate">🇵🇭 Ken&amp;#39;s Inn&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:40&lt;/td>
+&lt;td>£7.28&lt;/td>
+&lt;/tr>&lt;tr id="row-ed59a631-b81b-48a3-b7f8-0728195aa9f5" class="row-hidden">
+&lt;td title="Ken&amp;#39;s Inn">&lt;div class="truncate">🇵🇭 Ken&amp;#39;s Inn&lt;/div>&lt;/td>
+&lt;td title="Coron Port">&lt;div class="truncate">🇵🇭 Coron Port&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:06&lt;/td>
+&lt;td>£2.87&lt;/td>
+&lt;/tr>&lt;tr id="row-06baa82f-77c0-4d32-b1c6-c712f3372de9" class="row-hidden">
+&lt;td title="Coron Port">&lt;div class="truncate">🇵🇭 Coron Port&lt;/div>&lt;/td>
+&lt;td title="El Nido">&lt;div class="truncate">🇵🇭 El Nido&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>05:00&lt;/td>
+&lt;td>£91.50&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>Our watery adventure continued in Siquijor, Coron and El Nido.&lt;/p>
+&lt;p>Buckle up for a rapid post.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#a-philippine-peculiarity" class="header-link" aria-label="Anchor A Philippine Peculiarity" href="#a-philippine-peculiarity">
+&lt;h1 id="a-philippine-peculiarity">
+A Philippine Peculiarity
+&lt;/h1>
+&lt;/a>&lt;p>A curiosity persisted during our 30 days on the Philippines.&lt;/p>
+&lt;p>They are a nation captivated by the use of kitchen roll.&lt;/p>
+&lt;p>Staff would encircle our cutlery in kitchen roll before handing it over.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-67bedf7218ae01155e67266382d4f5f4" href="https://assets.martsmusings.uk/galleries/philippines-2/kitchenrollcutlery/G0432276.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/kitchenrollcutlery/G0432276.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Want a beer? The waiter will plug the gulf from removing the bottle cap with a bespoke kitchen roll crafted cork.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58183d8000f7771a4a2d732bead63f82" href="https://assets.martsmusings.uk/galleries/philippines-2/kitchenrollbeer/IMG_20230417_195502.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/kitchenrollbeer/IMG_20230417_195502.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It stuck out for how ubiquitous it was. Kitchen rolling was practiced at classy establishments and local eateries. From Manila to far-flung remote isles.&lt;/p>
+&lt;p>It&amp;rsquo;s like a successful Plenty salesperson retired there. Bizarre. I was very on board with it. As a tissue magpie I can&amp;rsquo;t relax unless I have the best part of a roll in my pocket, and it provided ample supply. But, Laura is in charge of pre-laundry pocket checks after a few disasters so was less in favour.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#siquijor" class="header-link" aria-label="Anchor Siquijor" href="#siquijor">
+&lt;h1 id="siquijor">
+Siquijor
+&lt;/h1>
+&lt;/a>&lt;p>Siquijor was our tropical base for a few days. Rumour had it that turtles hung around the beach near our accommodation. So we spent a few days snorkeling by day and supping cocktails whilst taking in the sunset by night. Ideal:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8abf51052bf01cf403b5b161c4942f39" href="https://assets.martsmusings.uk/galleries/philippines-2/siquijor-cocktail-sunset/IMG_20230410_171754.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/siquijor-cocktail-sunset/IMG_20230410_171754.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8abf51052bf01cf403b5b161c4942f39" href="https://assets.martsmusings.uk/galleries/philippines-2/siquijor-cocktail-sunset/IMG_20230413_173923.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/siquijor-cocktail-sunset/IMG_20230413_173923.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8abf51052bf01cf403b5b161c4942f39" href="https://assets.martsmusings.uk/galleries/philippines-2/siquijor-cocktail-sunset/IMG_20230411_175726__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/siquijor-cocktail-sunset/IMG_20230411_175726__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Laura got a brief sighting of a turtle, but alas they didn&amp;rsquo;t hang around much. The snorkeling was top notch, and it was great to see some healthy coral.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-fea685f897d20f5f7313006515d2ff63" href="https://assets.martsmusings.uk/galleries/philippines-2/siquijor-turtle-snorkel/fishies.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/siquijor-turtle-snorkel/fishies.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-fea685f897d20f5f7313006515d2ff63" href="https://assets.martsmusings.uk/galleries/philippines-2/siquijor-turtle-snorkel/turt.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/siquijor-turtle-snorkel/turt.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#coron" class="header-link" aria-label="Anchor Coron" href="#coron">
+&lt;h1 id="coron">
+Coron
+&lt;/h1>
+&lt;/a>&lt;p>We popped to Coron after that, Philippines answer to Hollywood:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58961eebd4fa09d02e8a055ce57b5c7f" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-sign/32863076701_e443d70d61_k.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-sign/32863076701_e443d70d61_k.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was a slog up the hill to go see the sign:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2cc532c66f2ea13780a864b7205198aa" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-sign-exhausted/IMG_20230415_181534.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-sign-exhausted/IMG_20230415_181534.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But worth it for the sunset:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-bd5f68baf57cad18426822f4d70c359b" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-sign-sunset/IMG_20230417_180628.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-sign-sunset/IMG_20230417_180628.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-bd5f68baf57cad18426822f4d70c359b" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-sign-sunset/IMG_20230415_182229.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-sign-sunset/IMG_20230415_182229.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The main event here was a trip to the surrounding lakes and lagoons.&lt;/p>
+&lt;p>Most people do this as part of a group tour on a proper boat. In our independent wisdom we decided to visit by hiring a kayak. It was a great adventure, meant we could visit the stops on our own timetable, and slashed the cost by at least half.&lt;/p>
+&lt;p>Here are some pics:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_102148_Bokeh.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_102148_Bokeh.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/G0422422_1681716823661.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/G0422422_1681716823661.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/kayak.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/kayak.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_090543.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_090543.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_125614.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_125614.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_102058.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_102058.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_102118.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_102118.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_125707.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_125707.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8e9904cfb63b40445e4df7d08261093d" href="https://assets.martsmusings.uk/galleries/philippines-2/coron-kayak/IMG_20230416_131113.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/coron-kayak/IMG_20230416_131113.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was hard work on the way back. The giant Coron sign provided an excellent navigation aid though 🥸&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#el-nido" class="header-link" aria-label="Anchor El Nido" href="#el-nido">
+&lt;h1 id="el-nido">
+El Nido
+&lt;/h1>
+&lt;/a>&lt;p>Our final stop was El Nido. Buoyed on by the success of our previous boat bout, we got involved with another self guided kayak trip:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3dc01750a47e4f832ad8be5ce6b8e29" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-kayak/IMG_20230420_163401.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-kayak/IMG_20230420_163401.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3dc01750a47e4f832ad8be5ce6b8e29" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-kayak/IMG_20230420_141521.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-kayak/IMG_20230420_141521.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3dc01750a47e4f832ad8be5ce6b8e29" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-kayak/IMG_20230420_143830.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-kayak/IMG_20230420_143830.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3dc01750a47e4f832ad8be5ce6b8e29" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-kayak/VID_20230420_135309.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-kayak/VID_20230420_135309.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was great, but we wanted more. There were many islets only accessible on a group tour, so we booked ourselves onto one.&lt;/p>
+&lt;p>Here are some pics:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-14bae6f02a267fb5d8ae5226d9332804" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-tour/IMG_20230421_123158.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-tour/IMG_20230421_123158.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-14bae6f02a267fb5d8ae5226d9332804" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-tour/laurapaddle.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-tour/laurapaddle.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-14bae6f02a267fb5d8ae5226d9332804" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-tour/GH012647_1682521244416__01__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-tour/GH012647_1682521244416__01__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The crew took great pride in pineapple carving:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7fd8f8706c58623f4164312c016fe78d" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-tour-pineapple/IMG_20230421_114722.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-tour-pineapple/IMG_20230421_114722.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>On our penultimate night we got very involved in a happy hour, and found a live band pumping out lots of classics:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1f0b2676cdec708d51e270baf419d0b5" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-boozin/IMG_20230419_163034.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-boozin/IMG_20230419_163034.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1f0b2676cdec708d51e270baf419d0b5" href="https://assets.martsmusings.uk/galleries/philippines-2/el-nido-boozin/IMG_20230421_222724.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/el-nido-boozin/IMG_20230421_222724.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#food" class="header-link" aria-label="Anchor Food" href="#food">
+&lt;h1 id="food">
+Food
+&lt;/h1>
+&lt;/a>&lt;p>Confession time, we tried very little Filipino food. We discovered there were scores of restaurants that made incredible Western food. What&amp;rsquo;s more it was super-duper cheap.&lt;/p>
+&lt;p>Laura is the biggest &lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/Parmigiana"
+>Parmigiana&lt;/a> fan outside of Italy, and has sampled many in her time. She didn&amp;rsquo;t expect to have the best ever near Cebu airport, and is still talking about it a month later.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#onwards" class="header-link" aria-label="Anchor Onwards!" href="#onwards">
+&lt;h1 id="onwards">
+Onwards!
+&lt;/h1>
+&lt;/a>&lt;p>The Philippines were exceptional. They preside as our top destination thus far. It&amp;rsquo;s a literal paradise, and we&amp;rsquo;ll always remember it for our first turtle encounter.&lt;/p>
+&lt;p>Our advice for anybody tempted to visit is to stick to a few spots only. It takes a lot of time, money and energy to get between the islands. And make one of the spots Moalboal - it&amp;rsquo;s even accessible by land from an international airport!&lt;/p>
+&lt;p>Tune in next time for our jaunt into Indonesia, and find out what on earth happened here:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-da82505e13adb9ec41e26eb111dbd8ad" href="https://assets.martsmusings.uk/galleries/philippines-2/teaser/IMG_20230429_193145.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/philippines-2/teaser/IMG_20230429_193145.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-05-10-Philippines-2/#attributions" class="header-link" aria-label="Anchor Attributions" href="#attributions">
+&lt;h1 id="attributions">
+Attributions
+&lt;/h1>
+&lt;/a>&lt;p>I failed to get a photo where you can see the whole Coron sign. Coron skyline image by &lt;a href="https://flic.kr/p/S4ZRLH">Matt Kieffer&lt;/a> used under &lt;a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0&lt;/a>.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇵🇭 Philippines, Part #1 🇵🇭</title><link href="https://martsmusings.uk/post/2023-04-28-Philippines-1/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-28-Philippines-1/</id><published>2023-04-28T18:00:00+08:00</published><updated>2023-04-28T18:00:00+08:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
