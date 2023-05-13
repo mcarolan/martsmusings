@@ -17,7 +17,7 @@ Buckle up for a rapid post.
 
 #  A Philippine Peculiarity
 
-A curiosity persisted during our 30 days on the Philippines.
+A curiosity persisted during our time in the Philippines.
 
 They are a nation captivated by the use of kitchen roll.
 
@@ -31,7 +31,7 @@ Want a beer? The waiter will plug the gulf from removing the bottle cap with a b
 
 It stuck out for how ubiquitous it was. Kitchen rolling was practiced at classy establishments and local eateries. From Manila to far-flung remote isles.
 
-It's like a successful Plenty salesperson retired there. Bizarre. I was very on board with it. As a tissue magpie I can't relax unless I have the best part of a roll in my pocket, and it provided ample supply. But, Laura is in charge of pre-laundry pocket checks after a few disasters so was less in favour.
+It's like a successful Plenty salesperson retired there. Bizarre. I was very on board with it. As a tissue magpie I can't relax unless I have the best part of a roll in my pocket, and it provided ample supply. But Laura is in charge of pre-laundry pocket checks after a few disasters, so was less in favour.
 
 # Siquijor
 
@@ -69,7 +69,7 @@ It was hard work on the way back. The giant Coron sign provided an excellent nav
 
 # El Nido
 
-Our final stop was El Nido. Buoyed on by the success of our previous boat bout, we got involved with another self guided kayak trip:
+Our final stop was El Nido. Buoyed on by the success of our previous boat bout, we got involved with another self-guided kayak trip:
 
 {{< gallery album="philippines-2/el-nido-kayak" >}}
 
