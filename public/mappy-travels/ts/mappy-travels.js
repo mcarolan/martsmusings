@@ -10521,7 +10521,7 @@ Use an identity property function instead: \`{ "type": "identity", "property": $
             }
             getExpiryTimeout() {
               if (this.expirationTime)
-                return this.expiredRequestCount ? 1e3 * (1 << Math.min(this.expiredRequestCount - 1, 31)) : Math.min(this.expirationTime - new Date().getTime(), Math.pow(2, 31) - 1);
+                return this.expiredRequestCount ? 1e3 * (1 << Math.min(this.expiredRequestCount - 1, 31)) : Math.min(this.expirationTime - (/* @__PURE__ */ new Date()).getTime(), Math.pow(2, 31) - 1);
             }
             setFeatureState(t2, e3) {
               if (!this.latestFeatureIndex || !this.latestFeatureIndex.rawTileData || 0 === Object.keys(t2).length)
@@ -17876,25 +17876,25 @@ uniform ${i3} ${o3} u_${a3};
       function compareDist(a, b) {
         return a.dist - b.dist;
       }
-      function sqSegBoxDist(a, b, bbox3) {
-        if (inside(a, bbox3) || inside(b, bbox3))
+      function sqSegBoxDist(a, b, bbox2) {
+        if (inside(a, bbox2) || inside(b, bbox2))
           return 0;
-        var d1 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox3.minX, bbox3.minY, bbox3.maxX, bbox3.minY);
+        var d1 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox2.minX, bbox2.minY, bbox2.maxX, bbox2.minY);
         if (d1 === 0)
           return 0;
-        var d2 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox3.minX, bbox3.minY, bbox3.minX, bbox3.maxY);
+        var d2 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox2.minX, bbox2.minY, bbox2.minX, bbox2.maxY);
         if (d2 === 0)
           return 0;
-        var d3 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox3.maxX, bbox3.minY, bbox3.maxX, bbox3.maxY);
+        var d3 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox2.maxX, bbox2.minY, bbox2.maxX, bbox2.maxY);
         if (d3 === 0)
           return 0;
-        var d4 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox3.minX, bbox3.maxY, bbox3.maxX, bbox3.maxY);
+        var d4 = sqSegSegDist(a[0], a[1], b[0], b[1], bbox2.minX, bbox2.maxY, bbox2.maxX, bbox2.maxY);
         if (d4 === 0)
           return 0;
         return Math.min(d1, d2, d3, d4);
       }
-      function inside(a, bbox3) {
-        return a[0] >= bbox3.minX && a[0] <= bbox3.maxX && a[1] >= bbox3.minY && a[1] <= bbox3.maxY;
+      function inside(a, bbox2) {
+        return a[0] >= bbox2.minX && a[0] <= bbox2.maxX && a[1] >= bbox2.minY && a[1] <= bbox2.maxY;
       }
       function noIntersections(a, b, segTree) {
         var minX = Math.min(a[0], b[0]);
@@ -17903,7 +17903,7 @@ uniform ${i3} ${o3} u_${a3};
         var maxY = Math.max(a[1], b[1]);
         var edges2 = segTree.search({ minX, minY, maxX, maxY });
         for (var i = 0; i < edges2.length; i++) {
-          if (intersects2(edges2[i].p, edges2[i].next.p, a, b))
+          if (intersects(edges2[i].p, edges2[i].next.p, a, b))
             return false;
         }
         return true;
@@ -17911,7 +17911,7 @@ uniform ${i3} ${o3} u_${a3};
       function cross(p1, p2, p3) {
         return orient(p1[0], p1[1], p2[0], p2[1], p3[0], p3[1]);
       }
-      function intersects2(p1, q1, p2, q2) {
+      function intersects(p1, q1, p2, q2) {
         return p1 !== q2 && q1 !== p2 && cross(p1, q1, p2) > 0 !== cross(p1, q1, q2) > 0 && cross(p2, q2, p1) > 0 !== cross(p2, q2, q1) > 0;
       }
       function updateBBox(node) {
@@ -18162,19 +18162,19 @@ uniform ${i3} ${o3} u_${a3};
         all: function() {
           return this._all(this.data, []);
         },
-        search: function(bbox3) {
+        search: function(bbox2) {
           var node = this.data, result = [], toBBox = this.toBBox;
-          if (!intersects2(bbox3, node))
+          if (!intersects(bbox2, node))
             return result;
           var nodesToSearch = [], i, len, child, childBBox;
           while (node) {
             for (i = 0, len = node.children.length; i < len; i++) {
               child = node.children[i];
               childBBox = node.leaf ? toBBox(child) : child;
-              if (intersects2(bbox3, childBBox)) {
+              if (intersects(bbox2, childBBox)) {
                 if (node.leaf)
                   result.push(child);
-                else if (contains(bbox3, childBBox))
+                else if (contains(bbox2, childBBox))
                   this._all(child, result);
                 else
                   nodesToSearch.push(child);
@@ -18184,17 +18184,17 @@ uniform ${i3} ${o3} u_${a3};
           }
           return result;
         },
-        collides: function(bbox3) {
+        collides: function(bbox2) {
           var node = this.data, toBBox = this.toBBox;
-          if (!intersects2(bbox3, node))
+          if (!intersects(bbox2, node))
             return false;
           var nodesToSearch = [], i, len, child, childBBox;
           while (node) {
             for (i = 0, len = node.children.length; i < len; i++) {
               child = node.children[i];
               childBBox = node.leaf ? toBBox(child) : child;
-              if (intersects2(bbox3, childBBox)) {
-                if (node.leaf || contains(bbox3, childBBox))
+              if (intersects(bbox2, childBBox)) {
+                if (node.leaf || contains(bbox2, childBBox))
                   return true;
                 nodesToSearch.push(child);
               }
@@ -18239,7 +18239,7 @@ uniform ${i3} ${o3} u_${a3};
         remove: function(item, equalsFn) {
           if (!item)
             return this;
-          var node = this.data, bbox3 = this.toBBox(item), path = [], indexes = [], i, parent, index, goingUp;
+          var node = this.data, bbox2 = this.toBBox(item), path = [], indexes = [], i, parent, index, goingUp;
           while (node || path.length) {
             if (!node) {
               node = path.pop();
@@ -18256,7 +18256,7 @@ uniform ${i3} ${o3} u_${a3};
                 return this;
               }
             }
-            if (!goingUp && !node.leaf && contains(node, bbox3)) {
+            if (!goingUp && !node.leaf && contains(node, bbox2)) {
               path.push(node);
               indexes.push(i);
               i = 0;
@@ -18321,7 +18321,7 @@ uniform ${i3} ${o3} u_${a3};
           calcBBox(node, this.toBBox);
           return node;
         },
-        _chooseSubtree: function(bbox3, node, level, path) {
+        _chooseSubtree: function(bbox2, node, level, path) {
           var i, len, child, targetNode, area2, enlargement, minArea, minEnlargement;
           while (true) {
             path.push(node);
@@ -18331,7 +18331,7 @@ uniform ${i3} ${o3} u_${a3};
             for (i = 0, len = node.children.length; i < len; i++) {
               child = node.children[i];
               area2 = bboxArea(child);
-              enlargement = enlargedArea(bbox3, child) - area2;
+              enlargement = enlargedArea(bbox2, child) - area2;
               if (enlargement < minEnlargement) {
                 minEnlargement = enlargement;
                 minArea = area2 < minArea ? area2 : minArea;
@@ -18348,10 +18348,10 @@ uniform ${i3} ${o3} u_${a3};
           return node;
         },
         _insert: function(item, level, isNode) {
-          var toBBox = this.toBBox, bbox3 = isNode ? item : toBBox(item), insertPath = [];
-          var node = this._chooseSubtree(bbox3, this.data, level, insertPath);
+          var toBBox = this.toBBox, bbox2 = isNode ? item : toBBox(item), insertPath = [];
+          var node = this._chooseSubtree(bbox2, this.data, level, insertPath);
           node.children.push(item);
-          extend(node, bbox3);
+          extend(node, bbox2);
           while (level >= 0) {
             if (insertPath[level].children.length > this._maxEntries) {
               this._split(insertPath, level);
@@ -18359,7 +18359,7 @@ uniform ${i3} ${o3} u_${a3};
             } else
               break;
           }
-          this._adjustParentBBoxes(bbox3, insertPath, level);
+          this._adjustParentBBoxes(bbox2, insertPath, level);
         },
         // split overflowed node into two
         _split: function(insertPath, level) {
@@ -18383,13 +18383,13 @@ uniform ${i3} ${o3} u_${a3};
           calcBBox(this.data, this.toBBox);
         },
         _chooseSplitIndex: function(node, m, M) {
-          var i, bbox1, bbox22, overlap, area2, minOverlap, minArea, index;
+          var i, bbox1, bbox2, overlap, area2, minOverlap, minArea, index;
           minOverlap = minArea = Infinity;
           for (i = m; i <= M - m; i++) {
             bbox1 = distBBox(node, 0, i, this.toBBox);
-            bbox22 = distBBox(node, i, M, this.toBBox);
-            overlap = intersectionArea(bbox1, bbox22);
-            area2 = bboxArea(bbox1) + bboxArea(bbox22);
+            bbox2 = distBBox(node, i, M, this.toBBox);
+            overlap = intersectionArea(bbox1, bbox2);
+            area2 = bboxArea(bbox1) + bboxArea(bbox2);
             if (overlap < minOverlap) {
               minOverlap = overlap;
               index = i;
@@ -18425,9 +18425,9 @@ uniform ${i3} ${o3} u_${a3};
           }
           return margin;
         },
-        _adjustParentBBoxes: function(bbox3, path, level) {
+        _adjustParentBBoxes: function(bbox2, path, level) {
           for (var i = level; i >= 0; i--) {
-            extend(path[i], bbox3);
+            extend(path[i], bbox2);
           }
         },
         _condense: function(path) {
@@ -18506,7 +18506,7 @@ uniform ${i3} ${o3} u_${a3};
       function contains(a, b) {
         return a.minX <= b.minX && a.minY <= b.minY && b.maxX <= a.maxX && b.maxY <= a.maxY;
       }
-      function intersects2(a, b) {
+      function intersects(a, b) {
         return b.minX <= a.maxX && b.minY <= a.maxY && b.maxX >= a.minX && b.maxY >= a.minY;
       }
       function createNode(children) {
@@ -18683,7 +18683,7 @@ uniform ${i3} ${o3} u_${a3};
         var p = start;
         do {
           var a = p.prev, b = p.next.next;
-          if (!equals(a, b) && intersects2(a, p, p.next, b) && locallyInside(a, b) && locallyInside(b, a)) {
+          if (!equals(a, b) && intersects(a, p, p.next, b) && locallyInside(a, b) && locallyInside(b, a)) {
             triangles.push(a.i / dim | 0);
             triangles.push(p.i / dim | 0);
             triangles.push(b.i / dim | 0);
@@ -18866,7 +18866,7 @@ uniform ${i3} ${o3} u_${a3};
       function equals(p1, p2) {
         return p1.x === p2.x && p1.y === p2.y;
       }
-      function intersects2(p1, q1, p2, q2) {
+      function intersects(p1, q1, p2, q2) {
         var o1 = sign2(area2(p1, q1, p2));
         var o2 = sign2(area2(p1, q1, q2));
         var o3 = sign2(area2(p2, q2, p1));
@@ -18892,7 +18892,7 @@ uniform ${i3} ${o3} u_${a3};
       function intersectsPolygon(a, b) {
         var p = a;
         do {
-          if (p.i !== a.i && p.next.i !== a.i && p.i !== b.i && p.next.i !== b.i && intersects2(p, p.next, a, b))
+          if (p.i !== a.i && p.next.i !== a.i && p.i !== b.i && p.next.i !== b.i && intersects(p, p.next, a, b))
             return true;
           p = p.next;
         } while (p !== a);
@@ -19573,17 +19573,17 @@ uniform ${i3} ${o3} u_${a3};
         return !!input && input.constructor === Object;
       }
       exports.isObject = isObject2;
-      function validateBBox(bbox3) {
-        if (!bbox3) {
+      function validateBBox(bbox2) {
+        if (!bbox2) {
           throw new Error("bbox is required");
         }
-        if (!Array.isArray(bbox3)) {
+        if (!Array.isArray(bbox2)) {
           throw new Error("bbox must be an Array");
         }
-        if (bbox3.length !== 4 && bbox3.length !== 6) {
+        if (bbox2.length !== 4 && bbox2.length !== 6) {
           throw new Error("bbox must be an Array of 4 or 6 numbers");
         }
-        bbox3.forEach(function(num) {
+        bbox2.forEach(function(num) {
           if (!isNumber2(num)) {
             throw new Error("bbox must only contain numbers");
           }
@@ -19768,11 +19768,11 @@ uniform ${i3} ${o3} u_${a3};
       }
       function featureReduce2(geojson, callback, initialValue) {
         var previousValue = initialValue;
-        featureEach2(geojson, function(currentFeature2, featureIndex) {
+        featureEach2(geojson, function(currentFeature, featureIndex) {
           if (featureIndex === 0 && initialValue === void 0)
-            previousValue = currentFeature2;
+            previousValue = currentFeature;
           else
-            previousValue = callback(previousValue, currentFeature2, featureIndex);
+            previousValue = callback(previousValue, currentFeature, featureIndex);
         });
         return previousValue;
       }
@@ -19863,7 +19863,7 @@ uniform ${i3} ${o3} u_${a3};
         return previousValue;
       }
       function flattenEach2(geojson, callback) {
-        geomEach2(geojson, function(geometry, featureIndex, properties, bbox3, id) {
+        geomEach2(geojson, function(geometry, featureIndex, properties, bbox2, id) {
           var type = geometry === null ? null : geometry.type;
           switch (type) {
             case null:
@@ -19871,7 +19871,7 @@ uniform ${i3} ${o3} u_${a3};
             case "LineString":
             case "Polygon":
               if (callback(
-                helpers.feature(geometry, properties, { bbox: bbox3, id }),
+                helpers.feature(geometry, properties, { bbox: bbox2, id }),
                 featureIndex,
                 0
               ) === false)
@@ -19905,13 +19905,13 @@ uniform ${i3} ${o3} u_${a3};
         var previousValue = initialValue;
         flattenEach2(
           geojson,
-          function(currentFeature2, featureIndex, multiFeatureIndex) {
+          function(currentFeature, featureIndex, multiFeatureIndex) {
             if (featureIndex === 0 && multiFeatureIndex === 0 && initialValue === void 0)
-              previousValue = currentFeature2;
+              previousValue = currentFeature;
             else
               previousValue = callback(
                 previousValue,
-                currentFeature2,
+                currentFeature,
                 featureIndex,
                 multiFeatureIndex
               );
@@ -20221,7 +20221,7 @@ uniform ${i3} ${o3} u_${a3};
       "use strict";
       Object.defineProperty(exports, "__esModule", { value: true });
       var meta_1 = require_js2();
-      function bbox3(geojson) {
+      function bbox2(geojson) {
         var result = [Infinity, Infinity, -Infinity, -Infinity];
         meta_1.coordEach(geojson, function(coord) {
           if (result[0] > coord[0]) {
@@ -20239,8 +20239,8 @@ uniform ${i3} ${o3} u_${a3};
         });
         return result;
       }
-      bbox3["default"] = bbox3;
-      exports.default = bbox3;
+      bbox2["default"] = bbox2;
+      exports.default = bbox2;
     }
   });
 
@@ -20309,24 +20309,24 @@ uniform ${i3} ${o3} u_${a3};
           return rbush6.prototype.fromJSON.call(this, json);
         };
         tree.toBBox = function(geojson) {
-          var bbox3;
+          var bbox2;
           if (geojson.bbox)
-            bbox3 = geojson.bbox;
+            bbox2 = geojson.bbox;
           else if (Array.isArray(geojson) && geojson.length === 4)
-            bbox3 = geojson;
+            bbox2 = geojson;
           else if (Array.isArray(geojson) && geojson.length === 6)
-            bbox3 = [geojson[0], geojson[1], geojson[3], geojson[4]];
+            bbox2 = [geojson[0], geojson[1], geojson[3], geojson[4]];
           else if (geojson.type === "Feature")
-            bbox3 = turfBBox(geojson);
+            bbox2 = turfBBox(geojson);
           else if (geojson.type === "FeatureCollection")
-            bbox3 = turfBBox(geojson);
+            bbox2 = turfBBox(geojson);
           else
             throw new Error("invalid geojson");
           return {
-            minX: bbox3[0],
-            minY: bbox3[1],
-            maxX: bbox3[2],
-            maxY: bbox3[3]
+            minX: bbox2[0],
+            minY: bbox2[1],
+            maxX: bbox2[2],
+            maxY: bbox2[3]
           };
         };
         return tree;
@@ -22986,8 +22986,8 @@ uniform ${i3} ${o3} u_${a3};
           sort(keys, values, left, j, compare);
           sort(keys, values, j + 1, right, compare);
         }
-        var isInBbox = function isInBbox2(bbox3, point2) {
-          return bbox3.ll.x <= point2.x && point2.x <= bbox3.ur.x && bbox3.ll.y <= point2.y && point2.y <= bbox3.ur.y;
+        var isInBbox = function isInBbox2(bbox2, point2) {
+          return bbox2.ll.x <= point2.x && point2.x <= bbox2.ur.x && bbox2.ll.y <= point2.y && point2.y <= bbox2.ur.y;
         };
         var getBboxOverlap = function getBboxOverlap2(b1, b2) {
           if (b2.ur.x < b1.ll.x || b1.ur.x < b2.ll.x || b2.ur.y < b1.ll.y || b1.ur.y < b2.ll.y)
@@ -23421,7 +23421,7 @@ uniform ${i3} ${o3} u_${a3};
             }
           }, {
             key: "bbox",
-            value: function bbox3() {
+            value: function bbox2() {
               var y1 = this.leftSE.point.y;
               var y2 = this.rightSE.point.y;
               return {
@@ -34619,20 +34619,6 @@ uniform ${i3} ${o3} u_${a3};
     };
     return feature(geom, properties, options);
   }
-  function featureCollection(features2, options) {
-    if (options === void 0) {
-      options = {};
-    }
-    var fc = { type: "FeatureCollection" };
-    if (options.id) {
-      fc.id = options.id;
-    }
-    if (options.bbox) {
-      fc.bbox = options.bbox;
-    }
-    fc.features = features2;
-    return fc;
-  }
   function multiPoint(coordinates, properties, options) {
     if (options === void 0) {
       options = {};
@@ -34800,16 +34786,6 @@ uniform ${i3} ${o3} u_${a3};
     );
     return previousValue;
   }
-  function featureEach(geojson, callback) {
-    if (geojson.type === "Feature") {
-      callback(geojson, 0);
-    } else if (geojson.type === "FeatureCollection") {
-      for (var i = 0; i < geojson.features.length; i++) {
-        if (callback(geojson.features[i], i) === false)
-          break;
-      }
-    }
-  }
   function geomEach(geojson, callback) {
     var i, j, g, geometry, stopG, geometryMaybeCollection, isGeometryCollection, featureProperties, featureBBox, featureId, featureIndex = 0, isFeatureCollection = geojson.type === "FeatureCollection", isFeature = geojson.type === "Feature", stop = isFeatureCollection ? geojson.features.length : 1;
     for (i = 0; i < stop; i++) {
@@ -34870,7 +34846,7 @@ uniform ${i3} ${o3} u_${a3};
     }
   }
   function flattenEach(geojson, callback) {
-    geomEach(geojson, function(geometry, featureIndex, properties, bbox3, id) {
+    geomEach(geojson, function(geometry, featureIndex, properties, bbox2, id) {
       var type = geometry === null ? null : geometry.type;
       switch (type) {
         case null:
@@ -34878,7 +34854,7 @@ uniform ${i3} ${o3} u_${a3};
         case "LineString":
         case "Polygon":
           if (callback(
-            feature(geometry, properties, { bbox: bbox3, id }),
+            feature(geometry, properties, { bbox: bbox2, id }),
             featureIndex,
             0
           ) === false)
@@ -35013,21 +34989,6 @@ uniform ${i3} ${o3} u_${a3};
     }
     throw new Error("coord must be GeoJSON Point or an Array of numbers");
   }
-  function getCoords(coords) {
-    if (Array.isArray(coords)) {
-      return coords;
-    }
-    if (coords.type === "Feature") {
-      if (coords.geometry !== null) {
-        return coords.geometry.coordinates;
-      }
-    } else {
-      if (coords.coordinates) {
-        return coords.coordinates;
-      }
-    }
-    throw new Error("coords must be GeoJSON Feature, Geometry Object or an Array");
-  }
   function featureOf(feature2, type, name) {
     if (!feature2) {
       throw new Error("No feature passed");
@@ -35047,18 +35008,6 @@ uniform ${i3} ${o3} u_${a3};
       return geojson.geometry;
     }
     return geojson;
-  }
-  function getType(geojson, _name) {
-    if (geojson.type === "FeatureCollection") {
-      return "FeatureCollection";
-    }
-    if (geojson.type === "GeometryCollection") {
-      return "GeometryCollection";
-    }
-    if (geojson.type === "Feature" && geojson.geometry !== null) {
-      return geojson.geometry.type;
-    }
-    return geojson.type;
   }
 
   // node_modules/@turf/isolines/dist/es/index.js
@@ -35081,9 +35030,9 @@ uniform ${i3} ${o3} u_${a3};
     var pt = getCoord(point2);
     var geom = getGeom(polygon2);
     var type = geom.type;
-    var bbox3 = polygon2.bbox;
+    var bbox2 = polygon2.bbox;
     var polys = geom.coordinates;
-    if (bbox3 && inBBox(pt, bbox3) === false) {
+    if (bbox2 && inBBox(pt, bbox2) === false) {
       return false;
     }
     if (type === "Polygon") {
@@ -35128,8 +35077,8 @@ uniform ${i3} ${o3} u_${a3};
     }
     return isInside;
   }
-  function inBBox(pt, bbox3) {
-    return bbox3[0] <= pt[0] && bbox3[1] <= pt[1] && bbox3[2] >= pt[0] && bbox3[3] >= pt[1];
+  function inBBox(pt, bbox2) {
+    return bbox2[0] <= pt[0] && bbox2[1] <= pt[1] && bbox2[2] >= pt[0] && bbox2[3] >= pt[1];
   }
 
   // node_modules/@turf/distance/dist/es/index.js
@@ -35295,22 +35244,22 @@ uniform ${i3} ${o3} u_${a3};
   }
 
   // node_modules/@turf/bbox-polygon/dist/es/index.js
-  function bboxPolygon(bbox3, options) {
+  function bboxPolygon(bbox2, options) {
     if (options === void 0) {
       options = {};
     }
-    var west = Number(bbox3[0]);
-    var south = Number(bbox3[1]);
-    var east = Number(bbox3[2]);
-    var north = Number(bbox3[3]);
-    if (bbox3.length === 6) {
+    var west = Number(bbox2[0]);
+    var south = Number(bbox2[1]);
+    var east = Number(bbox2[2]);
+    var north = Number(bbox2[3]);
+    if (bbox2.length === 6) {
       throw new Error("@turf/bbox-polygon does not support BBox with 6 positions");
     }
     var lowLeft = [west, south];
     var topLeft = [west, north];
     var topRight = [east, north];
     var lowRight = [east, south];
-    return polygon([[lowLeft, lowRight, topRight, topLeft, lowLeft]], options.properties, { bbox: bbox3, id: options.id });
+    return polygon([[lowLeft, lowRight, topRight, topLeft, lowLeft]], options.properties, { bbox: bbox2, id: options.id });
   }
 
   // node_modules/@turf/envelope/dist/es/index.js
@@ -35363,182 +35312,8 @@ uniform ${i3} ${o3} u_${a3};
   // node_modules/@turf/tesselate/dist/es/index.js
   var import_earcut = __toESM(require_earcut(), 1);
 
-  // node_modules/@turf/line-segment/dist/es/index.js
-  function lineSegment(geojson) {
-    if (!geojson) {
-      throw new Error("geojson is required");
-    }
-    var results = [];
-    flattenEach(geojson, function(feature2) {
-      lineSegmentFeature(feature2, results);
-    });
-    return featureCollection(results);
-  }
-  function lineSegmentFeature(geojson, results) {
-    var coords = [];
-    var geometry = geojson.geometry;
-    if (geometry !== null) {
-      switch (geometry.type) {
-        case "Polygon":
-          coords = getCoords(geometry);
-          break;
-        case "LineString":
-          coords = [getCoords(geometry)];
-      }
-      coords.forEach(function(coord) {
-        var segments = createSegments(coord, geojson.properties);
-        segments.forEach(function(segment) {
-          segment.id = results.length;
-          results.push(segment);
-        });
-      });
-    }
-  }
-  function createSegments(coords, properties) {
-    var segments = [];
-    coords.reduce(function(previousCoords, currentCoords) {
-      var segment = lineString([previousCoords, currentCoords], properties);
-      segment.bbox = bbox2(previousCoords, currentCoords);
-      segments.push(segment);
-      return currentCoords;
-    });
-    return segments;
-  }
-  function bbox2(coords1, coords2) {
-    var x12 = coords1[0];
-    var y1 = coords1[1];
-    var x2 = coords2[0];
-    var y2 = coords2[1];
-    var west = x12 < x2 ? x12 : x2;
-    var south = y1 < y2 ? y1 : y2;
-    var east = x12 > x2 ? x12 : x2;
-    var north = y1 > y2 ? y1 : y2;
-    return [west, south, east, north];
-  }
-  var es_default7 = lineSegment;
-
   // node_modules/@turf/line-intersect/dist/es/index.js
   var import_geojson_rbush = __toESM(require_geojson_rbush(), 1);
-  function lineIntersect(line1, line2) {
-    var unique = {};
-    var results = [];
-    if (line1.type === "LineString") {
-      line1 = feature(line1);
-    }
-    if (line2.type === "LineString") {
-      line2 = feature(line2);
-    }
-    if (line1.type === "Feature" && line2.type === "Feature" && line1.geometry !== null && line2.geometry !== null && line1.geometry.type === "LineString" && line2.geometry.type === "LineString" && line1.geometry.coordinates.length === 2 && line2.geometry.coordinates.length === 2) {
-      var intersect2 = intersects(line1, line2);
-      if (intersect2) {
-        results.push(intersect2);
-      }
-      return featureCollection(results);
-    }
-    var tree = (0, import_geojson_rbush.default)();
-    tree.load(es_default7(line2));
-    featureEach(es_default7(line1), function(segment) {
-      featureEach(tree.search(segment), function(match) {
-        var intersect3 = intersects(segment, match);
-        if (intersect3) {
-          var key = getCoords(intersect3).join(",");
-          if (!unique[key]) {
-            unique[key] = true;
-            results.push(intersect3);
-          }
-        }
-      });
-    });
-    return featureCollection(results);
-  }
-  function intersects(line1, line2) {
-    var coords1 = getCoords(line1);
-    var coords2 = getCoords(line2);
-    if (coords1.length !== 2) {
-      throw new Error("<intersects> line1 must only contain 2 coordinates");
-    }
-    if (coords2.length !== 2) {
-      throw new Error("<intersects> line2 must only contain 2 coordinates");
-    }
-    var x12 = coords1[0][0];
-    var y1 = coords1[0][1];
-    var x2 = coords1[1][0];
-    var y2 = coords1[1][1];
-    var x3 = coords2[0][0];
-    var y3 = coords2[0][1];
-    var x4 = coords2[1][0];
-    var y4 = coords2[1][1];
-    var denom = (y4 - y3) * (x2 - x12) - (x4 - x3) * (y2 - y1);
-    var numeA = (x4 - x3) * (y1 - y3) - (y4 - y3) * (x12 - x3);
-    var numeB = (x2 - x12) * (y1 - y3) - (y2 - y1) * (x12 - x3);
-    if (denom === 0) {
-      if (numeA === 0 && numeB === 0) {
-        return null;
-      }
-      return null;
-    }
-    var uA = numeA / denom;
-    var uB = numeB / denom;
-    if (uA >= 0 && uA <= 1 && uB >= 0 && uB <= 1) {
-      var x5 = x12 + uA * (x2 - x12);
-      var y5 = y1 + uA * (y2 - y1);
-      return point([x5, y5]);
-    }
-    return null;
-  }
-  var es_default8 = lineIntersect;
-
-  // node_modules/@turf/nearest-point-on-line/dist/es/index.js
-  function nearestPointOnLine(lines, pt, options) {
-    if (options === void 0) {
-      options = {};
-    }
-    var closestPt = point([Infinity, Infinity], {
-      dist: Infinity
-    });
-    var length2 = 0;
-    flattenEach(lines, function(line) {
-      var coords = getCoords(line);
-      for (var i = 0; i < coords.length - 1; i++) {
-        var start = point(coords[i]);
-        start.properties.dist = es_default2(pt, start, options);
-        var stop_1 = point(coords[i + 1]);
-        stop_1.properties.dist = es_default2(pt, stop_1, options);
-        var sectionLength = es_default2(start, stop_1, options);
-        var heightDistance = Math.max(start.properties.dist, stop_1.properties.dist);
-        var direction = bearing(start, stop_1);
-        var perpendicularPt1 = destination(pt, heightDistance, direction + 90, options);
-        var perpendicularPt2 = destination(pt, heightDistance, direction - 90, options);
-        var intersect2 = es_default8(lineString([
-          perpendicularPt1.geometry.coordinates,
-          perpendicularPt2.geometry.coordinates
-        ]), lineString([start.geometry.coordinates, stop_1.geometry.coordinates]));
-        var intersectPt = null;
-        if (intersect2.features.length > 0) {
-          intersectPt = intersect2.features[0];
-          intersectPt.properties.dist = es_default2(pt, intersectPt, options);
-          intersectPt.properties.location = length2 + es_default2(start, intersectPt, options);
-        }
-        if (start.properties.dist < closestPt.properties.dist) {
-          closestPt = start;
-          closestPt.properties.index = i;
-          closestPt.properties.location = length2;
-        }
-        if (stop_1.properties.dist < closestPt.properties.dist) {
-          closestPt = stop_1;
-          closestPt.properties.index = i + 1;
-          closestPt.properties.location = length2 + sectionLength;
-        }
-        if (intersectPt && intersectPt.properties.dist < closestPt.properties.dist) {
-          closestPt = intersectPt;
-          closestPt.properties.index = i;
-        }
-        length2 += sectionLength;
-      }
-    });
-    return closestPt;
-  }
-  var es_default9 = nearestPointOnLine;
 
   // node_modules/@turf/nearest-point-to-line/dist/es/index.js
   var import_object_assign2 = __toESM(require_object_assign(), 1);
@@ -35580,28 +35355,6 @@ uniform ${i3} ${o3} u_${a3};
       return previousValue + es_default2(coords[0], coords[1], options);
     }, 0);
   }
-
-  // node_modules/@turf/line-slice/dist/es/index.js
-  function lineSlice(startPt, stopPt, line) {
-    var coords = getCoords(line);
-    if (getType(line) !== "LineString")
-      throw new Error("line must be a LineString");
-    var startVertex = es_default9(line, startPt);
-    var stopVertex = es_default9(line, stopPt);
-    var ends;
-    if (startVertex.properties.index <= stopVertex.properties.index) {
-      ends = [startVertex, stopVertex];
-    } else {
-      ends = [stopVertex, startVertex];
-    }
-    var clipCoords = [ends[0].geometry.coordinates];
-    for (var i = ends[0].properties.index + 1; i < ends[1].properties.index + 1; i++) {
-      clipCoords.push(coords[i]);
-    }
-    clipCoords.push(ends[1].geometry.coordinates);
-    return lineString(clipCoords, line.properties);
-  }
-  var es_default15 = lineSlice;
 
   // node_modules/@turf/unkink-polygon/dist/es/index.js
   var import_rbush2 = __toESM(require_rbush(), 1);
@@ -39365,20 +39118,8 @@ uniform ${i3} ${o3} u_${a3};
   var lineColourHighlighted = "#e31c3d";
   var features = [];
   var featuresBBox;
-  var initialSource = {
-    type: "geojson",
-    data: {
-      type: "Feature",
-      properties: {},
-      geometry: {
-        type: "LineString",
-        coordinates: []
-      }
-    }
-  };
   var startTime;
   var previousTimestamp;
-  var currentFeature = 0;
   var modeIcon = document.createElement("img");
   modeIcon.width = 32;
   modeIcon.height = 32;
@@ -39400,10 +39141,6 @@ uniform ${i3} ${o3} u_${a3};
   var timeElements = /* @__PURE__ */ new Map();
   var distanceElements = /* @__PURE__ */ new Map();
   var containerElements = /* @__PURE__ */ new Map();
-  var inProgressCounts = transportCategoryZeroMap();
-  var inProgressCosts = transportCategoryZeroMap();
-  var inProgressTimes = transportCategoryZeroMap();
-  var inProgressDistances = transportCategoryZeroMap();
   function transportCategoryZeroMap() {
     const map3 = /* @__PURE__ */ new Map();
     for (const category of allTransportCategories()) {
@@ -39411,58 +39148,21 @@ uniform ${i3} ${o3} u_${a3};
     }
     return map3;
   }
-  var animationSpeeds = /* @__PURE__ */ new Map();
-  animationSpeeds.set("Air" /* Air */, 1500);
-  animationSpeeds.set("Rail" /* Rail */, 200);
-  animationSpeeds.set("Road" /* Road */, 200);
-  animationSpeeds.set("Sea" /* Sea */, 100);
-  var zooms = /* @__PURE__ */ new Map();
-  zooms.set("Air" /* Air */, 3);
-  zooms.set("Road" /* Road */, 6);
-  zooms.set("Rail" /* Rail */, 6);
-  zooms.set("Sea" /* Sea */, 6);
+  var totalAnimationTime = 1e4;
+  var stepStartsAt = [];
+  var totalTripLength = 0;
   function iconFor(transportCategory) {
     return icons[transportCategory.toString()];
   }
   function lngLatLike(coords) {
     return [coords[0], coords[1]];
   }
-  function toggleMarker(i, markers) {
-    const prevStep = steps[i - 1];
-    if (prevStep) {
-      const prevId = prevStep.id;
-      const prevMarker = markers.get(prevId);
-      if (prevMarker) {
-        prevMarker.togglePopup();
-      }
-    }
-    const step = steps[i];
-    if (step) {
-      const id = step.id;
-      const marker2 = markers.get(id);
-      if (marker2) {
-        marker2.togglePopup();
-      }
-    }
-  }
-  function total(currentMap, inProgressMap, transportCategory) {
-    var result = 0;
-    const current = currentMap.get(transportCategory);
-    if (current) {
-      result += current;
-    }
-    const inProgress = inProgressMap.get(transportCategory);
-    if (inProgress) {
-      result += inProgress;
-    }
-    return result;
-  }
   function displayCostsAndCounts() {
     for (const category of allTransportCategories()) {
-      const cost = total(costs, inProgressCosts, category);
-      const count = total(counts, inProgressCounts, category);
-      const time = total(times, inProgressTimes, category);
-      const distance2 = total(distances, inProgressDistances, category);
+      const cost = costs.get(category);
+      const count = counts.get(category);
+      const time = times.get(category);
+      const distance2 = distances.get(category);
       const countElement = countElements.get(category);
       if (countElement) {
         countElement.innerHTML = `${Math.ceil(count)}`;
@@ -39481,58 +39181,6 @@ uniform ${i3} ${o3} u_${a3};
       }
     }
   }
-  function animateStep(timestamp, i) {
-    startTime = void 0;
-    const feature2 = features[i];
-    const start = feature2.geometry.coordinates[0];
-    map2.panTo(lngLatLike(start), { animate: false });
-    if (steps) {
-      if (i > 0) {
-        const lastStep = steps[i - 1];
-        const lastCategory = modeToCategory(lastStep.m);
-        const lastCount = counts.get(lastCategory);
-        const lastCost = costs.get(lastCategory);
-        const lastTime = times.get(lastCategory);
-        const lastDistance = distances.get(lastCategory);
-        if (lastCount != void 0) {
-          counts.set(lastCategory, lastCount + lastStep.c);
-        }
-        if (lastCost != void 0) {
-          costs.set(lastCategory, lastCost + lastStep.x);
-        }
-        if (lastTime != void 0) {
-          times.set(lastCategory, lastTime + durationStringToMinutes(lastStep.d));
-        }
-        const lastFeature = features[i - 1];
-        if (lastFeature && lastDistance != void 0) {
-          distances.set(lastCategory, lastDistance + length(lastFeature, { units: "kilometers" }));
-        }
-        inProgressCosts.set(lastCategory, 0);
-        inProgressCounts.set(lastCategory, 0);
-        inProgressTimes.set(lastCategory, 0);
-        inProgressDistances.set(lastCategory, 0);
-      }
-      const step = steps[i];
-      const stepCategory = modeToCategory(step.m);
-      if (step) {
-        map2.zoomTo(step.z, { animate: false });
-      }
-      for (const category of allTransportCategories()) {
-        const containerElement = containerElements.get(category);
-        if (containerElement) {
-          const isActive = category == stepCategory;
-          if (isActive) {
-            containerElement.classList.add("activeContainer");
-          } else {
-            containerElement.classList.remove("activeContainer");
-          }
-        }
-      }
-    }
-    toggleMarker(i, startMarkers);
-    toggleMarker(i, endMarkers);
-    displayCostsAndCounts();
-  }
   function calculateBoundingBox(ofFeatures) {
     var minLng = Number.MAX_VALUE;
     var maxLng = Number.MIN_VALUE;
@@ -39548,28 +39196,22 @@ uniform ${i3} ${o3} u_${a3};
     }
     return [[minLng, minLat], [maxLng, maxLat]];
   }
-  function animationsFinished() {
-    for (const category of allTransportCategories()) {
-      const containerElement = containerElements.get(category);
-      if (containerElement) {
-        containerElement.classList.remove("activeContainer");
-      }
+  function findLastIndex(array2, predicate) {
+    let l = array2.length;
+    while (l--) {
+      if (predicate(array2[l], l, array2))
+        return l;
     }
-    toggleMarker(steps.length, startMarkers);
-    toggleMarker(steps.length, endMarkers);
-    marker.remove();
-    map2.fitBounds(featuresBBox, {
-      animate: false,
-      padding: { top: 60, bottom: 60, left: 60, right: 60 }
-    });
+    return -1;
   }
-  function timeFor(category, distance2) {
-    const kms = animationSpeeds.get(category);
-    if (kms != void 0) {
-      return distance2 / kms * 1e3;
-    } else {
-      throw "woah!";
-    }
+  function pointForTime(time) {
+    const elapsed = time % totalAnimationTime / totalAnimationTime;
+    const currentKm = Math.max(1e-5, Math.min(elapsed * totalTripLength, totalTripLength));
+    var stepIndex = findLastIndex(stepStartsAt, (startsAt) => startsAt <= currentKm);
+    const feature2 = features[stepIndex];
+    const kmInStep = currentKm - stepStartsAt[stepIndex];
+    const currentPoint = along(feature2, kmInStep, { "units": "kilometers" });
+    return [lngLatLike(currentPoint.geometry.coordinates), stepIndex];
   }
   function animateLine(timestamp) {
     if (previousTimestamp == timestamp) {
@@ -39584,47 +39226,15 @@ uniform ${i3} ${o3} u_${a3};
       return;
     }
     const elapsed = timestamp - startTime;
-    const step = steps[currentFeature];
+    const [currentPoint, stepIndex] = pointForTime(elapsed);
+    marker.setLngLat(currentPoint);
+    const step = steps[stepIndex];
     const category = modeToCategory(step.m);
     if (currentModeIcon != step.m?.toString()) {
       currentModeIcon = step.m?.toString();
       modeIcon.setAttribute("src", iconFor(category));
     }
-    const feature2 = features[currentFeature];
-    const sourceKey = sourceKeyFor(step.id);
-    const maxKm = length(feature2, { units: "kilometers" });
-    const progress = elapsed / timeFor(category, maxKm);
-    const currentKm = Math.max(1e-5, Math.min(progress * maxKm, maxKm));
-    if (currentKm < maxKm) {
-      inProgressCounts.set(category, step.c * progress);
-      inProgressCosts.set(category, step.x * progress);
-      inProgressTimes.set(category, durationStringToMinutes(step.d) * progress);
-      inProgressDistances.set(category, currentKm);
-      const currentPoint = along(feature2, currentKm, { "units": "kilometers" });
-      const lineString2 = es_default15(feature2.geometry.coordinates[0], currentPoint, feature2);
-      const mapSource = map2.getSource(sourceKey);
-      if (mapSource) {
-        mapSource.setData(lineString2);
-        map2.panTo(lngLatLike(currentPoint.geometry.coordinates), { animate: false });
-        marker.setLngLat(lngLatLike(currentPoint.geometry.coordinates));
-      }
-      displayCostsAndCounts();
-      requestAnimationFrame(animateLine);
-    } else {
-      const mapSource = map2.getSource(sourceKey);
-      if (mapSource) {
-        mapSource.setData(feature2.geometry);
-        const end = lngLatLike(feature2.geometry.coordinates[feature2.geometry.coordinates.length - 1]);
-        map2.panTo(end, { animate: false });
-        marker.setLngLat(end);
-      }
-      if (++currentFeature < features.length) {
-        animateStep(timestamp, currentFeature);
-        requestAnimationFrame(animateLine);
-      } else {
-        animationsFinished();
-      }
-    }
+    requestAnimationFrame(animateLine);
   }
   function sourceKeyFor(id) {
     return `source${id}`;
@@ -39642,6 +39252,7 @@ uniform ${i3} ${o3} u_${a3};
       console.log(`starting for ${from} to ${to}`);
       const isForSubset = from != "" || to != "";
       var rangeStarted = false;
+      var lastStepStartsAt = 0;
       for (let step of route2) {
         if (isForSubset && !rangeStarted && step.id != from) {
           continue;
@@ -39659,8 +39270,33 @@ uniform ${i3} ${o3} u_${a3};
         };
         features.push(feature2);
         stepIdFeature.set(step.id, feature2);
+        const length2 = length(feature2, { units: "kilometers" });
+        stepStartsAt.push(lastStepStartsAt);
+        lastStepStartsAt += length2;
+        totalTripLength = lastStepStartsAt;
+        const category = modeToCategory(step.m);
+        const lastCount = counts.get(category);
+        const lastCost = costs.get(category);
+        const lastTime = times.get(category);
+        const lastDistance = distances.get(category);
+        if (lastCount != void 0) {
+          counts.set(category, lastCount + step.c);
+        }
+        if (lastCost != void 0) {
+          costs.set(category, lastCost + step.x);
+        }
+        if (lastTime != void 0) {
+          times.set(category, lastTime + durationStringToMinutes(step.d));
+        }
+        if (lastDistance != void 0) {
+          distances.set(category, lastDistance + length2);
+        }
         const sourceKey = sourceKeyFor(step.id);
-        map2.addSource(sourceKeyFor(step.id), initialSource);
+        const source = {
+          type: "geojson",
+          data: feature2
+        };
+        map2.addSource(sourceKeyFor(step.id), source);
         map2.addLayer({
           id: sourceKey,
           type: "line",
@@ -39689,7 +39325,7 @@ uniform ${i3} ${o3} u_${a3};
         animate: false,
         padding: { top: 60, bottom: 60, left: 60, right: 60 }
       });
-      animateStep(performance.now(), 0);
+      displayCostsAndCounts();
       requestAnimationFrame(animateLine);
     });
   }
@@ -39726,8 +39362,8 @@ uniform ${i3} ${o3} u_${a3};
       }
       const feature2 = stepIdFeature.get(id);
       if (feature2) {
-        const bbox3 = calculateBoundingBox([feature2]);
-        map2.fitBounds(bbox3, {
+        const bbox2 = calculateBoundingBox([feature2]);
+        map2.fitBounds(bbox2, {
           animate: false,
           padding: { top: 60, bottom: 60, left: 60, right: 60 }
         });
