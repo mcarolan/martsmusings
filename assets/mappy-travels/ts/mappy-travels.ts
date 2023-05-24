@@ -85,22 +85,8 @@ const lineColourHighlighted = '#e31c3d';
 var features: Feature<LineString>[] = [];
 var featuresBBox: maplibreGl.LngLatBoundsLike;
 
-const initialSource: maplibreGl.GeoJSONSourceSpecification = {
-    type: "geojson",
-    data: {
-        type: "Feature",
-        properties: {},
-        geometry: {
-            type: "LineString",
-            coordinates: []
-        }
-    }
-};
-
 var startTime: number | undefined;
 var previousTimestamp: number;
-
-var currentFeature = 0;
 
 const modeIcon = document.createElement("img");
 modeIcon.width = 32;
@@ -131,11 +117,6 @@ const timeElements = new Map<TransportCategory, HTMLElement>();
 const distanceElements = new Map<TransportCategory, HTMLElement>();
 const containerElements = new Map<TransportCategory, HTMLElement>();
 
-const inProgressCounts = transportCategoryZeroMap();
-const inProgressCosts = transportCategoryZeroMap();
-const inProgressTimes = transportCategoryZeroMap();
-const inProgressDistances = transportCategoryZeroMap();
-
 function transportCategoryZeroMap(): Map<TransportCategory, number> {
     const map = new Map<TransportCategory, number>();
     for (const category of allTransportCategories()) {
@@ -144,17 +125,10 @@ function transportCategoryZeroMap(): Map<TransportCategory, number> {
     return map;
 }
 
-const animationSpeeds = new Map<TransportCategory, number>();
-animationSpeeds.set(TransportCategory.Air, 1500);
-animationSpeeds.set(TransportCategory.Rail, 200);
-animationSpeeds.set(TransportCategory.Road, 200);
-animationSpeeds.set(TransportCategory.Sea, 100);
+const totalAnimationTime = 10000;
 
-const zooms = new Map<TransportCategory, number>();
-zooms.set(TransportCategory.Air, 3);
-zooms.set(TransportCategory.Road, 6);
-zooms.set(TransportCategory.Rail, 6);
-zooms.set(TransportCategory.Sea, 6);
+const stepStartsAt: number[] =  [];
+var totalTripLength = 0;
 
 function iconFor(transportCategory: TransportCategory): string {
     return params.icons[transportCategory.toString()];
@@ -164,50 +138,12 @@ function lngLatLike(coords: number[]): maplibreGl.LngLatLike {
     return [coords[0], coords[1]];
 }
 
-function toggleMarker(i: number, markers: Map<string, maplibreGl.Marker>) {
-    const prevStep = steps[i - 1];
-    if (prevStep) {
-        const prevId = prevStep.id;
-        const prevMarker = markers.get(prevId);
-
-        if (prevMarker) {
-            prevMarker.togglePopup();
-        }
-    }
-
-    const step = steps[i];
-    if (step) {
-        const id = step.id;
-        const marker = markers.get(id);
-
-        if (marker) {
-            marker.togglePopup();
-        }
-    }
-}
-
-function total(currentMap: Map<TransportCategory, number>, inProgressMap: Map<TransportCategory, number>, transportCategory: TransportCategory): number {
-    var result = 0;
-
-    const current = currentMap.get(transportCategory);
-    if (current) {
-        result += current;
-    }
-
-    const inProgress = inProgressMap.get(transportCategory);
-    if (inProgress) {
-        result += inProgress;
-    }
-
-    return result;
-}
-
 function displayCostsAndCounts() {
     for (const category of allTransportCategories()) {
-        const cost = total(costs, inProgressCosts, category);
-        const count = total(counts, inProgressCounts, category);
-        const time = total(times, inProgressTimes, category);
-        const distance = total(distances, inProgressDistances, category);
+        const cost = costs.get(category);
+        const count = counts.get(category);
+        const time = times.get(category);
+        const distance = distances.get(category);
 
         const countElement = countElements.get(category);
         if (countElement) {
@@ -233,70 +169,6 @@ function displayCostsAndCounts() {
     }
 }
 
-function animateStep(timestamp: number, i: number) {
-    startTime = undefined;
-
-    const feature = features[i];
-    const start = feature.geometry.coordinates[0];
-    map.panTo(lngLatLike(start), { animate: false });
-
-    if (steps) {
-        if (i > 0) {
-            const lastStep = steps[i - 1];
-            const lastCategory = modeToCategory(lastStep.m);
-            const lastCount = counts.get(lastCategory);
-            const lastCost = costs.get(lastCategory);
-            const lastTime = times.get(lastCategory);
-            const lastDistance = distances.get(lastCategory);
-
-            if (lastCount != undefined) {
-                counts.set(lastCategory, lastCount + lastStep.c);
-            }
-            if (lastCost != undefined) {
-                costs.set(lastCategory, lastCost + lastStep.x);
-            }
-            if (lastTime != undefined) {
-                times.set(lastCategory, lastTime + durationStringToMinutes(lastStep.d));
-            }
-            const lastFeature = features[i - 1];
-            if (lastFeature && lastDistance != undefined) {
-                distances.set(lastCategory, lastDistance + turf.lineDistance(lastFeature, { units: "kilometers" }));
-            }
-
-            inProgressCosts.set(lastCategory, 0);
-            inProgressCounts.set(lastCategory, 0);
-            inProgressTimes.set(lastCategory, 0);
-            inProgressDistances.set(lastCategory, 0);
-        }
-
-        const step = steps[i];
-        const stepCategory = modeToCategory(step.m);
-
-        if (step) {
-            map.zoomTo(step.z, { animate: false });
-        }
-
-        for (const category of allTransportCategories()) {
-            const containerElement = containerElements.get(category);
-            if (containerElement) {
-                const isActive = category == stepCategory;
-
-                if (isActive) {
-                    containerElement.classList.add("activeContainer");
-                }
-                else {
-                    containerElement.classList.remove("activeContainer");
-                }
-            }
-        }
-    }
-
-    toggleMarker(i, startMarkers);
-    toggleMarker(i, endMarkers);
-
-    displayCostsAndCounts();
-}
-
 function calculateBoundingBox(ofFeatures: Feature<LineString>[]): maplibreGl.LngLatBoundsLike {
     var minLng = Number.MAX_VALUE;
     var maxLng = Number.MIN_VALUE;
@@ -317,39 +189,26 @@ function calculateBoundingBox(ofFeatures: Feature<LineString>[]): maplibreGl.Lng
     return [[minLng, minLat], [maxLng, maxLat]];
 }
 
-function animationsFinished() {
-    for (const category of allTransportCategories()) {
-        const containerElement = containerElements.get(category);
-        if (containerElement) {
-            containerElement.classList.remove("activeContainer");
-        }
+function findLastIndex<T>(array: Array<T>, predicate: (value: T, index: number, obj: T[]) => boolean): number {
+    let l = array.length;
+    while (l--) {
+        if (predicate(array[l], l, array))
+            return l;
     }
-    toggleMarker(steps.length, startMarkers);
-    toggleMarker(steps.length, endMarkers);
-    marker.remove();
-    map.fitBounds(featuresBBox, {
-        animate: false,
-        padding: { top: 60, bottom: 60, left: 60, right: 60 }
-    });
+    return -1;
 }
 
-function timeFor(category: TransportCategory, distance: number): number {
-    const kms = animationSpeeds.get(category);
-
-    if (kms != undefined) {
-        return distance / kms * 1000;
-    }
-    else {
-        throw "woah!";
-    }
-}
-
-function zoomFor(category: TransportCategory): number {
-    return zooms.get(category) ?? 1;
+function pointForTime(time: number): [maplibreGl.LngLatLike, number] {
+    const elapsed = (time % totalAnimationTime) / totalAnimationTime;
+    const currentKm = Math.max(0.00001, Math.min(elapsed * totalTripLength, totalTripLength));
+    var stepIndex = findLastIndex(stepStartsAt, (startsAt) => startsAt <= currentKm);
+    const feature = features[stepIndex];
+    const kmInStep = currentKm - stepStartsAt[stepIndex];
+    const currentPoint = turf.along(feature, kmInStep, { 'units': 'kilometers' });
+    return [lngLatLike(currentPoint.geometry.coordinates), stepIndex];
 }
 
 function animateLine(timestamp: number) {
-
     if (previousTimestamp == timestamp) {
         requestAnimationFrame(animateLine);
         return;
@@ -365,57 +224,17 @@ function animateLine(timestamp: number) {
 
     const elapsed = timestamp - startTime;
 
-    const step = steps[currentFeature];
+    const [currentPoint, stepIndex] = pointForTime(elapsed);
+    marker.setLngLat(currentPoint);
+
+    const step = steps[stepIndex];
     const category = modeToCategory(step.m);
     if (currentModeIcon != step.m?.toString()) {
         currentModeIcon = step.m?.toString();
         modeIcon.setAttribute("src", iconFor(category));
     }
 
-    const feature = features[currentFeature];
-    const sourceKey = sourceKeyFor(step.id);
-    const maxKm = turf.length(feature, { units: 'kilometers' });
-
-    const progress = elapsed / timeFor(category, maxKm);
-    const currentKm = Math.max(0.00001, Math.min(progress * maxKm, maxKm));
-
-    if (currentKm < maxKm) {
-        inProgressCounts.set(category, step.c * progress);
-        inProgressCosts.set(category, step.x * progress);
-        inProgressTimes.set(category, durationStringToMinutes(step.d) * progress);
-        inProgressDistances.set(category, currentKm);
-
-        const currentPoint = turf.along(feature, currentKm, { 'units': 'kilometers' });
-        const lineString = turf.lineSlice(feature.geometry.coordinates[0], currentPoint, feature);
-        const mapSource = map.getSource(sourceKey) as GeoJSONSource;
-
-        if (mapSource) {
-            mapSource.setData(lineString);
-            map.panTo(lngLatLike(currentPoint.geometry.coordinates), { animate: false });
-            marker.setLngLat(lngLatLike(currentPoint.geometry.coordinates));
-        }
-
-        displayCostsAndCounts();
-
-        requestAnimationFrame(animateLine);
-    }
-    else {
-        const mapSource = map.getSource(sourceKey) as GeoJSONSource;
-
-        if (mapSource) {
-            mapSource.setData(feature.geometry);
-            const end = lngLatLike(feature.geometry.coordinates[feature.geometry.coordinates.length - 1]);
-            map.panTo(end, { animate: false });
-            marker.setLngLat(end);
-        }
-
-        if (++currentFeature < features.length) {
-            animateStep(timestamp, currentFeature);
-            requestAnimationFrame(animateLine);
-        } else {
-            animationsFinished();
-        }
-    }
+    requestAnimationFrame(animateLine);
 }
 
 function sourceKeyFor(id: string) {
@@ -442,6 +261,8 @@ function renderSteps(route: Step[]) {
 
         var rangeStarted = false;
 
+        var lastStepStartsAt = 0;
+
         for (let step of route) {
             if (isForSubset && !rangeStarted && step.id != from) {
                 continue;
@@ -463,8 +284,38 @@ function renderSteps(route: Step[]) {
             features.push(feature);
             stepIdFeature.set(step.id, feature);
 
+            const length = turf.length(feature, { units: 'kilometers' });
+            stepStartsAt.push(lastStepStartsAt);
+            lastStepStartsAt += length;
+            totalTripLength = lastStepStartsAt;
+
+            const category = modeToCategory(step.m);
+            const lastCount = counts.get(category);
+            const lastCost = costs.get(category);
+            const lastTime = times.get(category);
+            const lastDistance = distances.get(category);
+
+            if (lastCount != undefined) {
+                counts.set(category, lastCount + step.c);
+            }
+            if (lastCost != undefined) {
+                costs.set(category, lastCost + step.x);
+            }
+            if (lastTime != undefined) {
+                times.set(category, lastTime + durationStringToMinutes(step.d));
+            }
+            if (lastDistance != undefined) {
+                distances.set(category, lastDistance + length);
+            }
+
             const sourceKey = sourceKeyFor(step.id);
-            map.addSource(sourceKeyFor(step.id), initialSource);
+
+            const source: maplibreGl.GeoJSONSourceSpecification = {
+                type: "geojson",
+                data: feature
+            };
+
+            map.addSource(sourceKeyFor(step.id), source);
             map.addLayer({
                 id: sourceKey,
                 type: "line",
@@ -498,7 +349,8 @@ function renderSteps(route: Step[]) {
             animate: false,
             padding: { top: 60, bottom: 60, left: 60, right: 60 }
         });
-        animateStep(performance.now(), 0);
+
+        displayCostsAndCounts();
         requestAnimationFrame(animateLine);
     });
 }
