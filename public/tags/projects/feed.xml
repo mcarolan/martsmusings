@@ -618,6 +618,18 @@ window.mappyAutoStart = "yes";
 &lt;td>Tube&lt;/td>
 &lt;td>01:12&lt;/td>
 &lt;td>£20.25&lt;/td>
+&lt;/tr>&lt;tr id="row-dcae091b-6581-4d52-b485-489b4f4be881" class="row-hidden">
+&lt;td title="Tapestry">&lt;div class="truncate">🇲🇾 Tapestry&lt;/div>&lt;/td>
+&lt;td title="Kuala Lumpar International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpar International Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>01:25&lt;/td>
+&lt;td>£13.03&lt;/td>
+&lt;/tr>&lt;tr id="row-7ec8614b-0b4d-4889-9c07-49704ab835cc" class="row-hidden">
+&lt;td title="Kuala Lumpar International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpar International Airport&lt;/div>&lt;/td>
+&lt;td title="Manila International Airport">&lt;div class="truncate">🇵🇭 Manila International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>03:32&lt;/td>
+&lt;td>£165.12&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
