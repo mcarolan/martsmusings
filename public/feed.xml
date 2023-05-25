@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.112.2">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-05-14 00:00:00 +0800 WITA</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.112.3">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-05-14 00:00:00 +0800 WITA</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -540,6 +540,84 @@ window.mappyAutoStart = "yes";
 &lt;td>Ferry&lt;/td>
 &lt;td>03:50&lt;/td>
 &lt;td>£64.48&lt;/td>
+&lt;/tr>&lt;tr id="row-aa46e7e8-21c3-4bff-8050-fe5a3f06578a" class="row-hidden">
+&lt;td title="Gili Trawangan Harbour">&lt;div class="truncate">🇮🇩 Gili Trawangan Harbour&lt;/div>&lt;/td>
+&lt;td title="Matahari Terbit Port">&lt;div class="truncate">🇮🇩 Matahari Terbit Port&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>04:18&lt;/td>
+&lt;td>£34.88&lt;/td>
+&lt;/tr>&lt;tr id="row-b72d6b95-9072-4a5e-b3ec-8a9b3aba61bf" class="row-hidden">
+&lt;td title="Matahari Terbit Port">&lt;div class="truncate">🇮🇩 Matahari Terbit Port&lt;/div>&lt;/td>
+&lt;td title=" OYO 1755 De&amp;#39;balcon">&lt;div class="truncate">🇮🇩 OYO 1755 De&amp;#39;balcon&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>01:00&lt;/td>
+&lt;td>£6.07&lt;/td>
+&lt;/tr>&lt;tr id="row-c81687d0-874a-46bc-b737-417114a52431" class="row-hidden">
+&lt;td title=" OYO 1755 De&amp;#39;balcon">&lt;div class="truncate">🇮🇩 OYO 1755 De&amp;#39;balcon&lt;/div>&lt;/td>
+&lt;td title="I Gusti Ngurah Rai International Airport - Bali (DPS)">&lt;div class="truncate">🇮🇩 I Gusti Ngurah Rai International Airport - Bali (DPS)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:05&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;tr id="row-d85cfc77-29e6-4a93-9421-9852e52d306b" class="row-hidden">
+&lt;td title="I Gusti Ngurah Rai International Airport - Bali (DPS)">&lt;div class="truncate">🇮🇩 I Gusti Ngurah Rai International Airport - Bali (DPS)&lt;/div>&lt;/td>
+&lt;td title=" Labuan Bajo - Komodo Island (LBJ) ">&lt;div class="truncate">🇮🇩 Labuan Bajo - Komodo Island (LBJ) &lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:08&lt;/td>
+&lt;td>£66.93&lt;/td>
+&lt;/tr>&lt;tr id="row-ccdcb39e-084b-438e-af76-5ecc619e5a4d" class="row-hidden">
+&lt;td title=" Labuan Bajo - Komodo Island (LBJ) ">&lt;div class="truncate">🇮🇩 Labuan Bajo - Komodo Island (LBJ) &lt;/div>&lt;/td>
+&lt;td title="I Gusti Ngurah Rai International Airport - Bali (DPS)">&lt;div class="truncate">🇮🇩 I Gusti Ngurah Rai International Airport - Bali (DPS)&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:18&lt;/td>
+&lt;td>£55.82&lt;/td>
+&lt;/tr>&lt;tr id="row-6f2eaf8c-29c9-406d-9ecc-f5273b6d27eb" class="row-hidden">
+&lt;td title="I Gusti Ngurah Rai International Airport - Bali (DPS)">&lt;div class="truncate">🇮🇩 I Gusti Ngurah Rai International Airport - Bali (DPS)&lt;/div>&lt;/td>
+&lt;td title="Gsaskara Homestay ">&lt;div class="truncate">🇮🇩 Gsaskara Homestay &lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:53&lt;/td>
+&lt;td>£15.82&lt;/td>
+&lt;/tr>&lt;tr id="row-0b3930f8-2061-44b6-954d-291f1032e4bd" class="row-hidden">
+&lt;td title="Gsaskara Homestay ">&lt;div class="truncate">🇮🇩 Gsaskara Homestay &lt;/div>&lt;/td>
+&lt;td title="Sanur Dream Beach">&lt;div class="truncate">🇮🇩 Sanur Dream Beach&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:27&lt;/td>
+&lt;td>£2.06&lt;/td>
+&lt;/tr>&lt;tr id="row-9987078f-197f-4a56-9321-dce0605ec974" class="row-hidden">
+&lt;td title="Sanur Dream Beach">&lt;div class="truncate">🇮🇩 Sanur Dream Beach&lt;/div>&lt;/td>
+&lt;td title="Lombok Bangsal Pier">&lt;div class="truncate">🇮🇩 Lombok Bangsal Pier&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>04:59&lt;/td>
+&lt;td>£34.67&lt;/td>
+&lt;/tr>&lt;tr id="row-246962d9-8242-4a13-9d66-917d9107bf14" class="row-hidden">
+&lt;td title="Lombok Bangsal Pier">&lt;div class="truncate">🇮🇩 Lombok Bangsal Pier&lt;/div>&lt;/td>
+&lt;td title="Green Rinjani">&lt;div class="truncate">🇮🇩 Green Rinjani&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>01:24&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;tr id="row-1b20b8b1-5e41-4ed1-a5e3-8bb34a32908e" class="row-hidden">
+&lt;td title="Green Rinjani">&lt;div class="truncate">🇮🇩 Green Rinjani&lt;/div>&lt;/td>
+&lt;td title="Tiara Homestay">&lt;div class="truncate">🇮🇩 Tiara Homestay&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>02:52&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;tr id="row-447d872d-d5ce-45d3-9e4a-873ff1707b68" class="row-hidden">
+&lt;td title="Tiara Homestay">&lt;div class="truncate">🇮🇩 Tiara Homestay&lt;/div>&lt;/td>
+&lt;td title="Lombok International Airport">&lt;div class="truncate">🇮🇩 Lombok International Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:17&lt;/td>
+&lt;td>£5.42&lt;/td>
+&lt;/tr>&lt;tr id="row-91cd863e-f852-45af-9438-1a45224a555d" class="row-hidden">
+&lt;td title="Lombok International Airport">&lt;div class="truncate">🇮🇩 Lombok International Airport&lt;/div>&lt;/td>
+&lt;td title="Kuala Lumpar International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpar International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>02:54&lt;/td>
+&lt;td>£147.56&lt;/td>
+&lt;/tr>&lt;tr id="row-ad3e3b8b-2ab5-48dc-9fdc-ae79393c18e7" class="row-hidden">
+&lt;td title="Kuala Lumpar International Airport">&lt;div class="truncate">🇲🇾 Kuala Lumpar International Airport&lt;/div>&lt;/td>
+&lt;td title="The Colony by Infinitum">&lt;div class="truncate">🇲🇾 The Colony by Infinitum&lt;/div>&lt;/td>
+&lt;td>Tube&lt;/td>
+&lt;td>01:12&lt;/td>
+&lt;td>£20.25&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
