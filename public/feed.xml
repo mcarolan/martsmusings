@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.113.0">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-05-14 00:00:00 +0800 +0800</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.114.0">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-06-19 22:20:00 -0500 -05</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -716,7 +716,339 @@ href="https://maplibre.org/"
 Scaling
 &lt;/h2>
 &lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇵🇭 Philippines, Part #2 🇵🇭</title><link href="https://martsmusings.uk/post/2023-05-10-Philippines-2/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-05-10-Philippines-2/</id><published>2023-05-14T00:00:00+08:00</published><updated>2023-05-14T00:00:00+08:00</updated><content type="html">
+&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇮🇩 Indonesia, Part #1 🇮🇩</title><link href="https://martsmusings.uk/post/2023-06-19-Indonesia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-06-19-Indonesia/</id><published>2023-06-19T22:20:00-05:00</published><updated>2023-06-19T22:20:00-05:00</updated><content type="html">
+&lt;p>Our expedition continued into Indonesia. We spent 29 days getting back to nature with bags of snorkeling and hiking.&lt;/p>
+&lt;p>Upon landing at Yogyakarta Airport we immediately found ourselves in a pickle. We hadn’t realised that we were traveling through a big block of Indonesian public holidays. Lots of Indonesians were taking the opportunity to sightsee. So, no train tickets were available for the proceeding weeks!&lt;/p>
+&lt;p>With trains out of the picture, the only way into the city center was by taxi. It would have proved extortionate for me and Laura to hire one for ourselves, so we were in a quandary.&lt;/p>
+&lt;p>A rabble of other tourists also found themselves flummoxed. So, we joined forces with a German couple and an Italian/Mexican couple to score a transfer into the city.&lt;/p>
+&lt;p>We all had fun chatting during the transfer, and exchanged numbers so we could meet up in Yogyakarta.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#yogyakarta" class="header-link" aria-label="Anchor Yogyakarta" href="#yogyakarta">
+&lt;h1 id="yogyakarta">
+Yogyakarta
+&lt;/h1>
+&lt;/a>&lt;p>I made a WhatsApp group for the transfer crew. Different approaches to holidaying immediately became clear.&lt;/p>
+&lt;p>Max and Leo, the German couple, suggested meeting for a beer when everybody had unpacked. The other couple (the Instagrammers) suggested that we commit to a 12 hour temple tour beginning at 3am that morning.&lt;/p>
+&lt;p>Laura and I had no intention of waking up before midday. It took much faff and many 3am starts for us to reach Indonesia. So, we compromised on meeting up for a beer to discuss an early morning trip to Borobudur Temple later in the week.&lt;/p>
+&lt;p>There are two noteworthy temples to visit near Yogyakarta. Borobudur is the world&amp;rsquo;s largest Buddhist temple, and Prambanan is the largest Hindu temple in Indonesia. Both are spectacular to visit at sunrise, so super early tours are very much a Yogyakarta &amp;ldquo;thing&amp;rdquo;.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#prambanan-temple" class="header-link" aria-label="Anchor Prambanan Temple" href="#prambanan-temple">
+&lt;h2 id="prambanan-temple">
+Prambanan Temple
+&lt;/h2>
+&lt;/a>&lt;p>The Instagrammers were keen to visit Prambanan for sunrise. We opted to stay out boozing and enjoying a live band with Max and Leo. After a lie-in we headed to Prambanan with them for sunset. It looked stunning:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/P4260843.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/P4260843.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/IMG_20230426_172527.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/IMG_20230426_172527.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/IMG_20230426_173045.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/IMG_20230426_173045.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/IMG_20230426_165457.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/IMG_20230426_165457.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/IMG_20230426_165313.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/IMG_20230426_165313.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/P4260849.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/P4260849.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-66bb05c15de3e08a985800d22a874101" href="https://assets.martsmusings.uk/galleries/indonesia-1/prambanan/P4260890.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/prambanan/P4260890.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It became obvious that Java attracted few Western tourists, at least relative to Bali. This led to locals being keen to have selfies taken with us, and many asked us to pose several times a day:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b73dce27253879c8b5187ef1d0dd624e" href="https://assets.martsmusings.uk/galleries/indonesia-1/selfies/IMG20230426171535%281%29.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/selfies/IMG20230426171535%281%29.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#day-tour" class="header-link" aria-label="Anchor Day tour" href="#day-tour">
+&lt;h2 id="day-tour">
+Day tour
+&lt;/h2>
+&lt;/a>&lt;p>We kept the following evening much more reserved. We had organised to start a tour with Max &amp;amp; Leo and the Instagrammers at 3am.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#sunrise-spot" class="header-link" aria-label="Anchor Sunrise spot" href="#sunrise-spot">
+&lt;h3 id="sunrise-spot">
+Sunrise spot
+&lt;/h3>
+&lt;/a>&lt;p>First stop was sunrise at a hill with views of Borobudur temple. We got some exceptional photos:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/P4270947.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/P4270947.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/IMG_20230427_060010.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/IMG_20230427_060010.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/IMG_20230427_061226.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/IMG_20230427_061226.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/IMG_20230427_061020.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/IMG_20230427_061020.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/IMG_20230427_063436.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/IMG_20230427_063436.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/IMG_20230427_063446_v1.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/IMG_20230427_063446_v1.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-39f406cc31fbef130caf490d823855ac" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-sunset/P4270996.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-sunset/P4270996.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And had fun on a swing:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-347b20c8a4b5d9bd6499e1206d2cea15" href="https://assets.martsmusings.uk/galleries/indonesia-1/tour-swing/IMG_20230427_062829.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/tour-swing/IMG_20230427_062829.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#borobudur-temple" class="header-link" aria-label="Anchor Borobudur Temple" href="#borobudur-temple">
+&lt;h3 id="borobudur-temple">
+Borobudur Temple
+&lt;/h3>
+&lt;/a>&lt;p>The main event of the tour was a visit to Borobudur temple, the largest Buddhist temple in the world.&lt;/p>
+&lt;p>We got some great photos, and had a good mooch:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271049.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271049.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271055.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271055.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271025.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271025.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271064.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271064.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271071.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271071.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271043.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271043.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/group.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/group.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271038.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271038.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/IMG_20230427_082502.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/IMG_20230427_082502.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/P4271030.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/P4271030.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-80219113899b7b47ccf2c09a3f89dc09" href="https://assets.martsmusings.uk/galleries/indonesia-1/borobudur/IMG_20230427_091016__01__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/borobudur/IMG_20230427_091016__01__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The heat was sweltering. We had to leave the Instagrammers to their photos, and scored some cold coffees with the Germans.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#chicken-church" class="header-link" aria-label="Anchor Chicken church" href="#chicken-church">
+&lt;h3 id="chicken-church">
+Chicken church
+&lt;/h3>
+&lt;/a>&lt;p>The last stop on our tour was a little bit quirky. It&amp;rsquo;s a cross-faith place of worship shaped like a giant chicken.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c1a6c514d525977ebf537f5fcc0454f1" href="https://assets.martsmusings.uk/galleries/indonesia-1/chicken-church/P4271078.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/chicken-church/P4271078.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c1a6c514d525977ebf537f5fcc0454f1" href="https://assets.martsmusings.uk/galleries/indonesia-1/chicken-church/IMG_20230427_115942.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/chicken-church/IMG_20230427_115942.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c1a6c514d525977ebf537f5fcc0454f1" href="https://assets.martsmusings.uk/galleries/indonesia-1/chicken-church/P4271084.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/chicken-church/P4271084.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c1a6c514d525977ebf537f5fcc0454f1" href="https://assets.martsmusings.uk/galleries/indonesia-1/chicken-church/IMG_20230427_120455.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/chicken-church/IMG_20230427_120455.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c1a6c514d525977ebf537f5fcc0454f1" href="https://assets.martsmusings.uk/galleries/indonesia-1/chicken-church/IMG_20230427_115649.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/chicken-church/IMG_20230427_115649.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c1a6c514d525977ebf537f5fcc0454f1" href="https://assets.martsmusings.uk/galleries/indonesia-1/chicken-church/group.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/chicken-church/group.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>People of any or no faith are welcome to visit, pray and congregate.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#mount-bromo" class="header-link" aria-label="Anchor Mount Bromo" href="#mount-bromo">
+&lt;h1 id="mount-bromo">
+Mount Bromo
+&lt;/h1>
+&lt;/a>&lt;p>We explored a couple of volcanoes during the second half of our time on Java. First up was Mount Bromo.&lt;/p>
+&lt;p>Getting to the village at the base of the mountain, Cemoro Lawang, was a bit of a mission. We had to get a train to a big city, Surabaya. Then transfer by bus to another city, Probbolingo. And finally catch a minibus to Cemoro Lawang!&lt;/p>
+&lt;p>It was all going very well until we got stranded in Surabaya. I had ordered us a taxi to the wrong bus station. What&amp;rsquo;s more, both mine and Laura&amp;rsquo;s phones refused to get any signal.&lt;/p>
+&lt;p>We aimlessly wandered, in the baking sun, with all our traveling-the-worldly possessions for a while. Not a bar of signal in sight. We must have looked very lost. A kind stranger came up to help. She made us a WiFi hotspot so that we could order a taxi, told us where we needed to go, and waited with us until the taxi arrived. All she asked for in return was a selfie ❤️&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8dd3f7037c746d4434b4e946ca6a9c99" href="https://assets.martsmusings.uk/galleries/indonesia-1/surabaya-selfie/IMG-20230429-WA0004.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/surabaya-selfie/IMG-20230429-WA0004.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>After an exceptional amount of faff we made it to our hotel in Cemoro Lawang late afternoon. The plan was to grab some food, have a quick doze, and then wake up at 2:00 am to see Mount Bromo at sunrise.&lt;/p>
+&lt;p>At 7pm ish we headed back for our nap, and had a slight issue with the door:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6a55bd932802f1c2f76c9de527f01560" href="https://assets.martsmusings.uk/galleries/indonesia-1/key-snap/IMG_20230429_193145.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/key-snap/IMG_20230429_193145.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The hotel dude was not the most understanding. He placed a lot of emphasis on us needing to pay a fine. Then added that the only spare key was 2 hours drive away in Probbolingo. We made it very clear that we weren&amp;rsquo;t going to pay a fine. We could see other locks with snapped keys, it was a maintenance issue. After Google translating &amp;ldquo;pliers&amp;rdquo; he scuttled off to see what he could do. Luckily, with the aid of some toilet paper and half the broken key, I was able to jig the lock open. We were able to get a few hours kip 💪.&lt;/p>
+&lt;p>The walk up to the viewpoint for sunrise felt like a military operation. Hundreds of jeeps were transporting tourists from surrounding areas up the mountain. The scale was quite impressive! We were one of very few walking up on our own steam, but doing so gave us a bit more freedom and saved us a chunk of cash.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-52173cfcb0641f6d666e7144a0c3704f" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-jeeps/VID_20230430_031514.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-jeeps/VID_20230430_031514.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The view was incredible, and made all the faff worth it:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301174.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301174.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301152.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301152.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301130.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301130.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/IMG_20230430_070503.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/IMG_20230430_070503.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/IMG_20230430_063505.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/IMG_20230430_063505.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301178.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301178.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301163.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301163.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301220.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301220.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/IMG_20230430_052024.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/IMG_20230430_052024.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-532b2bd18ef0348849ae7d5bd2dcd2e1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo/P4301182.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo/P4301182.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>On the way down we treated ourselves to breakfast. I was over the moon to have butter for the first time in many months:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2a7088fb839bab56f8e5a469ff4dad03" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-brekkie/IMG_20230501_083909.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-brekkie/IMG_20230501_083909.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2a7088fb839bab56f8e5a469ff4dad03" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-brekkie/IMG_20230430_075054.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-brekkie/IMG_20230430_075054.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>After lots of coffee we ventured up the crater rim. From a distance we noticed people were not walking far at all once they got up. We vowed to do better, but when we reached the top we soon understood the issue. The plumes from the crater reeked of rotten eggs, and it was very hard to breathe. I headed back to the stairs for a coughing fit, and a group of Indonesian tourists grabbed me for a selfie 🤦‍♂️.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f186d9a2093568b037c70360b6f3bbd1" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-smelly/IMG_20230430_102025.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-smelly/IMG_20230430_102025.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>After recomposing I rejoined Laura for a short wander around, it was very tough work so we didn&amp;rsquo;t make it far!&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301273.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301273.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301275.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301275.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301261.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301261.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301248.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301248.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301252.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301252.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301249.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301249.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-917c3504af28569ccdda00dfccacb128" href="https://assets.martsmusings.uk/galleries/indonesia-1/bromo-crater/P4301255.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/bromo-crater/P4301255.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#ijen" class="header-link" aria-label="Anchor Ijen" href="#ijen">
+&lt;h1 id="ijen">
+Ijen
+&lt;/h1>
+&lt;/a>&lt;p>We wanted to self guide a trip to Mount Ijen too. Alas this wasn&amp;rsquo;t possible. Indonesian public holiday bookings meant no trains were available at all.&lt;/p>
+&lt;p>We accepted a packaged tour from the driver of our transfer to Cemoro Lawang. He had tried to scam us before, so it was with caution and reluctance that we booked onto it. It was our only option.&lt;/p>
+&lt;p>It turned out great. The price we paid was fair and we had an ace time. We got some incredible views:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c36a62876bb1d1fd40841a78688d26d9" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen/IMG_20230502_074612.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen/IMG_20230502_074612.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c36a62876bb1d1fd40841a78688d26d9" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen/IMG_20230502_055411.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen/IMG_20230502_055411.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c36a62876bb1d1fd40841a78688d26d9" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen/P5021331.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen/P5021331.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c36a62876bb1d1fd40841a78688d26d9" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen/P5021320.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen/P5021320.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c36a62876bb1d1fd40841a78688d26d9" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen/P5021324.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen/P5021324.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c36a62876bb1d1fd40841a78688d26d9" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen/IMG_20230502_052828.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen/IMG_20230502_052828.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Ijen is an active volcano. The levels of Sulphur it farts out mean that whilst hiking it you&amp;rsquo;re advised to wear a mask:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2e2714947160dbdd357b9f3285e7b220" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-mask/IMG_20230502_054622.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-mask/IMG_20230502_054622.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We were glad of our guide during the hike up. He was a miner on Ijen for over two decades, and was very happy to share his experience.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f81c1815bdd8b699825073763a284359" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-sulphur/IMG_20230502_044914.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-sulphur/IMG_20230502_044914.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Sulphur mining on Ijen is brutal. It&amp;rsquo;s all done by hand. Miners hack apart lumps of Sulphur from the smokey area in photos below, and pile it into wicker baskets. They then transport more than their bodyweight of the toxic clumps down the mountain.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-222c9d89a989930c57f9a85e9e919a24" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-smoky/P5021296.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-smoky/P5021296.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-222c9d89a989930c57f9a85e9e919a24" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-smoky/P5021302.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-smoky/P5021302.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>At the bottom they pay for a taxi to transport them with their cargo to the only buyer. On a good day they make about £7.50 for their effort, our guide said a more typical day worked out around £3.60.&lt;/p>
+&lt;p>The health &amp;amp; safety risks are dire. Joint problems from carrying the haul down the mountain. Respiratory issues from being unable to afford a gas mask. Death from falling in a crater full of sulphuric acid. Thankfully fewer are having to resort to making a living this way, but we did see some miners on our hike:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-53e1306a7301c71c51e893f654f96c2a" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-miner/P5021290.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-miner/P5021290.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-53e1306a7301c71c51e893f654f96c2a" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-miner/P5021286.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-miner/P5021286.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Whatever it is I do and midwifery suddenly seemed less tough.&lt;/p>
+&lt;p>Our guide is now much happier in his employment as a human drone:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b3c8eaa768ab3374fea4b539701a6e08" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-human-drone/VID_20230502_052918.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-human-drone/VID_20230502_052918.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Others choose to make trinkets from the hazardous substance. Who would buy them and how they get them out of the country is anyone&amp;rsquo;s guess:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-90e2e112a5f40bf66b0990c2194ab29f" href="https://assets.martsmusings.uk/galleries/indonesia-1/ijen-trinkets/P5021334.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/ijen-trinkets/P5021334.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-06-19-Indonesia/#wrapping-up" class="header-link" aria-label="Anchor Wrapping up" href="#wrapping-up">
+&lt;h1 id="wrapping-up">
+Wrapping up
+&lt;/h1>
+&lt;/a>&lt;p>Our time on Java was fantastic. We were knackered by the end, but had an incredible time exploring. The only disappointment was Javanese coffee. My hopes were high, the product was good, but the technique was lacking. It was very much a case of putting coffee grounds straight into a mug of water. When you hit the final quarter you&amp;rsquo;re rewarded with a mouthful of grounds 🤮&lt;/p>
+&lt;p>Join us next time for more tales of our time in Indonesia! We relaxed on the tropical islands of Lembongan and Gili T. And met up with Max and Leo again for a cruise around Komodo.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇵🇭 Philippines, Part #2 🇵🇭</title><link href="https://martsmusings.uk/post/2023-05-10-Philippines-2/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-05-10-Philippines-2/</id><published>2023-05-14T00:00:00+08:00</published><updated>2023-05-14T00:00:00+08:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
