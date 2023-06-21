@@ -5,6 +5,12 @@ summary: "Volcanoes and early rises"
 tags: [destinations]
 ---
 
+{{< toc >}}
+
+{{< expando title="Map, Journey and Costs" onchange="javascript:window.mappyStart()" >}}
+{{< mappyTravels from="3c2873d2-e350-11ed-b5ea-0242ac120002" to="af1aa6dc-fbaf-4823-a852-28084b8132a2" >}}
+{{< /expando >}}
+
 Our expedition continued into Indonesia. We spent 29 days getting back to nature with bags of snorkeling and hiking.
 
 Upon landing at Yogyakarta Airport we immediately found ourselves in a pickle. We hadn’t  realised that we were traveling through a big block of Indonesian public  holidays. Lots of Indonesians were taking the opportunity to sightsee. So, no train tickets were available for the proceeding weeks!
