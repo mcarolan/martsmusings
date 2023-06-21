@@ -484,7 +484,7 @@ window.mappyAutoStart = "yes";
 &lt;td title="Kantor Gubernur Java Timur">&lt;div class="truncate">🇮🇩 Kantor Gubernur Java Timur&lt;/div>&lt;/td>
 &lt;td title="Bus Terminal Purabaya">&lt;div class="truncate">🇮🇩 Bus Terminal Purabaya&lt;/div>&lt;/td>
 &lt;td>Taxi&lt;/td>
-&lt;td>aN:aN&lt;/td>
+&lt;td>01:26&lt;/td>
 &lt;td>£7.00&lt;/td>
 &lt;/tr>&lt;tr id="row-cb5633aa-ea80-11ed-a05b-0242ac120003" class="row-hidden">
 &lt;td title="Bus Terminal Purabaya">&lt;div class="truncate">🇮🇩 Bus Terminal Purabaya&lt;/div>&lt;/td>
@@ -654,6 +654,90 @@ window.mappyAutoStart = "yes";
 &lt;td>Plane&lt;/td>
 &lt;td>08:36&lt;/td>
 &lt;td>£609.97&lt;/td>
+&lt;/tr>&lt;tr id="row-9fc431ed-eec4-4024-9dc1-aaab99c7b495" class="row-hidden">
+&lt;td title="San Jose International Airport">&lt;div class="truncate">🇺🇸 San Jose International Airport&lt;/div>&lt;/td>
+&lt;td title="Leo&amp;#39;s Lair">&lt;div class="truncate">🇺🇸 Leo&amp;#39;s Lair&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:28&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;tr id="row-e994be30-33a8-41b5-a9b4-ebb4259067ef" class="row-hidden">
+&lt;td title="Leo&amp;#39;s Lair">&lt;div class="truncate">🇺🇸 Leo&amp;#39;s Lair&lt;/div>&lt;/td>
+&lt;td title="San Francisco International Airport ">&lt;div class="truncate">🇺🇸 San Francisco International Airport &lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>02:20&lt;/td>
+&lt;td>£7.83&lt;/td>
+&lt;/tr>&lt;tr id="row-c3ecbbf7-2686-4cd2-98f9-cbd5e385583c" class="row-hidden">
+&lt;td title="San Francisco International Airport ">&lt;div class="truncate">🇺🇸 San Francisco International Airport &lt;/div>&lt;/td>
+&lt;td title="William P. Hobby Airport">&lt;div class="truncate">🇺🇸 William P. Hobby Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>03:04&lt;/td>
+&lt;td>£234.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d283f880-2984-4f6f-a743-ee36150dc1ef" class="row-hidden">
+&lt;td title="William P. Hobby Airport">&lt;div class="truncate">🇺🇸 William P. Hobby Airport&lt;/div>&lt;/td>
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:57&lt;/td>
+&lt;td>£234.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d70229cd-05e1-4ce4-95a5-4043110cab12" class="row-hidden">
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:22&lt;/td>
+&lt;td>£23.49&lt;/td>
+&lt;/tr>&lt;tr id="row-a65c4872-2111-4b40-a371-c04404dc3a86" class="row-hidden">
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Caye Cualker Ferry Terminal">&lt;div class="truncate">🇧🇿 Caye Cualker Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Speedboat&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£29.93&lt;/td>
+&lt;/tr>&lt;tr id="row-ac7a2a96-9b24-4dc1-ad7d-4f46d799b5da" class="row-hidden">
+&lt;td title="Caye Cualker Ferry Terminal">&lt;div class="truncate">🇧🇿 Caye Cualker Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£29.93&lt;/td>
+&lt;/tr>&lt;tr id="row-1d414f9f-1377-4f2f-9fab-91b150decf1d" class="row-hidden">
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:22&lt;/td>
+&lt;td>£23.49&lt;/td>
+&lt;/tr>&lt;tr id="row-8a9a36bb-c391-46e3-8666-9cbdc34bc657" class="row-hidden">
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td title="Tocumen International Airport">&lt;div class="truncate">🇵🇦 Tocumen International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:56&lt;/td>
+&lt;td>£311.00&lt;/td>
+&lt;/tr>&lt;tr id="row-50c2df1f-6655-44b2-9020-2b1785fb870d" class="row-hidden">
+&lt;td title="Tocumen International Airport">&lt;div class="truncate">🇵🇦 Tocumen International Airport&lt;/div>&lt;/td>
+&lt;td title="El Dorado International Airport">&lt;div class="truncate">🇨🇴 El Dorado International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:11&lt;/td>
+&lt;td>£311.00&lt;/td>
+&lt;/tr>&lt;tr id="row-79c7f5a3-c071-4ec0-a6cc-de4250548b87" class="row-hidden">
+&lt;td title="El Dorado International Airport">&lt;div class="truncate">🇨🇴 El Dorado International Airport&lt;/div>&lt;/td>
+&lt;td title="Bogota Airport Hotel">&lt;div class="truncate">🇨🇴 Bogota Airport Hotel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:14&lt;/td>
+&lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;tr id="row-84b8b083-3ad0-477e-b09a-b29ba0a67bb9" class="row-hidden">
+&lt;td title="Bogota Airport Hotel">&lt;div class="truncate">🇨🇴 Bogota Airport Hotel&lt;/div>&lt;/td>
+&lt;td title="Terminal Saltaire (Bogota)">&lt;div class="truncate">🇨🇴 Terminal Saltaire (Bogota)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:21&lt;/td>
+&lt;td>£3.70&lt;/td>
+&lt;/tr>&lt;tr id="row-2dcffc7f-da83-427d-80f7-1e9c9a114fcb" class="row-hidden">
+&lt;td title="Terminal Saltaire (Bogota)">&lt;div class="truncate">🇨🇴 Terminal Saltaire (Bogota)&lt;/div>&lt;/td>
+&lt;td title="Terminal Del Norte (Medellin)">&lt;div class="truncate">🇨🇴 Terminal Del Norte (Medellin)&lt;/div>&lt;/td>
+&lt;td>Minibus&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>£38.14&lt;/td>
+&lt;/tr>&lt;tr id="row-88430200-e8be-451a-958e-0fbfdaf25088" class="row-hidden">
+&lt;td title="Terminal Del Norte (Medellin)">&lt;div class="truncate">🇨🇴 Terminal Del Norte (Medellin)&lt;/div>&lt;/td>
+&lt;td title="Parceros Med Hostel">&lt;div class="truncate">🇨🇴 Parceros Med Hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:16&lt;/td>
+&lt;td>£3.81&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
