@@ -738,6 +738,120 @@ window.mappyAutoStart = "yes";
 &lt;td>Taxi&lt;/td>
 &lt;td>00:16&lt;/td>
 &lt;td>£3.81&lt;/td>
+&lt;/tr>&lt;tr id="row-95a9f323-5d3b-403e-9647-6daec123aaff" class="row-hidden">
+&lt;td title="Parceros Med Hostel">&lt;div class="truncate">🇨🇴 Parceros Med Hostel&lt;/div>&lt;/td>
+&lt;td title="Terminal del Sur">&lt;div class="truncate">🇨🇴 Terminal del Sur&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:07&lt;/td>
+&lt;td>£4.75&lt;/td>
+&lt;/tr>&lt;tr id="row-e2594484-c647-4c4c-b0e4-6ab37f59fbf8" class="row-hidden">
+&lt;td title="Terminal del Sur">&lt;div class="truncate">🇨🇴 Terminal del Sur&lt;/div>&lt;/td>
+&lt;td title="Saltento">&lt;div class="truncate">🇨🇴 Saltento&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>08:15&lt;/td>
+&lt;td>£30.07&lt;/td>
+&lt;/tr>&lt;tr id="row-e2290363-e70e-4a4c-9f38-1d82141d6095" class="row-hidden">
+&lt;td title="Saltento">&lt;div class="truncate">🇨🇴 Saltento&lt;/div>&lt;/td>
+&lt;td title="Armenia">&lt;div class="truncate">🇨🇴 Armenia&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>00:43&lt;/td>
+&lt;td>£2.19&lt;/td>
+&lt;/tr>&lt;tr id="row-a8a57c87-a54e-4a05-8d1b-53778a6bdedf" class="row-hidden">
+&lt;td title="Armenia">&lt;div class="truncate">🇨🇴 Armenia&lt;/div>&lt;/td>
+&lt;td title="Neiva ">&lt;div class="truncate">🇨🇴 Neiva &lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>07:00&lt;/td>
+&lt;td>£26.43&lt;/td>
+&lt;/tr>&lt;tr id="row-e0340414-6b89-4e92-8537-91131a9c8a07" class="row-hidden">
+&lt;td title="Neiva">&lt;div class="truncate">🇨🇴 Neiva&lt;/div>&lt;/td>
+&lt;td title="Hotel Panorama, Neive">&lt;div class="truncate">🇨🇴 Hotel Panorama, Neive&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:07&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;tr id="row-80fa17f8-07b4-4d0e-9411-299fa2221b85" class="row-hidden">
+&lt;td title="Hotel Panorama, Neive">&lt;div class="truncate">🇨🇴 Hotel Panorama, Neive&lt;/div>&lt;/td>
+&lt;td title="Neiva Airport">&lt;div class="truncate">🇨🇴 Neiva Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:09&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;tr id="row-52714395-5cf2-4d5d-9a34-9307a87000e4" class="row-hidden">
+&lt;td title="Neiva Airport">&lt;div class="truncate">🇨🇴 Neiva Airport&lt;/div>&lt;/td>
+&lt;td title="Bogota Airport">&lt;div class="truncate">🇨🇴 Bogota Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>00:58&lt;/td>
+&lt;td>£148.58&lt;/td>
+&lt;/tr>&lt;tr id="row-c1eea706-c2fb-4b93-8c6d-011c072ab953" class="row-hidden">
+&lt;td title="Bogota Airport">&lt;div class="truncate">🇨🇴 Bogota Airport&lt;/div>&lt;/td>
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:43&lt;/td>
+&lt;td>£194.74&lt;/td>
+&lt;/tr>&lt;tr id="row-95758cd2-5a77-43d6-b7d8-3df2a0cefeda" class="row-hidden">
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td title="Casa Franciscana">&lt;div class="truncate">🇪🇨 Casa Franciscana&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:38&lt;/td>
+&lt;td>£20.10&lt;/td>
+&lt;/tr>&lt;tr id="row-0d89ef82-5c3e-4006-a044-5f40dec34859" class="row-hidden">
+&lt;td title="Casa Franciscana">&lt;div class="truncate">🇪🇨 Casa Franciscana&lt;/div>&lt;/td>
+&lt;td title="South bus station">&lt;div class="truncate">🇪🇨 South bus station&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:50&lt;/td>
+&lt;td>£6.97&lt;/td>
+&lt;/tr>&lt;tr id="row-8cf772a5-cb4a-48a9-b779-52beaedbfd6a" class="row-hidden">
+&lt;td title="South bus station">&lt;div class="truncate">🇪🇨 South bus station&lt;/div>&lt;/td>
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:14&lt;/td>
+&lt;td>£3.93&lt;/td>
+&lt;/tr>&lt;tr id="row-2680a0e6-efdf-4cfe-943a-e09a4ef83d09" class="row-hidden">
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td title="Sigchos">&lt;div class="truncate">🇪🇨 Sigchos&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:30&lt;/td>
+&lt;td>£4.17&lt;/td>
+&lt;/tr>&lt;tr id="row-0181b179-ec81-480a-abf7-6e0b3b2ab5f5" class="row-hidden">
+&lt;td title="Quilotoa">&lt;div class="truncate">🇪🇨 Quilotoa&lt;/div>&lt;/td>
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:20&lt;/td>
+&lt;td>£3.92&lt;/td>
+&lt;/tr>&lt;tr id="row-977a60d0-6850-46b5-b903-fc5bf342fbe4" class="row-hidden">
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>03:31&lt;/td>
+&lt;td>£1.58&lt;/td>
+&lt;/tr>&lt;tr id="row-ad972ed7-a05a-4fd4-9b50-11cf1281b53e" class="row-hidden">
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>02:15&lt;/td>
+&lt;td>£453.64&lt;/td>
+&lt;/tr>&lt;tr id="row-06ec9ac8-81ad-4f18-a454-0d320d1e677b" class="row-hidden">
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td title="Hotel Sueno">&lt;div class="truncate">🇵🇪 Hotel Sueno&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:33&lt;/td>
+&lt;td>£11.39&lt;/td>
+&lt;/tr>&lt;tr id="row-684c0f46-3a80-4f6b-9062-8d35176747a4" class="row-hidden">
+&lt;td title="Hotel Sueno">&lt;div class="truncate">🇵🇪 Hotel Sueno&lt;/div>&lt;/td>
+&lt;td title="Cruz del sur (Lima)">&lt;div class="truncate">🇵🇪 Cruz del sur (Lima)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:15&lt;/td>
+&lt;td>£2.56&lt;/td>
+&lt;/tr>&lt;tr id="row-1fa4cf44-433b-490d-91e6-1bb14d4926d8" class="row-hidden">
+&lt;td title="Cruz del sur (Lima)">&lt;div class="truncate">🇵🇪 Cruz del sur (Lima)&lt;/div>&lt;/td>
+&lt;td title="Cruz del sur (Huaraz)">&lt;div class="truncate">🇵🇪 Cruz del sur (Huaraz)&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>09:30&lt;/td>
+&lt;td>£32.70&lt;/td>
+&lt;/tr>&lt;tr id="row-36f05291-01ca-428e-878e-65179d36380c" class="row-hidden">
+&lt;td title="Cruz del sur (Huaraz)">&lt;div class="truncate">🇵🇪 Cruz del sur (Huaraz)&lt;/div>&lt;/td>
+&lt;td title="Lhoste hostel">&lt;div class="truncate">🇵🇪 Lhoste hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:04&lt;/td>
+&lt;td>£3.27&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
