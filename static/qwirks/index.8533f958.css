@@ -1,0 +1,53 @@
+.gameStatus {
+    font-size: 13px;
+}
+
+.right-side-buttons div {
+    padding-top: 5px !important;
+    padding-right: 5px !important;
+}
+
+.squareButton {
+    width: 32px !important;
+    height: 32px !important;
+}
+
+.squareButton img {
+    width: 16px !important;
+    height: 16px !important;
+}
+
+#mainArea {
+    margin-left: 0px !important;
+}
+
+#bottomPanel {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    width: 100% !important;
+    border-radius: 20px !important;
+}
+
+.tile {
+    --tile-width: calc(16vw - 6px);
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+    width: var(--tile-width) !important;
+    height: var(--tile-width) !important;
+}
+
+#userList {
+  width: 95vw;
+}
+
+.hand {
+    width: 100% !important;
+    padding-left: 0px !important;
+}
+
+h2 {
+    font-size: 13px !important;
+}
+/*# sourceMappingURL=index.8533f958.css.map */
