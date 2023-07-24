@@ -852,6 +852,24 @@ window.mappyAutoStart = "yes";
 &lt;td>Taxi&lt;/td>
 &lt;td>00:04&lt;/td>
 &lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;tr id="row-232577fb-9c59-43cb-9959-4e4f81d80fb5" class="row-hidden">
+&lt;td title="Linea coach station (Huaraz)">&lt;div class="truncate">🇵🇪 Linea coach station (Huaraz)&lt;/div>&lt;/td>
+&lt;td title="Linea coach station (Trujillo)">&lt;div class="truncate">🇵🇪 Linea coach station (Trujillo)&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>09:42&lt;/td>
+&lt;td>£23.83&lt;/td>
+&lt;/tr>&lt;tr id="row-11ab2015-a62f-4769-8abd-f29cf4183468" class="row-hidden">
+&lt;td title="Pizzeria la Italiana (Trujilo)">&lt;div class="truncate">🇵🇪 Pizzeria la Italiana (Trujilo)&lt;/div>&lt;/td>
+&lt;td title="Transportes Primavera (Trujillo)">&lt;div class="truncate">🇵🇪 Transportes Primavera (Trujillo)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:34&lt;/td>
+&lt;td>£2.88&lt;/td>
+&lt;/tr>&lt;tr id="row-b031441e-20b1-477e-ae08-a0152772f0d6" class="row-hidden">
+&lt;td title="Transportes Primavera (Trujillo)">&lt;div class="truncate">🇵🇪 Transportes Primavera (Trujillo)&lt;/div>&lt;/td>
+&lt;td title="Mancora">&lt;div class="truncate">🇵🇪 Mancora&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>09:30&lt;/td>
+&lt;td>£36.83&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
