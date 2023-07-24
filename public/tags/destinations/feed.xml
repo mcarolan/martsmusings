@@ -1,4 +1,377 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.115.3">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-07-19 15:50:00 -0500 -05</updated><entry><title>🇮🇩 Indonesia, Part #2 🇮🇩</title><link href="https://martsmusings.uk/post/2023-06-19-Indonesia-2/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-06-19-Indonesia-2/</id><published>2023-07-19T15:50:00-05:00</published><updated>2023-07-19T15:50:00-05:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.115.4">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-07-24 16:00:00 -0500 -05</updated><entry><title>🇮🇩 🌋 Rinjani 🌋 🇮🇩</title><link href="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/</id><published>2023-07-24T16:00:00-05:00</published><updated>2023-07-24T16:00:00-05:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#the-itinerary">The Itinerary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-heroes-of-the-show">The heroes of the show&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#photos">Photos&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#day-1">Day 1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#day-2">Day 2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#day-3">Day 3&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#the-loo-sitch">The loo sitch&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#onwards">Onwards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-c7cfff97fdd059ffaccbf82e26a19ba7" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-c7cfff97fdd059ffaccbf82e26a19ba7" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "ccdcb39e-084b-438e-af76-5ecc619e5a4d";
+window.mappyTravelsTo = "246962d9-8242-4a13-9d66-917d9107bf14";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-ccdcb39e-084b-438e-af76-5ecc619e5a4d" class="row-hidden">
+&lt;td title=" Labuan Bajo - Komodo Island (LBJ) ">&lt;div class="truncate">🇮🇩 Labuan Bajo - Komodo Island (LBJ) &lt;/div>&lt;/td>
+&lt;td title="I Gusti Ngurah Rai International Airport - Bali (DPS)">&lt;div class="truncate">🇮🇩 I Gusti Ngurah Rai International Airport - Bali (DPS)&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:18&lt;/td>
+&lt;td>£55.82&lt;/td>
+&lt;/tr>&lt;tr id="row-6f2eaf8c-29c9-406d-9ecc-f5273b6d27eb" class="row-hidden">
+&lt;td title="I Gusti Ngurah Rai International Airport - Bali (DPS)">&lt;div class="truncate">🇮🇩 I Gusti Ngurah Rai International Airport - Bali (DPS)&lt;/div>&lt;/td>
+&lt;td title="Gsaskara Homestay ">&lt;div class="truncate">🇮🇩 Gsaskara Homestay &lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:53&lt;/td>
+&lt;td>£15.82&lt;/td>
+&lt;/tr>&lt;tr id="row-0b3930f8-2061-44b6-954d-291f1032e4bd" class="row-hidden">
+&lt;td title="Gsaskara Homestay ">&lt;div class="truncate">🇮🇩 Gsaskara Homestay &lt;/div>&lt;/td>
+&lt;td title="Sanur Dream Beach">&lt;div class="truncate">🇮🇩 Sanur Dream Beach&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:27&lt;/td>
+&lt;td>£2.06&lt;/td>
+&lt;/tr>&lt;tr id="row-9987078f-197f-4a56-9321-dce0605ec974" class="row-hidden">
+&lt;td title="Sanur Dream Beach">&lt;div class="truncate">🇮🇩 Sanur Dream Beach&lt;/div>&lt;/td>
+&lt;td title="Lombok Bangsal Pier">&lt;div class="truncate">🇮🇩 Lombok Bangsal Pier&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>04:59&lt;/td>
+&lt;td>£34.67&lt;/td>
+&lt;/tr>&lt;tr id="row-246962d9-8242-4a13-9d66-917d9107bf14" class="row-hidden">
+&lt;td title="Lombok Bangsal Pier">&lt;div class="truncate">🇮🇩 Lombok Bangsal Pier&lt;/div>&lt;/td>
+&lt;td title="Green Rinjani">&lt;div class="truncate">🇮🇩 Green Rinjani&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>01:24&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>Our time in Indonesia ended with an another volcanic adventure: hiking on Rinjani. It&amp;rsquo;s an active volcano with a summit at 3762m. We booked a 3 day/2 night trek to conquer it 💪.&lt;/p>
+&lt;p>It was the first multi-day trek on our trip, which was daunting. The tour we booked took as much pressure as possible off us. They handled the logistics, food and shelter for us - all we had to do was summon the energy to keep on hikin'.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#the-itinerary" class="header-link" aria-label="Anchor The Itinerary" href="#the-itinerary">
+&lt;h1 id="the-itinerary">
+The Itinerary
+&lt;/h1>
+&lt;/a>&lt;p>We backtracked to Lombok on the ferry. The ferry dude spent the crossing ensuring that everybody had a safe taxi booked from the port. He said the drivers that hang around the port were dodgy. We were glad our tour company had organised a ride for us 😂.&lt;/p>
+&lt;p>We had some food and a short briefing at the tour company&amp;rsquo;s office. Then retired to their on-site accommodation for some rest and recuperation.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Day&lt;/th>
+&lt;th>Distance&lt;/th>
+&lt;th>Hiking Time&lt;/th>
+&lt;th>Elevation gain&lt;/th>
+&lt;th>Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>10.9km&lt;/td>
+&lt;td>7 hours&lt;/td>
+&lt;td>+1575m&lt;/td>
+&lt;td>Hike to Sembalun crater rim&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>8.31km&lt;/td>
+&lt;td>6 hours&lt;/td>
+&lt;td>+726m&lt;/td>
+&lt;td>To the summit!&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>6.21km&lt;/td>
+&lt;td>4 hours&lt;/td>
+&lt;td>-639m&lt;/td>
+&lt;td>Down to the lake&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>3.96km&lt;/td>
+&lt;td>2 hours 30 minutes&lt;/td>
+&lt;td>+571m&lt;/td>
+&lt;td>Up to Senaru crater rim&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>9.11km&lt;/td>
+&lt;td>5 hours 30 minutes&lt;/td>
+&lt;td>-2040m&lt;/td>
+&lt;td>Down to Senaru village&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>As you can see, the second day was particularly brutal! It began at 2am so we would reach the summit for sunrise. The trail to the summit was like an ash tray, each step forward greeted by two slides back:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dceedc2f7936aea394631ca580212060" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/summit-slide/IMG_20230521_052327.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/summit-slide/IMG_20230521_052327.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dceedc2f7936aea394631ca580212060" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/summit-slide/IMG_20230521_052206.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/summit-slide/IMG_20230521_052206.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dceedc2f7936aea394631ca580212060" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/summit-slide/VID_20230521_053333trimmed.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/summit-slide/VID_20230521_053333trimmed.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The descent to the lake, and following ascent, was also quite something. An earthquake in 2018 fortunately had no fatalities, aside from the ease of trails.&lt;/p>
+&lt;p>Natural hot springs at the bottom of the lake descent teased us. Alas, at the time of year we were hiking they were natural meh springs. They were tiny and not very deep, we managed some foot dippage.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#the-heroes-of-the-show" class="header-link" aria-label="Anchor The heroes of the show" href="#the-heroes-of-the-show">
+&lt;h1 id="the-heroes-of-the-show">
+The heroes of the show
+&lt;/h1>
+&lt;/a>&lt;p>Any whining from us should be immediately disregarded. We&amp;rsquo;re now of the opinion that the porters of Rinjani are only people in life allowed to moan about anything. Ever.&lt;/p>
+&lt;p>Here&amp;rsquo;s a job description I&amp;rsquo;ve knocked up.&lt;/p>
+&lt;table>
+&lt;tr>
+&lt;th>Job role:&lt;/th>
+&lt;td>Porter on Rinjani&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;th>Pay:&lt;/th>
+&lt;td>£15 per day. Work available only in three day chunks, from April to December.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;th>Uniform:&lt;/th>
+&lt;td>None provided. Due to aforementioned pay you can probably only afford flip-flops.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;th>Responsibilities:&lt;/th>
+&lt;td>
+&lt;ul>
+&lt;li>Haul 20kg of food, water, and camping equipment up, along, and down a volcano. Load will be mounted to a bamboo stick carried on your shoulders.&lt;/li>
+&lt;li>Wake up your tourists with hot drinks and a cooked breakfast.&lt;/li>
+&lt;li>When your tourists are finished eating, wash up and pack away all camping equipment onto your bamboo stick. &lt;/li>
+&lt;li>Make sure you overtake your tourists, carrying all equipment, and have a cooked lunch ready for them when they arrive at the lunch point. &lt;/li>
+&lt;li>When your tourists have finished eating, wash up and pack away all camping equipment onto your bamboo stick.&lt;/li>
+&lt;li>Make sure you overtake your tourists again, carrying all equipment, and have their tents pitched with a cooked dinner ready for them when they arrive at the campsite.&lt;/li>
+&lt;li>Repeat this for all 3 days.&lt;/li>
+&lt;/ul>
+&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;th>Additional requirements:&lt;/th>
+&lt;td>
+&lt;ul>
+&lt;li>Effortlessly skip over any rocks or obstacles, even though you're wearing flip-flops.&lt;/li>
+&lt;li>Be polite to all the tourists who get in your way. They might also gawp at you.&lt;/li>
+&lt;/ul>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;p>Photograph of ideal candidate:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-d99b53ca06106b050db73da2ff8cda6e" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/porter/IMG_20230521_152559.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/porter/IMG_20230521_152559.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The porters were incredible. In a fairer world they would be top ultramarathon competitors if they decided to compete. We tipped generously.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#photos" class="header-link" aria-label="Anchor Photos" href="#photos">
+&lt;h1 id="photos">
+Photos
+&lt;/h1>
+&lt;/a>&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#day-1" class="header-link" aria-label="Anchor Day 1" href="#day-1">
+&lt;h2 id="day-1">
+Day 1
+&lt;/h2>
+&lt;/a>&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/IMG_20230520_165922.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/IMG_20230520_165922.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/IMG_20230520_181954.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/IMG_20230520_181954.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/IMG_20230520_173052.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/IMG_20230520_173052.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/IMG_20230520_082610.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/IMG_20230520_082610.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/P5201464.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/P5201464.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/IMG_20230520_103814.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/IMG_20230520_103814.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3d92efd17ece09971181c035c5235341" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-1/IMG_20230520_163452.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-1/IMG_20230520_163452.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#day-2" class="header-link" aria-label="Anchor Day 2" href="#day-2">
+&lt;h2 id="day-2">
+Day 2
+&lt;/h2>
+&lt;/a>&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_161923.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_161923.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_074456.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_074456.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_084639.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_084639.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_084801.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_084801.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_063654.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_063654.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_080950.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_080950.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_054902.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_054902.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/P5211477.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/P5211477.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_144611.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_144611.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_171112.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_171112.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_081434.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_081434.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_061956.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_061956.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/P5211479.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/P5211479.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_085032.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_085032.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_060044__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_060044__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_072151.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_072151.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_182144.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_182144.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_100417.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_100417.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_063920.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_063920.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_061703.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_061703.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6f8fcd3eb7b14c42ad96f319e11657a3" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-2/IMG_20230521_063517.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-2/IMG_20230521_063517.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#day-3" class="header-link" aria-label="Anchor Day 3" href="#day-3">
+&lt;h2 id="day-3">
+Day 3
+&lt;/h2>
+&lt;/a>&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c5fb7dcc06348ee4fdbcad334d399026" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-3/VID_20230522_132116.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-3/VID_20230522_132116.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c5fb7dcc06348ee4fdbcad334d399026" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/day-3/IMG_20230522_132236.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/day-3/IMG_20230522_132236.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#the-loo-sitch" class="header-link" aria-label="Anchor The loo sitch" href="#the-loo-sitch">
+&lt;h1 id="the-loo-sitch">
+The loo sitch
+&lt;/h1>
+&lt;/a>&lt;p>It&amp;rsquo;s a volcano. There&amp;rsquo;s no running water. No drainage. Gulp. The setup was extremely rustic:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-cb71c98727efd4ac316a1df1d9ccecb5" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/toilet-tent/IMG_20230520_164741.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/toilet-tent/IMG_20230520_164741.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>A hole dug into the ground sheltered by a roofless tent that went up to your torso.&lt;/p>
+&lt;p>We immediately thought of one of our closest friends. In a superhuman feat he was once able to go without having a &amp;ldquo;number 2&amp;rdquo; for over seven days whilst traveling on the Trans-Siberian railway. Seven days. Seven. Days. It&amp;rsquo;s mind-blowing stuff, and his secret was to eat only Pringles.&lt;/p>
+&lt;p>We naively thought that we could mimic him, and avoid any &amp;ldquo;number 2&amp;rdquo; use of the toilet tent. Alas, our trekking company and porters were ace at their job, and we were &lt;em>extremely&lt;/em> well fed.&lt;/p>
+&lt;p>It was ridiculous. They gave us noodles, veg, tempeh, tofu and egg for lunch once. Then they brought out a cauldron of rice. Then they brought out 2 oranges, 2 mangoes, 2 bananas and 2 apples. Sliced, so they had to be eaten.&lt;/p>
+&lt;p>We persevered, believing that we could reach less than half the achievement of our beloved buddy.&lt;/p>
+&lt;p>We&amp;rsquo;re semi proud to say that we were able to reach our goal of toilet tent avoidance. But we felt grim by the end. The negotiations of who was to use the first proper toilet available to us have gone down as solid marriage foundations.&lt;/p>
+&lt;p>Our WhatsApp conversation that day (redaction is to protect the innocent):&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6eecf83d4c542bb0cbd8688d693139e5" href="https://assets.martsmusings.uk/galleries/indonesia-rinjani/toilet-whatsapp/Screenshot_20230723-193707~2.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-rinjani/toilet-whatsapp/Screenshot_20230723-193707~2.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-07-24-Indonesia-Rinjani/#onwards" class="header-link" aria-label="Anchor Onwards" href="#onwards">
+&lt;h1 id="onwards">
+Onwards
+&lt;/h1>
+&lt;/a>&lt;p>Blimey. What an adventure. We adored Indonesia. It&amp;rsquo;s gone down as one of our favourite destinations. We&amp;rsquo;d love to go back to meet the orangutans on Sumatra some day.&lt;/p>
+&lt;p>Next up is our exit from South East Asia 🙁. We had a couple of short stop-offs on the way out. In Kuala Lumpur we met our new friends Max &amp;amp; Leo fleetingly, and in Tokyo we stayed with our amazing friend Will.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇮🇩 Indonesia, Part #2 🇮🇩</title><link href="https://martsmusings.uk/post/2023-06-19-Indonesia-2/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-06-19-Indonesia-2/</id><published>2023-07-19T15:50:00-05:00</published><updated>2023-07-19T15:50:00-05:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
