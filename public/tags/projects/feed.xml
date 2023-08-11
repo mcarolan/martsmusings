@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.115.4">Hugo</generator><title>Projects on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/projects/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/projects/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/projects/</id><updated>2023-04-27 17:22:00 +0700 +0700</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.117.0">Hugo</generator><title>Projects on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/projects/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/projects/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/projects/</id><updated>2023-04-27 17:22:00 +0700 +0700</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -870,6 +870,96 @@ window.mappyAutoStart = "yes";
 &lt;td>Coach&lt;/td>
 &lt;td>09:30&lt;/td>
 &lt;td>£36.83&lt;/td>
+&lt;/tr>&lt;tr id="row-a3d21688-38a6-4d5b-b82f-2b54f5587bc1" class="row-hidden">
+&lt;td title="Mancora">&lt;div class="truncate">🇵🇪 Mancora&lt;/div>&lt;/td>
+&lt;td title="Guayaquil Bus Station">&lt;div class="truncate">🇪🇨 Guayaquil Bus Station&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>08:30&lt;/td>
+&lt;td>£54.66&lt;/td>
+&lt;/tr>&lt;tr id="row-f4a4d67f-6793-49a2-a897-b8f4f3b33fae" class="row-hidden">
+&lt;td title="Guayaquil Bus Station">&lt;div class="truncate">🇪🇨 Guayaquil Bus Station&lt;/div>&lt;/td>
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:11&lt;/td>
+&lt;td>£3.90&lt;/td>
+&lt;/tr>&lt;tr id="row-781f872a-5c8e-4330-aca3-1a48d6ce015b" class="row-hidden">
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td title="Seymour Baltra Galapagos Airport">&lt;div class="truncate">🇪🇨 Seymour Baltra Galapagos Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:39&lt;/td>
+&lt;td>£292.90&lt;/td>
+&lt;/tr>&lt;tr id="row-825d3a34-8165-43d9-9413-762dc4426b4c" class="row-hidden">
+&lt;td title="Seymour Baltra Galapagos Airport">&lt;div class="truncate">🇪🇨 Seymour Baltra Galapagos Airport&lt;/div>&lt;/td>
+&lt;td title="Baltra Crossing Point">&lt;div class="truncate">🇪🇨 Baltra Crossing Point&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:08&lt;/td>
+&lt;td>£7.80&lt;/td>
+&lt;/tr>&lt;tr id="row-9b4c4613-4e47-49e3-9a9f-c89dcc037516" class="row-hidden">
+&lt;td title="Baltra Crossing Point">&lt;div class="truncate">🇪🇨 Baltra Crossing Point&lt;/div>&lt;/td>
+&lt;td title="Santa Cruz Ferry Terminal">&lt;div class="truncate">🇪🇨 Santa Cruz Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:02&lt;/td>
+&lt;td>£1.56&lt;/td>
+&lt;/tr>&lt;tr id="row-d3facfcb-d448-4e74-9e09-744099b08c10" class="row-hidden">
+&lt;td title="Santa Cruz Ferry Terminal">&lt;div class="truncate">🇪🇨 Santa Cruz Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:34&lt;/td>
+&lt;td>£7.80&lt;/td>
+&lt;/tr>&lt;tr id="row-a9a066a6-fe3e-43bb-b8fc-174aad9812b3" class="row-hidden">
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td title="Isabella">&lt;div class="truncate">🇪🇨 Isabella&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-80daad4f-c3f3-4bdb-ac2d-b09909c75b80" class="row-hidden">
+&lt;td title="Isabella">&lt;div class="truncate">🇪🇨 Isabella&lt;/div>&lt;/td>
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-0f79ed76-f282-41c8-b314-655379459c10" class="row-hidden">
+&lt;td title="Santa Cruz">&lt;div class="truncate">🇪🇨 Santa Cruz&lt;/div>&lt;/td>
+&lt;td title="San Cristobal">&lt;div class="truncate">🇪🇨 San Cristobal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-6f78ec95-59e8-4cfb-8d08-b9d757893807" class="row-hidden">
+&lt;td title="San Cristobal">&lt;div class="truncate">🇪🇨 San Cristobal&lt;/div>&lt;/td>
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:34&lt;/td>
+&lt;td>£394.59&lt;/td>
+&lt;/tr>&lt;tr id="row-2775853f-0ba6-4e82-a613-5d195c5cecb4" class="row-hidden">
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:42&lt;/td>
+&lt;td>£394.59&lt;/td>
+&lt;/tr>&lt;tr id="row-43de8c9a-aa1d-41d3-9f41-075813ce9ba0" class="row-hidden">
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td title="Homestay, Miraflores">&lt;div class="truncate">🇵🇪 Homestay, Miraflores&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:52&lt;/td>
+&lt;td>£14.34&lt;/td>
+&lt;/tr>&lt;tr id="row-0006b897-e153-40f8-93d9-15f4eba4f635" class="row-hidden">
+&lt;td title="Homestay, Miraflores">&lt;div class="truncate">🇵🇪 Homestay, Miraflores&lt;/div>&lt;/td>
+&lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:40&lt;/td>
+&lt;td>£82.54&lt;/td>
+&lt;/tr>&lt;tr id="row-04b642ed-5a80-4ba3-8ddc-ce527c05caac" class="row-hidden">
+&lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
+&lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>01:12&lt;/td>
+&lt;td>£82.54&lt;/td>
+&lt;/tr>&lt;tr id="row-89695a1c-f049-44cc-b2db-a983cacf21cf" class="row-hidden">
+&lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>19:00&lt;/td>
+&lt;td>£82.54&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
