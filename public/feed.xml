@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.117.0">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-08-01 23:00:00 -0600 -06</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.117.0">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-08-25 14:44:00 -0500 -05</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -1022,7 +1022,862 @@ href="https://maplibre.org/"
 Scaling
 &lt;/h2>
 &lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇲🇾 Kuala Lumpur and Tokyo 🇯🇵</title><link href="https://martsmusings.uk/post/2023-08-01-Tokyo-Kuala/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-01-Tokyo-Kuala/</id><published>2023-08-01T23:00:00-06:00</published><updated>2023-08-01T23:00:00-06:00</updated><content type="html">
+&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇺🇸 Caleofornia 🦁</title><link href="https://martsmusings.uk/post/2023-08-24-Caleofornia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-24-Caleofornia/</id><published>2023-08-25T14:44:00-05:00</published><updated>2023-08-25T14:44:00-05:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#airport-pickup">Airport pickup&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#stanford-uni">Stanford Uni&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#parkrun">Parkrun&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#soup-and-sealions">Soup and Sealions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#napa-valley">Napa Valley&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#palo-alto-foothills">Palo Alto Foothills&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#mission-peak">Mission Peak&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#san-francisco">San Francisco&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#burrito">Burrito&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-painted-ladies">The Painted Ladies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#mrs-doubtfires-house">Mrs Doubtfire&amp;rsquo;s House&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#pier-39">Pier 39&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#golden-gate-bridge">Golden Gate Bridge&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#tenderloin">Tenderloin&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#san-francisco-take-2">San Francisco Take 2&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#diner-experience">Diner Experience&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#trolley-tram">Trolley Tram&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#golden-gate-park">Golden Gate Park&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#japanese-tea-garden">Japanese Tea Garden&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#parkrun-1">Parkrun&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#closing-remarks">Closing Remarks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-c17bb3d25cbfbd117d3f6c6ab833d671" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-c17bb3d25cbfbd117d3f6c6ab833d671" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "40efdf6b-dad8-4b46-96bd-04cf882e561a";
+window.mappyTravelsTo = "89fc431ed-eec4-4024-9dc1-aaab99c7b495";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-40efdf6b-dad8-4b46-96bd-04cf882e561a" class="row-hidden">
+&lt;td title="Will Frece Heights">&lt;div class="truncate">🇯🇵 Will Frece Heights&lt;/div>&lt;/td>
+&lt;td title="Narita International Airport">&lt;div class="truncate">🇯🇵 Narita International Airport&lt;/div>&lt;/td>
+&lt;td>Train&lt;/td>
+&lt;td>01:45&lt;/td>
+&lt;td>£23.70&lt;/td>
+&lt;/tr>&lt;tr id="row-85fc6611-9de1-480b-85ff-d34e6a2930d0" class="row-hidden">
+&lt;td title="Narita International Airport">&lt;div class="truncate">🇯🇵 Narita International Airport&lt;/div>&lt;/td>
+&lt;td title="San Jose International Airport">&lt;div class="truncate">🇺🇸 San Jose International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>08:36&lt;/td>
+&lt;td>£609.97&lt;/td>
+&lt;/tr>&lt;tr id="row-9fc431ed-eec4-4024-9dc1-aaab99c7b495" class="row-hidden">
+&lt;td title="San Jose International Airport">&lt;div class="truncate">🇺🇸 San Jose International Airport&lt;/div>&lt;/td>
+&lt;td title="Leo&amp;#39;s Lair">&lt;div class="truncate">🇺🇸 Leo&amp;#39;s Lair&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:28&lt;/td>
+&lt;td>£0.00&lt;/td>
+&lt;/tr>&lt;tr id="row-e994be30-33a8-41b5-a9b4-ebb4259067ef" class="row-hidden">
+&lt;td title="Leo&amp;#39;s Lair">&lt;div class="truncate">🇺🇸 Leo&amp;#39;s Lair&lt;/div>&lt;/td>
+&lt;td title="San Francisco International Airport ">&lt;div class="truncate">🇺🇸 San Francisco International Airport &lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>02:20&lt;/td>
+&lt;td>£7.83&lt;/td>
+&lt;/tr>&lt;tr id="row-c3ecbbf7-2686-4cd2-98f9-cbd5e385583c" class="row-hidden">
+&lt;td title="San Francisco International Airport ">&lt;div class="truncate">🇺🇸 San Francisco International Airport &lt;/div>&lt;/td>
+&lt;td title="William P. Hobby Airport">&lt;div class="truncate">🇺🇸 William P. Hobby Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>03:04&lt;/td>
+&lt;td>£234.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d283f880-2984-4f6f-a743-ee36150dc1ef" class="row-hidden">
+&lt;td title="William P. Hobby Airport">&lt;div class="truncate">🇺🇸 William P. Hobby Airport&lt;/div>&lt;/td>
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:57&lt;/td>
+&lt;td>£234.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d70229cd-05e1-4ce4-95a5-4043110cab12" class="row-hidden">
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:22&lt;/td>
+&lt;td>£23.49&lt;/td>
+&lt;/tr>&lt;tr id="row-a65c4872-2111-4b40-a371-c04404dc3a86" class="row-hidden">
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Caye Cualker Ferry Terminal">&lt;div class="truncate">🇧🇿 Caye Cualker Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Speedboat&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£29.93&lt;/td>
+&lt;/tr>&lt;tr id="row-ac7a2a96-9b24-4dc1-ad7d-4f46d799b5da" class="row-hidden">
+&lt;td title="Caye Cualker Ferry Terminal">&lt;div class="truncate">🇧🇿 Caye Cualker Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£29.93&lt;/td>
+&lt;/tr>&lt;tr id="row-1d414f9f-1377-4f2f-9fab-91b150decf1d" class="row-hidden">
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:22&lt;/td>
+&lt;td>£23.49&lt;/td>
+&lt;/tr>&lt;tr id="row-8a9a36bb-c391-46e3-8666-9cbdc34bc657" class="row-hidden">
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td title="Tocumen International Airport">&lt;div class="truncate">🇵🇦 Tocumen International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:56&lt;/td>
+&lt;td>£311.00&lt;/td>
+&lt;/tr>&lt;tr id="row-50c2df1f-6655-44b2-9020-2b1785fb870d" class="row-hidden">
+&lt;td title="Tocumen International Airport">&lt;div class="truncate">🇵🇦 Tocumen International Airport&lt;/div>&lt;/td>
+&lt;td title="El Dorado International Airport">&lt;div class="truncate">🇨🇴 El Dorado International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:11&lt;/td>
+&lt;td>£311.00&lt;/td>
+&lt;/tr>&lt;tr id="row-79c7f5a3-c071-4ec0-a6cc-de4250548b87" class="row-hidden">
+&lt;td title="El Dorado International Airport">&lt;div class="truncate">🇨🇴 El Dorado International Airport&lt;/div>&lt;/td>
+&lt;td title="Bogota Airport Hotel">&lt;div class="truncate">🇨🇴 Bogota Airport Hotel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:14&lt;/td>
+&lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;tr id="row-84b8b083-3ad0-477e-b09a-b29ba0a67bb9" class="row-hidden">
+&lt;td title="Bogota Airport Hotel">&lt;div class="truncate">🇨🇴 Bogota Airport Hotel&lt;/div>&lt;/td>
+&lt;td title="Terminal Saltaire (Bogota)">&lt;div class="truncate">🇨🇴 Terminal Saltaire (Bogota)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:21&lt;/td>
+&lt;td>£3.70&lt;/td>
+&lt;/tr>&lt;tr id="row-2dcffc7f-da83-427d-80f7-1e9c9a114fcb" class="row-hidden">
+&lt;td title="Terminal Saltaire (Bogota)">&lt;div class="truncate">🇨🇴 Terminal Saltaire (Bogota)&lt;/div>&lt;/td>
+&lt;td title="Terminal Del Norte (Medellin)">&lt;div class="truncate">🇨🇴 Terminal Del Norte (Medellin)&lt;/div>&lt;/td>
+&lt;td>Minibus&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>£38.14&lt;/td>
+&lt;/tr>&lt;tr id="row-88430200-e8be-451a-958e-0fbfdaf25088" class="row-hidden">
+&lt;td title="Terminal Del Norte (Medellin)">&lt;div class="truncate">🇨🇴 Terminal Del Norte (Medellin)&lt;/div>&lt;/td>
+&lt;td title="Parceros Med Hostel">&lt;div class="truncate">🇨🇴 Parceros Med Hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:16&lt;/td>
+&lt;td>£3.81&lt;/td>
+&lt;/tr>&lt;tr id="row-95a9f323-5d3b-403e-9647-6daec123aaff" class="row-hidden">
+&lt;td title="Parceros Med Hostel">&lt;div class="truncate">🇨🇴 Parceros Med Hostel&lt;/div>&lt;/td>
+&lt;td title="Terminal del Sur">&lt;div class="truncate">🇨🇴 Terminal del Sur&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:07&lt;/td>
+&lt;td>£4.75&lt;/td>
+&lt;/tr>&lt;tr id="row-e2594484-c647-4c4c-b0e4-6ab37f59fbf8" class="row-hidden">
+&lt;td title="Terminal del Sur">&lt;div class="truncate">🇨🇴 Terminal del Sur&lt;/div>&lt;/td>
+&lt;td title="Saltento">&lt;div class="truncate">🇨🇴 Saltento&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>08:15&lt;/td>
+&lt;td>£30.07&lt;/td>
+&lt;/tr>&lt;tr id="row-e2290363-e70e-4a4c-9f38-1d82141d6095" class="row-hidden">
+&lt;td title="Saltento">&lt;div class="truncate">🇨🇴 Saltento&lt;/div>&lt;/td>
+&lt;td title="Armenia">&lt;div class="truncate">🇨🇴 Armenia&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>00:43&lt;/td>
+&lt;td>£2.19&lt;/td>
+&lt;/tr>&lt;tr id="row-a8a57c87-a54e-4a05-8d1b-53778a6bdedf" class="row-hidden">
+&lt;td title="Armenia">&lt;div class="truncate">🇨🇴 Armenia&lt;/div>&lt;/td>
+&lt;td title="Neiva ">&lt;div class="truncate">🇨🇴 Neiva &lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>07:00&lt;/td>
+&lt;td>£26.43&lt;/td>
+&lt;/tr>&lt;tr id="row-e0340414-6b89-4e92-8537-91131a9c8a07" class="row-hidden">
+&lt;td title="Neiva">&lt;div class="truncate">🇨🇴 Neiva&lt;/div>&lt;/td>
+&lt;td title="Hotel Panorama, Neive">&lt;div class="truncate">🇨🇴 Hotel Panorama, Neive&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:07&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;tr id="row-80fa17f8-07b4-4d0e-9411-299fa2221b85" class="row-hidden">
+&lt;td title="Hotel Panorama, Neive">&lt;div class="truncate">🇨🇴 Hotel Panorama, Neive&lt;/div>&lt;/td>
+&lt;td title="Neiva Airport">&lt;div class="truncate">🇨🇴 Neiva Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:09&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;tr id="row-52714395-5cf2-4d5d-9a34-9307a87000e4" class="row-hidden">
+&lt;td title="Neiva Airport">&lt;div class="truncate">🇨🇴 Neiva Airport&lt;/div>&lt;/td>
+&lt;td title="Bogota Airport">&lt;div class="truncate">🇨🇴 Bogota Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>00:58&lt;/td>
+&lt;td>£148.58&lt;/td>
+&lt;/tr>&lt;tr id="row-c1eea706-c2fb-4b93-8c6d-011c072ab953" class="row-hidden">
+&lt;td title="Bogota Airport">&lt;div class="truncate">🇨🇴 Bogota Airport&lt;/div>&lt;/td>
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:43&lt;/td>
+&lt;td>£194.74&lt;/td>
+&lt;/tr>&lt;tr id="row-95758cd2-5a77-43d6-b7d8-3df2a0cefeda" class="row-hidden">
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td title="Casa Franciscana">&lt;div class="truncate">🇪🇨 Casa Franciscana&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:38&lt;/td>
+&lt;td>£20.10&lt;/td>
+&lt;/tr>&lt;tr id="row-0d89ef82-5c3e-4006-a044-5f40dec34859" class="row-hidden">
+&lt;td title="Casa Franciscana">&lt;div class="truncate">🇪🇨 Casa Franciscana&lt;/div>&lt;/td>
+&lt;td title="South bus station">&lt;div class="truncate">🇪🇨 South bus station&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:50&lt;/td>
+&lt;td>£6.97&lt;/td>
+&lt;/tr>&lt;tr id="row-8cf772a5-cb4a-48a9-b779-52beaedbfd6a" class="row-hidden">
+&lt;td title="South bus station">&lt;div class="truncate">🇪🇨 South bus station&lt;/div>&lt;/td>
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:14&lt;/td>
+&lt;td>£3.93&lt;/td>
+&lt;/tr>&lt;tr id="row-2680a0e6-efdf-4cfe-943a-e09a4ef83d09" class="row-hidden">
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td title="Sigchos">&lt;div class="truncate">🇪🇨 Sigchos&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:30&lt;/td>
+&lt;td>£4.17&lt;/td>
+&lt;/tr>&lt;tr id="row-0181b179-ec81-480a-abf7-6e0b3b2ab5f5" class="row-hidden">
+&lt;td title="Quilotoa">&lt;div class="truncate">🇪🇨 Quilotoa&lt;/div>&lt;/td>
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:20&lt;/td>
+&lt;td>£3.92&lt;/td>
+&lt;/tr>&lt;tr id="row-977a60d0-6850-46b5-b903-fc5bf342fbe4" class="row-hidden">
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>03:31&lt;/td>
+&lt;td>£1.58&lt;/td>
+&lt;/tr>&lt;tr id="row-ad972ed7-a05a-4fd4-9b50-11cf1281b53e" class="row-hidden">
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>02:15&lt;/td>
+&lt;td>£453.64&lt;/td>
+&lt;/tr>&lt;tr id="row-06ec9ac8-81ad-4f18-a454-0d320d1e677b" class="row-hidden">
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td title="Hotel Sueno">&lt;div class="truncate">🇵🇪 Hotel Sueno&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:33&lt;/td>
+&lt;td>£11.39&lt;/td>
+&lt;/tr>&lt;tr id="row-684c0f46-3a80-4f6b-9062-8d35176747a4" class="row-hidden">
+&lt;td title="Hotel Sueno">&lt;div class="truncate">🇵🇪 Hotel Sueno&lt;/div>&lt;/td>
+&lt;td title="Cruz del sur (Lima)">&lt;div class="truncate">🇵🇪 Cruz del sur (Lima)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:15&lt;/td>
+&lt;td>£2.56&lt;/td>
+&lt;/tr>&lt;tr id="row-1fa4cf44-433b-490d-91e6-1bb14d4926d8" class="row-hidden">
+&lt;td title="Cruz del sur (Lima)">&lt;div class="truncate">🇵🇪 Cruz del sur (Lima)&lt;/div>&lt;/td>
+&lt;td title="Cruz del sur (Huaraz)">&lt;div class="truncate">🇵🇪 Cruz del sur (Huaraz)&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>09:30&lt;/td>
+&lt;td>£32.70&lt;/td>
+&lt;/tr>&lt;tr id="row-36f05291-01ca-428e-878e-65179d36380c" class="row-hidden">
+&lt;td title="Cruz del sur (Huaraz)">&lt;div class="truncate">🇵🇪 Cruz del sur (Huaraz)&lt;/div>&lt;/td>
+&lt;td title="Lhoste hostel">&lt;div class="truncate">🇵🇪 Lhoste hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:04&lt;/td>
+&lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;tr id="row-232577fb-9c59-43cb-9959-4e4f81d80fb5" class="row-hidden">
+&lt;td title="Linea coach station (Huaraz)">&lt;div class="truncate">🇵🇪 Linea coach station (Huaraz)&lt;/div>&lt;/td>
+&lt;td title="Linea coach station (Trujillo)">&lt;div class="truncate">🇵🇪 Linea coach station (Trujillo)&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>09:42&lt;/td>
+&lt;td>£23.83&lt;/td>
+&lt;/tr>&lt;tr id="row-11ab2015-a62f-4769-8abd-f29cf4183468" class="row-hidden">
+&lt;td title="Pizzeria la Italiana (Trujilo)">&lt;div class="truncate">🇵🇪 Pizzeria la Italiana (Trujilo)&lt;/div>&lt;/td>
+&lt;td title="Transportes Primavera (Trujillo)">&lt;div class="truncate">🇵🇪 Transportes Primavera (Trujillo)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:34&lt;/td>
+&lt;td>£2.88&lt;/td>
+&lt;/tr>&lt;tr id="row-b031441e-20b1-477e-ae08-a0152772f0d6" class="row-hidden">
+&lt;td title="Transportes Primavera (Trujillo)">&lt;div class="truncate">🇵🇪 Transportes Primavera (Trujillo)&lt;/div>&lt;/td>
+&lt;td title="Mancora">&lt;div class="truncate">🇵🇪 Mancora&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>09:30&lt;/td>
+&lt;td>£36.83&lt;/td>
+&lt;/tr>&lt;tr id="row-a3d21688-38a6-4d5b-b82f-2b54f5587bc1" class="row-hidden">
+&lt;td title="Mancora">&lt;div class="truncate">🇵🇪 Mancora&lt;/div>&lt;/td>
+&lt;td title="Guayaquil Bus Station">&lt;div class="truncate">🇪🇨 Guayaquil Bus Station&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>08:30&lt;/td>
+&lt;td>£54.66&lt;/td>
+&lt;/tr>&lt;tr id="row-f4a4d67f-6793-49a2-a897-b8f4f3b33fae" class="row-hidden">
+&lt;td title="Guayaquil Bus Station">&lt;div class="truncate">🇪🇨 Guayaquil Bus Station&lt;/div>&lt;/td>
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:11&lt;/td>
+&lt;td>£3.90&lt;/td>
+&lt;/tr>&lt;tr id="row-781f872a-5c8e-4330-aca3-1a48d6ce015b" class="row-hidden">
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td title="Seymour Baltra Galapagos Airport">&lt;div class="truncate">🇪🇨 Seymour Baltra Galapagos Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:39&lt;/td>
+&lt;td>£292.90&lt;/td>
+&lt;/tr>&lt;tr id="row-825d3a34-8165-43d9-9413-762dc4426b4c" class="row-hidden">
+&lt;td title="Seymour Baltra Galapagos Airport">&lt;div class="truncate">🇪🇨 Seymour Baltra Galapagos Airport&lt;/div>&lt;/td>
+&lt;td title="Baltra Crossing Point">&lt;div class="truncate">🇪🇨 Baltra Crossing Point&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:08&lt;/td>
+&lt;td>£7.80&lt;/td>
+&lt;/tr>&lt;tr id="row-9b4c4613-4e47-49e3-9a9f-c89dcc037516" class="row-hidden">
+&lt;td title="Baltra Crossing Point">&lt;div class="truncate">🇪🇨 Baltra Crossing Point&lt;/div>&lt;/td>
+&lt;td title="Santa Cruz Ferry Terminal">&lt;div class="truncate">🇪🇨 Santa Cruz Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:02&lt;/td>
+&lt;td>£1.56&lt;/td>
+&lt;/tr>&lt;tr id="row-d3facfcb-d448-4e74-9e09-744099b08c10" class="row-hidden">
+&lt;td title="Santa Cruz Ferry Terminal">&lt;div class="truncate">🇪🇨 Santa Cruz Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:34&lt;/td>
+&lt;td>£7.80&lt;/td>
+&lt;/tr>&lt;tr id="row-a9a066a6-fe3e-43bb-b8fc-174aad9812b3" class="row-hidden">
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td title="Isabella">&lt;div class="truncate">🇪🇨 Isabella&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-80daad4f-c3f3-4bdb-ac2d-b09909c75b80" class="row-hidden">
+&lt;td title="Isabella">&lt;div class="truncate">🇪🇨 Isabella&lt;/div>&lt;/td>
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-0f79ed76-f282-41c8-b314-655379459c10" class="row-hidden">
+&lt;td title="Santa Cruz">&lt;div class="truncate">🇪🇨 Santa Cruz&lt;/div>&lt;/td>
+&lt;td title="San Cristobal">&lt;div class="truncate">🇪🇨 San Cristobal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-6f78ec95-59e8-4cfb-8d08-b9d757893807" class="row-hidden">
+&lt;td title="San Cristobal">&lt;div class="truncate">🇪🇨 San Cristobal&lt;/div>&lt;/td>
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:34&lt;/td>
+&lt;td>£394.59&lt;/td>
+&lt;/tr>&lt;tr id="row-2775853f-0ba6-4e82-a613-5d195c5cecb4" class="row-hidden">
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:42&lt;/td>
+&lt;td>£394.59&lt;/td>
+&lt;/tr>&lt;tr id="row-43de8c9a-aa1d-41d3-9f41-075813ce9ba0" class="row-hidden">
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td title="Homestay, Miraflores">&lt;div class="truncate">🇵🇪 Homestay, Miraflores&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:52&lt;/td>
+&lt;td>£14.34&lt;/td>
+&lt;/tr>&lt;tr id="row-0006b897-e153-40f8-93d9-15f4eba4f635" class="row-hidden">
+&lt;td title="Homestay, Miraflores">&lt;div class="truncate">🇵🇪 Homestay, Miraflores&lt;/div>&lt;/td>
+&lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:40&lt;/td>
+&lt;td>£82.54&lt;/td>
+&lt;/tr>&lt;tr id="row-04b642ed-5a80-4ba3-8ddc-ce527c05caac" class="row-hidden">
+&lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
+&lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>01:12&lt;/td>
+&lt;td>£82.54&lt;/td>
+&lt;/tr>&lt;tr id="row-89695a1c-f049-44cc-b2db-a983cacf21cf" class="row-hidden">
+&lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>19:00&lt;/td>
+&lt;td>£82.54&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>California was our first stop outside of Asia. Our beloved buddy Leo Murray had recently moved over, and we saw this as the opportune moment to swoop in for a visit.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#airport-pickup" class="header-link" aria-label="Anchor Airport pickup" href="#airport-pickup">
+&lt;h1 id="airport-pickup">
+Airport pickup
+&lt;/h1>
+&lt;/a>&lt;p>After an eight and a half hour flight we landed in San Jose feeling knackered. We literally time travelled - departing at 16:25 and arriving at 09:35 the same day. The things you do for friends!&lt;/p>
+&lt;p>Leo had an ideal plan. He kindly drove to the airport to pick us up:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ace82fdcd8ea8f864692c7d893d17616" href="https://assets.martsmusings.uk/galleries/usa/airport-pickup/airport.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/airport-pickup/airport.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Deposited us at his exceptionally welcoming flat:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5cfe775076d6be914975f515cce23adb" href="https://assets.martsmusings.uk/galleries/usa/leos-flat/IMG_20230601_103458.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/leos-flat/IMG_20230601_103458.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And left us to sleep whilst he went back to work. After a solid snooze we were ready for action. The evening brought a great catch-up over dinner &amp;amp; drinks at his local.&lt;/p>
+&lt;p>Eating out in California was as expensive as predicted. We corralled Leo into putting up with my cooking for the rest our stint.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#stanford-uni" class="header-link" aria-label="Anchor Stanford Uni" href="#stanford-uni">
+&lt;h1 id="stanford-uni">
+Stanford Uni
+&lt;/h1>
+&lt;/a>&lt;p>We were happy to amuse ourselves during weekdays, and hang out with Leo during evenings and weekends. US vacation days are scarce. Our 9 day stint in California would have left poor Leo working nonstop until retirement.&lt;/p>
+&lt;p>We spent our first day wandering around Menlo Park and into the Stanford University Campus. The surrounding area has lots of green spaces:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5982fb25e83ec0c267cc6bbb2dcd34d4" href="https://assets.martsmusings.uk/galleries/usa/menlo-green-space/IMG_20230602_132338.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/menlo-green-space/IMG_20230602_132338.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5982fb25e83ec0c267cc6bbb2dcd34d4" href="https://assets.martsmusings.uk/galleries/usa/menlo-green-space/IMG_20230602_134010.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/menlo-green-space/IMG_20230602_134010.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5982fb25e83ec0c267cc6bbb2dcd34d4" href="https://assets.martsmusings.uk/galleries/usa/menlo-green-space/IMG_20230602_133026.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/menlo-green-space/IMG_20230602_133026.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The Uni has a museum with some interesting exhibits:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5fdb58ad51a95827a550974dcd12440f" href="https://assets.martsmusings.uk/galleries/usa/stanford-exhibits/IMG_20230602_141113.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-exhibits/IMG_20230602_141113.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5fdb58ad51a95827a550974dcd12440f" href="https://assets.martsmusings.uk/galleries/usa/stanford-exhibits/IMG_20230602_141213.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-exhibits/IMG_20230602_141213.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5fdb58ad51a95827a550974dcd12440f" href="https://assets.martsmusings.uk/galleries/usa/stanford-exhibits/IMG_20230602_145020.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-exhibits/IMG_20230602_145020.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5fdb58ad51a95827a550974dcd12440f" href="https://assets.martsmusings.uk/galleries/usa/stanford-exhibits/exhibit.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-exhibits/exhibit.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5fdb58ad51a95827a550974dcd12440f" href="https://assets.martsmusings.uk/galleries/usa/stanford-exhibits/IMG_20230602_143610.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-exhibits/IMG_20230602_143610.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5fdb58ad51a95827a550974dcd12440f" href="https://assets.martsmusings.uk/galleries/usa/stanford-exhibits/IMG_20230602_141548.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-exhibits/IMG_20230602_141548.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And a Hogwartesque quad:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e4a00b47456eced52b268efaa87bcb3c" href="https://assets.martsmusings.uk/galleries/usa/stanford-quad/IMG_20230602_151457.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-quad/IMG_20230602_151457.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e4a00b47456eced52b268efaa87bcb3c" href="https://assets.martsmusings.uk/galleries/usa/stanford-quad/IMG_20230602_152058.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/stanford-quad/IMG_20230602_152058.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#parkrun" class="header-link" aria-label="Anchor Parkrun" href="#parkrun">
+&lt;h1 id="parkrun">
+Parkrun
+&lt;/h1>
+&lt;/a>&lt;p>We were keen to continue our Parkrun streak. Byxbee Parkrun is a 20 minute drive from Leo&amp;rsquo;s, so we hightailed it over.&lt;/p>
+&lt;p>It boasted another frighteningly early start time of 8am. It felt a bit unjustified as heat was not our impediment. A bit too much boozing the night before made for a sorry scamper.&lt;/p>
+&lt;p>Leo and I have an often practiced alternative set of Parkrun rules. The winner is whoever is able to cajole the other into crossing the finish line first. I took the gold with an unanticipated shoelace stop in the finish funnel 🥇.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-cf50d89c10eafbb6c9db5e20f8db6dec" href="https://assets.martsmusings.uk/galleries/usa/parkrun-1/IMG_20230603_085555.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/parkrun-1/IMG_20230603_085555.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-cf50d89c10eafbb6c9db5e20f8db6dec" href="https://assets.martsmusings.uk/galleries/usa/parkrun-1/IMG_20230603_080246.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/parkrun-1/IMG_20230603_080246.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#soup-and-sealions" class="header-link" aria-label="Anchor Soup and Sealions" href="#soup-and-sealions">
+&lt;h1 id="soup-and-sealions">
+Soup and Sealions
+&lt;/h1>
+&lt;/a>&lt;p>After a suitable amount of post-Parkrun faff we beelined it in the Murray motor to Monterey.&lt;/p>
+&lt;p>Monterey is famous for its beautiful coastline, lively marine life, and the historic Cannery Row.&lt;/p>
+&lt;p>Our main draw was none of these. Leo had sent us a clip of his partner (Frances) tucking into clam chowder, served in a loaf of bread adapted into a bowl. We had to get one:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-069d6eafaca461faafda147713116dbe" href="https://assets.martsmusings.uk/galleries/usa/leo-frances-soup/soup.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/leo-frances-soup/soup.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Laura requested that we casually dip into it for her 1 Second Everyday video project, we nailed it:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5e41144cdcc1fa7fee275d9fd7044543" href="https://assets.martsmusings.uk/galleries/usa/soup-dip/dip.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/soup-dip/dip.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5e41144cdcc1fa7fee275d9fd7044543" href="https://assets.martsmusings.uk/galleries/usa/soup-dip/IMG_20230603_144402.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/soup-dip/IMG_20230603_144402.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We had grand visions of cruising the picturesque 17-Mile drive afterwards. Alas, we got too stuck in to watching the sealions on the harbour instead:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-fb934a7d6db7b23f446eb9f2d86c9068" href="https://assets.martsmusings.uk/galleries/usa/monterey-sealions/P6041570.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/monterey-sealions/P6041570.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-fb934a7d6db7b23f446eb9f2d86c9068" href="https://assets.martsmusings.uk/galleries/usa/monterey-sealions/P6041557.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/monterey-sealions/P6041557.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-fb934a7d6db7b23f446eb9f2d86c9068" href="https://assets.martsmusings.uk/galleries/usa/monterey-sealions/P6041517.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/monterey-sealions/P6041517.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-fb934a7d6db7b23f446eb9f2d86c9068" href="https://assets.martsmusings.uk/galleries/usa/monterey-sealions/P6041613.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/monterey-sealions/P6041613.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>No regrets!&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#napa-valley" class="header-link" aria-label="Anchor Napa Valley" href="#napa-valley">
+&lt;h1 id="napa-valley">
+Napa Valley
+&lt;/h1>
+&lt;/a>&lt;p>The Napa Valley is notorious for its vineyards and wines. We all very much enjoy partaking in some wine-ing, so made a visit the big ticket item of our catch-up 🎟️.&lt;/p>
+&lt;p>We decided that 3 would be the optimal number of wineries to visit. Yountville has an ample selection all within a short stagger of one another. We booked into a few there to avoid the need of a designated driver.&lt;/p>
+&lt;p>First stop was &lt;a
+class="gblog-markdown__link"
+href="https://goo.gl/maps/inopb1VSyt1vb5nk9?coh=178571&amp;amp;entry=tt"
+>Hestan Vineyards&lt;/a>. We were the only people booked in, so had the undivided attention of Ted - our wine dude.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-04598b0990ec82e17d875e0ddeacf816" href="https://assets.martsmusings.uk/galleries/usa/napa-ted/IMG_20230604_121652.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-ted/IMG_20230604_121652.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-04598b0990ec82e17d875e0ddeacf816" href="https://assets.martsmusings.uk/galleries/usa/napa-ted/IMG_20230604_120713.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-ted/IMG_20230604_120713.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-04598b0990ec82e17d875e0ddeacf816" href="https://assets.martsmusings.uk/galleries/usa/napa-ted/IMG_20230604_121705.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-ted/IMG_20230604_121705.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was a great start to the day. Ted took pride in explaining how to taste wine, the background of the area, and the wine business.&lt;/p>
+&lt;p>Our main takeaways were:&lt;/p>
+&lt;ul>
+&lt;li>Swilling technique is the telltale sign of a wine connoisseur 🍥🍷🧐. You should practice at all times and become a pro. Swilling increases the surface area of the wine, giving proceeding sniffs more of a punch.&lt;/li>
+&lt;li>Practice your swill by motioning your glass on a flat surface.&lt;/li>
+&lt;li>Open your mouth when sniffing wine. The quality of whiff you get is noticeably better.&lt;/li>
+&lt;/ul>
+&lt;p>Ted was generous with measures. We ended on a glass of fancy wine that we&amp;rsquo;d never usually consider ordering. Our unrefined palates ranked it below the cheaper ones 😂.&lt;/p>
+&lt;p>Next up was &lt;a
+class="gblog-markdown__link"
+href="https://goo.gl/maps/GZoDwd35YpAKrXCv7?coh=178571&amp;amp;entry=tt"
+>Priest Ranch Wines&lt;/a>. Their unique selling point was that they&amp;rsquo;d paired each wine with a rasher of bacon 🥓. The quality of the bacon was incredible. Each had a different marination twist. Whilst we can&amp;rsquo;t claim we noticed synergy between the bacon and wine, each slice of bacon was yummy and gulp of wine tasty 😋. It was much more a gastropub setup, with limited sommelier instruction.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-54353b83d3db7ead60402b515cd491f9" href="https://assets.martsmusings.uk/galleries/usa/napa-sausage/PXL_20230604_202615462.MP.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-sausage/PXL_20230604_202615462.MP.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-54353b83d3db7ead60402b515cd491f9" href="https://assets.martsmusings.uk/galleries/usa/napa-sausage/IMG_20230604_132622__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-sausage/IMG_20230604_132622__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-54353b83d3db7ead60402b515cd491f9" href="https://assets.martsmusings.uk/galleries/usa/napa-sausage/IMG_20230604_132521.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-sausage/IMG_20230604_132521.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>They did plant a seed that some food and palate cleansing beers in the park would be an exceptional idea 🍺🎨:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f9fbd5682c26af2f5167e3abbc63d08b" href="https://assets.martsmusings.uk/galleries/usa/napa-park-beers/IMG-20230604-WA0006.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-park-beers/IMG-20230604-WA0006.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f9fbd5682c26af2f5167e3abbc63d08b" href="https://assets.martsmusings.uk/galleries/usa/napa-park-beers/PXL_20230605_002938607.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-park-beers/PXL_20230605_002938607.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f9fbd5682c26af2f5167e3abbc63d08b" href="https://assets.martsmusings.uk/galleries/usa/napa-park-beers/IMG_20230604_172904.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-park-beers/IMG_20230604_172904.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Leo decided the best way to absorb Ted&amp;rsquo;s excellent direction would be to catch 40 winks:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e2fd3afb332dc91b8b38126cf6024574" href="https://assets.martsmusings.uk/galleries/usa/napa-nap/IMG_20230604_182609.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-nap/IMG_20230604_182609.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>As Napa&amp;rsquo;s most successful napper, he woke up refreshed and led us to &lt;a
+class="gblog-markdown__link"
+href="https://goo.gl/maps/zQU46fJB1uuQc3Vz6?coh=178571&amp;amp;entry=tt"
+>Silver Trident Winery&lt;/a> for our final tasting.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-980ebe0ef40f7876af58b16da962f785" href="https://assets.martsmusings.uk/galleries/usa/napa-final/IMG_20230604_161052.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-final/IMG_20230604_161052.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was the fanciest venue by a fair margin. The wine kept flowing. Again, limited sommelier instruction. We were three sheets to the wind by that point anyhow:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f849a61142446dfbef57cd2817f0d825" href="https://assets.martsmusings.uk/galleries/usa/napa-final-drunk/IMG_20230604_151817_v1.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-final-drunk/IMG_20230604_151817_v1.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Our vision of sitting among the vines, quaffing away, and letting the afternoon breeze ruffle the hair we had left didn&amp;rsquo;t come true. Laura led an expedition to a patch of green found on Google maps, and we frolicked the rest of the afternoon away:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9637d0e0da32e6fd7bcd744c29933569" href="https://assets.martsmusings.uk/galleries/usa/napa-frolick/IMG_20230604_190648.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-frolick/IMG_20230604_190648.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9637d0e0da32e6fd7bcd744c29933569" href="https://assets.martsmusings.uk/galleries/usa/napa-frolick/P6041625.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-frolick/P6041625.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9637d0e0da32e6fd7bcd744c29933569" href="https://assets.martsmusings.uk/galleries/usa/napa-frolick/PXL_20230605_015147176.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-frolick/PXL_20230605_015147176.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9637d0e0da32e6fd7bcd744c29933569" href="https://assets.martsmusings.uk/galleries/usa/napa-frolick/frolick.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-frolick/frolick.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9637d0e0da32e6fd7bcd744c29933569" href="https://assets.martsmusings.uk/galleries/usa/napa-frolick/PXL_20230605_021738407.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-frolick/PXL_20230605_021738407.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Made friends with the local wine cat:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-afab07695b2abf33950aaac7103943bb" href="https://assets.martsmusings.uk/galleries/usa/napa-cat/PXL_20230605_013622436.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/napa-cat/PXL_20230605_013622436.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Then got an Uber back to our hotel and collapsed.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#palo-alto-foothills" class="header-link" aria-label="Anchor Palo Alto Foothills" href="#palo-alto-foothills">
+&lt;h1 id="palo-alto-foothills">
+Palo Alto Foothills
+&lt;/h1>
+&lt;/a>&lt;p>Leo&amp;rsquo;s neighborhood, Menlo Park, is the definition of suburbia. Full to the brim with quaint eateries, luscious parks and picket-fenced houses. Another feather in its cap is easy access to the Palo Alto Foothills.&lt;/p>
+&lt;p>For a short drive and modest parking fee we had a delightful evening ramble:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-81e47deb168fe9963fac190776afed4e" href="https://assets.martsmusings.uk/galleries/usa/pa-foothills/IMG_20230605_195440.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/pa-foothills/IMG_20230605_195440.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And avoided the local wildlife:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1d18da2ec2113265cc642ce74fa800eb" href="https://assets.martsmusings.uk/galleries/usa/pa-foothills-signs/IMG_20230608_163631.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/pa-foothills-signs/IMG_20230608_163631.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1d18da2ec2113265cc642ce74fa800eb" href="https://assets.martsmusings.uk/galleries/usa/pa-foothills-signs/IMG_20230605_192744.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/pa-foothills-signs/IMG_20230605_192744.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#mission-peak" class="header-link" aria-label="Anchor Mission Peak" href="#mission-peak">
+&lt;h1 id="mission-peak">
+Mission Peak
+&lt;/h1>
+&lt;/a>&lt;p>Mission Peak is an iconic jaunt up a mountain peak in California. It was indeed a mission to get up with 626m elevation gain with little shade. It offers views of Oakland, San Jose, San Francisco, Fremont, Union City, and Newark at the top though. All is forgiven:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-770ea3125c101c472ce4539a0041e817" href="https://assets.martsmusings.uk/galleries/usa/mission-peak/PXL_20230609_000405265.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/mission-peak/PXL_20230609_000405265.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-770ea3125c101c472ce4539a0041e817" href="https://assets.martsmusings.uk/galleries/usa/mission-peak/IMG_20230608_165722.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/mission-peak/IMG_20230608_165722.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-770ea3125c101c472ce4539a0041e817" href="https://assets.martsmusings.uk/galleries/usa/mission-peak/IMG_20230608_161535.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/mission-peak/IMG_20230608_161535.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-770ea3125c101c472ce4539a0041e817" href="https://assets.martsmusings.uk/galleries/usa/mission-peak/IMG_20230608_170326.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/mission-peak/IMG_20230608_170326.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-770ea3125c101c472ce4539a0041e817" href="https://assets.martsmusings.uk/galleries/usa/mission-peak/IMG_20230608_165052.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/mission-peak/IMG_20230608_165052.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-770ea3125c101c472ce4539a0041e817" href="https://assets.martsmusings.uk/galleries/usa/mission-peak/IMG_20230608_162939.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/mission-peak/IMG_20230608_162939.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#san-francisco" class="header-link" aria-label="Anchor San Francisco" href="#san-francisco">
+&lt;h1 id="san-francisco">
+San Francisco
+&lt;/h1>
+&lt;/a>&lt;p>Whilst Leo kept his nose to the grindstone, Laura and I took a trip into San Francisco. Leo kindly lent us both his bike, and use of his phone for access to mobile data.&lt;/p>
+&lt;p>We jaunted to San Francisco on the Caltrain in around an hour. San Francisco has an equivalent to Boris Bikes: Bay Wheels. We paid $10 to take as many 30-minute rides as we wanted between docking stations around the city.&lt;/p>
+&lt;p>On the whole, cycling around San Francisco felt exceptionally safe. There were lots of cycle lanes with good segregation. Drivers were good at giving us space.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#burrito" class="header-link" aria-label="Anchor Burrito" href="#burrito">
+&lt;h2 id="burrito">
+Burrito
+&lt;/h2>
+&lt;/a>&lt;p>Upon arrival we followed Leo&amp;rsquo;s recommendation for the &amp;ldquo;best burrito I&amp;rsquo;ve ever had&amp;rdquo;, at &lt;a
+class="gblog-markdown__link"
+href="https://maps.app.goo.gl/oDwPXX66kfjdwKnk8"
+>Taqueria Cancun&lt;/a>.&lt;/p>
+&lt;p>It was exceptionally tasty.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ab51715e23e864ca9150c7f89f1855a4" href="https://assets.martsmusings.uk/galleries/usa/sf-burrito/IMG_20230606_125712.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-burrito/IMG_20230606_125712.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#the-painted-ladies" class="header-link" aria-label="Anchor The Painted Ladies" href="#the-painted-ladies">
+&lt;h2 id="the-painted-ladies">
+The Painted Ladies
+&lt;/h2>
+&lt;/a>&lt;p>A classic San Francisco view. We pedelled over and took a few snaps:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dc2ad2ba8c570d28a50c3fb1bb1bd1db" href="https://assets.martsmusings.uk/galleries/usa/sf-painted-ladies/IMG_20230606_135436__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-painted-ladies/IMG_20230606_135436__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#mrs-doubtfires-house" class="header-link" aria-label="Anchor Mrs Doubtfire&amp;rsquo;s House" href="#mrs-doubtfires-house">
+&lt;h2 id="mrs-doubtfires-house">
+Mrs Doubtfire&amp;rsquo;s House
+&lt;/h2>
+&lt;/a>&lt;p>Mrs Doubtfire&amp;rsquo;s House is privately owned, but many people go take a selfie outside. We cycled over and partook:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a613e2af8c6f3c062d63c6f1cf1482ce" href="https://assets.martsmusings.uk/galleries/usa/sf-doubtfire/IMG_20230606_144552.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-doubtfire/IMG_20230606_144552.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a613e2af8c6f3c062d63c6f1cf1482ce" href="https://assets.martsmusings.uk/galleries/usa/sf-doubtfire/IMG_20230606_144622.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-doubtfire/IMG_20230606_144622.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Scores of people were doing the same, and this was 14:00 on a Monday. Would not want to live in Mrs Doubtfire&amp;rsquo;s house.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#pier-39" class="header-link" aria-label="Anchor Pier 39" href="#pier-39">
+&lt;h2 id="pier-39">
+Pier 39
+&lt;/h2>
+&lt;/a>&lt;p>Having whet our sealion appetite in Monterey, we were left wanting more. Luckily, Pier 39 is all about the sealioning. It was very worth going. Some of the scenes were absolute carnage:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ddbf22fe720952053ad70442f32121a9" href="https://assets.martsmusings.uk/galleries/usa/sf-pier39/IMG_20230606_164625.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-pier39/IMG_20230606_164625.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ddbf22fe720952053ad70442f32121a9" href="https://assets.martsmusings.uk/galleries/usa/sf-pier39/VID_20230606_160728.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-pier39/VID_20230606_160728.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ddbf22fe720952053ad70442f32121a9" href="https://assets.martsmusings.uk/galleries/usa/sf-pier39/VID_20230606_160706.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-pier39/VID_20230606_160706.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Leo told us that a live webcam is running on the pier. We spent an undisclosed amount of time trying to make it take a selfie of us:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e75d9adc6244f4ea01adf563b5326026" href="https://assets.martsmusings.uk/galleries/usa/sf-pier39-selfie/Screenshot_20230606-163623.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-pier39-selfie/Screenshot_20230606-163623.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#golden-gate-bridge" class="header-link" aria-label="Anchor Golden Gate Bridge" href="#golden-gate-bridge">
+&lt;h2 id="golden-gate-bridge">
+Golden Gate Bridge
+&lt;/h2>
+&lt;/a>&lt;p>The Golden Gate Bridge. One of the most iconic views of the West Coast of the USA. What a dream to cycle over it with your fiancé. What better way to enjoy it than starting an argument with her for cycling too slow, causing us to miss the 30-minutes-free window by 13 seconds. This resulted in an extra charge of 23 pence. 23 pence. Bit of a chilly ride. And awkward when Leo asked that evening if it was the highlight 🐢.&lt;/p>
+&lt;p>All is forgiven and she finds it funny now 😅. It was still enjoyable:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-19813da06ebda1d2ffb1f849d0f2196f" href="https://assets.martsmusings.uk/galleries/usa/sf-gg-bridge/IMG_20230606_180348.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-gg-bridge/IMG_20230606_180348.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-19813da06ebda1d2ffb1f849d0f2196f" href="https://assets.martsmusings.uk/galleries/usa/sf-gg-bridge/IMG_20230606_182417.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-gg-bridge/IMG_20230606_182417.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-19813da06ebda1d2ffb1f849d0f2196f" href="https://assets.martsmusings.uk/galleries/usa/sf-gg-bridge/IMG_20230606_180315.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-gg-bridge/IMG_20230606_180315.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#tenderloin" class="header-link" aria-label="Anchor Tenderloin" href="#tenderloin">
+&lt;h2 id="tenderloin">
+Tenderloin
+&lt;/h2>
+&lt;/a>&lt;p>Our final job was to get back to Leo&amp;rsquo;s abode. I made the mistake of whacking in the train station as a destination on Google maps, and selecting the fastest route without checking it.&lt;/p>
+&lt;p>The route took us through the Tenderloin Neighbourhood. It&amp;rsquo;s notorious for violent street crime, drug abuse, and homelessness. And it was getting dark.&lt;/p>
+&lt;p>It was very sad to see. Lots of people were walking around swigging from open bottles of Vodka. Things were already starting to get rowdy. We avoided all eye contact, and tried to stop as little as possible at junctions.&lt;/p>
+&lt;p>We made it through without incident, but vowed to be more careful when checking routes.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#san-francisco-take-2" class="header-link" aria-label="Anchor San Francisco Take 2" href="#san-francisco-take-2">
+&lt;h1 id="san-francisco-take-2">
+San Francisco Take 2
+&lt;/h1>
+&lt;/a>&lt;p>Despite all we saw on our previous visit, we had unfinished business in San Francisco.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#diner-experience" class="header-link" aria-label="Anchor Diner Experience" href="#diner-experience">
+&lt;h2 id="diner-experience">
+Diner Experience
+&lt;/h2>
+&lt;/a>&lt;p>On the way, we stopped off at Leo&amp;rsquo;s local diner. It was very much what you expect from an American diner. The perspective in this photo doesn&amp;rsquo;t do it justice. That is a tankard of coffee, just for me. The plates are as big as car tyres.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-729b016cd919945fff9d6ded3660e5a8" href="https://assets.martsmusings.uk/galleries/usa/sf-diner/IMG_20230609_103758.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-diner/IMG_20230609_103758.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#trolley-tram" class="header-link" aria-label="Anchor Trolley Tram" href="#trolley-tram">
+&lt;h2 id="trolley-tram">
+Trolley Tram
+&lt;/h2>
+&lt;/a>&lt;p>Top of the agenda was to hang out of the side of a trolly tram. This wasn&amp;rsquo;t possible the first time as I&amp;rsquo;d borrowed Leo&amp;rsquo;s bike, and it looked like a lot of fun.&lt;/p>
+&lt;p>During this walk (fortunately in daylight this time), we went through areas that emphasized the significant problem of homelessness in San Francisco. There is huge contrast in the city. The majority is prosperous, clean, and green. Streets full of tents are only around the corner.&lt;/p>
+&lt;p>When we arrived at the stop there was a humongous queue. We joined the back, and spent a good hour waiting to board a tram. After getting on board, we found out that if you walk two blocks uphill, the guards heckle pedestrians to hop on 😂🤦‍♂️.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8a5e363a58ceb12ad4ca9a2072e0e19b" href="https://assets.martsmusings.uk/galleries/usa/sf-tram/IMG_20230609_141625__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-tram/IMG_20230609_141625__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#golden-gate-park" class="header-link" aria-label="Anchor Golden Gate Park" href="#golden-gate-park">
+&lt;h2 id="golden-gate-park">
+Golden Gate Park
+&lt;/h2>
+&lt;/a>&lt;p>We revisited Golden Gate Park. Partly in an effort to supplant memories of me being a bit of a grump first time around.&lt;/p>
+&lt;p>We got some cool photos, and spent some time looking at the exhibity things.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-db2718b978bc865dbf6c5c17de4751e3" href="https://assets.martsmusings.uk/galleries/usa/sf-gg-park/IMG_20230609_150257.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-gg-park/IMG_20230609_150257.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-db2718b978bc865dbf6c5c17de4751e3" href="https://assets.martsmusings.uk/galleries/usa/sf-gg-park/IMG_20230609_150930.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-gg-park/IMG_20230609_150930.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#japanese-tea-garden" class="header-link" aria-label="Anchor Japanese Tea Garden" href="#japanese-tea-garden">
+&lt;h3 id="japanese-tea-garden">
+Japanese Tea Garden
+&lt;/h3>
+&lt;/a>&lt;p>We then sauntered to the Japanese Tea Garden, also in Golden Gate Park.&lt;/p>
+&lt;p>It had a modest entry fee, and I wasn&amp;rsquo;t too bothered to go in, so left Laura to it. Here are her photos:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-43b5ea5e4717b0eca05f84a3468b9d4a" href="https://assets.martsmusings.uk/galleries/usa/sf-tea-garden/IMG_20230609_163139__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-tea-garden/IMG_20230609_163139__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-43b5ea5e4717b0eca05f84a3468b9d4a" href="https://assets.martsmusings.uk/galleries/usa/sf-tea-garden/IMG_20230609_163637.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/sf-tea-garden/IMG_20230609_163637.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>I sat on a stone outside and played computer games. My beady eye caught sight of an iPhone on the floor, which I handed in to the entrance staff. My other beady eye then immediately spied a frantic lady scurrying about the show. I pointed her in the direction of the entrance staff 😂.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#parkrun-1" class="header-link" aria-label="Anchor Parkrun" href="#parkrun-1">
+&lt;h1 id="parkrun-1">
+Parkrun
+&lt;/h1>
+&lt;/a>&lt;p>What better way to top off our time in California than Parkrun? Everybody was on a bit of a schedule. Leo was flying back home to the UK for a visit, and we were due to head to Belize.&lt;/p>
+&lt;p>Leo won our Parkrun competition this time. I tried every trick in the book. I hid behind a hedge near the finish line, paused to read a sign about local wildlife, and tied my shoelace. He was lazer focused with shenanigans, and finished a second after me - claiming gold 🏆.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-97a1ac587210c4c9a7179d988e810707" href="https://assets.martsmusings.uk/galleries/usa/parkrun-2/IMG-20230610-WA0001.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/usa/parkrun-2/IMG-20230610-WA0001.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-24-Caleofornia/#closing-remarks" class="header-link" aria-label="Anchor Closing Remarks" href="#closing-remarks">
+&lt;h1 id="closing-remarks">
+Closing Remarks
+&lt;/h1>
+&lt;/a>&lt;p>We had an amazing time catching up with Leo and exploring his stomping ground. We have some great memories of the trip, and it was such a great way to break up our journey.&lt;/p>
+&lt;p>Next up, we head to Central America - Belize to see manatees 😄. Join us soon!&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇲🇾 Kuala Lumpur and Tokyo 🇯🇵</title><link href="https://martsmusings.uk/post/2023-08-01-Tokyo-Kuala/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-01-Tokyo-Kuala/</id><published>2023-08-01T23:00:00-06:00</published><updated>2023-08-01T23:00:00-06:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
