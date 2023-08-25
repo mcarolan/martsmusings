@@ -8,7 +8,7 @@ tags: [destinations]
 {{< toc >}}
 
 {{< expando title="Map, Journey and Costs" onchange="javascript:window.mappyStart()" >}}
-{{< mappyTravels from="40efdf6b-dad8-4b46-96bd-04cf882e561a" to="89fc431ed-eec4-4024-9dc1-aaab99c7b495" >}}
+{{< mappyTravels from="40efdf6b-dad8-4b46-96bd-04cf882e561a" to="9fc431ed-eec4-4024-9dc1-aaab99c7b495" >}}
 {{< /expando >}}
 
 California was our first stop outside of Asia. Our beloved buddy Leo Murray had recently moved over, and we saw this as the opportune moment to swoop in for a visit.
