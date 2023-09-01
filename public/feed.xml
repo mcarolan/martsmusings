@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.117.0">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-08-25 14:44:00 -0500 -05</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-09-01 09:58:00 -0500 -05</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -1022,7 +1022,202 @@ href="https://maplibre.org/"
 Scaling
 &lt;/h2>
 &lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇺🇸 Caleofornia 🦁</title><link href="https://martsmusings.uk/post/2023-08-24-Caleofornia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-24-Caleofornia/</id><published>2023-08-25T14:44:00-05:00</published><updated>2023-08-25T14:44:00-05:00</updated><content type="html">
+&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇧🇿 Belize 🇧🇿</title><link href="https://martsmusings.uk/post/2023-08-31-Belize/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-31-Belize/</id><published>2023-09-01T09:58:00-05:00</published><updated>2023-09-01T09:58:00-05:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#caye-caulker">Caye Caulker&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#manatee-tour">Manatee Tour&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#cooling-off-">Cooling Off 🥵&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#pelicans-and-sea-horses">Pelicans and Sea Horses&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#onwards">Onwards&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-29537d38c9d7d53078905b74de076d76" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-29537d38c9d7d53078905b74de076d76" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "e994be30-33a8-41b5-a9b4-ebb4259067ef";
+window.mappyTravelsTo = "a65c4872-2111-4b40-a371-c04404dc3a86";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-e994be30-33a8-41b5-a9b4-ebb4259067ef" class="row-hidden">
+&lt;td title="Leo&amp;#39;s Lair">&lt;div class="truncate">🇺🇸 Leo&amp;#39;s Lair&lt;/div>&lt;/td>
+&lt;td title="San Francisco International Airport ">&lt;div class="truncate">🇺🇸 San Francisco International Airport &lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>02:20&lt;/td>
+&lt;td>£7.83&lt;/td>
+&lt;/tr>&lt;tr id="row-c3ecbbf7-2686-4cd2-98f9-cbd5e385583c" class="row-hidden">
+&lt;td title="San Francisco International Airport ">&lt;div class="truncate">🇺🇸 San Francisco International Airport &lt;/div>&lt;/td>
+&lt;td title="William P. Hobby Airport">&lt;div class="truncate">🇺🇸 William P. Hobby Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>03:04&lt;/td>
+&lt;td>£234.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d283f880-2984-4f6f-a743-ee36150dc1ef" class="row-hidden">
+&lt;td title="William P. Hobby Airport">&lt;div class="truncate">🇺🇸 William P. Hobby Airport&lt;/div>&lt;/td>
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:57&lt;/td>
+&lt;td>£234.10&lt;/td>
+&lt;/tr>&lt;tr id="row-d70229cd-05e1-4ce4-95a5-4043110cab12" class="row-hidden">
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:22&lt;/td>
+&lt;td>£23.49&lt;/td>
+&lt;/tr>&lt;tr id="row-a65c4872-2111-4b40-a371-c04404dc3a86" class="row-hidden">
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Caye Cualker Ferry Terminal">&lt;div class="truncate">🇧🇿 Caye Cualker Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Speedboat&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£29.93&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>Rejuvenated from a stay with Leo, we set off for our first and only stop in Central America.&lt;/p>
+&lt;p>Our plan was to do a short stop in Belize, primarily to see some manatees, before snaking our way down South America.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-31-Belize/#caye-caulker" class="header-link" aria-label="Anchor Caye Caulker" href="#caye-caulker">
+&lt;h1 id="caye-caulker">
+Caye Caulker
+&lt;/h1>
+&lt;/a>&lt;p>After landing in Belize City, we immediately set sail for Caye Caulker. It&amp;rsquo;s an island accessible with a short ferry crossing. It&amp;rsquo;s a tourist magnet. It boasts lots of tours, many of which include the possibility of snorkeling with manatees. We booked onto one.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-31-Belize/#manatee-tour" class="header-link" aria-label="Anchor Manatee Tour" href="#manatee-tour">
+&lt;h1 id="manatee-tour">
+Manatee Tour
+&lt;/h1>
+&lt;/a>&lt;p>First up, some fun facts about manatees:&lt;/p>
+&lt;ul>
+&lt;li>They&amp;rsquo;re mammals, and feed their young from nipples in their armpits 🙋‍♀️🥛&lt;/li>
+&lt;li>They&amp;rsquo;re also known as Sea Cows 🐮&lt;/li>
+&lt;li>They can live to be between 40-60 years old&lt;/li>
+&lt;/ul>
+&lt;p>We were out of luck on the first manatee stop. No sighting. We carried on, and saw some other cool marine life.&lt;/p>
+&lt;p>Loggerhead turtles:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dca8203bc4e080f6b68a77df80f1cb69" href="https://assets.martsmusings.uk/galleries/belize/turtles/GH013830_1688181583500__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/turtles/GH013830_1688181583500__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Nurse sharks:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0b1c4757d8a220b5130c368ad76f1883" href="https://assets.martsmusings.uk/galleries/belize/shark/AirBrush_20230703225559.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/shark/AirBrush_20230703225559.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Southern rays:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-56be653b291f5fd35db16e37ea418de6" href="https://assets.martsmusings.uk/galleries/belize/rays/GH013826_1688142276123__01__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/rays/GH013826_1688142276123__01__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-56be653b291f5fd35db16e37ea418de6" href="https://assets.martsmusings.uk/galleries/belize/rays/GH013825_1688142338539__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/rays/GH013825_1688142338539__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The guide promised we&amp;rsquo;d do another stop to look for manatees before heading home. We swam back out with high hopes, and we got very lucky:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-779db0bf66fc4ebbc77d577eec4db2cc" href="https://assets.martsmusings.uk/galleries/belize/manatee/GH013851_1686769842722.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/manatee/GH013851_1686769842722.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-779db0bf66fc4ebbc77d577eec4db2cc" href="https://assets.martsmusings.uk/galleries/belize/manatee/GH013849_1688141693203__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/manatee/GH013849_1688141693203__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-779db0bf66fc4ebbc77d577eec4db2cc" href="https://assets.martsmusings.uk/galleries/belize/manatee/GH013861_1686697389294__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/manatee/GH013861_1686697389294__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-779db0bf66fc4ebbc77d577eec4db2cc" href="https://assets.martsmusings.uk/galleries/belize/manatee/GH013861_1686697357591__01-1.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/manatee/GH013861_1686697357591__01-1.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The water was very cloudy. It made for a brilliant moment on approach, where the figure of the manatee gradually revealed itself. We got to spend a few minutes with him before he swam further into the ocean.&lt;/p>
+&lt;p>Our main goal in Belize was ticked off ✅.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-31-Belize/#cooling-off-" class="header-link" aria-label="Anchor Cooling Off 🥵" href="#cooling-off-">
+&lt;h1 id="cooling-off-">
+Cooling Off 🥵
+&lt;/h1>
+&lt;/a>&lt;p>The island was like a furnace. We were extremely thankful of the air conditioning in our hostel, so spent a lot of time chilling out there. We found some good places to eat/drink for the rest of our time:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5c23e876a47192b7264525a2111a6efc" href="https://assets.martsmusings.uk/galleries/belize/relaxing/IMG_20230616_115332.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/relaxing/IMG_20230616_115332.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5c23e876a47192b7264525a2111a6efc" href="https://assets.martsmusings.uk/galleries/belize/relaxing/VID_20230615_175727-trim.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/relaxing/VID_20230615_175727-trim.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-31-Belize/#pelicans-and-sea-horses" class="header-link" aria-label="Anchor Pelicans and Sea Horses" href="#pelicans-and-sea-horses">
+&lt;h1 id="pelicans-and-sea-horses">
+Pelicans and Sea Horses
+&lt;/h1>
+&lt;/a>&lt;p>A beach bar seemed to attract lots of Pelicans, Stingrays and Sea Horses. (We presume they fed them, which isn&amp;rsquo;t good for them 🙁). We managed to get a couple of snaps and hang around with the pelicans for a bit:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7662d671e60cc3a345e117dd373c5061" href="https://assets.martsmusings.uk/galleries/belize/pelicans/P6151784.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/pelicans/P6151784.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7662d671e60cc3a345e117dd373c5061" href="https://assets.martsmusings.uk/galleries/belize/pelicans/P6151787.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/belize/pelicans/P6151787.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But it was so hot that we could barely function. We quickly ran away to a more shaded part of the island.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-08-31-Belize/#onwards" class="header-link" aria-label="Anchor Onwards" href="#onwards">
+&lt;h1 id="onwards">
+Onwards
+&lt;/h1>
+&lt;/a>&lt;p>That brings us to the end of our short stay in Belize. We were incredibly lucky to be able to snorkel with a manatee 😁 and enjoyed seeing the other wildlife.&lt;/p>
+&lt;p>Next up, we flew to Colombia. Not sure our parents were big fans of this destination. But we had a great time, and it felt very safe. Join us next time!&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇺🇸 Caleofornia 🦁</title><link href="https://martsmusings.uk/post/2023-08-24-Caleofornia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-24-Caleofornia/</id><published>2023-08-25T14:44:00-05:00</published><updated>2023-08-25T14:44:00-05:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
