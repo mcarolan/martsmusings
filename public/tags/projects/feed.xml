@@ -947,19 +947,97 @@ window.mappyAutoStart = "yes";
 &lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
 &lt;td>06:40&lt;/td>
-&lt;td>£82.54&lt;/td>
+&lt;td>£58.95&lt;/td>
 &lt;/tr>&lt;tr id="row-04b642ed-5a80-4ba3-8ddc-ce527c05caac" class="row-hidden">
 &lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
 &lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
 &lt;td>01:12&lt;/td>
-&lt;td>£82.54&lt;/td>
+&lt;td>£58.95&lt;/td>
 &lt;/tr>&lt;tr id="row-89695a1c-f049-44cc-b2db-a983cacf21cf" class="row-hidden">
 &lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
 &lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
 &lt;td>Coach&lt;/td>
 &lt;td>19:00&lt;/td>
-&lt;td>£82.54&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-dfce2de8-966f-40a6-8ff0-a26271805ebc" class="row-hidden">
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:17&lt;/td>
+&lt;td>£2.88&lt;/td>
+&lt;/tr>&lt;tr id="row-a9137baf-8fdb-4a4e-b156-82c278eab48a" class="row-hidden">
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td title="Cabanaconde">&lt;div class="truncate">🇵🇪 Cabanaconde&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:50&lt;/td>
+&lt;td>£12.74&lt;/td>
+&lt;/tr>&lt;tr id="row-bbb5b62d-8f31-4215-95ee-736a9478347b" class="row-hidden">
+&lt;td title="Cabanaconde">&lt;div class="truncate">🇵🇪 Cabanaconde&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:50&lt;/td>
+&lt;td>£10.80&lt;/td>
+&lt;/tr>&lt;tr id="row-3fb8209e-963d-42f9-b99c-bd36628d5fac" class="row-hidden">
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:27&lt;/td>
+&lt;td>£4.32&lt;/td>
+&lt;/tr>&lt;tr id="row-3ca7d729-5603-4c9f-a32d-262650f028c9" class="row-hidden">
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td title="Nature Hostel , Cusco">&lt;div class="truncate">🇵🇪 Nature Hostel , Cusco&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-18fc37a3-dfe0-43c3-874a-e00ec11e40bf" class="row-hidden">
+&lt;td title="Crepería &amp;amp; Backpacker La Bo&amp;#39;M">&lt;div class="truncate">🇵🇪 Crepería &amp;amp; Backpacker La Bo&amp;#39;M&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Cusco">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Cusco&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:11&lt;/td>
+&lt;td>£1.89&lt;/td>
+&lt;/tr>&lt;tr id="row-b1a354dc-1455-4a22-9f74-aae1ea927048" class="row-hidden">
+&lt;td title="Terminal Terrestre de Cusco">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Cusco&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Puerto Maldonado">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Puerto Maldonado&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>11:30&lt;/td>
+&lt;td>£30.36&lt;/td>
+&lt;/tr>&lt;tr id="row-60d9c181-30ed-41b5-af59-3dbb7a76fa4e" class="row-hidden">
+&lt;td title="Terminal Terrestre de Puerto Maldonado">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Puerto Maldonado&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Cusco">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Cusco&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>12:10&lt;/td>
+&lt;td>£30.15&lt;/td>
+&lt;/tr>&lt;tr id="row-f8a56375-9a8f-4c47-b66c-147cdcc62dff" class="row-hidden">
+&lt;td title="Terminal Terrestre de Cusco">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Cusco&lt;/div>&lt;/td>
+&lt;td title="Jack&amp;#39;s Cafe, Cusco">&lt;div class="truncate">🇵🇪 Jack&amp;#39;s Cafe, Cusco&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:10&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;tr id="row-39a4be66-d9f5-47a1-892c-fd121abaffac" class="row-hidden">
+&lt;td title="Crepería &amp;amp; Backpacker La Bo&amp;#39;M">&lt;div class="truncate">🇵🇪 Crepería &amp;amp; Backpacker La Bo&amp;#39;M&lt;/div>&lt;/td>
+&lt;td title="Peru Hop Terminal">&lt;div class="truncate">🇵🇪 Peru Hop Terminal&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:09&lt;/td>
+&lt;td>£1.85&lt;/td>
+&lt;/tr>&lt;tr id="row-b5bbbb1d-8b19-4235-bdd0-f5632f26d162" class="row-hidden">
+&lt;td title="Peru Hop Terminal">&lt;div class="truncate">🇵🇪 Peru Hop Terminal&lt;/div>&lt;/td>
+&lt;td title="Puno">&lt;div class="truncate">🇵🇪 Puno&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>08:35&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-d31dc21f-69c1-454d-bf2c-cd5833dc838d" class="row-hidden">
+&lt;td title="Puno">&lt;div class="truncate">🇵🇪 Puno&lt;/div>&lt;/td>
+&lt;td title="Copacabana">&lt;div class="truncate">🇧🇴 Copacabana&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>02:55&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-f1721e27-63b4-44c9-87bb-a480f3426316" class="row-hidden">
+&lt;td title="Copacabana">&lt;div class="truncate">🇧🇴 Copacabana&lt;/div>&lt;/td>
+&lt;td title="Hotel Diamente Azul, La Paz">&lt;div class="truncate">🇧🇴 Hotel Diamente Azul, La Paz&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>03:40&lt;/td>
+&lt;td>£58.95&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
