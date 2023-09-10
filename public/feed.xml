@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-09-01 09:58:00 -0500 -05</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-09-09 21:00:00 -0400 -04</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -1100,7 +1100,581 @@ href="https://maplibre.org/"
 Scaling
 &lt;/h2>
 &lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇧🇿 Belize 🇧🇿</title><link href="https://martsmusings.uk/post/2023-08-31-Belize/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-31-Belize/</id><published>2023-09-01T09:58:00-05:00</published><updated>2023-09-01T09:58:00-05:00</updated><content type="html">
+&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇨🇴 Colombia 🇨🇴</title><link href="https://martsmusings.uk/post/2023-09-06-Colombia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-06-Colombia/</id><published>2023-09-09T21:00:00-04:00</published><updated>2023-09-09T21:00:00-04:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#medellín">Medellín&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#history">History&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#nowadays">Nowadays&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#comuna-13">Comuna 13&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#guatapé">Guatapé&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#salento">Salento&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#-coffee">☕ Coffee&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#-palm-trees">🌴 Palm Trees&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#-tejo">💥 Tejo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#tatacoa-desert">Tatacoa Desert&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#conclusion">Conclusion&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-b8b9e2dcca3a2b21f20c336f908a5f14" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-b8b9e2dcca3a2b21f20c336f908a5f14" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "ac7a2a96-9b24-4dc1-ad7d-4f46d799b5da";
+window.mappyTravelsTo = "e0340414-6b89-4e92-8537-91131a9c8a07";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-ac7a2a96-9b24-4dc1-ad7d-4f46d799b5da" class="row-hidden">
+&lt;td title="Caye Cualker Ferry Terminal">&lt;div class="truncate">🇧🇿 Caye Cualker Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£29.93&lt;/td>
+&lt;/tr>&lt;tr id="row-1d414f9f-1377-4f2f-9fab-91b150decf1d" class="row-hidden">
+&lt;td title="Belize City Ferry Terminal">&lt;div class="truncate">🇧🇿 Belize City Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:22&lt;/td>
+&lt;td>£23.49&lt;/td>
+&lt;/tr>&lt;tr id="row-8a9a36bb-c391-46e3-8666-9cbdc34bc657" class="row-hidden">
+&lt;td title="Philip S. W. Goldson International Airport">&lt;div class="truncate">🇧🇿 Philip S. W. Goldson International Airport&lt;/div>&lt;/td>
+&lt;td title="Tocumen International Airport">&lt;div class="truncate">🇵🇦 Tocumen International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:56&lt;/td>
+&lt;td>£311.00&lt;/td>
+&lt;/tr>&lt;tr id="row-50c2df1f-6655-44b2-9020-2b1785fb870d" class="row-hidden">
+&lt;td title="Tocumen International Airport">&lt;div class="truncate">🇵🇦 Tocumen International Airport&lt;/div>&lt;/td>
+&lt;td title="El Dorado International Airport">&lt;div class="truncate">🇨🇴 El Dorado International Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:11&lt;/td>
+&lt;td>£311.00&lt;/td>
+&lt;/tr>&lt;tr id="row-79c7f5a3-c071-4ec0-a6cc-de4250548b87" class="row-hidden">
+&lt;td title="El Dorado International Airport">&lt;div class="truncate">🇨🇴 El Dorado International Airport&lt;/div>&lt;/td>
+&lt;td title="Bogota Airport Hotel">&lt;div class="truncate">🇨🇴 Bogota Airport Hotel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:14&lt;/td>
+&lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;tr id="row-84b8b083-3ad0-477e-b09a-b29ba0a67bb9" class="row-hidden">
+&lt;td title="Bogota Airport Hotel">&lt;div class="truncate">🇨🇴 Bogota Airport Hotel&lt;/div>&lt;/td>
+&lt;td title="Terminal Saltaire (Bogota)">&lt;div class="truncate">🇨🇴 Terminal Saltaire (Bogota)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:21&lt;/td>
+&lt;td>£3.70&lt;/td>
+&lt;/tr>&lt;tr id="row-2dcffc7f-da83-427d-80f7-1e9c9a114fcb" class="row-hidden">
+&lt;td title="Terminal Saltaire (Bogota)">&lt;div class="truncate">🇨🇴 Terminal Saltaire (Bogota)&lt;/div>&lt;/td>
+&lt;td title="Terminal Del Norte (Medellin)">&lt;div class="truncate">🇨🇴 Terminal Del Norte (Medellin)&lt;/div>&lt;/td>
+&lt;td>Minibus&lt;/td>
+&lt;td>14:00&lt;/td>
+&lt;td>£38.14&lt;/td>
+&lt;/tr>&lt;tr id="row-88430200-e8be-451a-958e-0fbfdaf25088" class="row-hidden">
+&lt;td title="Terminal Del Norte (Medellin)">&lt;div class="truncate">🇨🇴 Terminal Del Norte (Medellin)&lt;/div>&lt;/td>
+&lt;td title="Parceros Med Hostel">&lt;div class="truncate">🇨🇴 Parceros Med Hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:16&lt;/td>
+&lt;td>£3.81&lt;/td>
+&lt;/tr>&lt;tr id="row-95a9f323-5d3b-403e-9647-6daec123aaff" class="row-hidden">
+&lt;td title="Parceros Med Hostel">&lt;div class="truncate">🇨🇴 Parceros Med Hostel&lt;/div>&lt;/td>
+&lt;td title="Terminal del Sur">&lt;div class="truncate">🇨🇴 Terminal del Sur&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:07&lt;/td>
+&lt;td>£4.75&lt;/td>
+&lt;/tr>&lt;tr id="row-e2594484-c647-4c4c-b0e4-6ab37f59fbf8" class="row-hidden">
+&lt;td title="Terminal del Sur">&lt;div class="truncate">🇨🇴 Terminal del Sur&lt;/div>&lt;/td>
+&lt;td title="Saltento">&lt;div class="truncate">🇨🇴 Saltento&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>08:15&lt;/td>
+&lt;td>£30.07&lt;/td>
+&lt;/tr>&lt;tr id="row-e2290363-e70e-4a4c-9f38-1d82141d6095" class="row-hidden">
+&lt;td title="Saltento">&lt;div class="truncate">🇨🇴 Saltento&lt;/div>&lt;/td>
+&lt;td title="Armenia">&lt;div class="truncate">🇨🇴 Armenia&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>00:43&lt;/td>
+&lt;td>£2.19&lt;/td>
+&lt;/tr>&lt;tr id="row-a8a57c87-a54e-4a05-8d1b-53778a6bdedf" class="row-hidden">
+&lt;td title="Armenia">&lt;div class="truncate">🇨🇴 Armenia&lt;/div>&lt;/td>
+&lt;td title="Neiva ">&lt;div class="truncate">🇨🇴 Neiva &lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>07:00&lt;/td>
+&lt;td>£26.43&lt;/td>
+&lt;/tr>&lt;tr id="row-e0340414-6b89-4e92-8537-91131a9c8a07" class="row-hidden">
+&lt;td title="Neiva">&lt;div class="truncate">🇨🇴 Neiva&lt;/div>&lt;/td>
+&lt;td title="Hotel Panorama, Neive">&lt;div class="truncate">🇨🇴 Hotel Panorama, Neive&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:07&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>We began our South American adventure in Colombia, and assumed our new identities.&lt;/p>
+&lt;p>Locals gave foggy expressions whenever we introduced ourselves as Martin and Laura. A quick pronunciation tweak has worked wonders. We now refer to ourselves as Marteen and Laowra 💪.&lt;/p>
+&lt;p>We only had a short time in Colombia, 11 days. We managed to cram a lot in, and really enjoyed our time.&lt;/p>
+&lt;p>Let&amp;rsquo;s see what happened!&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#medellín" class="header-link" aria-label="Anchor Medellín" href="#medell%c3%adn">
+&lt;h1 id="medellín">
+Medellín
+&lt;/h1>
+&lt;/a>&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#history" class="header-link" aria-label="Anchor History" href="#history">
+&lt;h2 id="history">
+History
+&lt;/h2>
+&lt;/a>&lt;p>Our first stop was Medellín, a city with a notoriously bloody history. Netflix dramatised Medellín&amp;rsquo;s troubles in the series &amp;ldquo;Narcos&amp;rdquo;. They don&amp;rsquo;t paint a pretty (or balanced, according to locals) picture. Full transparency, we weren&amp;rsquo;t fully aware of Medellín&amp;rsquo;s history before visiting - other than some names ringing a bell 🔔.&lt;/p>
+&lt;p>In the 80&amp;rsquo;s and 90&amp;rsquo;s Medellín was widely regarded as one of the most dangerous cities in the world. It&amp;rsquo;s achieved an incredible turnaround. Its homicide rate &lt;a
+class="gblog-markdown__link"
+href="https://www.medellinadvisors.com/homicide-theft-in-medellin-2022-mid-year-figures/"
+>now sits lower&lt;/a> than many cities in Europe. We still chose to stay in the safest comuna.&lt;/p>
+&lt;p>Our main activity was a free walking tour of the city, led by an incredible guide. He grew up during some of the grimmest moments of Medellín&amp;rsquo;s history. He was knowledgeable, enthusiastic and, we felt, very balanced.&lt;/p>
+&lt;p>Medellín&amp;rsquo;s most troubling times were during the life of Pablo Escobar. His cartel supplied 80% of the world&amp;rsquo;s cocaine. The cartel spent &lt;a
+class="gblog-markdown__link"
+href="https://www.businessinsider.com/pablo-escobar-and-rubber-bands-2015-9"
+>$2,500 per month on rubber bands&lt;/a>, needed to hold together the stacks of cash they raked in. Escobar entered politics, and frequently &lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/Avianca_Flight_203"
+>used terrorism&lt;/a> to gain power.&lt;/p>
+&lt;p>Our guide refused to refer to Escobar by name. He instead referred to him as Voldemort. He said nothing good comes from saying Escobar&amp;rsquo;s name in public in Medellín. People overhearing are either:&lt;/p>
+&lt;ul>
+&lt;li>Of his age (early thirties) or elder, and remember living through this period. He vividly remembers shootings being a commonplace occurrence. His cousin was raped then murdered.&lt;/li>
+&lt;li>Younger, and think that Escobar also did good. Such as building houses. Our guide is of the impression that no good outweighs the other actions. I&amp;rsquo;d agree.&lt;/li>
+&lt;li>Idiots with Narcos hoodies who think Escobar is a badass.&lt;/li>
+&lt;/ul>
+&lt;p>The walking tour involved very little walking. There was a big focus on the history of the city and how it made such a transformation. It was fascinating to hear. Large factors in the transformation were:&lt;/p>
+&lt;ul>
+&lt;li>Building the &lt;a
+class="gblog-markdown__link"
+href="https://www.wri.org/insights/urban-transformations-medellin-metrocable-connects-people-more-ways-one"
+>world&amp;rsquo;s first aerial tram system&lt;/a>. This connected the slums on Medellín&amp;rsquo;s hillside with the city centre. It reduced a journey of 2 hours with many fares to a single 30 minute journey. Residents are &lt;em>very&lt;/em> proud of it, and look after it well. We tried it out - it is superb.&lt;/li>
+&lt;li>&lt;a
+class="gblog-markdown__link"
+href="https://psmag.com/social-justice/library-parks-bring-community-to-colombia-39915"
+>Opening 13 libraries&lt;/a> in the roughest neighbourhoods. The 4 biggest included free childcare facilities, movie theatres, and classes.&lt;/li>
+&lt;/ul>
+&lt;p>He also argued that an attitude of transparency has helped their recovery. He showed us the most notable example of this, in San Antonio Plaza. Caricaturial statues by hometown artist Fernando Botero fill the city. The statues are of people and animals with bizarre proportions:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8bb719f6a6674306e049348df9ca7406" href="https://assets.martsmusings.uk/galleries/colombia/statues/IMG_20230619_114529__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/statues/IMG_20230619_114529__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8bb719f6a6674306e049348df9ca7406" href="https://assets.martsmusings.uk/galleries/colombia/statues/IMG_20230619_114401.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/statues/IMG_20230619_114401.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The guide said the willy statue wasn&amp;rsquo;t representative of Colombian men:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8303daa5b067bbb663aca2878529df40" href="https://assets.martsmusings.uk/galleries/colombia/willy/IMG_20230619_114051.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/willy/IMG_20230619_114051.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>In 1995 the son of Botero was defense minister. A guerilla group filled a Botero statue on San Antonio Plaza with dynamite. They detonated it during a concert in the plaza. It killed 30 and injured more than 200 people.&lt;/p>
+&lt;p>Botero was defiant. He donated an identical statue on the proviso that it always stand next to the torn shell of the original.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-79fc8f61a8e492dd4079fb93c634d0af" href="https://assets.martsmusings.uk/galleries/colombia/birds-peace/IMG_20230619_124419.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/birds-peace/IMG_20230619_124419.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-79fc8f61a8e492dd4079fb93c634d0af" href="https://assets.martsmusings.uk/galleries/colombia/birds-peace/IMG_20230619_124447.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/birds-peace/IMG_20230619_124447.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>They&amp;rsquo;re now known as &lt;a
+class="gblog-markdown__link"
+href="https://www.atlasobscura.com/places/the-birds-of-peace-medellin-colombia"
+>the birds of peace&lt;/a>. Our guide believed the mindset shown in the aftermath of this tragedy allowed the city to remember whilst transforming. He embraced this spirit himself, and revealed that his main line of work is music production. He just does a couple of tours as week as he believes it&amp;rsquo;s important for the city.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#nowadays" class="header-link" aria-label="Anchor Nowadays" href="#nowadays">
+&lt;h2 id="nowadays">
+Nowadays
+&lt;/h2>
+&lt;/a>&lt;p>We felt incredibly safe during our time in Medellín. Locals were welcoming. They were pleased we were visiting and mentioned many times that we should tell our friends that it&amp;rsquo;s safe to visit, and much more than the past problems. We can do so without reservation. We loved hanging out there:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61479406ba67ef5a0fac4fb6d7d7056e" href="https://assets.martsmusings.uk/galleries/colombia/medellin-chillin/IMG_20230618_154319.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/medellin-chillin/IMG_20230618_154319.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61479406ba67ef5a0fac4fb6d7d7056e" href="https://assets.martsmusings.uk/galleries/colombia/medellin-chillin/IMG_20230618_160943.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/medellin-chillin/IMG_20230618_160943.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61479406ba67ef5a0fac4fb6d7d7056e" href="https://assets.martsmusings.uk/galleries/colombia/medellin-chillin/IMG_20230619_104637.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/medellin-chillin/IMG_20230619_104637.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#comuna-13" class="header-link" aria-label="Anchor Comuna 13" href="#comuna-13">
+&lt;h3 id="comuna-13">
+Comuna 13
+&lt;/h3>
+&lt;/a>&lt;p>We also took a free walking tour in Medellín&amp;rsquo;s Comuna 13. It&amp;rsquo;s in the hillside, and was full of slums. It was the most dangerous area of Medellín. It&amp;rsquo;s now completely safe. There is lots of cool street art:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9286dd91cd366d6ccda0f476487e826a" href="https://assets.martsmusings.uk/galleries/colombia/grafitti/IMG_20230619_163919.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/grafitti/IMG_20230619_163919.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9286dd91cd366d6ccda0f476487e826a" href="https://assets.martsmusings.uk/galleries/colombia/grafitti/IMG_20230619_165812.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/grafitti/IMG_20230619_165812.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9286dd91cd366d6ccda0f476487e826a" href="https://assets.martsmusings.uk/galleries/colombia/grafitti/IMG_20230619_171252.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/grafitti/IMG_20230619_171252.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And street performers:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-4eaade350c7365e393fc1e07b265dcdc" href="https://assets.martsmusings.uk/galleries/colombia/street-performers/VID_20230619_164807.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/street-performers/VID_20230619_164807.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Many streets stalls, an electric escalator to get up the hill, and, of course, a craft beer brewery:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7ea23110ccf5a1002f887ca2b30f1fdf" href="https://assets.martsmusings.uk/galleries/colombia/13-beer/IMG_20230619_175734.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/13-beer/IMG_20230619_175734.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>There&amp;rsquo;s a great view from the top:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c2366b2f2684b942e30283c840093688" href="https://assets.martsmusings.uk/galleries/colombia/13-view/IMG_20230619_172316.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/13-view/IMG_20230619_172316.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#guatapé" class="header-link" aria-label="Anchor Guatapé" href="#guatap%c3%a9">
+&lt;h1 id="guatapé">
+Guatapé
+&lt;/h1>
+&lt;/a>&lt;p>Guatapé is a stones throw from Medellín. Our main draw for visiting was that Laura thought the village looked very pretty 😂. The buildings have murals of occupiers, hobby, trade or favourite thing:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/IMG_20230620_175208.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/IMG_20230620_175208.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/IMG_20230620_162043.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/IMG_20230620_162043.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/IMG_20230620_163306__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/IMG_20230620_163306__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/cycle.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/cycle.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/IMG_20230620_181447.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/IMG_20230620_181447.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/IMG_20230620_161017__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/IMG_20230620_161017__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-5bebb38b34e19735e46e34f90965e00e" href="https://assets.martsmusings.uk/galleries/colombia/guatape/IMG_20230620_163210.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape/IMG_20230620_163210.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was a great place to spend a day chilling out in.&lt;/p>
+&lt;p>We also climbed a weird looking rock that was close:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-13328495f3da7eb55163b1313d20e00a" href="https://assets.martsmusings.uk/galleries/colombia/guatape-rock/IMG_20230620_154846.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape-rock/IMG_20230620_154846.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-13328495f3da7eb55163b1313d20e00a" href="https://assets.martsmusings.uk/galleries/colombia/guatape-rock/IMG_20230620_152505.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape-rock/IMG_20230620_152505.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-13328495f3da7eb55163b1313d20e00a" href="https://assets.martsmusings.uk/galleries/colombia/guatape-rock/IMG_20230620_155553.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape-rock/IMG_20230620_155553.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-13328495f3da7eb55163b1313d20e00a" href="https://assets.martsmusings.uk/galleries/colombia/guatape-rock/IMG_20230620_152330__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/guatape-rock/IMG_20230620_152330__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#salento" class="header-link" aria-label="Anchor Salento" href="#salento">
+&lt;h1 id="salento">
+Salento
+&lt;/h1>
+&lt;/a>&lt;p>Due south from Medellín, Salento is a quaint town that turned out to be a real highlight. It recently served as &lt;a
+class="gblog-markdown__link"
+href="https://swisherpost.co.za/travel/places-to-visit-colombia-inspired-disney-encanto-photo/"
+>inspiration for Disney&amp;rsquo;s 2021 film, Encanto&lt;/a>.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#-coffee" class="header-link" aria-label="Anchor ☕ Coffee" href="#-coffee">
+&lt;h2 id="-coffee">
+☕ Coffee
+&lt;/h2>
+&lt;/a>&lt;p>It sits next to a large number of coffee plantations. Our plan for the day after arrival was to book onto a tour of them. The owner of the &lt;a
+class="gblog-markdown__link"
+href="https://goo.gl/maps/iCVevdajRYxbUBJ38"
+>restaurant we had dinner&lt;/a> at very kindly told us to not waste our money. He said it&amp;rsquo;s only a 5km ramble to visit them all. They all have coffee bars you can enter en route to keep yourself fuelled. And that the furthest away plantation gets limited footfall, is the best, and is owned an enthusiastic old dude who will give a great tour if you rock up.&lt;/p>
+&lt;p>We took his word and DIY&amp;rsquo;ed it. I was very fueled:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-75b2b2c4fee6cbc437f4bdb76bcca48b" href="https://assets.martsmusings.uk/galleries/colombia/martin-fuel/IMG_20230622_154958.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/martin-fuel/IMG_20230622_154958.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And it was a brilliant ramble down.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-888bcf4f70edf3d6067b30b1cc6feb3d" href="https://assets.martsmusings.uk/galleries/colombia/coffee-ramble/IMG_20230622_122858__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-ramble/IMG_20230622_122858__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-888bcf4f70edf3d6067b30b1cc6feb3d" href="https://assets.martsmusings.uk/galleries/colombia/coffee-ramble/IMG_20230622_120135.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-ramble/IMG_20230622_120135.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The final plantation, &lt;a
+class="gblog-markdown__link"
+href="https://goo.gl/maps/qMGqxwQeew64Yiiw8"
+>El Recuerdo&lt;/a>, was indeed owned by an enthusiastic old dude who gave a cracking tour.&lt;/p>
+&lt;p>He&amp;rsquo;s been keen on sustainability during the decades he&amp;rsquo;s been coffee farming. Other local plantations have chased mono-cultures (solely planting coffee plants), fertilizers and pesticides. He has no regrets in keeping things natural. It gives him a sought after product. Other local plantations have recently asked for advice in adopting more sustainable methods.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9a2ae10472b2a6835ec81432861ac23d" href="https://assets.martsmusings.uk/galleries/colombia/coffee-sustainable/IMG_20230622_135458.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-sustainable/IMG_20230622_135458.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Colombia produces Arabica beans. Almost entirely for export - it&amp;rsquo;s big money. The most popular type of coffee consumed domestically is Nescafe 😂. He walked us through the whole production process, which was fascinating.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-592ca8d9ab29a9180e99eeb5cd09ddf1" href="https://assets.martsmusings.uk/galleries/colombia/coffee-tour/IMG_20230622_134336.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-tour/IMG_20230622_134336.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-592ca8d9ab29a9180e99eeb5cd09ddf1" href="https://assets.martsmusings.uk/galleries/colombia/coffee-tour/IMG_20230622_134222.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-tour/IMG_20230622_134222.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-592ca8d9ab29a9180e99eeb5cd09ddf1" href="https://assets.martsmusings.uk/galleries/colombia/coffee-tour/IMG_20230622_143531.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-tour/IMG_20230622_143531.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-592ca8d9ab29a9180e99eeb5cd09ddf1" href="https://assets.martsmusings.uk/galleries/colombia/coffee-tour/IMG_20230622_144214.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-tour/IMG_20230622_144214.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>He proudly allows a huge variety of crops to grow alongside the coffee on his land. It provides shade, nutrients and natural protection the plants would not otherwise get. He explained how he uses many crops for natural medicines, plied us with various fruits, and showed us his cocaine bush:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a927841978f5896df6a933b465630f54" href="https://assets.martsmusings.uk/galleries/colombia/coffee-other/IMG_20230622_131132.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-other/IMG_20230622_131132.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a927841978f5896df6a933b465630f54" href="https://assets.martsmusings.uk/galleries/colombia/coffee-other/IMG_20230622_151459.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-other/IMG_20230622_151459.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a927841978f5896df6a933b465630f54" href="https://assets.martsmusings.uk/galleries/colombia/coffee-other/IMG_20230622_131200.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-other/IMG_20230622_131200.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a927841978f5896df6a933b465630f54" href="https://assets.martsmusings.uk/galleries/colombia/coffee-other/IMG_20230622_163218.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/coffee-other/IMG_20230622_163218.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We ended with an espresso. It was delicious. I&amp;rsquo;m rarely a fan of espresso if it&amp;rsquo;s not accompanied by Martini, but think I&amp;rsquo;ll definitely dabble in the future if I get my mitts on some good quality beans.&lt;/p>
+&lt;p>He was a member of, and advocate for, the Rainforest Alliance. It promotes sustainable practice and fair trade for coffee plantations. Will definitely keep an eye out for the label on bags of coffee beans in the future.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9062c5a7895a8307a7731d21c2a8a75d" href="https://assets.martsmusings.uk/galleries/colombia/rfa/IMG_20230622_150852.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/rfa/IMG_20230622_150852.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#-palm-trees" class="header-link" aria-label="Anchor 🌴 Palm Trees" href="#-palm-trees">
+&lt;h2 id="-palm-trees">
+🌴 Palm Trees
+&lt;/h2>
+&lt;/a>&lt;p>Cocora Valley is a short journey by jeep from Salento. I got the short straw. There wasn&amp;rsquo;t room for me inside. I spent 20 hair-raising minutes clinging on to the back. I definitely got the best view, but it tested the upper body strength that I don&amp;rsquo;t have.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-50eae9ce3a7bb148b99c4c5e535d170f" href="https://assets.martsmusings.uk/galleries/colombia/cocora-jeep/VID_20230623_112337.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-jeep/VID_20230623_112337.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Cocora Valley is home to some of the tallest palm trees in the world. They &lt;a
+class="gblog-markdown__link"
+href="https://wander-lush.org/cocora-valley-hike-salento-colombia/"
+>rise to over 70 metres&lt;/a>. Rumour has it that originally it was a dense and tall forest. The palm trees had to grow super tall to get above the canopy. It&amp;rsquo;s suffered from deforestation. They had no use for the palm trees so let them be. Very sad, but still a sight to see 🌴.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_121728.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_121728.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_122417.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_122417.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_124930.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_124930.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_133824.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_133824.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_133840.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_133840.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_132620.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_132620.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-58b27619dc3bcf5464e94cb8b1534564" href="https://assets.martsmusings.uk/galleries/colombia/cocora-palms/IMG_20230623_122746.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-palms/IMG_20230623_122746.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We did an 8 mile loop around the valley. I was flagging, but got second wind after we stopped off for a Canelazo. It&amp;rsquo;s an &lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/Canelazo"
+>Irished up green tea&lt;/a>.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-97576fc16a00ebf4216c5f15c8ccd15c" href="https://assets.martsmusings.uk/galleries/colombia/cocora-booze/IMG_20230623_140401.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-booze/IMG_20230623_140401.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We made friends with a dude from Costa Rica along the way, and visited a hummingbird sanctuary:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e55c49400a3b4c397660d6dc4613e12d" href="https://assets.martsmusings.uk/galleries/colombia/cocora-hummingbirds/IMG_20230623_154152.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-hummingbirds/IMG_20230623_154152.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e55c49400a3b4c397660d6dc4613e12d" href="https://assets.martsmusings.uk/galleries/colombia/cocora-hummingbirds/IMG_20230623_154154.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-hummingbirds/IMG_20230623_154154.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We had to pay to enter. But they gave us cheese in hot chocolate as perk, which was quite something:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-895759da14968f7921137e1d4659463c" href="https://assets.martsmusings.uk/galleries/colombia/cocora-hummingbirds-drink/IMG_20230623_155042.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-hummingbirds-drink/IMG_20230623_155042.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It got a bit rainy:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6d664adca0cf2de658e4e21fe424bd46" href="https://assets.martsmusings.uk/galleries/colombia/cocora-hummingbirds-rainy/IMG_20230623_163954.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/cocora-hummingbirds-rainy/IMG_20230623_163954.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>I was lucky that our Costa Rican mate offered us a lift back to Salento. It was much more relaxing than a white-knuckle jeep ride in the rain would have been 😱.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#-tejo" class="header-link" aria-label="Anchor 💥 Tejo" href="#-tejo">
+&lt;h2 id="-tejo">
+💥 Tejo
+&lt;/h2>
+&lt;/a>&lt;p>Tejo is an &lt;a
+class="gblog-markdown__link"
+href="https://en.wikipedia.org/wiki/Tejo_%28sport%29"
+>explosive and traditional&lt;/a> sport in Colombia. It&amp;rsquo;s so up my street that it&amp;rsquo;s a bit ridiculous. There&amp;rsquo;s an angled pit of clay. A steel ring is in the centre. Four explosives are placed around the ring:&lt;/p>
+&lt;ul>
+&lt;li>You lob a stone at the ring from a distance.&lt;/li>
+&lt;li>You score points based on the extent of explosion you cause.&lt;/li>
+&lt;li>It&amp;rsquo;s traditional to drink beer whilst playing.&lt;/li>
+&lt;/ul>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0389c27e83c8f2fa59d452e2235c20cd" href="https://assets.martsmusings.uk/galleries/colombia/tejo-rules/IMG_20230623_225026.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/tejo-rules/IMG_20230623_225026.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0389c27e83c8f2fa59d452e2235c20cd" href="https://assets.martsmusings.uk/galleries/colombia/tejo-rules/IMG_20230623_225825.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/tejo-rules/IMG_20230623_225825.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>There were a bunch of local old dudes who were extremely jovial and clearly took great enjoyment in spending their evenings teaching gringos (tourists) the sport of Tejo.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e4d1ee949422ec9f17474bd7e6d38461" href="https://assets.martsmusings.uk/galleries/colombia/tejo-old-dudes/IMG_20230623_225017.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/tejo-old-dudes/IMG_20230623_225017.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Here&amp;rsquo;s a video of Laura hitting the jackpot:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-f2506787c2c4b94b26b7500317681dda" href="https://assets.martsmusings.uk/galleries/colombia/tejo-laura/VID_20230623_224309_01.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/tejo-laura/VID_20230623_224309_01.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Nobody will belive this, but that&amp;rsquo;s OK. I was actually very good. I caused lots of explosion, and whooped Laura&amp;rsquo;s bum. It&amp;rsquo;s just we both had low phone battery, and every time I was filmed it was a dud. But that&amp;rsquo;s OK. This one clearly hit but failed to explode, amiright?&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-085c62486f36d22762b5727401972549" href="https://assets.martsmusings.uk/galleries/colombia/tejo-martin-1/VID_20230623_224725.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/tejo-martin-1/VID_20230623_224725.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And this one.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-33082af3e0e730f9b085a02d0d15c196" href="https://assets.martsmusings.uk/galleries/colombia/tejo-martin-2/VID_20230623_225040.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/tejo-martin-2/VID_20230623_225040.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>As I say, it&amp;rsquo;s very much OK.&lt;/p>
+&lt;p>I was extremely excited to learn that a Tejo establishment was running in London. At last a viable alternative to Flight Club. Alas it has since shut permanently 🙁. But, it gives a new career idea for our return to Poynton.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#tatacoa-desert" class="header-link" aria-label="Anchor Tatacoa Desert" href="#tatacoa-desert">
+&lt;h1 id="tatacoa-desert">
+Tatacoa Desert
+&lt;/h1>
+&lt;/a>&lt;p>We ended our time in Colombia by visiting the Tatacoa Desert 🏜️. Complacent and moneytight Martin thought we no longer needed air conditioning since entering South America. I didn&amp;rsquo;t consider that we were staying &lt;strong>in a desert&lt;/strong>. We had the most humid night&amp;rsquo;s &amp;ldquo;sleep&amp;rdquo; ever. Not worth saving the couple of quid.&lt;/p>
+&lt;p>We rambled around the desert the next day:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_143723.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_143723.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_143329.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_143329.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/P6251863.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/P6251863.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_142424.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_142424.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_152837__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_152837__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_151225.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_151225.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_142032.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_142032.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_143030.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_143030.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-509964659c47fe8a1d1fe715973048e8" href="https://assets.martsmusings.uk/galleries/colombia/desert/IMG_20230625_141633.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/colombia/desert/IMG_20230625_141633.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And managed to get completely lost within 10 minutes. It&amp;rsquo;s like a rabbit warren. Such a strange sensation. We felt safe as we could &lt;em>see&lt;/em> the way out of the labyrinth. But also it was exceptionally humid, we were running out of water, and walking around in circles. It was hard not to have a completely unnecessary mild panic.&lt;/p>
+&lt;p>We made it out unscathed.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-06-Colombia/#conclusion" class="header-link" aria-label="Anchor Conclusion" href="#conclusion">
+&lt;h1 id="conclusion">
+Conclusion
+&lt;/h1>
+&lt;/a>&lt;p>All that was within 11 days in Colombia! We absolutely loved it, and wished our schedule allowed more time. It&amp;rsquo;s definitely a country we&amp;rsquo;ll be looking to visit again.&lt;/p>
+&lt;p>Next up we head to Ecuador, where we visited the equator and hiked down/around a crater 🥾.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇧🇿 Belize 🇧🇿</title><link href="https://martsmusings.uk/post/2023-08-31-Belize/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-08-31-Belize/</id><published>2023-09-01T09:58:00-05:00</published><updated>2023-09-01T09:58:00-05:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
