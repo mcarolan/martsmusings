@@ -1,4 +1,303 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-09-09 21:00:00 -0400 -04</updated><entry><title>🇨🇴 Colombia 🇨🇴</title><link href="https://martsmusings.uk/post/2023-09-06-Colombia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-06-Colombia/</id><published>2023-09-09T21:00:00-04:00</published><updated>2023-09-09T21:00:00-04:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-09-20 19:10:00 -0300 -03</updated><entry><title>🇪🇨 Ecuador 🇪🇨</title><link href="https://martsmusings.uk/post/2023-09-20-Ecuador/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-20-Ecuador/</id><published>2023-09-20T19:10:00-03:00</published><updated>2023-09-20T19:10:00-03:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#quito">Quito&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#drinks-with-a-view">Drinks with a view&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#soup">Soup&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#mitad-del-mundo">Mitad del Mundo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#quilotoa-crater">Quilotoa Crater&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#wrapping-up">Wrapping Up&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#a-good-samaritan">A Good Samaritan&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#next-up">Next up&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-0a5640be7fdd1803d7abdc8ee08500e0" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-0a5640be7fdd1803d7abdc8ee08500e0" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "80fa17f8-07b4-4d0e-9411-299fa2221b85";
+window.mappyTravelsTo = "977a60d0-6850-46b5-b903-fc5bf342fbe4";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-80fa17f8-07b4-4d0e-9411-299fa2221b85" class="row-hidden">
+&lt;td title="Hotel Panorama, Neive">&lt;div class="truncate">🇨🇴 Hotel Panorama, Neive&lt;/div>&lt;/td>
+&lt;td title="Neiva Airport">&lt;div class="truncate">🇨🇴 Neiva Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:09&lt;/td>
+&lt;td>£1.91&lt;/td>
+&lt;/tr>&lt;tr id="row-52714395-5cf2-4d5d-9a34-9307a87000e4" class="row-hidden">
+&lt;td title="Neiva Airport">&lt;div class="truncate">🇨🇴 Neiva Airport&lt;/div>&lt;/td>
+&lt;td title="Bogota Airport">&lt;div class="truncate">🇨🇴 Bogota Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>00:58&lt;/td>
+&lt;td>£148.58&lt;/td>
+&lt;/tr>&lt;tr id="row-c1eea706-c2fb-4b93-8c6d-011c072ab953" class="row-hidden">
+&lt;td title="Bogota Airport">&lt;div class="truncate">🇨🇴 Bogota Airport&lt;/div>&lt;/td>
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:43&lt;/td>
+&lt;td>£194.74&lt;/td>
+&lt;/tr>&lt;tr id="row-95758cd2-5a77-43d6-b7d8-3df2a0cefeda" class="row-hidden">
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td title="Casa Franciscana">&lt;div class="truncate">🇪🇨 Casa Franciscana&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:38&lt;/td>
+&lt;td>£20.10&lt;/td>
+&lt;/tr>&lt;tr id="row-0d89ef82-5c3e-4006-a044-5f40dec34859" class="row-hidden">
+&lt;td title="Casa Franciscana">&lt;div class="truncate">🇪🇨 Casa Franciscana&lt;/div>&lt;/td>
+&lt;td title="South bus station">&lt;div class="truncate">🇪🇨 South bus station&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:50&lt;/td>
+&lt;td>£6.97&lt;/td>
+&lt;/tr>&lt;tr id="row-8cf772a5-cb4a-48a9-b779-52beaedbfd6a" class="row-hidden">
+&lt;td title="South bus station">&lt;div class="truncate">🇪🇨 South bus station&lt;/div>&lt;/td>
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:14&lt;/td>
+&lt;td>£3.93&lt;/td>
+&lt;/tr>&lt;tr id="row-2680a0e6-efdf-4cfe-943a-e09a4ef83d09" class="row-hidden">
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td title="Sigchos">&lt;div class="truncate">🇪🇨 Sigchos&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:30&lt;/td>
+&lt;td>£4.17&lt;/td>
+&lt;/tr>&lt;tr id="row-0181b179-ec81-480a-abf7-6e0b3b2ab5f5" class="row-hidden">
+&lt;td title="Quilotoa">&lt;div class="truncate">🇪🇨 Quilotoa&lt;/div>&lt;/td>
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>01:20&lt;/td>
+&lt;td>£3.92&lt;/td>
+&lt;/tr>&lt;tr id="row-977a60d0-6850-46b5-b903-fc5bf342fbe4" class="row-hidden">
+&lt;td title="Latacunga">&lt;div class="truncate">🇪🇨 Latacunga&lt;/div>&lt;/td>
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>03:31&lt;/td>
+&lt;td>£1.58&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>We were pooped after a busy couple of weeks in Colombia.
+Our first order of business in Ecuador was to chill for a while in the capital city, Quito.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#quito" class="header-link" aria-label="Anchor Quito" href="#quito">
+&lt;h1 id="quito">
+Quito
+&lt;/h1>
+&lt;/a>&lt;p>We discovered an intrigue upon arrival at the airport. Uber, the ride-hailing app, is illegal! Taxi drivers are in for a heavy fine if they&amp;rsquo;re caught using it. The odd thing is that it&amp;rsquo;s still very much in use. The impact of the law is that it&amp;rsquo;s a bit of a charade.&lt;/p>
+&lt;p>At the airport in particular, gringos (this is what Latin Americans call tourists) are very keen to use Uber. The price is agreed upfront, payment is cashless, and you can check the rating other gringos have given the driver.&lt;/p>
+&lt;p>The driver messaged in advance to ask that I sit in the front passenger seat because of the police. We&amp;rsquo;d soon learn this is Uber etiquette across Ecuador.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#drinks-with-a-view" class="header-link" aria-label="Anchor Drinks with a view" href="#drinks-with-a-view">
+&lt;h2 id="drinks-with-a-view">
+Drinks with a view
+&lt;/h2>
+&lt;/a>&lt;p>After a very lazy day, we headed out to a bar with some cracking views of the city. We hung out for a bit, and ploughed on with a bit of Wedmin.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-377ad62c05229062e8e92750977f40dd" href="https://assets.martsmusings.uk/galleries/ecuador/drinks/IMG_20230627_183631.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/drinks/IMG_20230627_183631.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-377ad62c05229062e8e92750977f40dd" href="https://assets.martsmusings.uk/galleries/ecuador/drinks/IMG_20230627_211038.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/drinks/IMG_20230627_211038.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-377ad62c05229062e8e92750977f40dd" href="https://assets.martsmusings.uk/galleries/ecuador/drinks/IMG_20230627_202146.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/drinks/IMG_20230627_202146.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-377ad62c05229062e8e92750977f40dd" href="https://assets.martsmusings.uk/galleries/ecuador/drinks/IMG_20230627_175735.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/drinks/IMG_20230627_175735.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#soup" class="header-link" aria-label="Anchor Soup" href="#soup">
+&lt;h3 id="soup">
+Soup
+&lt;/h3>
+&lt;/a>&lt;p>We ordered Locro de Papa in an effort to sample Ecuadorian cuisine and avoid a liquid dinner. It was quite something. A thick potato soup with cheese and avocado:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-aa232e6ba8dac6526ae4a0fd7e7c99e9" href="https://assets.martsmusings.uk/galleries/ecuador/soup/IMG_20230627_204513.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/soup/IMG_20230627_204513.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We&amp;rsquo;re both agreed that it&amp;rsquo;s one of the best soups were ever had. Laura can&amp;rsquo;t stop thinking about it.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#mitad-del-mundo" class="header-link" aria-label="Anchor Mitad del Mundo" href="#mitad-del-mundo">
+&lt;h2 id="mitad-del-mundo">
+Mitad del Mundo
+&lt;/h2>
+&lt;/a>&lt;p>The equator runs through Ecuador. In 1979 a 30ft monument was built to commemorate this. There&amp;rsquo;s a great view from the top:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-99bd5c126445fa590e6e3574f6885ce6" href="https://assets.martsmusings.uk/galleries/ecuador/tower/IMG_20230628_165726__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/tower/IMG_20230628_165726__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-99bd5c126445fa590e6e3574f6885ce6" href="https://assets.martsmusings.uk/galleries/ecuador/tower/IMG_20230628_155618.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/tower/IMG_20230628_155618.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And it has a cool yellow line so you can get some photos of yourself across two hemispheres:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ef92fed5fb6e5d03c2e9f916d981d955" href="https://assets.martsmusings.uk/galleries/ecuador/yellow-line/IMG_20230628_160439.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/yellow-line/IMG_20230628_160439.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ef92fed5fb6e5d03c2e9f916d981d955" href="https://assets.martsmusings.uk/galleries/ecuador/yellow-line/VID_20230628_160137.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/yellow-line/VID_20230628_160137.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>They later found out they&amp;rsquo;d mistakenly built the monument 240 metres north of the equator. Balls.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-09c9c26d7514158fc4a6c3f2fa0ff669" href="https://assets.martsmusings.uk/galleries/ecuador/not-quite-equator/IMG_20230628_164924.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/not-quite-equator/IMG_20230628_164924.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But they doubled down, and made &amp;ldquo;middle of the world city&amp;rdquo;. The equator&amp;rsquo;s answer to Disneyland. There are shops, restaurants, and people dressed in costumes.&lt;/p>
+&lt;p>You can try to balance a boiled egg on a nail. It&amp;rsquo;s supposed to be exceptionally easy at 0 latitude. It wasn&amp;rsquo;t easy, but I did manage it 💪.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-69a0bd2aeedee40ad60939e0c0014920" href="https://assets.martsmusings.uk/galleries/ecuador/egg/IMG_20230628_161153.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/egg/IMG_20230628_161153.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>There is a craft beer brewery, of course:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-86c80bbf2a5d30750cd70d6cd1e84d8d" href="https://assets.martsmusings.uk/galleries/ecuador/beer/IMG_20230628_163059.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/beer/IMG_20230628_163059.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>I had to school a lost Belgian monk on what IPA stands for:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ba45e882004f48523ce554da8a6580d9" href="https://assets.martsmusings.uk/galleries/ecuador/monk/IMG_20230628_162010.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/monk/IMG_20230628_162010.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#quilotoa-crater" class="header-link" aria-label="Anchor Quilotoa Crater" href="#quilotoa-crater">
+&lt;h2 id="quilotoa-crater">
+Quilotoa Crater
+&lt;/h2>
+&lt;/a>&lt;p>Last but not least, we set off on the first of many multi-day hikes in South America.&lt;/p>
+&lt;p>It was our first experience of high altitude hiking. From the starting point, Sigchos, we climbed from 2,900 to 3,900 metres above sea level. This was definitely noticeable, so we took it slow and steady!&lt;/p>
+&lt;p>We&amp;rsquo;d booked in to a couple of hostels across the hike. They were quite fancy, and included meals. It was a nice atmosphere, and we got to know a few other hikers who had set off at the same time as us.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230702_095530.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230702_095530.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230701_142324.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230701_142324.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230630_163356.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230630_163356.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230630_135905.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230630_135905.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230701_122921.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230701_122921.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230702_120100.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230702_120100.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230701_105652.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230701_105652.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3308cd830c2f519e264417c884e94966" href="https://assets.martsmusings.uk/galleries/ecuador/hike/IMG_20230701_120342.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/hike/IMG_20230701_120342.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We reached Quiltoa Crater rim on the final day. We were rewarded with some cool cloudy views:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07bb96b8cbbb8f368e0072561a435831" href="https://assets.martsmusings.uk/galleries/ecuador/crater-rim/IMG_20230702_144727.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/crater-rim/IMG_20230702_144727.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07bb96b8cbbb8f368e0072561a435831" href="https://assets.martsmusings.uk/galleries/ecuador/crater-rim/P7021936.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/crater-rim/P7021936.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07bb96b8cbbb8f368e0072561a435831" href="https://assets.martsmusings.uk/galleries/ecuador/crater-rim/IMG_20230702_134834.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/crater-rim/IMG_20230702_134834.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07bb96b8cbbb8f368e0072561a435831" href="https://assets.martsmusings.uk/galleries/ecuador/crater-rim/IMG_20230702_142119.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/crater-rim/IMG_20230702_142119.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And were glad to find a lady selling coffee at the top.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#wrapping-up" class="header-link" aria-label="Anchor Wrapping Up" href="#wrapping-up">
+&lt;h1 id="wrapping-up">
+Wrapping Up
+&lt;/h1>
+&lt;/a>&lt;p>And that&amp;rsquo;s it! We didn&amp;rsquo;t get up to a lot in Ecuador. We wanted to join a 10 day hike in Peru 😱 - the Huayhuash. The hike started on a specific day, so that limited our schedule.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#a-good-samaritan" class="header-link" aria-label="Anchor A Good Samaritan" href="#a-good-samaritan">
+&lt;h2 id="a-good-samaritan">
+A Good Samaritan
+&lt;/h2>
+&lt;/a>&lt;p>We decided to fly to Lima. We caught a bus back to Quito after completing our Quilatoa. Arriving in good time, we approached the Tourist Information booth at the bus terminal. We had a lot of time before our flight, so we asked what the cheapest way to get to the airport was.&lt;/p>
+&lt;p>Tourist Information dude told us to catch a collectivo. They are abundant in South America. They&amp;rsquo;re minibuses, and are dirt cheap. Very popular with locals.&lt;/p>
+&lt;p>We got very lost trying to find the colletivo. Eventually a security guard kindly escorted us.&lt;/p>
+&lt;p>The journey started, and the ticket dude asked where we were going. I said the airport. Him and the passengers looked shocked, and they shook their head. &amp;ldquo;Peligroso&amp;rdquo; they said. Dangerous!&lt;/p>
+&lt;p>After some Google translation with some passengers, it transpired that it&amp;rsquo;s not safe for gringos to catch the collectivo all the way to the airport. The last part is dangerous, and we should order a taxi for it. It was very curious and unnerving.&lt;/p>
+&lt;p>A lady then boarded and sat next to me. She was a bit chatty, and asked where I was from. Later she asked where we were going. I said the airport, she shook her head and warned &amp;ldquo;peligroso!&amp;rdquo;. She then made a phone call, and said that we should get off at the next stop. She explained that her husband is going to pick her up, and they will give us a lift.&lt;/p>
+&lt;p>This put us in a bit of a quandary. She &lt;strong>seemed&lt;/strong> genuine. But we didn&amp;rsquo;t know her, and the whole situation was odd. The gov.uk website definitely puts you on edge that anybody could be a kidnapper! We decided to go for it, even though the other passengers looked a bit concerned that we weren&amp;rsquo;t sticking to their plan.&lt;/p>
+&lt;p>It&amp;rsquo;s a happy ending. Gina and her husband were lovely people, and we had a good chat in the car. They said they lived near the airport and that it was no trouble, which seemed a bit unlikely. Upon arrival we tried to give them some cash for fuel and the 10USD toll-road to get to the airport. They refused to take it, and kept handing it back. There are some great people in the world.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#next-up" class="header-link" aria-label="Anchor Next up" href="#next-up">
+&lt;h2 id="next-up">
+Next up
+&lt;/h2>
+&lt;/a>&lt;p>Next up, we do a 10 day hike in the northern mountains of Peru 😱.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇨🇴 Colombia 🇨🇴</title><link href="https://martsmusings.uk/post/2023-09-06-Colombia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-06-Colombia/</id><published>2023-09-09T21:00:00-04:00</published><updated>2023-09-09T21:00:00-04:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
