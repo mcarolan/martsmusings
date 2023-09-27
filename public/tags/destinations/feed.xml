@@ -1,4 +1,526 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.118.2">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-09-20 19:10:00 -0300 -03</updated><entry><title>🇪🇨 Ecuador 🇪🇨</title><link href="https://martsmusings.uk/post/2023-09-20-Ecuador/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-20-Ecuador/</id><published>2023-09-20T19:10:00-03:00</published><updated>2023-09-20T19:10:00-03:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator><title>Destinations on Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/tags/destinations/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/tags/destinations/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/tags/destinations/</id><updated>2023-09-27 19:40:00 -0300 -03</updated><entry><title>🇵🇪⛰️🚶‍♀️ Huayhuash 🚶‍♂️⛰️🇵🇪</title><link href="https://martsmusings.uk/post/2023-09-25-Huayhuash/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-25-Huayhuash/</id><published>2023-09-27T19:40:00-03:00</published><updated>2023-09-27T19:40:00-03:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#before-the-hike">Before the hike&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#laguna-churup">Laguna Churup&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#kit-hire">Kit Hire&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#itinerary">Itinerary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#the-group">The Group&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#hikers">Hikers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#crew">Crew&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#dogs">Dogs&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#a-day-on-the-trail">A day on the trail&lt;/a>
+&lt;ul>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="#600am">6:00am&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#630am">6:30am&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#655am">6:55am&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#700am">7:00am&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#1230ish">12:30ish&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#1300ish">13:00ish&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#1530ish">15:30ish&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#1800">18:00&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#1930---2000">19:30 - 20:00&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#photos">Photos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#summing-up">Summing up&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-c3b7c29bdddd1303e8c6428dd68bd225" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-c3b7c29bdddd1303e8c6428dd68bd225" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "ad972ed7-a05a-4fd4-9b50-11cf1281b53e";
+window.mappyTravelsTo = "36f05291-01ca-428e-878e-65179d36380c";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-ad972ed7-a05a-4fd4-9b50-11cf1281b53e" class="row-hidden">
+&lt;td title="Quito Airport">&lt;div class="truncate">🇪🇨 Quito Airport&lt;/div>&lt;/td>
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>02:15&lt;/td>
+&lt;td>£453.64&lt;/td>
+&lt;/tr>&lt;tr id="row-06ec9ac8-81ad-4f18-a454-0d320d1e677b" class="row-hidden">
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td title="Hotel Sueno">&lt;div class="truncate">🇵🇪 Hotel Sueno&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:33&lt;/td>
+&lt;td>£11.39&lt;/td>
+&lt;/tr>&lt;tr id="row-684c0f46-3a80-4f6b-9062-8d35176747a4" class="row-hidden">
+&lt;td title="Hotel Sueno">&lt;div class="truncate">🇵🇪 Hotel Sueno&lt;/div>&lt;/td>
+&lt;td title="Cruz del sur (Lima)">&lt;div class="truncate">🇵🇪 Cruz del sur (Lima)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:15&lt;/td>
+&lt;td>£2.56&lt;/td>
+&lt;/tr>&lt;tr id="row-1fa4cf44-433b-490d-91e6-1bb14d4926d8" class="row-hidden">
+&lt;td title="Cruz del sur (Lima)">&lt;div class="truncate">🇵🇪 Cruz del sur (Lima)&lt;/div>&lt;/td>
+&lt;td title="Cruz del sur (Huaraz)">&lt;div class="truncate">🇵🇪 Cruz del sur (Huaraz)&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>09:30&lt;/td>
+&lt;td>£32.70&lt;/td>
+&lt;/tr>&lt;tr id="row-36f05291-01ca-428e-878e-65179d36380c" class="row-hidden">
+&lt;td title="Cruz del sur (Huaraz)">&lt;div class="truncate">🇵🇪 Cruz del sur (Huaraz)&lt;/div>&lt;/td>
+&lt;td title="Lhoste hostel">&lt;div class="truncate">🇵🇪 Lhoste hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:04&lt;/td>
+&lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>Welcome to our first foray into Peru!&lt;/p>
+&lt;p>We arrived with the goal of joining a 10 day trek of the Huayhuash, a mountain range in Northern Peru. It&amp;rsquo;s pronounced &amp;ldquo;why wash?&amp;rdquo;, which is very apt. We could think of a few reasons by day 10.&lt;/p>
+&lt;p>The timeline here makes no logical sense. After this we head back up to Ecuador for a bit, and then later return to spend another month in Peru. But alas, we had to work around a fixed hike departure date. The Huayhuash is a niche expedition.&lt;/p>
+&lt;p>Laura had completed this hike before. 9 years ago, fresh out of midwife school, she was without a care in the world. She &lt;em>really&lt;/em> enjoyed it, and enough time had passed for her to blank out the tough parts.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#before-the-hike" class="header-link" aria-label="Anchor Before the hike" href="#before-the-hike">
+&lt;h1 id="before-the-hike">
+Before the hike
+&lt;/h1>
+&lt;/a>&lt;p>We spent a couple of days in the city of Huaraz before we set off. The Huayhuash is a high altitude hike. The trail rarely dips below 4,000m altitude, and climbs up to 5,000m at its peak. It&amp;rsquo;s recommended that you do at least one day-hike from Huaraz to acclimatise.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#laguna-churup" class="header-link" aria-label="Anchor Laguna Churup" href="#laguna-churup">
+&lt;h2 id="laguna-churup">
+Laguna Churup
+&lt;/h2>
+&lt;/a>&lt;p>Our schedule only allowed for one acclimatisation hike. We chose to do Laguna Churup, as it didn&amp;rsquo;t need a super-early start time 😴.&lt;/p>
+&lt;p>A collectivo (public minibus) scooped us up from our hostel, and drove us up to the start point at 4,200m.&lt;/p>
+&lt;p>We slogged up to the lake at 4,600m. I found it super tough, and had to take a lot of breaks. Oxygen concentration in the air is 20.9% at sea level. At the altitude of Laguna Churup it&amp;rsquo;s only 11.8%. Rough 🤮. Laura found it hard, but seemed much more capable than myself. I was also feeling the effects of a couple of beers the night before, which packed an extra punch at that height.&lt;/p>
+&lt;p>There were some very cool views at the top:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2b92dbc8b5514b230c82a968de48ebdf" href="https://assets.martsmusings.uk/galleries/huayhuash/churup/IMG_20230706_113128.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/churup/IMG_20230706_113128.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2b92dbc8b5514b230c82a968de48ebdf" href="https://assets.martsmusings.uk/galleries/huayhuash/churup/P7061947.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/churup/P7061947.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2b92dbc8b5514b230c82a968de48ebdf" href="https://assets.martsmusings.uk/galleries/huayhuash/churup/IMG_20230706_114808.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/churup/IMG_20230706_114808.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2b92dbc8b5514b230c82a968de48ebdf" href="https://assets.martsmusings.uk/galleries/huayhuash/churup/IMG_20230706_114931.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/churup/IMG_20230706_114931.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Whilst a successful endeavour, it did leave me worried about what we were getting into!&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#kit-hire" class="header-link" aria-label="Anchor Kit Hire" href="#kit-hire">
+&lt;h2 id="kit-hire">
+Kit Hire
+&lt;/h2>
+&lt;/a>&lt;p>Another peril awaits at high altitude. It gets freezing at night 🥶. Bag space is not a luxury we&amp;rsquo;re blessed with this year, so we had to hire appropriate sleeping bags for the hike.&lt;/p>
+&lt;p>Our guide, Rodolfo, kindly offered to meet us the night before we set off to get us kitted out.&lt;/p>
+&lt;p>I was also very worried about how my back would cope with 10 consecutive nights camping. I&amp;rsquo;m like the princess and the pea when it comes to airbeds. It took a good few years to find one that I was comfortable with for camping trips in the UK 😱.&lt;/p>
+&lt;p>An obliging and iron-lunged hire shop owner blew up every inflatable he could muster. Manually. Red faced, he showcased the merits of each, and I settled for one. I only used it for the first night, as I discovered it caused more discomfort than it relieved 🤦‍♂️. It was £65 and a lot huff and puff down the drain.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#itinerary" class="header-link" aria-label="Anchor Itinerary" href="#itinerary">
+&lt;h1 id="itinerary">
+Itinerary
+&lt;/h1>
+&lt;/a>&lt;p>Here are the stats of the expedition.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Day&lt;/th>
+&lt;th>Distance&lt;/th>
+&lt;th>Elevation Gain&lt;/th>
+&lt;th>Time&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>1&lt;/td>
+&lt;td>8.78km&lt;/td>
+&lt;td>536m&lt;/td>
+&lt;td>03hr55m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2&lt;/td>
+&lt;td>9.85km&lt;/td>
+&lt;td>366m&lt;/td>
+&lt;td>03hr50m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3&lt;/td>
+&lt;td>15.97km&lt;/td>
+&lt;td>810m&lt;/td>
+&lt;td>07hr40m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>4&lt;/td>
+&lt;td>11.98km&lt;/td>
+&lt;td>495m&lt;/td>
+&lt;td>04hr34m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>5&lt;/td>
+&lt;td>9.24km&lt;/td>
+&lt;td>636m&lt;/td>
+&lt;td>05hr30m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>6&lt;/td>
+&lt;td>7.40km&lt;/td>
+&lt;td>525m&lt;/td>
+&lt;td>04hr15m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>15.99km&lt;/td>
+&lt;td>61m&lt;/td>
+&lt;td>05hr15m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>8&lt;/td>
+&lt;td>12.68km&lt;/td>
+&lt;td>1,212m&lt;/td>
+&lt;td>06hr20m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>9&lt;/td>
+&lt;td>10.56km&lt;/td>
+&lt;td>481m&lt;/td>
+&lt;td>05hr35m&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>10&lt;/td>
+&lt;td>14.71km&lt;/td>
+&lt;td>365m&lt;/td>
+&lt;td>05hr00m&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Each day in itself doesn&amp;rsquo;t appear too challenging. The gruel came from the altitude and the amount of camping involved.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#the-group" class="header-link" aria-label="Anchor The Group" href="#the-group">
+&lt;h1 id="the-group">
+The Group
+&lt;/h1>
+&lt;/a>&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dcc674dd938c26eae127e64173d47c1e" href="https://assets.martsmusings.uk/galleries/huayhuash/group/crew.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/group/crew.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#hikers" class="header-link" aria-label="Anchor Hikers" href="#hikers">
+&lt;h2 id="hikers">
+Hikers
+&lt;/h2>
+&lt;/a>&lt;p>Rodolfo swung by our hostel in a coach the next morning. We did a mystery tour of Huaraz, picking up our fellow hiking buddies.&lt;/p>
+&lt;p>There were 9 hikers in total. It was an international group, made up of two people from the Czech Republic, an American, a Dutch dude, a Brazillian bro, and a mother/daughter pair of Kiwis called Jill and Margy.&lt;/p>
+&lt;p>Margy and Laura were the only people who had done the hike before. Margy had completed it 19 years ago. She&amp;rsquo;s now 75 years young and was raring to do it again. Take note, Mums. There&amp;rsquo;s no excuse!&lt;/p>
+&lt;p>Rodolfo was Margy&amp;rsquo;s guide 19 years ago. He became a family friend, and has been to stay with them in New Zealand.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#crew" class="header-link" aria-label="Anchor Crew" href="#crew">
+&lt;h2 id="crew">
+Crew
+&lt;/h2>
+&lt;/a>&lt;p>As tough as the hike may first appear, we were very pampered. There was a support crew, who consisted of:&lt;/p>
+&lt;ul>
+&lt;li>Two guides
+&lt;ul>
+&lt;li>Although one caught D&amp;amp;V a couple of days in. He tried to persevere on horseback but ultimately had to bail.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Two chefs
+&lt;ul>
+&lt;li>Breakfast, lunch and dinner were covered.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Two donkey drivers
+&lt;ul>
+&lt;li>With the help of 13 donkeys and 2 horses.&lt;/li>
+&lt;li>They were responsible for transporting our main bags, camping equipment and provisions between campsites.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#dogs" class="header-link" aria-label="Anchor Dogs" href="#dogs">
+&lt;h2 id="dogs">
+Dogs
+&lt;/h2>
+&lt;/a>&lt;p>Whilst not official members of the group, we had an entourage of puppas 🐕. Plenty of wild dogs live in the Andean mountains. Some of them have decided that following hiking routes is a good way of life. Humans can be good for company, and dishing out grub.&lt;/p>
+&lt;p>Our first evening meal was fried fish. It went down very well. Plates were spotless afterwards, except nobody fancied eating their fish&amp;rsquo;s head 🐟.&lt;/p>
+&lt;p>Not wanting to let good heads go to waste, the chef gave a feast to a dog that was hanging around the campsite:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6041df3769d5babf2e514261637d8ab5" href="https://assets.martsmusings.uk/galleries/huayhuash/ice/IMG_20230716_162034.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/ice/IMG_20230716_162034.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>He decided that we were his kind of people, so joined the hike! We named him Ice, and accepted him as one of the pack:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a4f875d17b2fb1de827b7f85343ae826" href="https://assets.martsmusings.uk/galleries/huayhuash/ice-more/P7081980.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/ice-more/P7081980.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a4f875d17b2fb1de827b7f85343ae826" href="https://assets.martsmusings.uk/galleries/huayhuash/ice-more/P7081977.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/ice-more/P7081977.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a4f875d17b2fb1de827b7f85343ae826" href="https://assets.martsmusings.uk/galleries/huayhuash/ice-more/P7081982.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/ice-more/P7081982.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Ice enjoyed a lie-in. Every day we&amp;rsquo;d set off at a hideously early hour and leave him at the camp. At some point during the hike he&amp;rsquo;d manage to overtake us, and be rewarded with treats and belly rubs. He was very aware of our itinerary, and would be waiting at the next campsite before we arrived.&lt;/p>
+&lt;p>We picked up another dog along the route, who wasn&amp;rsquo;t as beloved. He had some anger issues, and would often bark at Ice.&lt;/p>
+&lt;p>But then found found another pack member. We didn&amp;rsquo;t name him :(&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c4fe17ae4c0cf44a645a8c1636a36643" href="https://assets.martsmusings.uk/galleries/huayhuash/other-dog/IMG_20230713_091757.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/other-dog/IMG_20230713_091757.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c4fe17ae4c0cf44a645a8c1636a36643" href="https://assets.martsmusings.uk/galleries/huayhuash/other-dog/IMG_20230713_090417.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/other-dog/IMG_20230713_090417.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c4fe17ae4c0cf44a645a8c1636a36643" href="https://assets.martsmusings.uk/galleries/huayhuash/other-dog/IMG_20230713_110003.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/other-dog/IMG_20230713_110003.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It&amp;rsquo;s not all good news having a canine crew. Towards the end of the hike, we had amassed quite the dog haul. Our eighth campsite was on a football field in a village. Our puppas didn&amp;rsquo;t see eye to eye with the village doggos. Nobody got a wink of sleep due to the scraps 😱.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#a-day-on-the-trail" class="header-link" aria-label="Anchor A day on the trail" href="#a-day-on-the-trail">
+&lt;h1 id="a-day-on-the-trail">
+A day on the trail
+&lt;/h1>
+&lt;/a>&lt;p>Each day was highly structured. A rigid routine allowed everything to run like clockwork.&lt;/p>
+&lt;p>Here&amp;rsquo;s what camp looked like:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ff294796f9a0b56d8549d637646deed5" href="https://assets.martsmusings.uk/galleries/huayhuash/campsite/P7132080.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/campsite/P7132080.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#600am" class="header-link" aria-label="Anchor 6:00am" href="#600am">
+&lt;h3 id="600am">
+6:00am
+&lt;/h3>
+&lt;/a>&lt;p>No need for an alarm clock. At 6am Rodolfo would bellow from the doorstep of the tent and hand us two coffees. It was a horribly early start. At high altitude it would often be literally freezing at this time:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-6ce84e8391a066bc2946b942d35c715e" href="https://assets.martsmusings.uk/galleries/huayhuash/freezing-tent/IMG_20230712_064427.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/freezing-tent/IMG_20230712_064427.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It took lots of moaning to get out of our cozy sleeping bags.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#630am" class="header-link" aria-label="Anchor 6:30am" href="#630am">
+&lt;h3 id="630am">
+6:30am
+&lt;/h3>
+&lt;/a>&lt;p>We had to be out of the tent. The bag we wanted the donkeys to take had to be packed and ready.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-993fda078171decbd846e1924746e90b" href="https://assets.martsmusings.uk/galleries/huayhuash/packing-up/IMG_20230707_142426.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/packing-up/IMG_20230707_142426.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Breakfast would be ready in the dining tent. I had extra motivation to get moving. The Czechs would be in the tent super early, guzzling away at the coffee flask. You had to be prompt to get a second cuppa.&lt;/p>
+&lt;p>Brekkie wasn&amp;rsquo;t the standout meal of the day. It would be something simple, such as an omelette, pancakes or porridge.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#655am" class="header-link" aria-label="Anchor 6:55am" href="#655am">
+&lt;h3 id="655am">
+6:55am
+&lt;/h3>
+&lt;/a>&lt;p>Snack provisions would come out! On day one we were each given a snack pouch with a 10 day supply of nuts. Each morning a piece of fruit, some sweets and a couple of biscuits would be given to supplement.&lt;/p>
+&lt;p>We would hand in a couple of empty water bottles each. The chef would top them up with water that had been boiled then cooled. That would be our daily water ration.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#700am" class="header-link" aria-label="Anchor 7:00am" href="#700am">
+&lt;h3 id="700am">
+7:00am
+&lt;/h3>
+&lt;/a>&lt;p>We hit the trail!&lt;/p>
+&lt;p>Typically we&amp;rsquo;d all walk at our own pace. Rodolfo would stay at the back to make sure nobody fell too far behind.&lt;/p>
+&lt;p>The Czechs were filled to the brim with beans, and would get a good couple of miles ahead in no time.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#1230ish" class="header-link" aria-label="Anchor 12:30ish" href="#1230ish">
+&lt;h3 id="1230ish">
+12:30ish
+&lt;/h3>
+&lt;/a>&lt;p>Arrive at the next campsite. The donkey drivers had pitched our tents, the dining tent, and started cooking lunch.&lt;/p>
+&lt;p>We collapsed in the tent for a bit. But it would be uncomfortably hot.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3ff4dc393acdeb393c66b8a4a077abe3" href="https://assets.martsmusings.uk/galleries/huayhuash/campsite-arrival-collapse/IMG_20230715_124623.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/campsite-arrival-collapse/IMG_20230715_124623.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#1300ish" class="header-link" aria-label="Anchor 13:00ish" href="#1300ish">
+&lt;h3 id="1300ish">
+13:00ish
+&lt;/h3>
+&lt;/a>&lt;p>Lunch is ready!&lt;/p>
+&lt;p>We reconvene and scoff down whatever is on the menu. We had a good variety of lunches. They were always hearty.&lt;/p>
+&lt;p>The sun tinted the dining tent fluorescent orange. It was trippy when you eventually left the tent:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-62816c7775673aa4335f1f88c02a45a6" href="https://assets.martsmusings.uk/galleries/huayhuash/orange-dining/IMG_20230707_155807.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/orange-dining/IMG_20230707_155807.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#1530ish" class="header-link" aria-label="Anchor 15:30ish" href="#1530ish">
+&lt;h3 id="1530ish">
+15:30ish
+&lt;/h3>
+&lt;/a>&lt;p>Afternoon tea! Milo (Nesquik) was the main event for most people. I focused on eating as much butter as possible after Asia deprived me.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#1800" class="header-link" aria-label="Anchor 18:00" href="#1800">
+&lt;h3 id="1800">
+18:00
+&lt;/h3>
+&lt;/a>&lt;p>Dinner time!&lt;/p>
+&lt;p>Again, good variety and quality of food. It would be getting cold by this time. The soup starter was always a crowd pleaser.&lt;/p>
+&lt;p>There was plenty of hot water available for drinks afterwards. We opted out after the first night. The altitude led to bladders working overtime. We discovered it&amp;rsquo;s best to avoid toilet trips in the early hours due to wild dogs (not Ice, he&amp;rsquo;s a good boy) and the cold 🥶.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#1930---2000" class="header-link" aria-label="Anchor 19:30 - 20:00" href="#1930---2000">
+&lt;h3 id="1930---2000">
+19:30 - 20:00
+&lt;/h3>
+&lt;/a>&lt;p>It&amp;rsquo;s very cold by this time. We wrapped up and went to bed.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#photos" class="header-link" aria-label="Anchor Photos" href="#photos">
+&lt;h1 id="photos">
+Photos
+&lt;/h1>
+&lt;/a>&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7081970.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7081970.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7102052.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7102052.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230710_073318.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230710_073318.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230709_125957__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230709_125957__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7162134.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7162134.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7132066.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7132066.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230716_102238.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230716_102238.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7162114.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7162114.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7162120.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7162120.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230710_101815.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230710_101815.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7162104.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7162104.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230712_071440.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230712_071440.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230710_072238.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230710_072238.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7092020.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7092020.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7122063.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7122063.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7162126.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7162126.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7102051.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7102051.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230711_084642.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230711_084642.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/IMG_20230717_070850__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/IMG_20230717_070850__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7091999.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7091999.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1482860f3be78b56817e9d0873a1903d" href="https://assets.martsmusings.uk/galleries/huayhuash/general/P7162128.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/general/P7162128.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-25-Huayhuash/#summing-up" class="header-link" aria-label="Anchor Summing up" href="#summing-up">
+&lt;h1 id="summing-up">
+Summing up
+&lt;/h1>
+&lt;/a>&lt;p>What an experience! I told Laura on the final day that it was one of my favourite adventures. Her response was that she&amp;rsquo;s not doing it a third time 😂. We had a excellent hike, met some cool people, and left with great memories. We&amp;rsquo;re looking forward to meeting up with Jill and Margy when we arrive in New Zealand at the end of October. Hopefully the weather there will be more forgiving.&lt;/p>
+&lt;p>We were wiped afterwards.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-1fad5cb224c4031e070be563a31f2ff6" href="https://assets.martsmusings.uk/galleries/huayhuash/sleep-2/IMG_20230706_144120.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/sleep-2/IMG_20230706_144120.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We had a rest day in Huaraz. Then caught a day followed by night bus to the beachy town of Mancora:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-79d44b1f51944a19f1d7109f1bd2776b" href="https://assets.martsmusings.uk/galleries/huayhuash/mancora/IMG_20230721_132958.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/mancora/IMG_20230721_132958.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-79d44b1f51944a19f1d7109f1bd2776b" href="https://assets.martsmusings.uk/galleries/huayhuash/mancora/IMG_20230722_181532.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/mancora/IMG_20230722_181532.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-79d44b1f51944a19f1d7109f1bd2776b" href="https://assets.martsmusings.uk/galleries/huayhuash/mancora/IMG_20230724_173954.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/mancora/IMG_20230724_173954.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We pretty much sat, ate and drank. Other than a tiny hike to see a lighthouse:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b2993f65f559ba75337774a521aae143" href="https://assets.martsmusings.uk/galleries/huayhuash/mancora-lighthouse/IMG_20230724_135212.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/mancora-lighthouse/IMG_20230724_135212.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b2993f65f559ba75337774a521aae143" href="https://assets.martsmusings.uk/galleries/huayhuash/mancora-lighthouse/IMG_20230724_135152.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/mancora-lighthouse/IMG_20230724_135152.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b2993f65f559ba75337774a521aae143" href="https://assets.martsmusings.uk/galleries/huayhuash/mancora-lighthouse/IMG_20230724_140121.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/huayhuash/mancora-lighthouse/IMG_20230724_140121.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>That was our first stint in Peru. Join next time to hear about all the cool animals we saw on the Galapagos islands.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇪🇨 Ecuador 🇪🇨</title><link href="https://martsmusings.uk/post/2023-09-20-Ecuador/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-20-Ecuador/</id><published>2023-09-20T19:10:00-03:00</published><updated>2023-09-20T19:10:00-03:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
