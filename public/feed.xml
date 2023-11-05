@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.119.0">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-09-27 19:40:00 -0300 -03</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.120.3">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-11-06 12:10:00 +1300 NZDT</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -1118,7 +1118,482 @@ href="https://maplibre.org/"
 Scaling
 &lt;/h2>
 &lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇵🇪⛰️🚶‍♀️ Huayhuash 🚶‍♂️⛰️🇵🇪</title><link href="https://martsmusings.uk/post/2023-09-25-Huayhuash/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-25-Huayhuash/</id><published>2023-09-27T19:40:00-03:00</published><updated>2023-09-27T19:40:00-03:00</updated><content type="html">
+&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇪🇨🦈🐠 Galápagos 🐠🦈🇪🇨</title><link href="https://martsmusings.uk/post/2023-11-05-Galapagos/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-11-05-Galapagos/</id><published>2023-11-06T12:10:00+13:00</published><updated>2023-11-06T12:10:00+13:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#a-run-in-with-the-law">A run in with the law&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#santa-cruz">Santa Cruz&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#tortuga-bay">Tortuga Bay&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#pinzon-island">Pinzon Island&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#las-grietas">Las Grietas&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#isabella">Isabella&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#tortoise-cycle">Tortoise Cycle&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#tortoise-sanctuary">Tortoise Sanctuary&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#los-tuneles">Los Tuneles&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#san-cristobal">San Cristobal&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#360-tour">360 Tour&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#closing-thoughts">Closing thoughts&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-b37708b90153b4999e2382c2884383cd" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-b37708b90153b4999e2382c2884383cd" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "a3d21688-38a6-4d5b-b82f-2b54f5587bc1";
+window.mappyTravelsTo = "0f79ed76-f282-41c8-b314-655379459c10";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-a3d21688-38a6-4d5b-b82f-2b54f5587bc1" class="row-hidden">
+&lt;td title="Mancora">&lt;div class="truncate">🇵🇪 Mancora&lt;/div>&lt;/td>
+&lt;td title="Guayaquil Bus Station">&lt;div class="truncate">🇪🇨 Guayaquil Bus Station&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>08:30&lt;/td>
+&lt;td>£54.66&lt;/td>
+&lt;/tr>&lt;tr id="row-f4a4d67f-6793-49a2-a897-b8f4f3b33fae" class="row-hidden">
+&lt;td title="Guayaquil Bus Station">&lt;div class="truncate">🇪🇨 Guayaquil Bus Station&lt;/div>&lt;/td>
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:11&lt;/td>
+&lt;td>£3.90&lt;/td>
+&lt;/tr>&lt;tr id="row-781f872a-5c8e-4330-aca3-1a48d6ce015b" class="row-hidden">
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td title="Seymour Baltra Galapagos Airport">&lt;div class="truncate">🇪🇨 Seymour Baltra Galapagos Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:39&lt;/td>
+&lt;td>£292.90&lt;/td>
+&lt;/tr>&lt;tr id="row-825d3a34-8165-43d9-9413-762dc4426b4c" class="row-hidden">
+&lt;td title="Seymour Baltra Galapagos Airport">&lt;div class="truncate">🇪🇨 Seymour Baltra Galapagos Airport&lt;/div>&lt;/td>
+&lt;td title="Baltra Crossing Point">&lt;div class="truncate">🇪🇨 Baltra Crossing Point&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:08&lt;/td>
+&lt;td>£7.80&lt;/td>
+&lt;/tr>&lt;tr id="row-9b4c4613-4e47-49e3-9a9f-c89dcc037516" class="row-hidden">
+&lt;td title="Baltra Crossing Point">&lt;div class="truncate">🇪🇨 Baltra Crossing Point&lt;/div>&lt;/td>
+&lt;td title="Santa Cruz Ferry Terminal">&lt;div class="truncate">🇪🇨 Santa Cruz Ferry Terminal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:02&lt;/td>
+&lt;td>£1.56&lt;/td>
+&lt;/tr>&lt;tr id="row-d3facfcb-d448-4e74-9e09-744099b08c10" class="row-hidden">
+&lt;td title="Santa Cruz Ferry Terminal">&lt;div class="truncate">🇪🇨 Santa Cruz Ferry Terminal&lt;/div>&lt;/td>
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:34&lt;/td>
+&lt;td>£7.80&lt;/td>
+&lt;/tr>&lt;tr id="row-a9a066a6-fe3e-43bb-b8fc-174aad9812b3" class="row-hidden">
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td title="Isabella">&lt;div class="truncate">🇪🇨 Isabella&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-80daad4f-c3f3-4bdb-ac2d-b09909c75b80" class="row-hidden">
+&lt;td title="Isabella">&lt;div class="truncate">🇪🇨 Isabella&lt;/div>&lt;/td>
+&lt;td title="Puerto Ayora">&lt;div class="truncate">🇪🇨 Puerto Ayora&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;tr id="row-0f79ed76-f282-41c8-b314-655379459c10" class="row-hidden">
+&lt;td title="Santa Cruz">&lt;div class="truncate">🇪🇨 Santa Cruz&lt;/div>&lt;/td>
+&lt;td title="San Cristobal">&lt;div class="truncate">🇪🇨 San Cristobal&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>02:00&lt;/td>
+&lt;td>£46.81&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>Next up was a destination often avoided by backpackers on a budget, the Galápagos Islands. Cruises around the islands are very popular, and come with a formidable price tag. We&amp;rsquo;re talking around £1500 per person with lots of luck and haggling. We&amp;rsquo;re not in a position to justify that. We stuck to budget hostels, with kitchens, and to booking a few day trips. It&amp;rsquo;s an expensive destination even then, so money angst was very much a thing whilst we were there.&lt;/p>
+&lt;p>But so were some super cool animals and experiences we&amp;rsquo;ll forever cherish. Here&amp;rsquo;s what we got up to!&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#a-run-in-with-the-law" class="header-link" aria-label="Anchor A run in with the law" href="#a-run-in-with-the-law">
+&lt;h1 id="a-run-in-with-the-law">
+A run in with the law
+&lt;/h1>
+&lt;/a>&lt;p>We spent a good few days relaxing around Mancora, in northern Peru, after our big hike. The Galápagos Islands are off the coast of Ecuador. To visit we had to catch a coach to Guayaquil, a city in mainland Ecuador, and then fly over to the islands.&lt;/p>
+&lt;p>We hunkered down on our nightbus to Guayaquil. The bus pulled over an hour or so after departing, and a policeman boarded. &amp;ldquo;Documentos&amp;rdquo;, he bellowed. We&amp;rsquo;re very used to producing our passports for no reason (I got ID&amp;rsquo;ed buying cheese the other day. It wasn&amp;rsquo;t even that potent).&lt;/p>
+&lt;p>Alas, having more cheese wouldn&amp;rsquo;t be the outcome of this encounter. After one look at our passports, the policeman beckoned. &amp;ldquo;Come with me&amp;rdquo;. In my best broken Spanish I asked whether Laura should too. He said no.&lt;/p>
+&lt;p>He led me to a room in a small police station. Two more cops were waiting. They didn&amp;rsquo;t look too happy, and handed over a phone on which they&amp;rsquo;d written &amp;ldquo;You have no stamp in your passport. You are in Peru illegally&amp;rdquo; on Google Translate.&lt;/p>
+&lt;p>Luckily I sometimes listen to Laura. I remembered her saying on arrival at Lima airport that it was electronic. We didn&amp;rsquo;t need a stamp in our passports.&lt;/p>
+&lt;p>A few minutes of me massacring the Spanish language followed. They were adamant I was there illegally. Then they revealed the crux of the issue:&lt;/p>
+&lt;p>&amp;ldquo;¿Tienes dinero?&amp;rdquo;&lt;/p>
+&lt;p>Or, &amp;ldquo;do you have money?&amp;rdquo;. Balls. They were corrupt. I said I didn&amp;rsquo;t understand and attempted again to explain in my best Spanish why I&amp;rsquo;m exempt from needing a stamp.&lt;/p>
+&lt;p>I&amp;rsquo;m pretty sure the frustrated coach driver saved my bacon. A more senior looking cop came in and shouted something. They showed me a Google Translate screen saying &amp;ldquo;Sorry for the misunderstanding. Enjoy the rest of your journey&amp;rdquo;.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#santa-cruz" class="header-link" aria-label="Anchor Santa Cruz" href="#santa-cruz">
+&lt;h1 id="santa-cruz">
+Santa Cruz
+&lt;/h1>
+&lt;/a>&lt;p>The Galápagos Islands have super strict biological controls. We had to pay for a scan of our luggage before boarding the plane, to prove we weren&amp;rsquo;t carrying any food items. On arrival, sniffer dogs did their job before they allowed luggage collection:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-4f32afed9add6f28b6164bc6a79fae8d" href="https://assets.martsmusings.uk/galleries/galapagos/sniffer/VID_20230725_144326.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sniffer/VID_20230725_144326.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We felt very sorry for him having to sniff our laundry. Luckily he stayed professional, and didn&amp;rsquo;t react to our socks.&lt;/p>
+&lt;p>It was a pleasant surprise that Charles Darwin still greets everybody upon arrival:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-9c0962a9322048b98e0e8bb95879f001" href="https://assets.martsmusings.uk/galleries/galapagos/darwin/IMG_20230726_175247.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/darwin/IMG_20230726_175247.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>You can see scores of wildlife whilst walking around the towns. The iguanas freaked Laura out a bit:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e915364cb04da81cf5645f3a52332e00" href="https://assets.martsmusings.uk/galleries/galapagos/iguanas/VID_20230730_141655.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/iguanas/VID_20230730_141655.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Sealions hung out &lt;em>everywhere&lt;/em>. Even well into town, next to the fish market:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07a39f0139165ed7658119bd69b0d8e1" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-town/IMG_20230727_163915.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-town/IMG_20230727_163915.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07a39f0139165ed7658119bd69b0d8e1" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-town/IMG_20230730_151027.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-town/IMG_20230730_151027.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07a39f0139165ed7658119bd69b0d8e1" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-town/IMG_20230726_120431.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-town/IMG_20230726_120431.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07a39f0139165ed7658119bd69b0d8e1" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-town/IMG_20230726_121635.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-town/IMG_20230726_121635.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-07a39f0139165ed7658119bd69b0d8e1" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-town/IMG_20230726_165629.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-town/IMG_20230726_165629.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We did a series of snorkel trips to meet lots more wildlife.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#tortuga-bay" class="header-link" aria-label="Anchor Tortuga Bay" href="#tortuga-bay">
+&lt;h2 id="tortuga-bay">
+Tortuga Bay
+&lt;/h2>
+&lt;/a>&lt;p>We somewhat unsuccessfully tried to do a bit of freebie snorkeling by Tortuga Bay. Visibility was pretty poor.&lt;/p>
+&lt;p>But we did see lots of marine iguanas, which are endemic to the Galápagos:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3b4cfbb2b1028105ba9c2caebdda39a4" href="https://assets.martsmusings.uk/galleries/galapagos/marine-iguanas/IMG_20230726_130431__01__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/marine-iguanas/IMG_20230726_130431__01__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3b4cfbb2b1028105ba9c2caebdda39a4" href="https://assets.martsmusings.uk/galleries/galapagos/marine-iguanas/IMG_20230726_122330.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/marine-iguanas/IMG_20230726_122330.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-3b4cfbb2b1028105ba9c2caebdda39a4" href="https://assets.martsmusings.uk/galleries/galapagos/marine-iguanas/GH013935.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/marine-iguanas/GH013935.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#pinzon-island" class="header-link" aria-label="Anchor Pinzon Island" href="#pinzon-island">
+&lt;h2 id="pinzon-island">
+Pinzon Island
+&lt;/h2>
+&lt;/a>&lt;p>Our first full-day snorkel trip was around Pinzon Island. A highlight was a cheeky sealion. He loved swimming right in your face:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-55155c3dd64e61749ea4746fb5bb406f" href="https://assets.martsmusings.uk/galleries/galapagos/cheeky-sealion/GH013992_1692483280867__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/cheeky-sealion/GH013992_1692483280867__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-55155c3dd64e61749ea4746fb5bb406f" href="https://assets.martsmusings.uk/galleries/galapagos/cheeky-sealion/GH013982_1690596799614__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/cheeky-sealion/GH013982_1690596799614__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-55155c3dd64e61749ea4746fb5bb406f" href="https://assets.martsmusings.uk/galleries/galapagos/cheeky-sealion/sealion.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/cheeky-sealion/sealion.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>He also enjoyed trolling sharks, their natural predator. Whilst the sharks were having a nap, he would dive down and bite their tails:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ad081145c738ef0effa812942cbca608" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-shark/GH013987_1692483909195.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-shark/GH013987_1692483909195.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-ad081145c738ef0effa812942cbca608" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-shark/cheeky-sealion.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-shark/cheeky-sealion.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Here are some more sharks:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2fce7f1b89a4dc54a88b7a4e42494e1c" href="https://assets.martsmusings.uk/galleries/galapagos/pinzon-moresharks/sharks.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/pinzon-moresharks/sharks.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And a cool turtle:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-628bc7f1dd87fa5c7bec77a7ff670964" href="https://assets.martsmusings.uk/galleries/galapagos/pinzon-turtle/GH014017.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/pinzon-turtle/GH014017.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We were very close to seeing a manta ray (which was prime position on Laura&amp;rsquo;s wishlist). Alas, part of our group did see one, but didn&amp;rsquo;t tell anybody else until we were back in the boat. Laura is still not happy about this.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#las-grietas" class="header-link" aria-label="Anchor Las Grietas" href="#las-grietas">
+&lt;h2 id="las-grietas">
+Las Grietas
+&lt;/h2>
+&lt;/a>&lt;p>A shorter trip was to Las Grietas. It&amp;rsquo;s accessible from a 20 second boat trip, costing $1. (A bridge is a much needed investment).&lt;/p>
+&lt;p>It&amp;rsquo;s a canyon which boasts a lot of mangroves. It has super clear (and cold!) water. We had a dip:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-873f0b6a380868c6ef5f96639343b54d" href="https://assets.martsmusings.uk/galleries/galapagos/grietas/IMG_20230727_153935.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/grietas/IMG_20230727_153935.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-873f0b6a380868c6ef5f96639343b54d" href="https://assets.martsmusings.uk/galleries/galapagos/grietas/grietas.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/grietas/grietas.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#isabella" class="header-link" aria-label="Anchor Isabella" href="#isabella">
+&lt;h1 id="isabella">
+Isabella
+&lt;/h1>
+&lt;/a>&lt;p>We reached Isabella from Santa Cruz via speedboat 🚤. It&amp;rsquo;s a super cool island because not only is it home to many seahorses, it also looks like one:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-14a0b8574e4d7785fe036a6509259728" href="https://assets.martsmusings.uk/galleries/galapagos/isabella-map/map.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/isabella-map/map.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Kinda.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#tortoise-cycle" class="header-link" aria-label="Anchor Tortoise Cycle" href="#tortoise-cycle">
+&lt;h2 id="tortoise-cycle">
+Tortoise Cycle
+&lt;/h2>
+&lt;/a>&lt;p>First on the agenda was to hire some bikes and ride through a protected habitat for tortoises. We got up close to some, and took a few snaps:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dbb591c00d372c22d60535978f322739" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-cycle/P7292137.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-cycle/P7292137.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dbb591c00d372c22d60535978f322739" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-cycle/P7292142.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-cycle/P7292142.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dbb591c00d372c22d60535978f322739" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-cycle/IMG_20230729_154621.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-cycle/IMG_20230729_154621.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dbb591c00d372c22d60535978f322739" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-cycle/IMG_20230729_153432.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-cycle/IMG_20230729_153432.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dbb591c00d372c22d60535978f322739" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-cycle/P7292152.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-cycle/P7292152.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-dbb591c00d372c22d60535978f322739" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-cycle/P7292150.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-cycle/P7292150.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>I seemed to be a poor spotter, and cycled past most of the tortoises. But worked it out a few minutes later when Laura wasn&amp;rsquo;t following.&lt;/p>
+&lt;p>We saw some endangered species:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a24d885268b08376985c7ba9a06b0e5e" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-endangered/IMG_20230726_172023.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-endangered/IMG_20230726_172023.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a24d885268b08376985c7ba9a06b0e5e" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-endangered/IMG_20230726_171912.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-endangered/IMG_20230726_171912.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#tortoise-sanctuary" class="header-link" aria-label="Anchor Tortoise Sanctuary" href="#tortoise-sanctuary">
+&lt;h2 id="tortoise-sanctuary">
+Tortoise Sanctuary
+&lt;/h2>
+&lt;/a>&lt;p>We also entered the tortoise sanctuary, which is a more tightly controlled area. They&amp;rsquo;re trying to get tortoises to do it. They then provide a safe environment for the hatchlings to grow up. Rats and dogs are a big risk to hatchlings, so it is very well fenced off.&lt;/p>
+&lt;p>They seem to be quite successful. A couple of centenarian tortoises were getting it on by the entrance as we arrived:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-af637bed51f361d29ca23815aad062a3" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sex/P7302165.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sex/P7302165.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And they&amp;rsquo;ve released more than 3000 tortoises into the wild, with little GPS trackers added to their legs.&lt;/p>
+&lt;p>Some fun tortoise facts:&lt;/p>
+&lt;ul>
+&lt;li>Like many in my Computer Science class, they reach sexual maturity at the age of 35. And they keep on going until the grand age of 120 (the tortoises, that is). They&amp;rsquo;re not fussy during those 85 years. Any male and female will happily breed.&lt;/li>
+&lt;li>They incubate their eggs underground for 160 days.&lt;/li>
+&lt;li>The temperature determines the sex of the resulting hatchling.&lt;/li>
+&lt;/ul>
+&lt;p>Here are a few snaps:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61ad47d3b3015891eee6177e931a3748" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary/IMG_20230730_134842.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary/IMG_20230730_134842.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61ad47d3b3015891eee6177e931a3748" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary/P7302168.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary/P7302168.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61ad47d3b3015891eee6177e931a3748" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary/P7302214.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary/P7302214.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61ad47d3b3015891eee6177e931a3748" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary/IMG_20230730_134124.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary/IMG_20230730_134124.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61ad47d3b3015891eee6177e931a3748" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary/P7302176.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary/P7302176.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-61ad47d3b3015891eee6177e931a3748" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary/P7302210.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary/P7302210.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And their logo, featuring two mating tortoises:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-06ac84212e30325fb0807f2d77b846dc" href="https://assets.martsmusings.uk/galleries/galapagos/tortoise-sanctuary-logo/P7302215.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tortoise-sanctuary-logo/P7302215.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#los-tuneles" class="header-link" aria-label="Anchor Los Tuneles" href="#los-tuneles">
+&lt;h2 id="los-tuneles">
+Los Tuneles
+&lt;/h2>
+&lt;/a>&lt;p>My favourite day-tour was Los Tuneles.&lt;/p>
+&lt;p>On the way out, we saw lots manta rays jumping out of the water. (They were trying to clean themselves). Laura wanted to jump in with them, but wasn&amp;rsquo;t allowed.&lt;/p>
+&lt;p>On the first stop we saw lots of penguins and pelicans. We went for a paddle with the penguins:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-cbcd3eb1f80e481384916edbf0b3b2f7" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-penguins/P7312229.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-penguins/P7312229.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-cbcd3eb1f80e481384916edbf0b3b2f7" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-penguins/1000036485_1690907360936_2__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-penguins/1000036485_1690907360936_2__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-cbcd3eb1f80e481384916edbf0b3b2f7" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-penguins/P7312253.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-penguins/P7312253.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Next up was a meeting with the iconic bird of the Galápagos. The blue footed booby (he he).&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-49bc9a71c7535042ebc29c54d8b16b51" href="https://assets.martsmusings.uk/galleries/galapagos/booby/P7312280.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/booby/P7312280.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We got quite close, and he stood proudly like an exhibit whilst the guide told us some facts:&lt;/p>
+&lt;ul>
+&lt;li>The bluer their feet, the better they are at fishing for sardines.&lt;/li>
+&lt;li>For this reason, very blue feet are a big turn on for blue footed boobies.&lt;/li>
+&lt;li>They used to be endemic - only found in - the Galápagos. They&amp;rsquo;re now just native - originally found in - the Galápagos.&lt;/li>
+&lt;li>They&amp;rsquo;re called boobies because they walk funny, and kind of stupidly sit there if you approach.&lt;/li>
+&lt;/ul>
+&lt;p>Other wildlife included a huge eagle ray:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8a96b94dd977ea5a8bed73528c4fbcf9" href="https://assets.martsmusings.uk/galleries/galapagos/eagle-ray/1000036484_1692828169387__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/eagle-ray/1000036484_1692828169387__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>A few turtles:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a4faa80d3b4b67199b8487bb41817559" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-turtles/1000036487_1690907074105.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-turtles/1000036487_1690907074105.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Some sea horses:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-857ed9d74eaa54cda046cbc71e5ab9a0" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-sea-horses/1000036489_1691610047988.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-sea-horses/1000036489_1691610047988.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And some voyages into shark&amp;rsquo;s lairs:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-29d03a3c95ecd8bb8d9bbfc0f6f4ab54" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-sharks-lair/lair-rot.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-sharks-lair/lair-rot.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-29d03a3c95ecd8bb8d9bbfc0f6f4ab54" href="https://assets.martsmusings.uk/galleries/galapagos/tuneles-sharks-lair/1000039456_1692990307332.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/tuneles-sharks-lair/1000039456_1692990307332.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>A bit unnerving at first. One by one the guide pushed and held our heads under the water, and into the shark&amp;rsquo;s lair. The sharks looked unimpressed and sinister.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#san-cristobal" class="header-link" aria-label="Anchor San Cristobal" href="#san-cristobal">
+&lt;h1 id="san-cristobal">
+San Cristobal
+&lt;/h1>
+&lt;/a>&lt;p>Last stop, and another speedboat away, was San Cristobal.&lt;/p>
+&lt;p>We found lots of sealions chilling on the beach. A scientist was doing a study of them, she said the results are all looking positive 💪.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-2324542322a564398d7457f848842d46" href="https://assets.martsmusings.uk/galleries/galapagos/sealion-beach/IMG_20230802_155922__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/sealion-beach/IMG_20230802_155922__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#360-tour" class="header-link" aria-label="Anchor 360 Tour" href="#360-tour">
+&lt;h2 id="360-tour">
+360 Tour
+&lt;/h2>
+&lt;/a>&lt;p>Finally, the big ticket item was the 360 tour. So called because you go all the way around San Cristobal. After a few hours haggling down the price, we committed to a tour and crossed all fingers and toes for a manta ray.&lt;/p>
+&lt;p>Alas, we weren&amp;rsquo;t lucky enough to see a manta. But here are some turtles and some other kind of ray:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0d012df4256a181100c826074d66fd1c" href="https://assets.martsmusings.uk/galleries/galapagos/360-ray/1000048892_1692921142758.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/360-ray/1000048892_1692921142758.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0d012df4256a181100c826074d66fd1c" href="https://assets.martsmusings.uk/galleries/galapagos/360-ray/1000048890_1692921243562.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/360-ray/1000048890_1692921243562.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0d012df4256a181100c826074d66fd1c" href="https://assets.martsmusings.uk/galleries/galapagos/360-ray/1000048891_1692920366303.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/360-ray/1000048891_1692920366303.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>We also saw a hammerhead shark 😱. It was huge. But we have no footage as he was in a rush.&lt;/p>
+&lt;p>The main exhibition was Kicker Rock:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-993732e0c7ea0035888f34fb9cad48af" href="https://assets.martsmusings.uk/galleries/galapagos/kicker-rock/IMG_20230803_152309.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/kicker-rock/IMG_20230803_152309.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-993732e0c7ea0035888f34fb9cad48af" href="https://assets.martsmusings.uk/galleries/galapagos/kicker-rock/IMG_20230803_152246.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/galapagos/kicker-rock/IMG_20230803_152246.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-05-Galapagos/#closing-thoughts" class="header-link" aria-label="Anchor Closing thoughts" href="#closing-thoughts">
+&lt;h1 id="closing-thoughts">
+Closing thoughts
+&lt;/h1>
+&lt;/a>&lt;p>The Galápagos Islands were amazing to visit. The quantity, diversity and accessibility of wildlife was incredible. And Laura definitely got her snorkelling fix. It was the final place we&amp;rsquo;ll go snorkeling this year.&lt;/p>
+&lt;p>Our budget provided constant angst throughout our time there. High prices and surcharges provided a perfect storm. We didn&amp;rsquo;t overshoot too much. But, would love to go back some time in the future when we&amp;rsquo;re able to flash some more dollar.&lt;/p>
+&lt;p>Next up, we head back to Peru again and start coach tripping our way down the country. See you next time!&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇵🇪⛰️🚶‍♀️ Huayhuash 🚶‍♂️⛰️🇵🇪</title><link href="https://martsmusings.uk/post/2023-09-25-Huayhuash/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-25-Huayhuash/</id><published>2023-09-27T19:40:00-03:00</published><updated>2023-09-27T19:40:00-03:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
@@ -1160,13 +1635,13 @@ Scaling
 &lt;hr />
 &lt;/div>
 &lt;div class="wrap-collabsible">
-&lt;input id="expando-c3b7c29bdddd1303e8c6428dd68bd225" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
-&lt;label for="expando-c3b7c29bdddd1303e8c6428dd68bd225" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;input id="expando-9012ea11732b3f9ec692db9a7ee5fdef" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-9012ea11732b3f9ec692db9a7ee5fdef" class="lbl-toggle">Map, Journey and Costs&lt;/label>
 &lt;div class="collapsible-content">
 &lt;div class="content-inner">
 &lt;script>
 window.mappyTravelsFrom = "ad972ed7-a05a-4fd4-9b50-11cf1281b53e";
-window.mappyTravelsTo = "36f05291-01ca-428e-878e-65179d36380c";
+window.mappyTravelsTo = "b031441e-20b1-477e-ae08-a0152772f0d6";
 window.mappyAutoStart = "";
 &lt;/script>
 &lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
@@ -1244,6 +1719,24 @@ window.mappyAutoStart = "";
 &lt;td>Taxi&lt;/td>
 &lt;td>00:04&lt;/td>
 &lt;td>£3.27&lt;/td>
+&lt;/tr>&lt;tr id="row-232577fb-9c59-43cb-9959-4e4f81d80fb5" class="row-hidden">
+&lt;td title="Linea coach station (Huaraz)">&lt;div class="truncate">🇵🇪 Linea coach station (Huaraz)&lt;/div>&lt;/td>
+&lt;td title="Linea coach station (Trujillo)">&lt;div class="truncate">🇵🇪 Linea coach station (Trujillo)&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>09:42&lt;/td>
+&lt;td>£23.83&lt;/td>
+&lt;/tr>&lt;tr id="row-11ab2015-a62f-4769-8abd-f29cf4183468" class="row-hidden">
+&lt;td title="Pizzeria la Italiana (Trujilo)">&lt;div class="truncate">🇵🇪 Pizzeria la Italiana (Trujilo)&lt;/div>&lt;/td>
+&lt;td title="Transportes Primavera (Trujillo)">&lt;div class="truncate">🇵🇪 Transportes Primavera (Trujillo)&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:34&lt;/td>
+&lt;td>£2.88&lt;/td>
+&lt;/tr>&lt;tr id="row-b031441e-20b1-477e-ae08-a0152772f0d6" class="row-hidden">
+&lt;td title="Transportes Primavera (Trujillo)">&lt;div class="truncate">🇵🇪 Transportes Primavera (Trujillo)&lt;/div>&lt;/td>
+&lt;td title="Mancora">&lt;div class="truncate">🇵🇪 Mancora&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>09:30&lt;/td>
+&lt;td>£36.83&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
@@ -1851,7 +2344,7 @@ Mitad del Mundo
 &lt;/div>
 &lt;/div>
 &lt;p>But they doubled down, and made &amp;ldquo;middle of the world city&amp;rdquo;. The equator&amp;rsquo;s answer to Disneyland. There are shops, restaurants, and people dressed in costumes.&lt;/p>
-&lt;p>You can try to balance a boiled egg on a nail. It&amp;rsquo;s supposed to be exceptionally easy at 0 latitude. It wasn&amp;rsquo;t easy, but I did manage it 💪.&lt;/p>
+&lt;p>You can try to balance a boiled egg on a nail. It&amp;rsquo;s supposed to be exceptionally easy at 0 latitude. It wasn&amp;rsquo;t easy, but I did manage it :flexed_biceps:.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-69a0bd2aeedee40ad60939e0c0014920" href="https://assets.martsmusings.uk/galleries/ecuador/egg/IMG_20230628_161153.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/ecuador/egg/IMG_20230628_161153.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -1922,7 +2415,7 @@ Quilotoa Crater
 &lt;h1 id="wrapping-up">
 Wrapping Up
 &lt;/h1>
-&lt;/a>&lt;p>And that&amp;rsquo;s it! We didn&amp;rsquo;t get up to a lot in Ecuador. We wanted to join a 10 day hike in Peru 😱 - the Huayhuash. The hike started on a specific day, so that limited our schedule.&lt;/p>
+&lt;/a>&lt;p>And that&amp;rsquo;s it! We didn&amp;rsquo;t get up to a lot in Ecuador. We wanted to join a 10 day hike in Peru &amp;#x1f631; - the Huayhuash. The hike started on a specific day, so that limited our schedule.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-09-20-Ecuador/#a-good-samaritan" class="header-link" aria-label="Anchor A Good Samaritan" href="#a-good-samaritan">
 &lt;h2 id="a-good-samaritan">
 A Good Samaritan
@@ -1939,7 +2432,7 @@ A Good Samaritan
 &lt;h2 id="next-up">
 Next up
 &lt;/h2>
-&lt;/a>&lt;p>Next up, we do a 10 day hike in the northern mountains of Peru 😱.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇨🇴 Colombia 🇨🇴</title><link href="https://martsmusings.uk/post/2023-09-06-Colombia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-06-Colombia/</id><published>2023-09-09T21:00:00-04:00</published><updated>2023-09-09T21:00:00-04:00</updated><content type="html">
+&lt;/a>&lt;p>Next up, we do a 10 day hike in the northern mountains of Peru &amp;#x1f631;.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇨🇴 Colombia 🇨🇴</title><link href="https://martsmusings.uk/post/2023-09-06-Colombia/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-09-06-Colombia/</id><published>2023-09-09T21:00:00-04:00</published><updated>2023-09-09T21:00:00-04:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
@@ -3552,13 +4045,13 @@ Parkrun
 &lt;a data-fancybox="gallery-ad92f09eba784ab30dafd35b5c1b6c5d" href="https://assets.martsmusings.uk/galleries/tokyo/honey-sleep/IMG_20230527_121313.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/tokyo/honey-sleep/IMG_20230527_121313.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>But, we had committed to meet up with Maxine so forced ourselves out of bed 💪. Honey wasn&amp;rsquo;t letting us sleep anyway 🤷. Maxine was in Tokyo for a week with work, and our schedules happened to align 😄.&lt;/p>
+&lt;p>But, we had committed to meet up with Maxine so forced ourselves out of bed &amp;#x1f4aa;. Honey wasn&amp;rsquo;t letting us sleep anyway &amp;#x1f937;. Maxine was in Tokyo for a week with work, and our schedules happened to align &amp;#x1f604;.&lt;/p>
 &lt;p>We went to &lt;a
 class="gblog-markdown__link"
 href="https://www.parkrun.jp/urayasushisogokoen/"
 >Urayasu City Parkrun&lt;/a>. It surprised us to find that it was a tiny event. Only 23 people attended that day.&lt;/p>
-&lt;p>It was so small in fact that Parkrun began by the volunteers announcing everybody. A short round of applause followed each introduction. We were introduced as Martin San, Laura San and Maxine San 😄.&lt;/p>
-&lt;p>It was an out-and-back along the bay. It was getting pretty sunny by the time we set off, so we were glad of the early start. They were handing out green tea at the finish 🍵.&lt;/p>
+&lt;p>It was so small in fact that Parkrun began by the volunteers announcing everybody. A short round of applause followed each introduction. We were introduced as Martin San, Laura San and Maxine San &amp;#x1f604;.&lt;/p>
+&lt;p>It was an out-and-back along the bay. It was getting pretty sunny by the time we set off, so we were glad of the early start. They were handing out green tea at the finish :teacup_without_handle:.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-6b1dec637ff1970a31aae69d561c509b" href="https://assets.martsmusings.uk/galleries/tokyo/parkrun/IMG-20230527-WA0013.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/tokyo/parkrun/IMG-20230527-WA0013.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -3586,7 +4079,7 @@ Park wander
 &lt;a data-fancybox="gallery-9a4e3d8841c63b0e6ac353249687d42a" href="https://assets.martsmusings.uk/galleries/tokyo/tori/IMG_20230528_152636.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/tokyo/tori/IMG_20230528_152636.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>And spent a lot of time hanging around the dog walking enclosure. Somebody had a meerkat on a lead 🤔. We hoped they realised that it wasn&amp;rsquo;t a dog.&lt;/p>
+&lt;p>And spent a lot of time hanging around the dog walking enclosure. Somebody had a meerkat on a lead :thinking_face:. We hoped they realised that it wasn&amp;rsquo;t a dog.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-473b61bddfce800c80c10dc0caf68379" href="https://assets.martsmusings.uk/galleries/tokyo/dogs/IMG-20230528-WA0030.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/tokyo/dogs/IMG-20230528-WA0030.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -4735,7 +5228,7 @@ Komodo National Park
 &lt;a data-fancybox="gallery-ef8b9f680b2dce1351aa13c8951935b1" href="https://assets.martsmusings.uk/galleries/indonesia-2/boat-komodo-1/IMG_20230517_111901.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-2/boat-komodo-1/IMG_20230517_111901.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>We were dubious about whether he was being treated well. The rangers said he&amp;rsquo;s always in the same place. He was &lt;em>extremely&lt;/em> docile. Research suggests that this probably meant they were lacing his food with sedatives 🙁.&lt;/p>
+&lt;p>We were dubious about whether he was being treated well. The rangers said he&amp;rsquo;s always in the same place. He was &lt;em>extremely&lt;/em> docile. Research suggests that this probably meant they were lacing his food with sedatives &amp;#x1f641;.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-534253dcda6f7cacb18ae2e9a0953a8f" href="https://assets.martsmusings.uk/galleries/indonesia-2/boat-komodo-2/P5171456.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-2/boat-komodo-2/P5171456.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -5135,7 +5628,7 @@ Mount Bromo
 &lt;a data-fancybox="gallery-6a55bd932802f1c2f76c9de527f01560" href="https://assets.martsmusings.uk/galleries/indonesia-1/key-snap/IMG_20230429_193145.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/indonesia-1/key-snap/IMG_20230429_193145.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>The hotel dude was not the most understanding. He placed a lot of emphasis on us needing to pay a fine. Then added that the only spare key was 2 hours drive away in Probbolingo. We made it very clear that we weren&amp;rsquo;t going to pay a fine. We could see other locks with snapped keys, it was a maintenance issue. After Google translating &amp;ldquo;pliers&amp;rdquo; he scuttled off to see what he could do. Luckily, with the aid of some toilet paper and half the broken key, I was able to jig the lock open. We were able to get a few hours kip 💪.&lt;/p>
+&lt;p>The hotel dude was not the most understanding. He placed a lot of emphasis on us needing to pay a fine. Then added that the only spare key was 2 hours drive away in Probbolingo. We made it very clear that we weren&amp;rsquo;t going to pay a fine. We could see other locks with snapped keys, it was a maintenance issue. After Google translating &amp;ldquo;pliers&amp;rdquo; he scuttled off to see what he could do. Luckily, with the aid of some toilet paper and half the broken key, I was able to jig the lock open. We were able to get a few hours kip :flexed_biceps:.&lt;/p>
 &lt;p>The walk up to the viewpoint for sunrise felt like a military operation. Hundreds of jeeps were transporting tourists from surrounding areas up the mountain. The scale was quite impressive! We were one of very few walking up on our own steam, but doing so gave us a bit more freedom and saved us a chunk of cash.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
@@ -5970,7 +6463,7 @@ href="https://www.britannica.com/animal/tarsier"
 Wrapping up
 &lt;/h1>
 &lt;/a>&lt;p>Our time in the Philippines was incredible. Snorkeling with turtles was one of the best things we&amp;rsquo;ve ever done, and we made loads of memories that we&amp;rsquo;ll cherish.&lt;/p>
-&lt;p>This covers the first 11 days of our Filipino funtimes, join in the next post for more tropical island adventures 😃&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇭🇰 Hong Kong 🇭🇰</title><link href="https://martsmusings.uk/post/2023-04-11-Hong-Kong/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-11-Hong-Kong/</id><published>2023-04-12T10:10:00+08:00</published><updated>2023-04-12T10:10:00+08:00</updated><content type="html">
+&lt;p>This covers the first 11 days of our Filipino funtimes, join in the next post for more tropical island adventures :grinning_face_with_big_eyes:&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇭🇰 Hong Kong 🇭🇰</title><link href="https://martsmusings.uk/post/2023-04-11-Hong-Kong/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-04-11-Hong-Kong/</id><published>2023-04-12T10:10:00+08:00</published><updated>2023-04-12T10:10:00+08:00</updated><content type="html">
 &lt;div class="wrap-collabsible">
 &lt;input id="expando-15c5e336b700d9ab94dca0f3bc5e2ce8" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
 &lt;label for="expando-15c5e336b700d9ab94dca0f3bc5e2ce8" class="lbl-toggle">Map, Journey and Costs&lt;/label>
@@ -6581,7 +7074,7 @@ Train Street
 &lt;a data-fancybox="gallery-936349615a8b4dd5c5b4a818ba9d82c2" href="https://assets.martsmusings.uk/galleries/vietnam/part2/hanoi/train-street-guard/guard.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part2/hanoi/train-street-guard/guard.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>And every so often the police come to throw everybody off. But they will let you finish your drink, and they won&amp;rsquo;t follow if you go back onto another section 🤔&lt;/p>
+&lt;p>And every so often the police come to throw everybody off. But they will let you finish your drink, and they won&amp;rsquo;t follow if you go back onto another section :thinking_face:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-20-Vietnam-2/#water-puppet-show" class="header-link" aria-label="Anchor Water Puppet Show" href="#water-puppet-show">
 &lt;h2 id="water-puppet-show">
 Water Puppet Show
@@ -6601,7 +7094,7 @@ Water Puppet Show
 &lt;/div>&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>Immediately outside the theatre, a circus was in full swing. We left as a lady was casually spinning a table on her feet, then a man whipped a couple of gigantic snakes out of a basket 😱&lt;/p>
+&lt;p>Immediately outside the theatre, a circus was in full swing. We left as a lady was casually spinning a table on her feet, then a man whipped a couple of gigantic snakes out of a basket &amp;#x1f631;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-681512cc1759b07ee15133c7d2071bbe" href="https://assets.martsmusings.uk/galleries/vietnam/part2/hanoi/circus/IMG_20230305_204626.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part2/hanoi/circus/IMG_20230305_204626.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -6639,7 +7132,7 @@ href="https://www.google.co.uk/maps/place/The&amp;#43;Note&amp;#43;Coffee/@21.03
 &lt;a data-fancybox="gallery-d8a3aeebc2f0d9b39e6b3e73b15ccacb" href="https://assets.martsmusings.uk/galleries/vietnam/part2/hanoi/note-cafe/IMG_20230306_161300.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part2/hanoi/note-cafe/IMG_20230306_161300.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>I drew a picture of Laura that was swiftly relegated to being underneath the table 😔&lt;/p>
+&lt;p>I drew a picture of Laura that was swiftly relegated to being underneath the table :pensive_face:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-20-Vietnam-2/#cát-bà" class="header-link" aria-label="Anchor Cát Bà" href="#c%c3%a1t-b%c3%a0">
 &lt;h1 id="cát-bà">
 Cát Bà
@@ -6694,7 +7187,7 @@ Viewpoint hike
 &lt;a data-fancybox="gallery-d0edc5689ecf33550554793f76a7be1f" href="https://assets.martsmusings.uk/galleries/vietnam/part2/hanoi/viewpoint/selfie.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part2/hanoi/viewpoint/selfie.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>But we&amp;rsquo;re both now craving a long rambly hike to break the short-sharp viewpoint monotony. Fingers crossed that Hong Kong will be able to deliver 🤞&lt;/p>
+&lt;p>But we&amp;rsquo;re both now craving a long rambly hike to break the short-sharp viewpoint monotony. Fingers crossed that Hong Kong will be able to deliver :fingers_crossed:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-20-Vietnam-2/#ninh-binh" class="header-link" aria-label="Anchor Ninh Binh" href="#ninh-binh">
 &lt;h1 id="ninh-binh">
 Ninh Binh
@@ -6749,7 +7242,7 @@ Cycling
 &lt;li>&amp;ldquo;No thanks&amp;rdquo; is not an acceptable answer until your 3rd repetition&lt;/li>
 &lt;li>Context wasn&amp;rsquo;t appreciated
 &lt;ul>
-&lt;li>On 2 occasions whilst I was cycling down a busy road, motorbikers rode alongside me and tried to sell me things 🤦&lt;/li>
+&lt;li>On 2 occasions whilst I was cycling down a busy road, motorbikers rode alongside me and tried to sell me things &amp;#x1f926;&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -6759,7 +7252,7 @@ Cycling
 Viewpoint
 &lt;/h3>
 &lt;/a>&lt;p>We ended our cycling adventure with a short viewpoint hike before sunset.&lt;/p>
-&lt;p>Approaching the viewpoint there was more hassle from coffee shop owners, walking out in front of us to offer free parking. This ultimately led to Laura trying to cycle past the official security guard as she thought he was a coffeeshop person, he wasn&amp;rsquo;t happy 😱&lt;/p>
+&lt;p>Approaching the viewpoint there was more hassle from coffee shop owners, walking out in front of us to offer free parking. This ultimately led to Laura trying to cycle past the official security guard as she thought he was a coffeeshop person, he wasn&amp;rsquo;t happy &amp;#x1f631;&lt;/p>
 &lt;p>We got a good view:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
@@ -6881,7 +7374,7 @@ class="gblog-markdown__link"
 href="https://goo.gl/maps/S1FL3Gkk9RqJwVoWA"
 >The Lantern Lady&amp;rsquo;s Lantern Making Class&lt;/a>. We need a couple of lampshades back home, and were very up for trying our hands at some craftwork.&lt;/p>
 &lt;p>We opted for the smaller sized ones in the hope they&amp;rsquo;ll survive our travels, and set to work.&lt;/p>
-&lt;p>The suggested length of time it takes to complete the class is 90 minutes. Me and Laura took 3 and a half hours 😱. In hindsight we were being quite perfectionist.&lt;/p>
+&lt;p>The suggested length of time it takes to complete the class is 90 minutes. Me and Laura took 3 and a half hours &amp;#x1f631;. In hindsight we were being quite perfectionist.&lt;/p>
 &lt;p>There were a couple of mishaps:&lt;/p>
 &lt;ul>
 &lt;li>I got too excited with the glue, and ended up with my hands and arms covered with it. Everything I touched would fuse to my skin, luckily the lantern lady quickly noticed my pickle and showed me to the sink&lt;/li>
@@ -6964,7 +7457,7 @@ href="https://www.google.com/maps?q=reaching&amp;#43;out&amp;#43;Teahouse&amp;am
 Ho Chi Minh City
 &lt;/h1>
 &lt;/a>&lt;p>Last but not least, we had a few days in Ho Chi Minh City. We ended up flying from Hoi An to Ho Chi Minh City, as it would have taken 20 hours over 2 days by land and we didn&amp;rsquo;t have enough time left. Bit of a shame, as it&amp;rsquo;s the first flight we&amp;rsquo;ve done since early January - but unfortunately it&amp;rsquo;s going to be necessary in the coming months.&lt;/p>
-&lt;p>Ho Chi Minh City was the first place that we&amp;rsquo;ve been too scared to walk around due to the traffic 😂. The public transport isn&amp;rsquo;t great. After a couple of trips on foot, we resolved to bite the bullet and just pay to get a Grab (South East Asia&amp;rsquo;s answer to Uber) everywhere.&lt;/p>
+&lt;p>Ho Chi Minh City was the first place that we&amp;rsquo;ve been too scared to walk around due to the traffic &amp;#x1f602;. The public transport isn&amp;rsquo;t great. After a couple of trips on foot, we resolved to bite the bullet and just pay to get a Grab (South East Asia&amp;rsquo;s answer to Uber) everywhere.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-20-Vietnam-2/#abba-lift" class="header-link" aria-label="Anchor ABBA Lift" href="#abba-lift">
 &lt;h2 id="abba-lift">
 ABBA Lift
@@ -7035,7 +7528,7 @@ Củ Chi tunnels
 Vietnam reflections
 &lt;/h1>
 &lt;/a>&lt;p>That brings us to the end of our 30 days in Vietnam. On the whole, we really enjoyed Vietnam and are glad it was a part of our South East Asian adventure.&lt;/p>
-&lt;p>This is a very controversial thing to say, but it didn&amp;rsquo;t quite live up to our expectations 😱. We couldn&amp;rsquo;t quite put our finger on why that is, but feel that others report leaving with a much more enamoured feeling than we have. Maybe it&amp;rsquo;s partly because we loved Laos so much 🤔.&lt;/p>
+&lt;p>This is a very controversial thing to say, but it didn&amp;rsquo;t quite live up to our expectations &amp;#x1f631;. We couldn&amp;rsquo;t quite put our finger on why that is, but feel that others report leaving with a much more enamoured feeling than we have. Maybe it&amp;rsquo;s partly because we loved Laos so much :thinking_face:.&lt;/p>
 &lt;p>A few things contributed to a bit of malaise during the stint:&lt;/p>
 &lt;ul>
 &lt;li>Traffic and motorbikes get stressful!
@@ -7056,7 +7549,7 @@ Vietnam reflections
 &lt;li>We both got a bit ill&lt;/li>
 &lt;/ul>
 &lt;p>However, as I say, we did really enjoy it overall and feel very fortunate we had the opportunity to experience Vietnam.&lt;/p>
-&lt;p>We&amp;rsquo;re now off to Hong Kong 💪.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇻🇳 Vietnam, Part 1: Sapa, Ha Giang 🇻🇳</title><link href="https://martsmusings.uk/post/2023-03-07-Vietnam/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-03-07-Vietnam/</id><published>2023-03-12T18:50:00+07:00</published><updated>2023-03-12T18:50:00+07:00</updated><content type="html">
+&lt;p>We&amp;rsquo;re now off to Hong Kong :flexed_biceps:.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇻🇳 Vietnam, Part 1: Sapa, Ha Giang 🇻🇳</title><link href="https://martsmusings.uk/post/2023-03-07-Vietnam/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-03-07-Vietnam/</id><published>2023-03-12T18:50:00+07:00</published><updated>2023-03-12T18:50:00+07:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
@@ -7338,7 +7831,7 @@ Trekking and paddy fields
 &lt;/div>
 &lt;/div>
 &lt;p>We did some shopping to pay our additional guides, and had lunch in the village.&lt;/p>
-&lt;p>Lunch in the village was quite hard. Streams of children approached our table, pleading with us to do more shopping with them. We felt really sorry for them, and it was very hard to know what to do. We&amp;rsquo;d just spent £18 on shopping that we didn&amp;rsquo;t really want, and were aware of the advice to not buy from children as it incentivises using them to sell goods rather than sending them to school 🤷. It made inequality and privilege stark.&lt;/p>
+&lt;p>Lunch in the village was quite hard. Streams of children approached our table, pleading with us to do more shopping with them. We felt really sorry for them, and it was very hard to know what to do. We&amp;rsquo;d just spent £18 on shopping that we didn&amp;rsquo;t really want, and were aware of the advice to not buy from children as it incentivises using them to sell goods rather than sending them to school :person_shrugging:. It made inequality and privilege stark.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-07-Vietnam/#fansipan" class="header-link" aria-label="Anchor Fansipan" href="#fansipan">
 &lt;h2 id="fansipan">
 Fansipan
@@ -7434,7 +7927,7 @@ Hike and lunch in Nam Dam
 &lt;a data-fancybox="gallery-28e05ca6ddb96b2d607379c4bde77467" href="https://assets.martsmusings.uk/galleries/vietnam/part1/coffin/IMG_20230228_121452.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part1/coffin/IMG_20230228_121452.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>They were as happy as larry, and seemed very healthy. Kevin said it&amp;rsquo;s a &amp;ldquo;thing&amp;rdquo; to make your own coffin when you get old. Unsure at what age this kicks in, or if a family member prompts it 🤔&lt;/p>
+&lt;p>They were as happy as larry, and seemed very healthy. Kevin said it&amp;rsquo;s a &amp;ldquo;thing&amp;rdquo; to make your own coffin when you get old. Unsure at what age this kicks in, or if a family member prompts it :thinking_face:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-07-Vietnam/#hot-pot-dinner" class="header-link" aria-label="Anchor Hot Pot Dinner" href="#hot-pot-dinner">
 &lt;h3 id="hot-pot-dinner">
 Hot Pot Dinner
@@ -7547,7 +8040,7 @@ Back on the road
 &lt;a data-fancybox="gallery-ad582a657a6d548648216823db8f79b0" href="https://assets.martsmusings.uk/galleries/vietnam/part1/hagiang2/P2280674.JPG">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part1/hagiang2/P2280674.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>Kevin was really into indulging in a bong at each stop 😂:&lt;/p>
+&lt;p>Kevin was really into indulging in a bong at each stop &amp;#x1f602;:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-791b22e7a466bcb1c8bed99a60533e5b" href="https://assets.martsmusings.uk/galleries/vietnam/part1/bong/IMG_20230301_091016.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part1/bong/IMG_20230301_091016.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -7557,7 +8050,7 @@ Back on the road
 class="gblog-markdown__link"
 href="https://e.vnexpress.net/news/travel/places/a-closer-look-at-controversy-ridden-h-mong-royal-palace-3797553.html"
 >Vuong Chinh Duc &lt;/a>. He was a drug barron, dealing in opium, and used the palace mainly to organise trades.&lt;/p>
-&lt;p>It was a cool place to walk around. There is a shrine where people offer him cash and bananas 🤔:&lt;/p>
+&lt;p>It was a cool place to walk around. There is a shrine where people offer him cash and bananas :thinking_face::&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-2cdba0cf146335715384d78d2eec4416" href="https://assets.martsmusings.uk/galleries/vietnam/part1/shrine/IMG_20230228_162700.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/vietnam/part1/shrine/IMG_20230228_162700.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -7594,7 +8087,7 @@ Dinner and happy water
 &lt;/div>&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>We spent a lot of time talking to a fun couple from Utah who were doing the loop independently. We kept in contact and were able to meet up again later in the trip 😊&lt;/p>
+&lt;p>We spent a lot of time talking to a fun couple from Utah who were doing the loop independently. We kept in contact and were able to meet up again later in the trip :smiling_face_with_smiling_eyes:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-03-07-Vietnam/#day-3---back-to-ha-giang" class="header-link" aria-label="Anchor Day 3 - Back to Ha Giang" href="#day-3---back-to-ha-giang">
 &lt;h2 id="day-3---back-to-ha-giang">
 Day 3 - Back to Ha Giang
@@ -7794,7 +8287,7 @@ Accommodation balls up
 &lt;p>I was a bit smug about the booking as it was cheap, had a fancy pool, and good reviews. Alarm bells started ringing when we were the last ones left on the 10 person tuk tuk, and the driver was heading further and further out of town.&lt;/p>
 &lt;p>When we finally arrived we were greeted with the news that yes, they had our booking - but no rooms were available. And we&amp;rsquo;d already paid hotels.com the full cost upfront. Balls.&lt;/p>
 &lt;p>We found somewhere else (that was actually in town) to stay. Hours of chatting with hotels.com lead only to me pulling out the little hair I have remaining. In a last ditch attempt I went back to the hotel in person, the manager was actually very reasonable and gave me back cash for the booking in full - including hotels.com&amp;rsquo;s commission. After a little bit more complaining, hotels.com also issued us £25 compensation on top.&lt;/p>
-&lt;p>So a bit of a win 💪 💪 💪 But my accommodation selection skills definitely leave a lot to be desired.&lt;/p>
+&lt;p>So a bit of a win &amp;#x1f4aa; &amp;#x1f4aa; &amp;#x1f4aa; But my accommodation selection skills definitely leave a lot to be desired.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-24-Laos-2/#viewpoint-with-helen-and-ben" class="header-link" aria-label="Anchor Viewpoint with Helen and Ben" href="#viewpoint-with-helen-and-ben">
 &lt;h2 id="viewpoint-with-helen-and-ben">
 Viewpoint with Helen and Ben
@@ -7909,13 +8402,13 @@ Monk O&amp;rsquo;Clock
 &lt;h1 id="nong-khiaw">
 Nong Khiaw
 &lt;/h1>
-&lt;/a>&lt;p>Nong Khiaw is a hustling, bustling village surrounded by some breathtaking mountain views. And one thing we&amp;rsquo;ll never forget is how many chickens there were 🐔 🐔 🐔&lt;/p>
+&lt;/a>&lt;p>Nong Khiaw is a hustling, bustling village surrounded by some breathtaking mountain views. And one thing we&amp;rsquo;ll never forget is how many chickens there were &amp;#x1f414; &amp;#x1f414; &amp;#x1f414;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-820306e9a1af9ed21388a8973f205ba2" href="https://assets.martsmusings.uk/galleries/laos/chicken/IMG_20230221_125443.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/chicken/IMG_20230221_125443.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>They were roaming everywhere, and it was very hard to sleep after the cockerel&amp;rsquo;s morning chorus kicked in 😂. We soon upped our chicken curry orders.&lt;/p>
+&lt;p>They were roaming everywhere, and it was very hard to sleep after the cockerel&amp;rsquo;s morning chorus kicked in &amp;#x1f602;. We soon upped our chicken curry orders.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-24-Laos-2/#viewpointing" class="header-link" aria-label="Anchor Viewpointing" href="#viewpointing">
 &lt;h2 id="viewpointing">
 Viewpointing
@@ -7965,7 +8458,7 @@ href="https://www.youtube.com/watch?v=tIHaVrMzo4o"
 >this is what we were up against&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>We ran out of familiar-branded suncream, and had a very hard time finding replacement in the village. We found something that said SPF 90 (did you know it goes that high?!) on it somewhere and slapped it on. We were leaking like sieves the whole way up 💦 😂&lt;/li>
+&lt;li>We ran out of familiar-branded suncream, and had a very hard time finding replacement in the village. We found something that said SPF 90 (did you know it goes that high?!) on it somewhere and slapped it on. We were leaking like sieves the whole way up :sweat_droplets: &amp;#x1f602;&lt;/li>
 &lt;/ul>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-24-Laos-2/#sunrise-viewpoint" class="header-link" aria-label="Anchor Sunrise Viewpoint" href="#sunrise-viewpoint">
 &lt;h3 id="sunrise-viewpoint">
@@ -7994,7 +8487,7 @@ Sunrise Viewpoint
 &lt;a data-fancybox="gallery-a244267147c0a33279d1dc59e1102237" href="https://assets.martsmusings.uk/galleries/laos/viewpointsunrise/P2190586.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/viewpointsunrise/P2190586.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>Laura can be entertained by mountain views indefinitely. After a while I cracked out my kindle 😂&lt;/p>
+&lt;p>Laura can be entertained by mountain views indefinitely. After a while I cracked out my kindle &amp;#x1f602;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-e5d0a826b1d4b45d6ef0bace29bdd8e0" href="https://assets.martsmusings.uk/galleries/laos/viewpointkindle/IMG_20230219_071228.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/viewpointkindle/IMG_20230219_071228.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -8089,13 +8582,13 @@ Organic farm
 Tour guide village
 &lt;/h3>
 &lt;/a>&lt;p>Another 20 minutes on the soreness schooner brought us to the tour guide&amp;rsquo;s village on the Nam Ou.&lt;/p>
-&lt;p>The village was interesting to walk around, but on the whole not very enjoyable as it felt like &amp;ldquo;poverty porn&amp;rdquo;. People on our trip were taking photos of people in their houses, and one walked into an ongoing lesson in a school to take some snaps 🤦.&lt;/p>
+&lt;p>The village was interesting to walk around, but on the whole not very enjoyable as it felt like &amp;ldquo;poverty porn&amp;rdquo;. People on our trip were taking photos of people in their houses, and one walked into an ongoing lesson in a school to take some snaps &amp;#x1f926;.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-24-Laos-2/#kayaking" class="header-link" aria-label="Anchor Kayaking" href="#kayaking">
 &lt;h3 id="kayaking">
 Kayaking
 &lt;/h3>
 &lt;/a>&lt;p>After a while longer on the buttpain barge we pulled to shore and were given our own kayaks for the last mile.&lt;/p>
-&lt;p>We had a paddle into the sunset, and won by a fair margin. Unsure if the other couples were viewing it as a competition though 🤔&lt;/p>
+&lt;p>We had a paddle into the sunset, and won by a fair margin. Unsure if the other couples were viewing it as a competition though :thinking_face:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-95b04a4be25b4f2aebcff97e360460ad" href="https://assets.martsmusings.uk/galleries/laos/sunsetkayak/IMG_20230221_154251.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/sunsetkayak/IMG_20230221_154251.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -8118,7 +8611,7 @@ class="gblog-markdown__link"
 href="https://www.google.co.uk/maps/place/Mama&amp;#43;Laos&amp;#43;Restaurant/@20.5703097,102.6061782,17z/data=!3m1!4b1!4m6!3m5!1s0x312e9cdac932222b:0x4956c26db581a41e!8m2!3d20.5703047!4d102.6083669!16s%2Fg%2F11g8yfzmhn"
 >Mama Laos&lt;/a>. Great food, and dirt cheap: but the main thing was it made us smile.&lt;/p>
 &lt;p>It was the very definition of a family restaurant. Orders were taken by 12ish year old daughter, and we were served in their porch.&lt;/p>
-&lt;p>They didn&amp;rsquo;t appear to use any fridge/freezer for the restaurant. And whenever an order was made she&amp;rsquo;d get on her scooter to go buy the ingredients. When I ordered a beer she popped to the shop across the road to buy it for me 😂.&lt;/p>
+&lt;p>They didn&amp;rsquo;t appear to use any fridge/freezer for the restaurant. And whenever an order was made she&amp;rsquo;d get on her scooter to go buy the ingredients. When I ordered a beer she popped to the shop across the road to buy it for me &amp;#x1f602;.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-24-Laos-2/#getting-our-blue-cheese-fix" class="header-link" aria-label="Anchor Getting our blue cheese fix" href="#getting-our-blue-cheese-fix">
 &lt;h3 id="getting-our-blue-cheese-fix">
 Getting our blue cheese fix
@@ -8243,7 +8736,7 @@ The journey to Luang Prabang
 &lt;li>Is &lt;strong>extremely&lt;/strong> noisy&lt;/li>
 &lt;li>Has lots of engine fumes (obviously), but also is the only place on the boat that people are allowed to smoke&lt;/li>
 &lt;/ul>
-&lt;p>So the stakes are high 🚨.&lt;/p>
+&lt;p>So the stakes are high :police_car_light:.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-12-Laos/#across-the-thai---laos-border" class="header-link" aria-label="Anchor Across the Thai - Laos border" href="#across-the-thai---laos-border">
 &lt;h2 id="across-the-thai---laos-border">
 Across the Thai - Laos border
@@ -8252,7 +8745,7 @@ Across the Thai - Laos border
 &lt;ul>
 &lt;li>The day before, we caught a local bus to a town (Chiang Khong) on the border of Laos.
 &lt;ul>
-&lt;li>We were travelling with 2 monks 🧑‍🦲 🧑‍🦲 and 2 chickens 🐔 🐔&lt;/li>
+&lt;li>We were travelling with 2 monks :bald_person: :bald_person: and 2 chickens &amp;#x1f414; &amp;#x1f414;&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>The next morning, we woke at 6:45AM for an 11AM crossing - despite being on the border
@@ -8285,19 +8778,19 @@ In Laos
 &lt;h2 id="first-day-on-the-boat">
 First day on the boat
 &lt;/h2>
-&lt;/a>&lt;p>Thankfully we were ruthlessly efficient, and were among the first to get on the coveted boat. The only problem was: the numbers on our tickets were larger than any paper numbers placed on any seat 😱 😱 😱&lt;/p>
+&lt;/a>&lt;p>Thankfully we were ruthlessly efficient, and were among the first to get on the coveted boat. The only problem was: the numbers on our tickets were larger than any paper numbers placed on any seat &amp;#x1f631; &amp;#x1f631; &amp;#x1f631;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-fd5950d4aebe88aad019ddaa306cc691" href="https://assets.martsmusings.uk/galleries/laos/boat-1/IMG_20230209_093327.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/boat-1/IMG_20230209_093327.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>When we first asked the boat crew, they explained that we should go in the engine room 🤦 😱 😠 Luckily we avoided this. It quickly became apparent that lots of early arrivers also had tickets with too high a number, and also had no desire to travel in the engine room when they&amp;rsquo;d got there early to secure a good seat. There may have been a team effort to discard/rearrange some paper numbers so that trust was lost in the system.&lt;/p>
+&lt;p>When we first asked the boat crew, they explained that we should go in the engine room &amp;#x1f926; &amp;#x1f631; &amp;#x1f620; Luckily we avoided this. It quickly became apparent that lots of early arrivers also had tickets with too high a number, and also had no desire to travel in the engine room when they&amp;rsquo;d got there early to secure a good seat. There may have been a team effort to discard/rearrange some paper numbers so that trust was lost in the system.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-39a329924b8c943c001d9b964872ab2c" href="https://assets.martsmusings.uk/galleries/laos/boat-2/IMG_20230209_103705.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/boat-2/IMG_20230209_103705.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>(the seats are ripped out from transit vans, and not secured to the floor at all 😂)&lt;/p>
+&lt;p>(the seats are ripped out from transit vans, and not secured to the floor at all &amp;#x1f602;)&lt;/p>
 &lt;p>Phew, we thought we&amp;rsquo;d struck gold. Then 9 brits sat opposite us with a crate of Beerlao, and a few half empty bottles of vodka and whisky. They were annoying, but not as bad as we initially predicted they may be.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
@@ -8327,9 +8820,9 @@ Second day on the boat
 &lt;/li>
 &lt;li>Avoid the rowdy brits&lt;/li>
 &lt;/ul>
-&lt;p>So we headed down to the pier 1hr30 before we were due to depart. We weren&amp;rsquo;t the only people with that agenda, but managed to claim some great seats. It turned out there were multiple boats on the second leg of the trip, and the rowdy brits were too late to get onto our one 💪&lt;/p>
+&lt;p>So we headed down to the pier 1hr30 before we were due to depart. We weren&amp;rsquo;t the only people with that agenda, but managed to claim some great seats. It turned out there were multiple boats on the second leg of the trip, and the rowdy brits were too late to get onto our one &amp;#x1f4aa;&lt;/p>
 &lt;p>It was an 8 hour journey on this day, but it didn&amp;rsquo;t drag.&lt;/p>
-&lt;p>A big highlight was that whenever we passed a village/town along the Mekong, groups of children and parents would often come to the bank to give a wave 😀&lt;/p>
+&lt;p>A big highlight was that whenever we passed a village/town along the Mekong, groups of children and parents would often come to the bank to give a wave :grinning_face:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-4676e0dfb661f2722d0afabab9c08a8e" href="https://assets.martsmusings.uk/galleries/laos/boat-5/P2100434.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/boat-5/P2100434.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -8339,7 +8832,7 @@ Second day on the boat
 &lt;/div>
 &lt;/div>
 &lt;p>It seemed our boat also doubled as the Laoation equivalent of Yodel, with parcels and livestock frequently being on/off boarded to the shoreline.&lt;/p>
-&lt;p>We were always on alert for elephants 🐘 bathing in the river, but unfortunately didn&amp;rsquo;t get lucky.&lt;/p>
+&lt;p>We were always on alert for elephants &amp;#x1f418; bathing in the river, but unfortunately didn&amp;rsquo;t get lucky.&lt;/p>
 &lt;p>All in all, very much worth the logistical stresses. It was a journey that was a destination in itself, and we might be among the last who are able to do it. Active construction of hydropower dams is underway on the Mekong, it&amp;rsquo;s likely that it will cause enough disruption to make this route infeasible.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
@@ -8353,9 +8846,9 @@ Second day on the boat
 &lt;li>There will be an impact on fishing - a big source of some local&amp;rsquo;s income&lt;/li>
 &lt;li>Water levels around villages will be affected, possibly causing flooding&lt;/li>
 &lt;/ul>
-&lt;p>🤔
-🤔
-🤔&lt;/p>
+&lt;p>:thinking_face:
+:thinking_face:
+:thinking_face:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-12-Laos/#luang-prabang" class="header-link" aria-label="Anchor Luang Prabang" href="#luang-prabang">
 &lt;h1 id="luang-prabang">
 Luang Prabang
@@ -8389,7 +8882,7 @@ Run and bamboo bridge
 &lt;a data-fancybox="gallery-a9047bf6d227094a8971406f558a8b82" href="https://assets.martsmusings.uk/galleries/laos/bamboo-bridge/IMG_20230211_163329.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/bamboo-bridge/IMG_20230211_163329.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>There was a small toll, as when the rainy season comes each year the Nam Khan&amp;rsquo;s currents wash the bridge away and it has to be rebuilt. It was fun to walk across. We found a bar and post-run-post-slow-boat-survival treated ourselves to 5 cocktails and a beer for the grand total of £9.81 😱&lt;/p>
+&lt;p>There was a small toll, as when the rainy season comes each year the Nam Khan&amp;rsquo;s currents wash the bridge away and it has to be rebuilt. It was fun to walk across. We found a bar and post-run-post-slow-boat-survival treated ourselves to 5 cocktails and a beer for the grand total of £9.81 &amp;#x1f631;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-56db59f576a46c57f3d994a515a4e679" href="https://assets.martsmusings.uk/galleries/laos/bamboo-cocktail/IMG_20230211_172805.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/laos/bamboo-cocktail/IMG_20230211_172805.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -8469,7 +8962,7 @@ What&amp;rsquo;s next?
 &lt;/h1>
 &lt;/a>&lt;p>Phwoar, that was a fair bit to cover and only a slither of what we got up to in Laos. Join next time for:&lt;/p>
 &lt;ul>
-&lt;li>We made some friends 💪&lt;/li>
+&lt;li>We made some friends &amp;#x1f4aa;&lt;/li>
 &lt;li>Hiking and accomdation mishaps in Vang Vieng&lt;/li>
 &lt;li>A 5am rise to see a monk ceremony&lt;/li>
 &lt;li>Hikes and adventures in the mountains to the north&lt;/li>
@@ -8730,8 +9223,8 @@ Chiang Mai, take 2
 &lt;/h1>
 &lt;/a>&lt;p>The next day we caught a mini-bus back down the windy hill to spend a few days in Chiang Mai.&lt;/p>
 &lt;p>The accomodation was much more appropriate this time, as Laura was in charge.&lt;/p>
-&lt;p>It was a bit odd however, you had to take shoes off inside the hostel - as is standard in Thailand. But they had polished the wooden floors so much that even if you took off your socks it was like walking on ice! ⛸️ And Martin (but not Laura, weirdly 🤔) seemed to get static shocks from most surfaces ⚡.&lt;/p>
-&lt;p>The hostel cat made up for it though 🐱:&lt;/p>
+&lt;p>It was a bit odd however, you had to take shoes off inside the hostel - as is standard in Thailand. But they had polished the wooden floors so much that even if you took off your socks it was like walking on ice! ⛸️ And Martin (but not Laura, weirdly :thinking_face:) seemed to get static shocks from most surfaces :high_voltage:.&lt;/p>
+&lt;p>The hostel cat made up for it though &amp;#x1f431;:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-62a18589ac82386201f8cd2673b7e3fa" href="https://assets.martsmusings.uk/galleries/thailand/cat/IMG_20230206_112340.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/cat/IMG_20230206_112340.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -8837,7 +9330,7 @@ Market
 class="gblog-markdown__link"
 href="https://www.bennyhomecooking.com"
 >Benny&amp;rsquo;s Home Cooking&lt;/a> for a Thai cooking lesson.&lt;/p>
-&lt;p>We booked on to an open group course, but were told the other group members had decided to pay for a private course instead - leaving us also to have a private class for no extra moolah 💪&lt;/p>
+&lt;p>We booked on to an open group course, but were told the other group members had decided to pay for a private course instead - leaving us also to have a private class for no extra moolah &amp;#x1f4aa;&lt;/p>
 &lt;p>First order of business, Benny took us around a local market:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
@@ -8851,7 +9344,7 @@ href="https://www.bennyhomecooking.com"
 &lt;a data-fancybox="gallery-96313583875ef387dac46ae7c8544832" href="https://assets.martsmusings.uk/galleries/thailand/market/shrimp/IMG_20230205_091518.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/market/shrimp/IMG_20230205_091518.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>Lots of fiery chilis 🌶️:&lt;/p>
+&lt;p>Lots of fiery chilis &amp;#x1f336;&amp;#xfe0f;:&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-74689ff3a1cf2a8d2d59eb2535b09e44" href="https://assets.martsmusings.uk/galleries/thailand/market/chilli/IMG_20230205_094349.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/market/chilli/IMG_20230205_094349.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -8869,7 +9362,7 @@ href="https://www.bennyhomecooking.com"
 &lt;a data-fancybox="gallery-0456a27773d788cc21e7f4562a5fe3f5" href="https://assets.martsmusings.uk/galleries/thailand/market/tamarind/IMG_20230205_094851.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/market/tamarind/IMG_20230205_094851.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>She took us on a tour of the meat section. We weren&amp;rsquo;t able to take much in there. We were stood next to a lady who had a basket full of live frogs 🐸, and every few moments she would take one out and chop it in half 🔪. We&amp;rsquo;re both still haunted by the frog screams 😱. It&amp;rsquo;s almost certainly a sign we should be veggie if we can&amp;rsquo;t handle that!&lt;/p>
+&lt;p>She took us on a tour of the meat section. We weren&amp;rsquo;t able to take much in there. We were stood next to a lady who had a basket full of live frogs &amp;#x1f438;, and every few moments she would take one out and chop it in half &amp;#x1f52a;. We&amp;rsquo;re both still haunted by the frog screams &amp;#x1f631;. It&amp;rsquo;s almost certainly a sign we should be veggie if we can&amp;rsquo;t handle that!&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-08-Thailand-2/#class" class="header-link" aria-label="Anchor Class" href="#class">
 &lt;h3 id="class">
 Class
@@ -8964,8 +9457,8 @@ Pool day
 &lt;/h2>
 &lt;/a>&lt;p>We&amp;rsquo;ve been &lt;strong>very&lt;/strong> last minute about booking things on this trip, and in general don&amp;rsquo;t have any commitments more than a few days ahead.&lt;/p>
 &lt;p>It&amp;rsquo;s worked out pretty well thus far, allowing us to expand and contract portions on a whim.&lt;/p>
-&lt;p>But in Chiang Mai there was a reckoning, whilst we thought we could waltz to the bus terminal and get a coach to Chiang Rai - alas not. They&amp;rsquo;d sold out for the day 🙁&lt;/p>
-&lt;p>We found a cheap hotel near the bus terminal to stay at, and a not-so cheap hotel that allowed us to hang out in their pool for a chill out day 😎&lt;/p>
+&lt;p>But in Chiang Mai there was a reckoning, whilst we thought we could waltz to the bus terminal and get a coach to Chiang Rai - alas not. They&amp;rsquo;d sold out for the day &amp;#x1f641;&lt;/p>
+&lt;p>We found a cheap hotel near the bus terminal to stay at, and a not-so cheap hotel that allowed us to hang out in their pool for a chill out day :smiling_face_with_sunglasses:&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-02-08-Thailand-2/#chiang-rai" class="header-link" aria-label="Anchor Chiang Rai" href="#chiang-rai">
 &lt;h1 id="chiang-rai">
 Chiang Rai
@@ -9026,7 +9519,7 @@ Chiang Rai
 &lt;/div>&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>And I now write this in a hotel room in Chiang Khong, where tomorrow we hope to cross the border to Laos and catch the slow boat. Goodbye Thailand 👋 you&amp;rsquo;ve been good to us&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇹🇭 Thailand, Part 1: Koh Lipe, Koh Lanta and Bangkok 🐠</title><link href="https://martsmusings.uk/post/2023-01-31-Thailand-1/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-01-31-Thailand-1/</id><published>2023-02-02T21:00:00+07:00</published><updated>2023-02-02T21:00:00+07:00</updated><content type="html">
+&lt;p>And I now write this in a hotel room in Chiang Khong, where tomorrow we hope to cross the border to Laos and catch the slow boat. Goodbye Thailand &amp;#x1f44b; you&amp;rsquo;ve been good to us&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇹🇭 Thailand, Part 1: Koh Lipe, Koh Lanta and Bangkok 🐠</title><link href="https://martsmusings.uk/post/2023-01-31-Thailand-1/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-01-31-Thailand-1/</id><published>2023-02-02T21:00:00+07:00</published><updated>2023-02-02T21:00:00+07:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
@@ -9141,7 +9634,7 @@ Immigration
 &lt;/h2>
 &lt;/a>&lt;p>Much of our travel in Thailand involved uncertain logistics, and it all started with the ferry to Koh Lipe.&lt;/p>
 &lt;p>It was our first time crossing a border by sea, so we were unsure of what immigration measures would be taken. After filling in an entrance form and joining a long, slow queue we were told something that will strike fear in any wanderer:&lt;/p>
-&lt;p>&lt;span style="font-size: x-large; font-style: italic; background-color: red; color:white;">&amp;quot;you must now surrender your passport to the captain of the ship&amp;quot;&lt;/span> 😱&lt;/p>
+&lt;p>&lt;span style="font-size: x-large; font-style: italic; background-color: red; color:white;">&amp;quot;you must now surrender your passport to the captain of the ship&amp;quot;&lt;/span> &amp;#x1f631;&lt;/p>
 &lt;p>That&amp;rsquo;s ok, that&amp;rsquo;s ok. It goes against everything we were taught in backpacker school about never losing sight of your passport - but hundreds of others on the boat were cheerfully obliging - so why not.&lt;/p>
 &lt;p>We were among the last on the ship, and our bags were added to a gigantic communal pile at the front of the boat. How was this going to pan out?!&lt;/p>
 &lt;p>After a short, uneventful crossing the ship anchored just off shore. We were guided immediately to a longboat, realising we were now to leave both our passports and our bags to the mercy of the system.&lt;/p>
@@ -9153,11 +9646,11 @@ Immigration
 &lt;/div>
 &lt;p>There was nothing to stop you just sneaking off, so it suddenly became clear why everybody had been separated from their passports.&lt;/p>
 &lt;p>What followed was hours of an immigration officer working through a stack of surrendered passports as tall as Martin. He worked from the top down, calling the name with a few pronunciations for good measure. The person would eventually realise they&amp;rsquo;d been called, go up to the desk, and get cleared for entrance.&lt;/p>
-&lt;p>After a while, we gave up hope that our passports were somewhere near the top as we had boarded last, and noticed something odd. After leaving the immigration desk, people were escorted to a tent where they would: look confused, then look concerned, and then empty their wallets 🤔&lt;/p>
+&lt;p>After a while, we gave up hope that our passports were somewhere near the top as we had boarded last, and noticed something odd. After leaving the immigration desk, people were escorted to a tent where they would: look confused, then look concerned, and then empty their wallets :thinking_face:&lt;/p>
 &lt;p>Rumour soon got around that the Island had an entrance fee (?!), and we sorrowfully remembered that we&amp;rsquo;d again entered a country without having any of the local currency. Further rumours spread that they would accept other currencies, but they would use an extortionate exchange rate in doing so.&lt;/p>
 &lt;p>Weighing up the strategy we decided that Martin would peg it out of immigration to try to find an ATM. Risky business as if his passport was called in his absence, a spanner would be lodged in the Thai immigration machine.&lt;/p>
-&lt;p>Luckily it paid off, he arrived back with a wodge of cash bang on when our names were called 💪 good timing for once!&lt;/p>
-&lt;p>We were reunited with bags, and hit the beach bar for happy hour 🍺&lt;/p>
+&lt;p>Luckily it paid off, he arrived back with a wodge of cash bang on when our names were called &amp;#x1f4aa; good timing for once!&lt;/p>
+&lt;p>We were reunited with bags, and hit the beach bar for happy hour &amp;#x1f37a;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-2a97c481536434e63aa735e967c6e9c9" href="https://assets.martsmusings.uk/galleries/thailand/happy-hour/IMG_20230120_171429.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/happy-hour/IMG_20230120_171429.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -9167,10 +9660,10 @@ Immigration
 &lt;h2 id="food-and-drink">
 Food and Drink
 &lt;/h2>
-&lt;/a>&lt;p>Again, stellar food offerings. At this rate we&amp;rsquo;ll be able to float back to the UK at the end of the trip 🌊&lt;/p>
-&lt;p>We mainly stuck to local Thai food. Martin gradually upped this spice tolerance, embracing the fire breath 🔥 🐉 and tingling face whilst Laura put midwifery skills to good use smoothing him through the situation.&lt;/p>
+&lt;/a>&lt;p>Again, stellar food offerings. At this rate we&amp;rsquo;ll be able to float back to the UK at the end of the trip &amp;#x1f30a;&lt;/p>
+&lt;p>We mainly stuck to local Thai food. Martin gradually upped this spice tolerance, embracing the fire breath &amp;#x1f525; &amp;#x1f409; and tingling face whilst Laura put midwifery skills to good use smoothing him through the situation.&lt;/p>
 &lt;p>A couple of main meals with drinks set us back about £10. Bargain as it&amp;rsquo;s one of the most expensive places in Thailand.&lt;/p>
-&lt;p>A large beer cost about £2.50 and cocktails about £5, with BOGOF happy-hours running until about 8pm. We got very confused at one post-beach establishment, and after lots of Google Translate worked out their happy hour was actually buy-two-get-one-free. This led to an accidentally large session as the only way we could work out how to settle up was to stay for an extra 2 rounds on the house 🥴 🍺 🍸&lt;/p>
+&lt;p>A large beer cost about £2.50 and cocktails about £5, with BOGOF happy-hours running until about 8pm. We got very confused at one post-beach establishment, and after lots of Google Translate worked out their happy hour was actually buy-two-get-one-free. This led to an accidentally large session as the only way we could work out how to settle up was to stay for an extra 2 rounds on the house &amp;#x1f974; &amp;#x1f37a; &amp;#x1f378;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-3c5e456dd7a282423108ac2ad78c896b" href="https://assets.martsmusings.uk/galleries/thailand/happy-hour-2/IMG_20230122_174912.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/happy-hour-2/IMG_20230122_174912.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -9194,7 +9687,7 @@ Winnie the Pooh?
 Typical day
 &lt;/h2>
 &lt;/a>&lt;p>Most of our time on Koh Lipe was spent relaxing. This ticked many boxes, and we actually extended our stay by a day (a good advantage of having a vague itinerary with very little booked!).&lt;/p>
-&lt;p>On a typical day Laura 🐠 was putting in a solid 8 hours of snorkelling. Martin 🤓 was doing barely a fifth of that, but making up for it with lots of Kindle time.&lt;/p>
+&lt;p>On a typical day Laura &amp;#x1f420; was putting in a solid 8 hours of snorkelling. Martin :nerd: was doing barely a fifth of that, but making up for it with lots of Kindle time.&lt;/p>
 &lt;p>Snorkel lessons learnt:&lt;/p>
 &lt;ul>
 &lt;li>It&amp;rsquo;s really useful to use your feet to a up-close shots of cool fish, but according to Google it&amp;rsquo;s very bad form in Thailand to use your feet for anything except walking. Oops.&lt;/li>
@@ -9232,10 +9725,10 @@ Snorkel Tour
 &lt;h2 id="an-embarrassing-sitch">
 An Embarrassing Sitch
 &lt;/h2>
-&lt;/a>&lt;p>One evening Laura found the need to form an advance party back to the accommodation (💩), and a bit of a predicament followed.&lt;/p>
-&lt;p>In her haste she mistook our room, and tried to unlock the one next to it. This wouldn&amp;rsquo;t be an issue, but our room key was able to unlock it (?! 😱).&lt;/p>
+&lt;/a>&lt;p>One evening Laura found the need to form an advance party back to the accommodation (&amp;#x1f4a9;), and a bit of a predicament followed.&lt;/p>
+&lt;p>In her haste she mistook our room, and tried to unlock the one next to it. This wouldn&amp;rsquo;t be an issue, but our room key was able to unlock it (?! &amp;#x1f631;).&lt;/p>
 &lt;p>Laura entered and immediately realised, as the occupants were much tidier, that it wasn&amp;rsquo;t our dwelling. She quickly tried to remedy the situation by re-locking the door, but:&lt;/p>
-&lt;p>😱 😱 😱 Our key wouldn&amp;rsquo;t lock it again (?!?!?) 😱 😱 😱&lt;/p>
+&lt;p>&amp;#x1f631; &amp;#x1f631; &amp;#x1f631; Our key wouldn&amp;rsquo;t lock it again (?!?!?) &amp;#x1f631; &amp;#x1f631; &amp;#x1f631;&lt;/p>
 &lt;p>Martin arrived back to a very panicked Laura, and after a few more attempts to lock the room we had to fess up to the guy on reception.&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-31-Thailand-1/#koh-lanta" class="header-link" aria-label="Anchor Koh Lanta" href="#koh-lanta">
 &lt;h1 id="koh-lanta">
@@ -9248,12 +9741,12 @@ Koh Lanta
 &lt;a data-fancybox="gallery-3dbe15f23f7ef02db8e17baf6ee59505" href="https://assets.martsmusings.uk/galleries/thailand/towel-fort/IMG_20230125_130104.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/towel-fort/IMG_20230125_130104.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>We hunkered down in a beach-towel fort, hoped for the best, and won 💪:&lt;/p>
+&lt;p>We hunkered down in a beach-towel fort, hoped for the best, and won &amp;#x1f4aa;:&lt;/p>
 &lt;ul>
 &lt;li>Our clothes were only mildly damp, we got lucky that the crew happened to put our bags under rather than on deck&lt;/li>
 &lt;li>We got a free upgrade on our £10/night hotel room, and it was mashoosive. 2 bathrooms, a kitchen, 3 beds and a large lounge bit. Loads of space to hang our damp clothes&lt;/li>
 &lt;/ul>
-&lt;p>💥&lt;/p>
+&lt;p>&amp;#x1f4a5;&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-31-Thailand-1/#snorkel-trip" class="header-link" aria-label="Anchor Snorkel trip" href="#snorkel-trip">
 &lt;h2 id="snorkel-trip">
 Snorkel trip
@@ -9280,7 +9773,7 @@ Snorkel trip
 &lt;h1 id="bangkok">
 Bangkok
 &lt;/h1>
-&lt;/a>&lt;p>We end this part of our Thailand adventure by popping up to Bangkok, as a gateway to Northern Thailand. I say pop: it involved 2 hours on a minibus followed by an 11 hour overnight coach, getting us in at 4am 😴&lt;/p>
+&lt;/a>&lt;p>We end this part of our Thailand adventure by popping up to Bangkok, as a gateway to Northern Thailand. I say pop: it involved 2 hours on a minibus followed by an 11 hour overnight coach, getting us in at 4am :sleeping_face:&lt;/p>
 &lt;p>Only managing a few hours kip on the coach, we were very grateful that our gamble of booking a hotel room and hoping that we could check-in at 5am paid off.&lt;/p>
 &lt;p>We supplemented a few more hours sleep and woke up around lunchtime.&lt;/p>
 &lt;p>First order of business was to grab a curry, as whilst there was a food court stop on the coach with vouchers provided all the food looked questionable so we opted out.&lt;/p>
@@ -9314,7 +9807,7 @@ href="https://en.wikipedia.org/wiki/Wat_Pho"
 &lt;p>Martin was a bit tempelled out, so left Laura to explore &lt;a
 class="gblog-markdown__link"
 href="https://en.wikipedia.org/wiki/Wat_Arun"
->Wat Arun&lt;/a>. It was a lovely sunset and a pretty temple. There oddly seemed to be lots of dressed up couples taking selfies, and monks drinking from disposible plastic cups 🤔:&lt;/p>
+>Wat Arun&lt;/a>. It was a lovely sunset and a pretty temple. There oddly seemed to be lots of dressed up couples taking selfies, and monks drinking from disposible plastic cups :thinking_face::&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-68c2ac85a5c372b98f1f340145624e9a" href="https://assets.martsmusings.uk/galleries/thailand/wat-arun/IMG_20230128_173805.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/thailand/wat-arun/IMG_20230128_173805.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -9468,7 +9961,7 @@ Kuala Lumpur
 &lt;p>We found the first cautionary tale to be unfair - we felt safe the entire time in Malaysia. The second one though, oh boy was that on the mark.&lt;/p>
 &lt;p>It was absolutely impossible to do anything without cash, and unfortunately we rocked up empty handed. We were assured that a nearby shopping centre had an ATM, and after an undue amount of time struck Ringgit gold.&lt;/p>
 &lt;p>It really was an undue amount of time and felt like a fever dream - at one point we even walked through a junior&amp;rsquo;s cat walk competition. So we decided it best to immediately get some food in us before venturing any further.&lt;/p>
-&lt;p>In the Trafford Centre you can expect an over-priced and bland offering. Not so here. And it really set the tone for the food that Malaysia had to offer. MYR52.0 (£9.77) got us both a hearty Assam soup with 2 sides each and drinks 💥&lt;/p>
+&lt;p>In the Trafford Centre you can expect an over-priced and bland offering. Not so here. And it really set the tone for the food that Malaysia had to offer. MYR52.0 (£9.77) got us both a hearty Assam soup with 2 sides each and drinks &amp;#x1f4a5;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-67150a75371704515ff96f3b5a70e7bc" href="https://assets.martsmusings.uk/galleries/malaysia/firstmeal/IMG_20230108_175525.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/malaysia/firstmeal/IMG_20230108_175525.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -9485,7 +9978,7 @@ Accomodation
 &lt;a data-fancybox="gallery-388dfafe8efaefc1146306d7094268ed" href="https://assets.martsmusings.uk/galleries/malaysia/travel/IMG_20230108_184326.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/malaysia/travel/IMG_20230108_184326.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>You would be forgiven for thinking this is a token that&amp;rsquo;s good for another go on the dodgems. It did get us to our accomodation in good spririts though. In general the Metro in Kuala Lumpur was clean, fast and not too overcrowded 😄 It was also pretty cheap - MYR5 (94 pence) for a journey.&lt;/p>
+&lt;p>You would be forgiven for thinking this is a token that&amp;rsquo;s good for another go on the dodgems. It did get us to our accomodation in good spririts though. In general the Metro in Kuala Lumpur was clean, fast and not too overcrowded &amp;#x1f604; It was also pretty cheap - MYR5 (94 pence) for a journey.&lt;/p>
 &lt;p>When we arrived, there was a mild situation in that we accidentally booked our room for a date 1 week later than we should have. After a mild panic and lots of Google Translate disaster was averted and luckily there was (just about) room at the inn.&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
@@ -9560,7 +10053,7 @@ Jungle Hiking
 &lt;/h2>
 &lt;/a>&lt;p>Our first hike on the trip, and hopefully one of many to come.&lt;/p>
 &lt;p>It was a challenging jungley hike with some quite intrepid and overgrown terrain that led on to a tea plantation. Unfortunately we weren&amp;rsquo;t rewarded with a view from the top as a really scary lightning storm hit as soon as we reached the summit.&lt;/p>
-&lt;p>We cut the walk a bit short, and attempted to hitchhike. Alas, nobody wanted to give some very damp and muddy hikers a free ride - but after a while a taxi driver was very happy to charge a fair few more 💵 than it should have cost to get us home!&lt;/p>
+&lt;p>We cut the walk a bit short, and attempted to hitchhike. Alas, nobody wanted to give some very damp and muddy hikers a free ride - but after a while a taxi driver was very happy to charge a fair few more &amp;#x1f4b5; than it should have cost to get us home!&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-f3cbd8f8ef13b31d52f1f1d9d2673602" href="https://assets.martsmusings.uk/galleries/malaysia/jungle/IMG_20230111_153401.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/malaysia/jungle/IMG_20230111_153401.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -9615,7 +10108,7 @@ Pearly Kee&amp;rsquo;s Cooking Class
 &lt;/h2>
 &lt;/a>&lt;p>We thought this would be the perfect place to do a cooking class, and it didn&amp;rsquo;t disappoint.&lt;/p>
 &lt;p>Our teacher was Pearly Kee, who was very knowledgeable, friendly and good at noticing, correcting and explaining our mistakes!&lt;/p>
-&lt;p>We were really fortunate to be the only people who had booked the class that day, so effectively had a private class 💪&lt;/p>
+&lt;p>We were really fortunate to be the only people who had booked the class that day, so effectively had a private class &amp;#x1f4aa;&lt;/p>
 &lt;p>She met us outside a market, and gave us a tour of all the food we might not be familiar with.&lt;/p>
 &lt;p>As Chinese new year was around the corner, there were weird and wonderful pineapples (they symbolise wealth &amp;amp; good luck):&lt;/p>
 &lt;div class="gallery-wrapper">
@@ -9670,7 +10163,7 @@ Pearly Kee&amp;rsquo;s Cooking Class
 &lt;a data-fancybox="gallery-09107616dcc538554405cdb973afb4ff" href="https://assets.martsmusings.uk/galleries/malaysia/century/IMG_20230116_095024.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/malaysia/century/IMG_20230116_095024.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>She challenged us to eat it, we were very brave and obliged 😱 A quick Wikipedia check after revealed that the horse wee thing is a myth 🐴 😄&lt;/p>
+&lt;p>She challenged us to eat it, we were very brave and obliged &amp;#x1f631; A quick Wikipedia check after revealed that the horse wee thing is a myth &amp;#x1f434; &amp;#x1f604;&lt;/p>
 &lt;p>In the class we made:&lt;/p>
 &lt;ul>
 &lt;li>Beef Rendang
@@ -9760,8 +10253,8 @@ Food
 &lt;h1 id="langkawi">
 Langkawi
 &lt;/h1>
-&lt;/a>&lt;p>Our last few days were spent on Langkawi. We spent a lot of time chilling. Our hotel had a pool, which was very handy for cooling off (it was consistenly over 30 degrees and quite humid). There was no duty on booze on the island, so Martin enjoyed a few pints that cost less than a Latte 🍺&lt;/p>
-&lt;p>There was an incident where we thought our hotel room was only equipt with a Bum Gun 💩 🔫 So we had to bravely learn the usage. It turned out to be unecessary, as the next morning Martin discovered some TP behind the kettle (?!). But at least we&amp;rsquo;re thoroughly prepared in the art now 😱&lt;/p>
+&lt;/a>&lt;p>Our last few days were spent on Langkawi. We spent a lot of time chilling. Our hotel had a pool, which was very handy for cooling off (it was consistenly over 30 degrees and quite humid). There was no duty on booze on the island, so Martin enjoyed a few pints that cost less than a Latte &amp;#x1f37a;&lt;/p>
+&lt;p>There was an incident where we thought our hotel room was only equipt with a Bum Gun &amp;#x1f4a9; &amp;#x1f52b; So we had to bravely learn the usage. It turned out to be unecessary, as the next morning Martin discovered some TP behind the kettle (?!). But at least we&amp;rsquo;re thoroughly prepared in the art now &amp;#x1f631;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-2f79d05a9999442e8f1bb929c31bda46" href="https://assets.martsmusings.uk/galleries/malaysia/langkawi/IMG_20230119_193426.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/malaysia/langkawi/IMG_20230119_193426.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -9898,7 +10391,7 @@ Cleanliness and Fines
 &lt;p>Whilst COVID-19 restrictions and entry requirements for tourists were quite liberal, mask-wearing is very strongly enforced on public transport. Guards actively check when you enter the metro, and &lt;em>everybody&lt;/em> keeps them on at all times.&lt;/p>
 &lt;p>There is absolutely no food nor drink allowed on public transport, a S$500 (£309) fine is actively enforced. Similar story for the streets too.&lt;/p>
 &lt;img src="/IMG_20230106_123824.jpg" />
-&lt;figure>Don't want to know what happens if you're caught with a &lt;a href="https://en.wikipedia.org/wiki/Durian">Durian&lt;/a> 😱&lt;/figure>
+&lt;figure>Don't want to know what happens if you're caught with a &lt;a href="https://en.wikipedia.org/wiki/Durian">Durian&lt;/a> :scream:&lt;/figure>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-08-Singapore/#greenery" class="header-link" aria-label="Anchor Greenery" href="#greenery">
 &lt;h1 id="greenery">
 Greenery
@@ -10000,13 +10493,13 @@ Kaya Toast
 &lt;a data-fancybox="gallery-6cecc81ad76d69dcbbdeff97d9e6f344" href="https://assets.martsmusings.uk/galleries/toast/IMG_20230106_115010.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/toast/IMG_20230106_115010.jpg" class="gallery-item-thumb" />&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;p>It also confirmed that Laura is definitely over the aversion to the taste of eggs that COVID-19 brought 💪&lt;/p>
+&lt;p>It also confirmed that Laura is definitely over the aversion to the taste of eggs that COVID-19 brought &amp;#x1f4aa;&lt;/p>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-08-Singapore/#singapore-sling" class="header-link" aria-label="Anchor Singapore Sling" href="#singapore-sling">
 &lt;h2 id="singapore-sling">
 Singapore Sling
 &lt;/h2>
 &lt;/a>&lt;p>This is a gin based cocktail that dates back to the early 20th century when women weren&amp;rsquo;t allowed to drink alcohol. A barman at a fancy hotel saw an opportunity and made a cocktail that looked like fruit juice.&lt;/p>
-&lt;p>It tasted great, very tart due to the cherry liquore in it. We got them from the fancy hotel it was originally made it, unwilling to share the price but luckily it counted as my Christmas present to Laura 💥&lt;/p>
+&lt;p>It tasted great, very tart due to the cherry liquore in it. We got them from the fancy hotel it was originally made it, unwilling to share the price but luckily it counted as my Christmas present to Laura &amp;#x1f4a5;&lt;/p>
 &lt;div class="gallery-wrapper">
 &lt;div class="gallery-item">
 &lt;a data-fancybox="gallery-15d27e27bf48a765279fda3ffccdeba7" href="https://assets.martsmusings.uk/galleries/sling/IMG_20230107_202040.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/sling/IMG_20230107_202040.jpg" class="gallery-item-thumb" />&lt;/a>
@@ -10176,12 +10669,12 @@ href="https://www.facebook.com/profile.php?id=100063717845250"
 Caricature
 &lt;/h3>
 &lt;/a>&lt;p>A bit spur of the moment, and really good fun. When waltzing down La Rambla, gawking at the creepy living statues, we got the urge to have a caricature made.&lt;/p>
-&lt;p>Very much recommend it! Surreal experience for sure. It feels like when you&amp;rsquo;ve got a spot on your face and you &lt;em>think&lt;/em> that everybody is looking and then laughing at you. But you&amp;rsquo;re in a nightmare, and everybody &lt;strong>is&lt;/strong> 😱. Very vivid experience and a lot of fun.&lt;/p>
+&lt;p>Very much recommend it! Surreal experience for sure. It feels like when you&amp;rsquo;ve got a spot on your face and you &lt;em>think&lt;/em> that everybody is looking and then laughing at you. But you&amp;rsquo;re in a nightmare, and everybody &lt;strong>is&lt;/strong> &amp;#x1f631;. Very vivid experience and a lot of fun.&lt;/p>
 &lt;p>&lt;img
 src="/charicature.jpg"
 alt="Example image"
 />&lt;/p>
-&lt;figure>Lots of focus on Laura's top-bun and Martin's nose 😂&lt;/figure>
+&lt;figure>Lots of focus on Laura's top-bun and Martin's nose :joy:&lt;/figure>
 &lt;a data-clipboard-text="https://martsmusings.uk/post/2023-01-03-Barcelona/#-spanish-fails" class="header-link" aria-label="Anchor 🙅‍♂️ Spanish fails" href="#-spanish-fails">
 &lt;h2 id="-spanish-fails">
 🙅‍♂️ Spanish fails
@@ -10228,4 +10721,4 @@ Where are you going?
 &lt;h2 id="what-are-you-doing-here">
 What are you doing here?
 &lt;/h2>
-&lt;/a>&lt;p>It&amp;rsquo;s an amazing opportunity and I&amp;rsquo;d quite like to write about it. If anybody is interested in where we&amp;rsquo;re up to, this will hopefully be a good place to check-in. Also I&amp;rsquo;ll try to share lots of cool stuff we see/do along the way to help with your own travels 💪&lt;/p></content></entry></feed>
+&lt;/a>&lt;p>It&amp;rsquo;s an amazing opportunity and I&amp;rsquo;d quite like to write about it. If anybody is interested in where we&amp;rsquo;re up to, this will hopefully be a good place to check-in. Also I&amp;rsquo;ll try to share lots of cool stuff we see/do along the way to help with your own travels &amp;#x1f4aa;&lt;/p></content></entry></feed>
