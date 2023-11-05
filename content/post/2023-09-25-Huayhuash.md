@@ -8,7 +8,7 @@ tags: [destinations]
 {{< toc >}}
 
 {{< expando title="Map, Journey and Costs" onchange="javascript:window.mappyStart()" >}}
-{{< mappyTravels from="ad972ed7-a05a-4fd4-9b50-11cf1281b53e" to="36f05291-01ca-428e-878e-65179d36380c" >}}
+{{< mappyTravels from="ad972ed7-a05a-4fd4-9b50-11cf1281b53e" to="b031441e-20b1-477e-ae08-a0152772f0d6" >}}
 {{< /expando >}}
 
 Welcome to our first foray into Peru!
