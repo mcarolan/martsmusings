@@ -203,6 +203,6 @@ The main exhibition was Kicker Rock:
 
 The Galápagos Islands were amazing to visit. The quantity, diversity and accessibility of wildlife was incredible. And Laura definitely got her snorkelling fix. It was the final place we'll go snorkeling this year.
 
-Our budget provided constant angst throughout our time there. High prices and surcharges provided a perfect storm. We didn't overshoot too much.  But, would love to go back some time in the future when we're able to flash some more dollar.
+Our budget provided constant angst throughout our time there. High prices and surcharges were a perfect storm. We didn't overshoot too much.  But, would love to go back some time in the future when we're able to flash some more dollar.
 
 Next up, we head back to Peru again and start coach tripping our way down the country. See you next time!
