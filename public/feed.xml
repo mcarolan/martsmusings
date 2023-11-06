@@ -1056,6 +1056,162 @@ window.mappyAutoStart = "yes";
 &lt;td>Bus&lt;/td>
 &lt;td>47:00&lt;/td>
 &lt;td>£297.00&lt;/td>
+&lt;/tr>&lt;tr id="row-2b91b53e-9588-43e3-b396-ffaf0833c340" class="row-hidden">
+&lt;td title="San Pedro de Atacama Bus Terminal">&lt;div class="truncate">🇨🇱 San Pedro de Atacama Bus Terminal&lt;/div>&lt;/td>
+&lt;td title="Salta Bus Terminal">&lt;div class="truncate">🇦🇷 Salta Bus Terminal&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>12:00&lt;/td>
+&lt;td>£57.93&lt;/td>
+&lt;/tr>&lt;tr id="row-312f8fe1-94e7-42f9-aacc-525a8fd9bf2d" class="row-hidden">
+&lt;td title="Salta Bus Terminal">&lt;div class="truncate">🇦🇷 Salta Bus Terminal&lt;/div>&lt;/td>
+&lt;td title="Lo de Su">&lt;div class="truncate">🇦🇷 Lo de Su&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:15&lt;/td>
+&lt;td>£1.09&lt;/td>
+&lt;/tr>&lt;tr id="row-922e62ea-3283-47b8-ad71-18ce7a7db263" class="row-hidden">
+&lt;td title="Lo de Su">&lt;div class="truncate">🇦🇷 Lo de Su&lt;/div>&lt;/td>
+&lt;td title="El Chabot Fan">&lt;div class="truncate">🇦🇷 El Chabot Fan&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:14&lt;/td>
+&lt;td>£1.33&lt;/td>
+&lt;/tr>&lt;tr id="row-7e0dfec4-1a14-45bc-a591-1da4fbe491fa" class="row-hidden">
+&lt;td title="Street Corner in Salta">&lt;div class="truncate">🇦🇷 Street Corner in Salta&lt;/div>&lt;/td>
+&lt;td title="Salta Bus Terminal">&lt;div class="truncate">🇦🇷 Salta Bus Terminal&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:15&lt;/td>
+&lt;td>£1.11&lt;/td>
+&lt;/tr>&lt;tr id="row-1338b653-eb6f-47ce-8757-efde569b7cf0" class="row-hidden">
+&lt;td title="Salta Bus Terminal">&lt;div class="truncate">🇦🇷 Salta Bus Terminal&lt;/div>&lt;/td>
+&lt;td title="Humauaca">&lt;div class="truncate">🇦🇷 Humauaca&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>04:00&lt;/td>
+&lt;td>£29.99&lt;/td>
+&lt;/tr>&lt;tr id="row-f901028b-960f-491e-9d9d-8c84313fb56a" class="row-hidden">
+&lt;td title="Humauaca">&lt;div class="truncate">🇦🇷 Humauaca&lt;/div>&lt;/td>
+&lt;td title="Tilcara">&lt;div class="truncate">🇦🇷 Tilcara&lt;/div>&lt;/td>
+&lt;td>Bus&lt;/td>
+&lt;td>00:45&lt;/td>
+&lt;td>£1.33&lt;/td>
+&lt;/tr>&lt;tr id="row-33d00848-a290-4701-9515-d5253cf56b76" class="row-hidden">
+&lt;td title="Tilcara">&lt;div class="truncate">🇦🇷 Tilcara&lt;/div>&lt;/td>
+&lt;td title="Salta Bus Terminal">&lt;div class="truncate">🇦🇷 Salta Bus Terminal&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>05:30&lt;/td>
+&lt;td>£11.96&lt;/td>
+&lt;/tr>&lt;tr id="row-e66a00ca-1144-4acd-bbb2-368b52afd5af" class="row-hidden">
+&lt;td title="Salta Bus Terminal">&lt;div class="truncate">🇦🇷 Salta Bus Terminal&lt;/div>&lt;/td>
+&lt;td title="El Chabot Fan">&lt;div class="truncate">🇦🇷 El Chabot Fan&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:17&lt;/td>
+&lt;td>£1.33&lt;/td>
+&lt;/tr>&lt;tr id="row-cb3001b8-1129-4f43-834f-3fba1fae9065" class="row-hidden">
+&lt;td title="Random corner in salta">&lt;div class="truncate">🇦🇷 Random corner in salta&lt;/div>&lt;/td>
+&lt;td title="Salta Airport">&lt;div class="truncate">🇦🇷 Salta Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:21&lt;/td>
+&lt;td>£4.46&lt;/td>
+&lt;/tr>&lt;tr id="row-1acc1213-c5f8-41bf-8429-e282d411d9fd" class="row-hidden">
+&lt;td title="Salta Airport">&lt;div class="truncate">🇦🇷 Salta Airport&lt;/div>&lt;/td>
+&lt;td title="Iguazu Airport">&lt;div class="truncate">🇦🇷 Iguazu Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:50&lt;/td>
+&lt;td>£150.00&lt;/td>
+&lt;/tr>&lt;tr id="row-74d21bd2-221c-408a-a048-bbcbc10f8d68" class="row-hidden">
+&lt;td title="Iguazu Airport">&lt;div class="truncate">🇦🇷 Iguazu Airport&lt;/div>&lt;/td>
+&lt;td title="Gruembe al RIo Hostel">&lt;div class="truncate">🇦🇷 Gruembe al RIo Hostel&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:30&lt;/td>
+&lt;td>£8.31&lt;/td>
+&lt;/tr>&lt;tr id="row-504f0917-7228-40ae-a6a3-e037232e4344" class="row-hidden">
+&lt;td title="Iguazu Bus Terminal">&lt;div class="truncate">🇦🇷 Iguazu Bus Terminal&lt;/div>&lt;/td>
+&lt;td title="Buenos Aires">&lt;div class="truncate">🇦🇷 Buenos Aires&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>17:30&lt;/td>
+&lt;td>£43.08&lt;/td>
+&lt;/tr>&lt;tr id="row-9a243ee9-a44c-4d8c-b024-76e6a1780a38" class="row-hidden">
+&lt;td title="Buenos Aires">&lt;div class="truncate">🇦🇷 Buenos Aires&lt;/div>&lt;/td>
+&lt;td title="Puerto Madryn">&lt;div class="truncate">🇦🇷 Puerto Madryn&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>20:35&lt;/td>
+&lt;td>£71.76&lt;/td>
+&lt;/tr>&lt;tr id="row-b04e30b1-e24a-4a0c-a92a-6aa9d3d2abc4" class="row-hidden">
+&lt;td title="Puerto Madryn">&lt;div class="truncate">🇦🇷 Puerto Madryn&lt;/div>&lt;/td>
+&lt;td title="Rio Galagos">&lt;div class="truncate">🇦🇷 Rio Galagos&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>17:00&lt;/td>
+&lt;td>£70.01&lt;/td>
+&lt;/tr>&lt;tr id="row-8d5fa7e3-10b6-4690-b443-32648f5cb8f6" class="row-hidden">
+&lt;td title="Rio Galagos">&lt;div class="truncate">🇦🇷 Rio Galagos&lt;/div>&lt;/td>
+&lt;td title="El Calefate">&lt;div class="truncate">🇦🇷 El Calefate&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>04:00&lt;/td>
+&lt;td>£20.00&lt;/td>
+&lt;/tr>&lt;tr id="row-6e7abb11-ffc7-418e-9dbe-60a340a437fc" class="row-hidden">
+&lt;td title="El Calefate">&lt;div class="truncate">🇦🇷 El Calefate&lt;/div>&lt;/td>
+&lt;td title="El Chalten">&lt;div class="truncate">🇦🇷 El Chalten&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>02:40&lt;/td>
+&lt;td>£20.41&lt;/td>
+&lt;/tr>&lt;tr id="row-591cb25a-a2e8-4315-b048-92e13a955579" class="row-hidden">
+&lt;td title="El Chalten">&lt;div class="truncate">🇦🇷 El Chalten&lt;/div>&lt;/td>
+&lt;td title="Esquel">&lt;div class="truncate">🇦🇷 Esquel&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>17:00&lt;/td>
+&lt;td>£112.28&lt;/td>
+&lt;/tr>&lt;tr id="row-35333a4f-a4fc-4476-a9f0-e1a9e3db7520" class="row-hidden">
+&lt;td title="Esquel">&lt;div class="truncate">🇦🇷 Esquel&lt;/div>&lt;/td>
+&lt;td title="Bariloche">&lt;div class="truncate">🇦🇷 Bariloche&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>05:00&lt;/td>
+&lt;td>£19.53&lt;/td>
+&lt;/tr>&lt;tr id="row-103284da-7e8d-45c7-986d-c7daf42edbaf" class="row-hidden">
+&lt;td title="Bariloche">&lt;div class="truncate">🇦🇷 Bariloche&lt;/div>&lt;/td>
+&lt;td title="Sanitago">&lt;div class="truncate">🇨🇱 Sanitago&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>17:45&lt;/td>
+&lt;td>£89.14&lt;/td>
+&lt;/tr>&lt;tr id="row-70412d4e-fce9-49f4-ad47-8b50f907cc36" class="row-hidden">
+&lt;td title="Sanitago">&lt;div class="truncate">🇨🇱 Sanitago&lt;/div>&lt;/td>
+&lt;td title="Hostel Cienfuegos">&lt;div class="truncate">🇨🇱 Hostel Cienfuegos&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:10&lt;/td>
+&lt;td>£2.66&lt;/td>
+&lt;/tr>&lt;tr id="row-d1dd58e9-fcd7-411a-8db2-4b821766eb43" class="row-hidden">
+&lt;td title="Hostel Cienfuegos">&lt;div class="truncate">🇨🇱 Hostel Cienfuegos&lt;/div>&lt;/td>
+&lt;td title="Santiago Airport">&lt;div class="truncate">🇨🇱 Santiago Airport&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:17&lt;/td>
+&lt;td>£13.05&lt;/td>
+&lt;/tr>&lt;tr id="row-23fb5be5-df91-4386-a687-5591df4f5f27" class="row-hidden">
+&lt;td title="Santiago Airport">&lt;div class="truncate">🇨🇱 Santiago Airport&lt;/div>&lt;/td>
+&lt;td title="Auckland Airport">&lt;div class="truncate">🇳🇿 Auckland Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>12:50&lt;/td>
+&lt;td>£206.60&lt;/td>
+&lt;/tr>&lt;tr id="row-f4e90ebd-4513-4b15-8b75-c178a3f94089" class="row-hidden">
+&lt;td title="Auckland Airport">&lt;div class="truncate">🇳🇿 Auckland Airport&lt;/div>&lt;/td>
+&lt;td title="Sky Tower, Auckland">&lt;div class="truncate">🇳🇿 Sky Tower, Auckland&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>00:30&lt;/td>
+&lt;td>£17.44&lt;/td>
+&lt;/tr>&lt;tr id="row-57c8a397-6f1f-42c9-94df-d541c3ebd136" class="row-hidden">
+&lt;td title="Pier, Auckland">&lt;div class="truncate">🇳🇿 Pier, Auckland&lt;/div>&lt;/td>
+&lt;td title="Pier, Waiheke">&lt;div class="truncate">🇳🇿 Pier, Waiheke&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:30&lt;/td>
+&lt;td>£28.59&lt;/td>
+&lt;/tr>&lt;tr id="row-a0a89e30-066f-4180-82ac-b8a294f796f1" class="row-hidden">
+&lt;td title="Pier, Waiheke">&lt;div class="truncate">🇳🇿 Pier, Waiheke&lt;/div>&lt;/td>
+&lt;td title="Pier, Auckland">&lt;div class="truncate">🇳🇿 Pier, Auckland&lt;/div>&lt;/td>
+&lt;td>Ferry&lt;/td>
+&lt;td>00:30&lt;/td>
+&lt;td>£28.59&lt;/td>
+&lt;/tr>&lt;tr id="row-a698ec21-d577-4fdb-a7e7-0ac19b4806ef" class="row-hidden">
+&lt;td title="Street Corner in Auckland">&lt;div class="truncate">🇳🇿 Street Corner in Auckland&lt;/div>&lt;/td>
+&lt;td title="Lucky Car Rentals">&lt;div class="truncate">🇳🇿 Lucky Car Rentals&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:24&lt;/td>
+&lt;td>£21.90&lt;/td>
 &lt;/tr>&lt;/tbody>
 &lt;/table>
 &lt;/div>
