@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.120.3">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-11-06 12:10:00 +1300 NZDT</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://gohugo.io/" version="0.120.4">Hugo</generator><title>Mart's Musings</title><subtitle>What's cooking?</subtitle><link href="https://martsmusings.uk/" rel="alternate" type="text/html" title="html"/><link href="https://martsmusings.uk/feed.xml" rel="self" type="application/atom+xml" title="Atom"/><id>https://martsmusings.uk/</id><updated>2023-11-26 17:40:00 +1300 NZDT</updated><entry><title>🌎 A map of our 2023 travels 🌎</title><link href="https://martsmusings.uk/post/projects/mappy-travels/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/projects/mappy-travels/</id><published>2023-04-27T17:22:00+07:00</published><updated>2023-04-27T17:22:00+07:00</updated><content type="html">
 &lt;p>This blog has been brilliant at helping me express the experiences we&amp;rsquo;ve had, making it simple to share stories, and will hopefully form a record we can relish for years after this trip ends.&lt;/p>
 &lt;p>But where&amp;rsquo;s the data? I also want the time, distance and costs. Photos and feelings are all well and good, but also give me some cold, hard numbers.&lt;/p>
 &lt;p>A year long adventure. What an opportunity for a nerd to collect, visualise and share lots of figures.&lt;/p>
@@ -1274,7 +1274,367 @@ href="https://maplibre.org/"
 Scaling
 &lt;/h2>
 &lt;/a>&lt;p>It&amp;rsquo;s a bit of manual effort to maintain at the moment, but we&amp;rsquo;re not transferring frequently enough for it to be too much of a burden. I&amp;rsquo;m sure I&amp;rsquo;ll end up making improvements to the method of collating it all as time goes on.&lt;/p>
-&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇪🇨🦈🐠 Galápagos 🐠🦈🇪🇨</title><link href="https://martsmusings.uk/post/2023-11-05-Galapagos/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-11-05-Galapagos/</id><published>2023-11-06T12:10:00+13:00</published><updated>2023-11-06T12:10:00+13:00</updated><content type="html">
+&lt;p>Data wise, all the the mashed JSON is 121kb. We&amp;rsquo;re 30% of the way through our trip (☹️), so I think that should be reasonable. If not I&amp;rsquo;ll have to scratch the noggin&amp;rsquo; a bit.&lt;/p></content><category scheme="https://martsmusings.uk/tags/projects" term="projects" label="projects"/></entry><entry><title>🇵🇪 Peru Part 2 🇵🇪</title><link href="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-11-25-Peru-Part-2/</id><published>2023-11-26T17:40:00+13:00</published><updated>2023-11-26T17:40:00+13:00</updated><content type="html">
+&lt;div class="gblog-toc gblog-toc__level--6">
+&lt;nav id="TableOfContents">
+&lt;ul>
+&lt;li>&lt;a href="#coach-chaos">Coach Chaos&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#guinea-pig-tombola">Guinea Pig Tombola&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#paracas">Paracas&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#pisco-sours">Pisco Sours&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#flamingo-spotting">Flamingo Spotting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="#huacachina">Huacachina&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#colca-canyon">Colca Canyon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#whats-next">What&amp;rsquo;s next?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/nav>
+&lt;hr />
+&lt;/div>
+&lt;div class="wrap-collabsible">
+&lt;input id="expando-97e65e6458fe8f3504e90e05f1dd706f" class="toggle" type="checkbox" autocomplete="off" onchange="javascript:window.mappyStart()">
+&lt;label for="expando-97e65e6458fe8f3504e90e05f1dd706f" class="lbl-toggle">Map, Journey and Costs&lt;/label>
+&lt;div class="collapsible-content">
+&lt;div class="content-inner">
+&lt;script>
+window.mappyTravelsFrom = "6f78ec95-59e8-4cfb-8d08-b9d757893807";
+window.mappyTravelsTo = "3fb8209e-963d-42f9-b99c-bd36628d5fac";
+window.mappyAutoStart = "";
+&lt;/script>
+&lt;script src="/mappy-travels/ts/mappy-travels.js">&lt;/script>
+&lt;script src="/mappy-travels/ts/paginated-table.js">&lt;/script>
+&lt;link rel="stylesheet" href="/mappy-travels/styles/main.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/paginated-table.css" media="all" />
+&lt;link rel="stylesheet" href="/mappy-travels/styles/maplibre-gl.css" media="all" />
+&lt;div id="map">&lt;/div>
+&lt;span class="map-note">Note: prices are for 2 adults with baggage&lt;/span>
+&lt;div class="mappyTravelsFooter">
+&lt;div class="summaryContainer">
+&lt;div class="mode1 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Plane.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count1 flex-middle" id="count-Air">0&lt;/div>
+&lt;div class="time1 flex-middle" id="time-Air">0d 0 hrs&lt;/div>
+&lt;div class="cost1 flex-middle" id="cost-Air">£0.00&lt;/div>
+&lt;div class="distance1 flex-middle" id="distance-Air">0km&lt;/div>
+&lt;div class="mode2 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Bus.png" width="16" height="16" />&lt;/div>
+&lt;div class="count2 flex-middle" id="count-Road">0&lt;/div>
+&lt;div class="time2 flex-middle" id="time-Road">0d 0 hrs&lt;/div>
+&lt;div class="cost2 flex-middle" id="cost-Road">£0.00&lt;/div>
+&lt;div class="distance2 flex-middle" id="distance-Road">0km&lt;/div>
+&lt;div class="mode3 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Ferry.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count3 flex-middle" id="count-Sea">0&lt;/div>
+&lt;div class="time3 flex-middle" id="time-Sea">0d 0hrs&lt;/div>
+&lt;div class="cost3 flex-middle" id="cost-Sea">£0.00&lt;/div>
+&lt;div class="distance3 flex-middle" id="distance-Sea">0km&lt;/div>
+&lt;div class="mode4 justify-center flex-middle">&lt;img src="/mappy-travels/icons/Train.png" width="16" height="16" />
+&lt;/div>
+&lt;div class="count4 flex-middle" id="count-Rail">0&lt;/div>
+&lt;div class="time4 flex-middle" id="time-Rail">0d 0hrs&lt;/div>
+&lt;div class="cost4 flex-middle" id="cost-Rail">£0.00&lt;/div>
+&lt;div class="distance4 flex-middle" id="distance-Rail">0km&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;div style="overflow-x: scroll">
+&lt;table id="paginated-table">
+&lt;thead>
+&lt;tr>
+&lt;th>From&lt;/th>
+&lt;th>To&lt;/th>
+&lt;th>Mode&lt;/th>
+&lt;th>Duration&lt;/th>
+&lt;th>Cost&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody id="paginated-table-body">&lt;tr id="row-6f78ec95-59e8-4cfb-8d08-b9d757893807" class="row-hidden">
+&lt;td title="San Cristobal">&lt;div class="truncate">🇪🇨 San Cristobal&lt;/div>&lt;/td>
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:34&lt;/td>
+&lt;td>£394.59&lt;/td>
+&lt;/tr>&lt;tr id="row-2775853f-0ba6-4e82-a613-5d195c5cecb4" class="row-hidden">
+&lt;td title="José Joaquín de Olmedo Airport">&lt;div class="truncate">🇪🇨 José Joaquín de Olmedo Airport&lt;/div>&lt;/td>
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td>Plane&lt;/td>
+&lt;td>01:42&lt;/td>
+&lt;td>£394.59&lt;/td>
+&lt;/tr>&lt;tr id="row-43de8c9a-aa1d-41d3-9f41-075813ce9ba0" class="row-hidden">
+&lt;td title="Lima Airport">&lt;div class="truncate">🇵🇪 Lima Airport&lt;/div>&lt;/td>
+&lt;td title="Homestay, Miraflores">&lt;div class="truncate">🇵🇪 Homestay, Miraflores&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:52&lt;/td>
+&lt;td>£14.34&lt;/td>
+&lt;/tr>&lt;tr id="row-0006b897-e153-40f8-93d9-15f4eba4f635" class="row-hidden">
+&lt;td title="Homestay, Miraflores">&lt;div class="truncate">🇵🇪 Homestay, Miraflores&lt;/div>&lt;/td>
+&lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:40&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-04b642ed-5a80-4ba3-8ddc-ce527c05caac" class="row-hidden">
+&lt;td title="Hotel Residencial Los Frayles">&lt;div class="truncate">🇵🇪 Hotel Residencial Los Frayles&lt;/div>&lt;/td>
+&lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>01:12&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-89695a1c-f049-44cc-b2db-a983cacf21cf" class="row-hidden">
+&lt;td title="Carola Lodge">&lt;div class="truncate">🇵🇪 Carola Lodge&lt;/div>&lt;/td>
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>19:00&lt;/td>
+&lt;td>£58.95&lt;/td>
+&lt;/tr>&lt;tr id="row-dfce2de8-966f-40a6-8ff0-a26271805ebc" class="row-hidden">
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:17&lt;/td>
+&lt;td>£2.88&lt;/td>
+&lt;/tr>&lt;tr id="row-a9137baf-8fdb-4a4e-b156-82c278eab48a" class="row-hidden">
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td title="Cabanaconde">&lt;div class="truncate">🇵🇪 Cabanaconde&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:50&lt;/td>
+&lt;td>£12.74&lt;/td>
+&lt;/tr>&lt;tr id="row-bbb5b62d-8f31-4215-95ee-736a9478347b" class="row-hidden">
+&lt;td title="Cabanaconde">&lt;div class="truncate">🇵🇪 Cabanaconde&lt;/div>&lt;/td>
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td>Coach&lt;/td>
+&lt;td>06:50&lt;/td>
+&lt;td>£10.80&lt;/td>
+&lt;/tr>&lt;tr id="row-3fb8209e-963d-42f9-b99c-bd36628d5fac" class="row-hidden">
+&lt;td title="Terminal Terrestre de Arequipa">&lt;div class="truncate">🇵🇪 Terminal Terrestre de Arequipa&lt;/div>&lt;/td>
+&lt;td title="Cleofe, Arequipa">&lt;div class="truncate">🇵🇪 Cleofe, Arequipa&lt;/div>&lt;/td>
+&lt;td>Taxi&lt;/td>
+&lt;td>00:27&lt;/td>
+&lt;td>£4.32&lt;/td>
+&lt;/tr>&lt;/tbody>
+&lt;/table>
+&lt;/div>
+&lt;div id="paginated-table-pager">
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>Welcome back!&lt;/p>
+&lt;p>We returned to Peru fresh from a snorkel adventure in the Galápagos islands. It took us a month to wind our way down the country by coach.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#coach-chaos" class="header-link" aria-label="Anchor Coach Chaos" href="#coach-chaos">
+&lt;h1 id="coach-chaos">
+Coach Chaos
+&lt;/h1>
+&lt;/a>&lt;p>The cheapest way to travel around South America is, by far, to book lots of stints on public coaches. But they aren&amp;rsquo;t always the most enjoyable option. Random sellers will board and try to pedal their wares.&lt;/p>
+&lt;p>We once sat through an hour long sales pitch of a man selling a white powder. He claimed it would cure whatever ails you. This was innocuous until he offered passengers free snorts of it. Many commuters jumped at the chance. The plumes of mystery dust spiraled around an under-ventilated vehicle. And it didn&amp;rsquo;t cure my tinnitus.&lt;br/>
+Another time a lady boarded at 3am and bellowed &amp;ldquo;PAPAYA!&amp;rdquo; for ten minutes. We wanted to buy some to secure more slumber but had no change.&lt;/p>
+&lt;p>It&amp;rsquo;s clear why we went for a super-touristy option instead. By parting with a bit more dough you can get a flexible ticket between key locations in Peru. You can change your booking for each leg up to 12 hours before departure, and they pick you up from your hostel. Lovely jubbly.&lt;/p>
+&lt;p>As it&amp;rsquo;s super touristy, they have lots of organised fun along the way to beef up their Tripadvisor reviews. Now we&amp;rsquo;re talking.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#guinea-pig-tombola" class="header-link" aria-label="Anchor Guinea Pig Tombola" href="#guinea-pig-tombola">
+&lt;h2 id="guinea-pig-tombola">
+Guinea Pig Tombola
+&lt;/h2>
+&lt;/a>&lt;p>Our first leg on the Tourist Tanker was a super-early trip to Paracas. There was a stop for breakfast, and the organised fun began. A man with a trombone serenaded us whilst we ate some sorry looking scrambled eggs. Then onto a traditional dance performed by a hombre on a horse called &amp;ldquo;Treasure&amp;rdquo;:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7ac8530fba48345a7a588f0b77921fb2" href="https://assets.martsmusings.uk/galleries/peru-2/dancing-horse/VID_20230805_090947.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dancing-horse/VID_20230805_090947.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But the main event was Guinea Pig Tombola. A man released a scared and disoriented guinea pig from a cage. It ran for dear life into a tunnel. (Guinea pig is a traditional Peruvian dish and we were playing at a restaurant. We didn&amp;rsquo;t try it).&lt;/p>
+&lt;p>A Gringo (tourist) was stood by each tunnel, and the chosen one would win a prize:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-4d45059598e5e0d7094b6e75411a4668" href="https://assets.martsmusings.uk/galleries/peru-2/guinea-tombola/VID_20230805_091710.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/guinea-tombola/VID_20230805_091710.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>🥳 Laura won!!! 🥳&lt;/p>
+&lt;p>She got to choose between a sketchy looking zip-line ride over the car park, or a ride on Treasure (the dancing horse). She went for a trot on Treasure:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b8a7657c61ac1e9a42be282bfb25945a" href="https://assets.martsmusings.uk/galleries/peru-2/horse-ride/IMG_20230805_092202.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/horse-ride/IMG_20230805_092202.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-b8a7657c61ac1e9a42be282bfb25945a" href="https://assets.martsmusings.uk/galleries/peru-2/horse-ride/VID_20230805_092142.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/horse-ride/VID_20230805_092142.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#paracas" class="header-link" aria-label="Anchor Paracas" href="#paracas">
+&lt;h1 id="paracas">
+Paracas
+&lt;/h1>
+&lt;/a>&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#pisco-sours" class="header-link" aria-label="Anchor Pisco Sours" href="#pisco-sours">
+&lt;h2 id="pisco-sours">
+Pisco Sours
+&lt;/h2>
+&lt;/a>&lt;p>Our short stay in Paracas began with yet more organised fun. A free Pisco Sour making class courtesy of the coach company. Pisco is the national drink of Peru, and the Pisco Sour cocktail is the most common way to guzzle it.&lt;/p>
+&lt;p>We were reasonably successful at making them:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e8eaa8155a58964681a6a8d174e10d44" href="https://assets.martsmusings.uk/galleries/peru-2/pisco-class/IMG_20230805_141239.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/pisco-class/IMG_20230805_141239.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-e8eaa8155a58964681a6a8d174e10d44" href="https://assets.martsmusings.uk/galleries/peru-2/pisco-class/VID_20230805_140622.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/pisco-class/VID_20230805_140622.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>And learnt that they contain raw egg-white. A customary few drops of Angostura bitters is all that stops it whiffing.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7606312f33a972dc3f2bf33784af0c70" href="https://assets.martsmusings.uk/galleries/peru-2/bitters/IMG_20230805_141106.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/bitters/IMG_20230805_141106.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#flamingo-spotting" class="header-link" aria-label="Anchor Flamingo Spotting" href="#flamingo-spotting">
+&lt;h2 id="flamingo-spotting">
+Flamingo Spotting
+&lt;/h2>
+&lt;/a>&lt;p>We didn&amp;rsquo;t manage to see any flamingoes in the Galápagos. Paracas gave us another chance. We hired a couple of bikes, and proceeding on an extremely sweaty cycle into a nature reserve:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0d5929aa7afeecd326f708e82a7c6b53" href="https://assets.martsmusings.uk/galleries/peru-2/cycle/VID_20230806_154622.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/cycle/VID_20230806_154622.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0d5929aa7afeecd326f708e82a7c6b53" href="https://assets.martsmusings.uk/galleries/peru-2/cycle/IMG_20230806_161412.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/cycle/IMG_20230806_161412.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-0d5929aa7afeecd326f708e82a7c6b53" href="https://assets.martsmusings.uk/galleries/peru-2/cycle/IMG_20230806_161354.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/cycle/IMG_20230806_161354.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Success! We got close for a few snaps, but they are very easily spooked:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-141d54dfe4b3f5435f59d987ac26c341" href="https://assets.martsmusings.uk/galleries/peru-2/flamingoes/P8062315.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/flamingoes/P8062315.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-141d54dfe4b3f5435f59d987ac26c341" href="https://assets.martsmusings.uk/galleries/peru-2/flamingoes/P8062327.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/flamingoes/P8062327.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-141d54dfe4b3f5435f59d987ac26c341" href="https://assets.martsmusings.uk/galleries/peru-2/flamingoes/P8062300.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/flamingoes/P8062300.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-141d54dfe4b3f5435f59d987ac26c341" href="https://assets.martsmusings.uk/galleries/peru-2/flamingoes/P8062317.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/flamingoes/P8062317.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-141d54dfe4b3f5435f59d987ac26c341" href="https://assets.martsmusings.uk/galleries/peru-2/flamingoes/P8062329.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/flamingoes/P8062329.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-141d54dfe4b3f5435f59d987ac26c341" href="https://assets.martsmusings.uk/galleries/peru-2/flamingoes/P8062307.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/flamingoes/P8062307.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#huacachina" class="header-link" aria-label="Anchor Huacachina" href="#huacachina">
+&lt;h1 id="huacachina">
+Huacachina
+&lt;/h1>
+&lt;/a>&lt;p>Another journey on the Gringo Mobile took us to Huacachina. It has a big lake surrounded by sand dunes. A trip to go Sand Boarding down the dunes, with a maniac driving you there in a dune buggy is the main event. The dune buggy was terrifying. Here&amp;rsquo;s an attempt to capture the speed and standard of driving on offer:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7aaeb2e9b1ea64d28c810d612f5f6880" href="https://assets.martsmusings.uk/galleries/peru-2/dune-buggying/VID_20230807_175539.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-buggying/VID_20230807_175539.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7aaeb2e9b1ea64d28c810d612f5f6880" href="https://assets.martsmusings.uk/galleries/peru-2/dune-buggying/VID_20230807_164255.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-buggying/VID_20230807_164255.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Alas, it doesn&amp;rsquo;t do it justice as I didn&amp;rsquo;t want to bash or lose my phone.&lt;/p>
+&lt;p>Laura wasn&amp;rsquo;t a massive fan of the dune buggying. We did both enjoy sand boarding. It started off pretty mild:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8dbaf69a7d639a212d5e7f8a2f001af1" href="https://assets.martsmusings.uk/galleries/peru-2/dune-mild/VID_20230807_170423.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-mild/VID_20230807_170423.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8dbaf69a7d639a212d5e7f8a2f001af1" href="https://assets.martsmusings.uk/galleries/peru-2/dune-mild/IMG_20230807_164759.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-mild/IMG_20230807_164759.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8dbaf69a7d639a212d5e7f8a2f001af1" href="https://assets.martsmusings.uk/galleries/peru-2/dune-mild/IMG_20230807_164741.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-mild/IMG_20230807_164741.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But ended with us hurtling down a huge dune. The driver was very clear that we needed to use our legs to slow ourselves down on the final hill:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-c6af1eec5ded4159f55dcb2486f32613" href="https://assets.martsmusings.uk/galleries/peru-2/dune-hardcore/VID_20230807_172454.mp4">&lt;div class="video-thumbnail">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-hardcore/VID_20230807_172454.jpg" class="gallery-item-thumb" />&lt;img src="/play.png" class="play-button" />
+&lt;/div>&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>It was incredible up on the dunes:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7500a49ac1d3b37e02158f09a044310a" href="https://assets.martsmusings.uk/galleries/peru-2/dune-views/IMG_20230807_172039.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-views/IMG_20230807_172039.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7500a49ac1d3b37e02158f09a044310a" href="https://assets.martsmusings.uk/galleries/peru-2/dune-views/IMG_20230807_162829.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-views/IMG_20230807_162829.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7500a49ac1d3b37e02158f09a044310a" href="https://assets.martsmusings.uk/galleries/peru-2/dune-views/IMG_20230807_163703__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-views/IMG_20230807_163703__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7500a49ac1d3b37e02158f09a044310a" href="https://assets.martsmusings.uk/galleries/peru-2/dune-views/IMG_20230807_174702.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-views/IMG_20230807_174702.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-7500a49ac1d3b37e02158f09a044310a" href="https://assets.martsmusings.uk/galleries/peru-2/dune-views/IMG_20230807_162006__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-views/IMG_20230807_162006__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Laura was still traumatised by the buggy ride. She had a quick look at the travel advice for Peru on the UK government website:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-d5cf326a51adb8cf7eefef31ac75b865" href="https://assets.martsmusings.uk/galleries/peru-2/dune-govuk/govuk.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/dune-govuk/govuk.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Oops. Further Googling suggests it was a woman who was not on a tour. She hired a board, didn&amp;rsquo;t stop herself and crashed into a building. But we vowed, yet again, to actually check UK travel advice from then on.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#colca-canyon" class="header-link" aria-label="Anchor Colca Canyon" href="#colca-canyon">
+&lt;h1 id="colca-canyon">
+Colca Canyon
+&lt;/h1>
+&lt;/a>&lt;p>The next trip on the Holiday Hauler took us to Arequiepa. It&amp;rsquo;s a stunning city:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3b6be683ea47543501bee16bc058ee3" href="https://assets.martsmusings.uk/galleries/peru-2/arequipa/IMG_20230810_160940.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/arequipa/IMG_20230810_160940.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3b6be683ea47543501bee16bc058ee3" href="https://assets.martsmusings.uk/galleries/peru-2/arequipa/IMG_20230810_160138.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/arequipa/IMG_20230810_160138.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3b6be683ea47543501bee16bc058ee3" href="https://assets.martsmusings.uk/galleries/peru-2/arequipa/IMG_20230810_154200.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/arequipa/IMG_20230810_154200.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-a3b6be683ea47543501bee16bc058ee3" href="https://assets.martsmusings.uk/galleries/peru-2/arequipa/IMG_20230810_153451__01.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/arequipa/IMG_20230810_153451__01.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>But our prime objective was to catch a local bus to a nearby town, Cabanaconde. There we started a three day/two night hike down and then up Colca Canyon.&lt;/p>
+&lt;p>The first day had a flat pootle along to the canyon, followed by a ~1000m descent over 5 kilometers. At the bottom a stunning hostel, nap, and hot meal was much welcomed:&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-806e7806d212f44ed8a0db62c805eb24" href="https://assets.martsmusings.uk/galleries/peru-2/colca-day-1/IMG_20230812_104323.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/colca-day-1/IMG_20230812_104323.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-806e7806d212f44ed8a0db62c805eb24" href="https://assets.martsmusings.uk/galleries/peru-2/colca-day-1/IMG_20230812_111513.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/colca-day-1/IMG_20230812_111513.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>Day two was a fairly flat traverse along the bottom of the canyon. It ended at what locals dubbed &amp;ldquo;The Oasis&amp;rdquo;. A small village in the canyon with accommodation and natural springs. I dipped my toe in the spring and left Laura to it 🥶.&lt;/p>
+&lt;div class="gallery-wrapper">
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8b22b03ad61dfeadc83e4850862ccf0e" href="https://assets.martsmusings.uk/galleries/peru-2/colca-day-2/IMG_20230812_130833.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/colca-day-2/IMG_20230812_130833.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8b22b03ad61dfeadc83e4850862ccf0e" href="https://assets.martsmusings.uk/galleries/peru-2/colca-day-2/IMG_20230813_133129.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/colca-day-2/IMG_20230813_133129.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8b22b03ad61dfeadc83e4850862ccf0e" href="https://assets.martsmusings.uk/galleries/peru-2/colca-day-2/IMG_20230813_121103.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/colca-day-2/IMG_20230813_121103.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item">
+&lt;a data-fancybox="gallery-8b22b03ad61dfeadc83e4850862ccf0e" href="https://assets.martsmusings.uk/galleries/peru-2/colca-day-2/IMG_20230813_101901.jpg">&lt;img src="https://assets.martsmusings.uk/thumbs/peru-2/colca-day-2/IMG_20230813_101901.jpg" class="gallery-item-thumb" />&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;p>The final day was a brutal ascent up the canyon. 1000m over 5 kilometers 😱. We set off super early the avoid the heat. We reached the top, but were out of cash, hungry, and moany. Luckily we eventually found the true oasis: a café that accepted credit cards.&lt;/p>
+&lt;a data-clipboard-text="https://martsmusings.uk/post/2023-11-25-Peru-Part-2/#whats-next" class="header-link" aria-label="Anchor What&amp;rsquo;s next?" href="#whats-next">
+&lt;h1 id="whats-next">
+What&amp;rsquo;s next?
+&lt;/h1>
+&lt;/a>&lt;p>That takes us a couple of weeks into our journey down Peru.&lt;/p>
+&lt;p>Next up, we complete a four day trek along the Salkantay Trail to visit Machu Picchu.&lt;/p></content><category scheme="https://martsmusings.uk/tags/destinations" term="destinations" label="destinations"/></entry><entry><title>🇪🇨🦈🐠 Galápagos 🐠🦈🇪🇨</title><link href="https://martsmusings.uk/post/2023-11-05-Galapagos/" rel="alternate" type="text/html" hreflang="en"/><id>https://martsmusings.uk/post/2023-11-05-Galapagos/</id><published>2023-11-06T12:10:00+13:00</published><updated>2023-11-06T12:10:00+13:00</updated><content type="html">
 &lt;div class="gblog-toc gblog-toc__level--6">
 &lt;nav id="TableOfContents">
 &lt;ul>
